@@ -1,8 +1,8 @@
-<h1 align="center">Hey there! I'm Coelho Nunes 🧠</h1>
-<h3 align="center">Machine Learning Engineer • Embedded AI • Data-Driven Innovator</h3>
+<h1 align="center">Hey there! Welcome to my WORLD! 🧠</h1>
+<h3 align="center">Machine Learning Engineer • Data Scientist • Researcher</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/26xBIygOcC3bAWgNa/giphy.gif" width="280"/>
 </p>
 
 ---
