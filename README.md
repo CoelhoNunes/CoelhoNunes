@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer • Data Scientist • Researcher</h3>
 
 <p align="center">
-  <img src="![ebaWxdn](https://github.com/user-attachments/assets/96cfd00c-4dcf-435a-8231-67cf0cf06df9)" width="280"/>
+  <img src="https://github.com/user-attachments/assets/96cfd00c-4dcf-435a-8231-67cf0cf06df9" width="280"/>
 </p>
 
 ---
