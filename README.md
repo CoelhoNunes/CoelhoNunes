@@ -3,7 +3,7 @@
 </p><h3 align="center">Machine Learning Engineer • Data Scientist • Researcher</h3>
 
 
-🧬 About Me
+###🧬 About Me
 
 I'm a Machine Learning Engineer with a passion for designing, deploying, and optimizing AI systems—from neural networks and NLP models to edge-device deployment and real-time inference. I blend deep theoretical knowledge with hands-on engineering.
 
