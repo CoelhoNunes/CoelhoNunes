@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer • Data Scientist • Researcher</h3>
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/t3iEFYpQKZjGf8KLYM" width="471" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Nap-Art-colibri-napart-nap-art-t3iEFYpQKZjGf8KLYM">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="280"/>
 </p>
 
 ---
