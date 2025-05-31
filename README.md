@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer • Embedded AI • Data-Driven Innovator</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1n3qOmu9g2sV2/giphy.gif" width="280"/>
+  <img src="https://github.com/kittinan/spotify-github-profile/blob/master/demo/neural-net.gif?raw=true" width="280"/>
 </p>
 
 ---
