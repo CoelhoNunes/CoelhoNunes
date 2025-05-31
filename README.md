@@ -12,9 +12,7 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
 - 🧩 Interests: Model Optimization, Computer Vision, NLP, Edge AI, LLMs, Computer Architecture, Quantum Computing
 - 📫 Contact: [danunesc@gmail.com](mailto:danunesc@gmail.com) • [LinkedIn](https://www.linkedin.com/in/coelhodan/)
 
----
-
-### 🧰 Tech Toolbox
+🧰 Tech Toolbox
 
 <table align="center">
   <tr>
@@ -39,8 +37,8 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /><br>GitHub</td>
   </tr>
 </table>
----
-### 📊 GitHub Stats
+
+📊 GitHub Stats
 
 <table align="center">
   <tr>
@@ -57,17 +55,13 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoelhoNunes&layout=compact&theme=tokyonight&langs_count=8" width="50%" />
 </p>
 
----
-
-### 📈 Contribution Summary
+📈 Contribution Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoelhoNunes&theme=tokyonight" width="90%" />
 </p>
 
----
-
-### 🌍 Let's Connect
+🌍 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/coelhodan/">
@@ -80,8 +74,6 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=460&lines=I+build+ML+systems+that+scale.;I+optimize+AI+for+production.;I+engineer+intelligence+into+devices." />
