@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="COELHOsWORLD.gif" width="400"/>
+  <img src="COELHOsWORLD.gif" width="500"/>
 </p><h3 align="center">Machine Learning Engineer • Data Scientist • Researcher</h3>
 
 
@@ -7,9 +7,9 @@
 
 I'm a Machine Learning Engineer with a passion for designing, deploying, and optimizing AI systems—from neural networks and NLP models to edge-device deployment and real-time inference. I blend deep theoretical knowledge with hands-on engineering.
 
-- 🧠 Focus: ML Systems, Deep Learning, Transformers, and Embedded AI  
-- 🛠️ Tools: PyTorch, TensorFlow, Scikit-Learn, ONNX, AWS, GCP, Docker  
-- 🧩 Interests: Model Optimization, CV/NLP, Edge AI, LLMs  
+- 🧠 Focus: Machine Learning, Deep Learning, Transformers, Robotics, Software Engineer, Algorithms, Hardware-Aware Training
+- 🛠️ Tools: Python, C++, SQL, Bash, HTML, CSS, PyTorch, TensorFlow, Scikit-Learn, Hugging Face Transformers, AWS, GCP
+- 🧩 Interests: Model Optimization, Computer Vision, NLP, Edge AI, LLMs, Computer Architecture, Quantum Computing
 - 📫 Contact: [danunesc@gmail.com](mailto:danunesc@gmail.com) • [LinkedIn](https://www.linkedin.com/in/coelhodan/)
 
 ---
