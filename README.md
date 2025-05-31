@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer • Embedded AI • Data-Driven Innovator</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/ai.gif" width="280"/>
+  <img src="https://media.tenor.com/BkZvlpMfS1kAAAAC/ai-artificial-intelligence.gif" width="280"/>
 </p>
 
 ---
