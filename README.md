@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="COELHOsWORLD.gif" width="400"/>
+</p>
+
 <h1 align="center">Hey there! Welcome to my WORLD! 🧠</h1>
 <h3 align="center">Machine Learning Engineer • Data Scientist • Researcher</h3>
 
-<p align="center">
-  <img src="COELHOsWORLD.gif" width="600"/>
-</p>
-### 🧬 About Me
+
+🧬 About Me
 
 I'm a Machine Learning Engineer with a passion for designing, deploying, and optimizing AI systems—from neural networks and NLP models to edge-device deployment and real-time inference. I blend deep theoretical knowledge with hands-on engineering.
 
