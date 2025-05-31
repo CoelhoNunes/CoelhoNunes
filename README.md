@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! Welcome to my WORLD! 🧠</h1>
 <h3 align="center">Machine Learning Engineer • Data Scientist • Researcher</h3>
 
-<div align="center">
-  <img src="COELHOsWORLD.gif" width="600" style="margin:1;" />
+<div align="center" style="padding: 0; margin: 0;">
+  <img src="COELHOsWORLD.gif" width="600" style="display: block; margin: 0; padding: 0;" />
 </div>
 
 
