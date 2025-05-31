@@ -2,9 +2,8 @@
 <h3 align="center">Machine Learning Engineer • Data Scientist • Researcher</h3>
 
 <p align="center">
-  <img src=COELHOsWORLD.gif width="300"/>
+  <img src="COELHOsWORLD.gif" width="600"/>
 </p>
-
 ---
 
 ### 🧬 About Me
