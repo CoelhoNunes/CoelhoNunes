@@ -39,14 +39,7 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /><br>GitHub</td>
   </tr>
 </table>
-
-<p align="center">
-  🧠 Transformers • Hugging Face • NLP • CV • Model Optimization • Big Data • Algorithms • REST APIs • Embedded Systems •  
-  System Design • Agile/Scrum • CI/CD Pipelines • Computer Architecture
-</p>
-
 ---
-
 ### 📊 GitHub Stats
 
 <table align="center">
