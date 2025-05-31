@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer • Data Scientist • Researcher</h3>
 
 <div align="center">
-  <img src="COELHOsWORLD.gif" width="600" style="margin:0;" />
+  <img src="COELHOsWORLD.gif" width="600" style="margin:1;" />
 </div>
 
 
