@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hey there! I'm Coelho Nunes 🧠</h1>
 <h3 align="center">A passionate Machine Learning enthusiast, lifelong learner, and problem solver</h3>
 
@@ -11,27 +10,27 @@
 ### 🧬 About Me
 
 - 🎓 I'm diving deep into **Machine Learning**, **Deep Learning**, and **AI Systems**
-- 🔍 Currently exploring **LLMs**, **Neural Networks**, and **AutoML**
-- 🛠️ Building cool projects in Python, TensorFlow, and PyTorch
-- 🧠 I love converting data into actionable intelligence
-- 🗣️ I occasionally write, speak, and share about tech
-- 📫 Reach me: [coelhonunes@gmail.com](mailto:coelhonunes@gmail.com) • [LinkedIn](https://www.linkedin.com/in/coelhodan/)
+- 🔍 Exploring **LLMs**, **Neural Networks**, **Model Optimization**, and **Hardware-Aware Training**
+- 🛠️ I build end-to-end systems using Python, PyTorch, AWS/GCP, and containerized tools
+- 🧠 I love converting data into intelligent systems
+- 📫 Reach me: [danunesc@gmail.com](mailto:danunesc@gmail.com) • [LinkedIn](https://www.linkedin.com/in/coelhodan/)
 
 ---
 
-### 🧰 ML Tools & Tech Stack
+### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,jupyter,git,github,vscode,linux,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=pytorch,scikit-learn,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=flask,django,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,xcode" />
 </p>
 
----
-
-### 🚀 Featured Projects
-
-- 🤖 [Awesome ML Model](https://github.com/CoelhoNunes/awesome-ml-model): Custom classifier with CNN + transfer learning
-- 📊 [ML Dashboard](https://github.com/CoelhoNunes/ml-dashboard): Interactive ML visualizer using Streamlit + Plotly
-- 🧠 [Neural Network Playground](https://github.com/CoelhoNunes/nn-playground): Educational toolkit for beginners
+<p align="center">
+  🧠 Transformers • Hugging Face • NLP • CV • Model Optimization • Big Data • Algorithms • REST APIs  
+  • Databases • Embedded Systems • System Design • Agile/Scrum • CI/CD Pipelines • Computer Architecture
+</p>
 
 ---
 
@@ -52,9 +51,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/coelhodan/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:coelhonunes@gmail.com">
+  <a href="mailto:danunesc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/CoelhoNunes">
@@ -69,18 +68,3 @@
 </p>
 
 ---
-
-<!--
-**CoelhoNunes/CoelhoNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
