@@ -1,19 +1,20 @@
 <h1 align="center">Hey there! I'm Coelho Nunes 🧠</h1>
-<h3 align="center">A passionate Machine Learning enthusiast, lifelong learner, and problem solver</h3>
+<h3 align="center">Machine Learning Engineer • Embedded AI • Data-Driven Innovator</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
 </p>
 
 ---
 
 ### 🧬 About Me
 
-- 🎓 I'm diving deep into **Machine Learning**, **Deep Learning**, and **AI Systems**
-- 🔍 Exploring **LLMs**, **Neural Networks**, **Model Optimization**, and **Hardware-Aware Training**
-- 🛠️ I build end-to-end systems using Python, PyTorch, AWS/GCP, and containerized tools
-- 🧠 I love converting data into intelligent systems
-- 📫 Reach me: [danunesc@gmail.com](mailto:danunesc@gmail.com) • [LinkedIn](https://www.linkedin.com/in/coelhodan/)
+I'm a Machine Learning Engineer with a passion for designing, deploying, and optimizing AI systems—from neural networks and NLP models to edge-device deployment and real-time inference. I blend deep theoretical knowledge with hands-on engineering.
+
+- 🧠 Focus: ML Systems, Deep Learning, Transformers, and Embedded AI  
+- 🛠️ Tools: PyTorch, TensorFlow, Scikit-Learn, ONNX, AWS, GCP, Docker  
+- 🧩 Interests: Model Optimization, CV/NLP, Edge AI, LLMs  
+- 📫 Contact: [danunesc@gmail.com](mailto:danunesc@gmail.com) • [LinkedIn](https://www.linkedin.com/in/coelhodan/)
 
 ---
 
@@ -21,28 +22,41 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,bash,html,css,sql" />
-  <img src="https://skillicons.dev/icons?i=pytorch,scikit-learn,tensorflow" />
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" />
-  <img src="https://skillicons.dev/icons?i=flask,django,linux,git,github" />
-  <img src="https://skillicons.dev/icons?i=androidstudio,xcode" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,gcp,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=django,linux,git,github" />
 </p>
 
 <p align="center">
-  🧠 Transformers • Hugging Face • NLP • CV • Model Optimization • Big Data • Algorithms • REST APIs  
-  • Databases • Embedded Systems • System Design • Agile/Scrum • CI/CD Pipelines • Computer Architecture
+  <strong>Transformers</strong> • <strong>Hugging Face</strong> • <strong>NLP</strong> • <strong>CV</strong> • <strong>Model Optimization</strong> •  
+  <strong>Big Data</strong> • <strong>Algorithms</strong> • <strong>REST APIs</strong> • <strong>Embedded Systems</strong> •  
+  <strong>System Design</strong> • <strong>Agile/Scrum</strong> • <strong>CI/CD</strong> • <strong>Computer Architecture</strong>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=CoelhoNunes&show_icons=true&theme=radical" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=CoelhoNunes&theme=radical" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoelhoNunes&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoelhoNunes&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoelhoNunes&layout=compact&theme=tokyonight&langs_count=8" width="50%" />
 </p>
 
+---
+
+### 📌 Contributions Summary
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoelhoNunes&layout=compact&theme=tokyonight" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoelhoNunes&theme=tokyonight" width="90%" />
 </p>
 
 ---
@@ -64,7 +78,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=I+build+models+that+learn.;I+design+ML+systems.;I+love+open+source+and+research!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=460&lines=I+build+ML+systems+that+scale.;I+optimize+AI+for+production.;I+engineer+intelligence+into+devices." />
 </p>
-
----
