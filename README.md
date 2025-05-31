@@ -2,7 +2,8 @@
 <h3 align="center">Machine Learning Engineer • Embedded AI • Data-Driven Innovator</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="280"/>
+
 </p>
 
 ---
