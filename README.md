@@ -1,11 +1,10 @@
 <p align="center">
   <img src="COELHOsWORLD.gif" width="500"/>
-</p><h3 align="center">Machine Learning Engineer • Data Scientist • Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=I+build+ML+systems+that+scale.;I+optimize+AI+for+production.;I+engineer+intelligence+into+devices." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=I+build+ML+systems+that+scale.;I+optimize+AI+for+production.;I+engineer+intelligence+into+devices." />
 </p>
-
+</p><h3 align="center">Machine Learning Engineer • Data Scientist • Researcher</h3>
 🧬 About Me
 
 I'm a Machine Learning Engineer with a passion for designing, deploying, and optimizing AI systems—from neural networks and NLP models to edge-device deployment and real-time inference. I blend deep theoretical knowledge with hands-on engineering.
