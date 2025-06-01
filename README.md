@@ -14,7 +14,7 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
 - 🧩 Interests: Model Optimization, Computer Vision, NLP, Edge AI, LLMs, Computer Architecture, Quantum Computing
 - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/coelhodan/)
 
-Tech Toolbox
+<h2>Tech Toolbox<h2/>
 
 <table align="center">
   <tr>
@@ -40,7 +40,7 @@ Tech Toolbox
   </tr>
 </table>
 
-📊 GitHub Stats
+<h2>📊 GitHub Stats<h2/>
 
 <table align="center">
   <tr>
@@ -57,13 +57,13 @@ Tech Toolbox
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoelhoNunes&layout=compact&theme=tokyonight&langs_count=8" width="50%" />
 </p>
 
-📈 Contribution Summary
+<h2>📈 Contribution Summary<h2/>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoelhoNunes&theme=tokyonight" width="90%" />
 </p>
 
-🌍 Let's Connect
+<h2>🌍 Let's Connect<h2/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/coelhodan/">
