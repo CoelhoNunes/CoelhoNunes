@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=I+build+ML+systems+that+scale.;I+optimize+AI+for+production.;I+engineer+intelligence+into+devices." />
 </p>
 
-<h2>About Me<h2/>
+About Me
 
 I'm a Machine Learning Engineer with a passion for designing, deploying, and optimizing AI systems—from neural networks and NLP models to edge-device deployment and real-time inference. I blend deep theoretical knowledge with hands-on engineering.
 
@@ -14,7 +14,7 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
 - 🧩 Interests: Model Optimization, Computer Vision, NLP, Edge AI, LLMs, Computer Architecture, Quantum Computing
 - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/coelhodan/)
 
-<h2>Tech Toolbox<h2/>
+Tech Toolbo
 
 <table align="center">
   <tr>
@@ -40,7 +40,7 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
   </tr>
 </table>
 
-<h2>📊 GitHub Stats<h2/>
+📊 GitHub Stats
 
 <table align="center">
   <tr>
@@ -63,7 +63,7 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoelhoNunes&theme=tokyonight" width="90%" />
 </p>
 
-<h2>🌍 Let's Connect<h2/>
+🌍 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/coelhodan/">
