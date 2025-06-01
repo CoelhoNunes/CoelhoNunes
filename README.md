@@ -5,16 +5,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=I+build+ML+systems+that+scale.;I+optimize+AI+for+production.;I+engineer+intelligence+into+devices." />
 </p>
 
-🧬 About Me
+<h2>About Me<h2/>
 
 I'm a Machine Learning Engineer with a passion for designing, deploying, and optimizing AI systems—from neural networks and NLP models to edge-device deployment and real-time inference. I blend deep theoretical knowledge with hands-on engineering.
 
 - 🧠 Focus: Machine Learning, Deep Learning, Transformers, Robotics, Software Engineer, Algorithms, Hardware-Aware Training
 - 🛠️ Tools: Python, C++, SQL, Bash, HTML, CSS, PyTorch, TensorFlow, Scikit-Learn, Hugging Face Transformers, AWS, GCP
 - 🧩 Interests: Model Optimization, Computer Vision, NLP, Edge AI, LLMs, Computer Architecture, Quantum Computing
-- 📫 Contact: [Gmail](mailto:danunesc@gmail.com) • [LinkedIn](https://www.linkedin.com/in/coelhodan/)
+- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/coelhodan/)
 
-🧰 Tech Toolbox
+Tech Toolbox
 
 <table align="center">
   <tr>
