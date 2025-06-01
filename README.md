@@ -2,6 +2,9 @@
   <img src="COELHOsWORLD.gif" width="500"/>
 </p><h3 align="center">Machine Learning Engineer • Data Scientist • Researcher</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=I+build+ML+systems+that+scale.;I+optimize+AI+for+production.;I+engineer+intelligence+into+devices." />
+</p>
 
 🧬 About Me
 
@@ -73,8 +76,4 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
   <a href="https://github.com/CoelhoNunes">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=I+build+ML+systems+that+scale.;I+optimize+AI+for+production.;I+engineer+intelligence+into+devices." />
 </p>
