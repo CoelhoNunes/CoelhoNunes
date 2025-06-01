@@ -14,7 +14,7 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
 - 🧩 Interests: Model Optimization, Computer Vision, NLP, Edge AI, LLMs, Computer Architecture, Quantum Computing
 - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/coelhodan/)
 
-<h1>Tech Toolbox<h1/>
+Tech Toolbox
 
 <table align="center">
   <tr>
