@@ -76,5 +76,5 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=460&lines=I+build+ML+systems+that+scale.;I+optimize+AI+for+production.;I+engineer+intelligence+into+devices." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=I+build+ML+systems+that+scale.;I+optimize+AI+for+production.;I+engineer+intelligence+into+devices." />
 </p>
