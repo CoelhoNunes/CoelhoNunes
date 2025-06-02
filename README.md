@@ -8,7 +8,7 @@
 I'm a Machine Learning Engineer with a passion for designing, deploying, and optimizing AI systems—from neural networks and NLP models to edge-device deployment and real-time inference. I blend deep theoretical knowledge with hands-on engineering.
 
 <p align="center">
-  <img src="cooltext.png" alt="Tech Toolbox" width="600" />
+  <img src="cooltext.png" alt="Tech Toolbox" width="300" />
 </p>
 <table align="center">
   <tr>
