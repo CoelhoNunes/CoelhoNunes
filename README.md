@@ -69,8 +69,6 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
   </tr>
 </table>
 
-📊 GitHub Stats
-
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -81,8 +79,6 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
     </td>
   </tr>
 </table>
-
-<h2>📈 Contribution Summary<h2/>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoelhoNunes&theme=tokyonight" width="90%" />
