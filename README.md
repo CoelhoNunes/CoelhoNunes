@@ -10,7 +10,6 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
 <p align="center">
   <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iODAiPjxkZWZzPjxmaWx0ZXIgaWQ9Imdsb3ciPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjQiIHJlc3VsdD0iY29sb3JlZEJsdXIiLz48ZmVNZXJnZT48ZmVNZXJnZU5vZGUgaW49ImNvbG9yZWRCbHVyIi8+PGZlTWVyZ2VOb2RlIGluPSJTb3VyY2VHcmFwaGljIi8+PC9mZU1lcmdlPjwvZmlsdGVyPjwvZGVmcz48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkZpcmEgQ29kZSIgZm9udC1zaXplPSIzNiIgZmlsbD0iI0ZGRDcwMCIgZmlsdGVyPSJ1cmwoI2dsb3cpIj7wnq/wn7/Dq8K8INCf0L7QtNC90LDQu9C/0YHQvtCyINCf0L7QtNC90LDQu9C/0YHQvtCyINC00LXQsNC80L3QuNC5INCX0L7QtNCw0LnQu9CwPC90ZXh0Pjwvc3ZnPg==" />
 </p>
-
 <table align="center">
   <tr>
     <td align="center" width="100">
