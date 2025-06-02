@@ -1,10 +1,10 @@
 <p align="center">
-  <img
-    src="PixelRabbit.png"
-    alt="Pixel Rabbit"
-    width="500"
-  />
+  <picture>
+    <source srcset="PixelRabbit-dark.png" media="(prefers-color-scheme: dark)" />
+    <img src="PixelRabbit-light.png" alt="Pixel Rabbit" width="500" />
+  </picture>
 </p>
+
 
 <p align="center">
   <img
