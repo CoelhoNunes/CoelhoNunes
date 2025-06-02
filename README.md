@@ -12,7 +12,6 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
 - 🧩 Interests: Model Optimization, Computer Vision, NLP, Edge AI, LLMs, Computer Architecture, Quantum Computing
 
 Tech Toolbox
-
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -71,7 +70,6 @@ Tech Toolbox
     </td>
   </tr>
 </table>
-
 
 
 📊 GitHub Stats
