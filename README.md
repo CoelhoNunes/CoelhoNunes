@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="PixelRabbit-inverted.svg"
+    src="PixelRabbit.png"
     alt="Pixel Rabbit"
     width="500"
   />
