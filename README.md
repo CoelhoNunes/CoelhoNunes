@@ -1,5 +1,18 @@
 <p align="center">
-  <img src="PixelRabbit.png" width="500" />
+  <picture>
+    <!-- If the user’s system is in dark mode, this source will be used -->
+    <source
+      srcset="PixelRabbit-dark.png"
+      media="(prefers-color-scheme: dark)"
+    />
+
+    <!-- Otherwise (light mode or unknown), this <img> will be used -->
+    <img
+      src="PixelRabbit-light.png"
+      alt="Pixel Rabbit"
+      width="500"
+    />
+  </picture>
 </p>
 
 <p align="center">
