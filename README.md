@@ -40,17 +40,6 @@ Tech Toolbox
 
 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=CoelhoNunes&show_icons=true&theme=radical" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=CoelhoNunes&theme=radical" width="100%" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoelhoNunes&layout=compact&theme=tokyonight&langs_count=8" width="50%" />
 </p>
