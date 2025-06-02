@@ -10,7 +10,6 @@ I'm a Machine Learning Engineer with a passion for designing, deploying, and opt
 - 🧠 Focus: Machine Learning, Deep Learning, Transformers, Robotics, Software Engineer, Algorithms, Hardware-Aware Training
 - 🛠️ Tools: Python, C++, SQL, Bash, HTML, CSS, PyTorch, TensorFlow, Scikit-Learn, Hugging Face Transformers, AWS, GCP
 - 🧩 Interests: Model Optimization, Computer Vision, NLP, Edge AI, LLMs, Computer Architecture, Quantum Computing
-- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/coelhodan/)
 
 Tech Toolbox
 
