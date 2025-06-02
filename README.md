@@ -15,9 +15,7 @@
 <br />
 
 <h2 align="center">🛠 Tech Toolbox</h2>
-<p align="center">
-  <img src="cooltext.png" alt="Tech Toolbox" width="300" />
-</p>
+
 <table align="center">
   <tr>
     <td align="center" width="100">
