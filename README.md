@@ -7,11 +7,7 @@
 
 I'm a Machine Learning Engineer with a passion for designing, deploying, and optimizing AI systems—from neural networks and NLP models to edge-device deployment and real-time inference. I blend deep theoretical knowledge with hands-on engineering.
 
-- 🧠 Focus: Machine Learning, Deep Learning, Transformers, Robotics, Software Engineer, Algorithms, Hardware-Aware Training
-- 🛠️ Tools: Python, C++, SQL, Bash, HTML, CSS, PyTorch, TensorFlow, Scikit-Learn, Hugging Face Transformers, AWS, GCP
-- 🧩 Interests: Model Optimization, Computer Vision, NLP, Edge AI, LLMs, Computer Architecture, Quantum Computing
-
-Tech Toolbox
+<p align="center">⚒️──🛠 Tech Toolbox 🛠──⚒️</p>
 <table align="center">
   <tr>
     <td align="center" width="100">
