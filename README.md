@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source srcset="PixelRabbit-dark.png" media="(prefers-color-scheme: dark)" />
-    <img src="PixelRabbit-light.png" alt="Pixel Rabbit" width="500" />
+    <source srcset="PixelRabbit.png" media="(prefers-color-scheme: dark)" />
+    <img src="PixelRabbit-white-transparent.png" alt="Pixel Rabbit" width="500" />
   </picture>
 </p>
 
