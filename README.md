@@ -8,7 +8,7 @@
 I'm a Machine Learning Engineer with a passion for designing, deploying, and optimizing AI systems—from neural networks and NLP models to edge-device deployment and real-time inference. I blend deep theoretical knowledge with hands-on engineering.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=⚒️──🛠+Tech+Toolbox+🛠──⚒️" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%9A%92%EF%B8%8F%E2%94%80%E2%94%80%F0%9F%9B%A0%20Tech%20Toolbox%20%F0%9F%9B%A0%E2%94%80%E2%94%80%E2%9A%92%EF%B8%8F" />
 </p>
 
 <table align="center">
