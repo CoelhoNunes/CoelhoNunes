@@ -78,13 +78,10 @@
     </td>
   </tr>
 </table>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoelhoNunes&theme=tokyonight" width="90%" />
 </p>
-
 <br />
-
 <h2 align="center">🌍 Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/coelhodan/">
