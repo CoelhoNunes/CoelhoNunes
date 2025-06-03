@@ -79,22 +79,6 @@
   </tr>
 </table>
 
-<br />
-
-<h2 align="center">📊 GitHub Stats</h2>
-<table align="center">
-  <tr>
-    <td align="center" width="45%">
-      <img src="https://github-readme-stats.vercel.app/api?username=CoelhoNunes&show_icons=true&theme=radical" width="100%" />
-    </td>
-    <td align="center" width="45%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=CoelhoNunes&theme=radical" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoelhoNunes&theme=tokyonight" width="90%" />
 </p>
