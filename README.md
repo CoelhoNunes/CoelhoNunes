@@ -12,10 +12,6 @@
   />
 </p>
 
-<p align="center">
-  I’m a Machine Learning Engineer with a passion for designing, deploying, and optimizing AI systems—from neural networks and NLP models to edge-device deployment and real-time inference. I blend deep theoretical knowledge with hands-on engineering.
-</p>
-
 <br />
 
 <h2 align="center">🛠 Tech Toolbox</h2>
