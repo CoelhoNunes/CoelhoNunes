@@ -1,0 +1,30 @@
+name: ✨ Auto Update README
+
+on:
+  schedule:
+    - cron: '0 3,7,11,15,19 * * *'  # 5x per day
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run README update script
+        run: |
+          python scripts/update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "CoelhoNunes"
+          git config --global user.email "danunesc@gmail.com"
+          git add README.md
+          git commit -m "🤖 Update ML article in README" || echo "No changes to commit"
+          git push
