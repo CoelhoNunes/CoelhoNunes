@@ -5,7 +5,6 @@
   </picture>
 </p>
 
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=I+build+ML+systems+that+scale.;I+optimize+AI+for+production.;I+engineer+intelligence+into+devices."
@@ -16,7 +15,6 @@
 
 <!-- START_ML_UPDATE -->
 <!-- END_ML_UPDATE -->
-
 
 <h2 align="center">🛠 Tech Toolbox</h2>
 
@@ -78,10 +76,13 @@
     </td>
   </tr>
 </table>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoelhoNunes&theme=tokyonight" width="90%" />
 </p>
+
 <br />
+
 <h2 align="center">🌍 Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/coelhodan/">
