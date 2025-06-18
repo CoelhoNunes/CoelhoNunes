@@ -6,38 +6,41 @@ import glob
 # ─── CONFIG ─────────────────────────────────────────────────────
 README_PATH   = "README.md"
 TEMPLATE_PATH = "README_TEMPLATE.md"
-ML_PATH       = "ML-News-Bot-o-Matic"      # must match checkout path
+ML_PATH       = "ML-News-Bot-o-Matic"      # must match your checkout path
 
 TAG_START = "<!-- START_ML_UPDATE -->"
 TAG_END   = "<!-- END_ML_UPDATE -->"
 
-# ─── FIND ALL JSON DIGESTS ──────────────────────────────────────
+# ─── GATHER ALL JSON DIGESTS ────────────────────────────────────
 pattern = os.path.join(ML_PATH, "**", "*.json")
 files = glob.glob(pattern, recursive=True)
 
-entries = []
+raw_entries = []
 for fp in files:
     try:
         with open(fp, "r", encoding="utf-8") as f:
             data = json.load(f)
         if isinstance(data, list):
-            entries.extend(data)
+            raw_entries.extend(data)
         elif isinstance(data, dict):
-            entries.append(data)
+            raw_entries.append(data)
     except Exception:
         continue
 
+# ─── FILTER ONLY DICT ENTRIES ───────────────────────────────────
+entries = [e for e in raw_entries if isinstance(e, dict)]
+
 if not entries:
-    raise RuntimeError(f"No JSON entries found under `{ML_PATH}`")
+    raise RuntimeError(f"No valid JSON objects found under `{ML_PATH}`")
 
 # ─── PICK ONE AT RANDOM ─────────────────────────────────────────
-entry   = random.choice(entries)
+entry = random.choice(entries)
 title   = entry.get("title",   "Untitled")
 url     = entry.get("url",     entry.get("link", "#"))
 summary = entry.get("summary", "No summary available.")
 date    = entry.get("timestamp", entry.get("date", "Unknown date"))
 
-# ─── BUILD YOUR “ML SPOTLIGHT” CARD ─────────────────────────────
+# ─── BUILD “ML SPOTLIGHT” CARD ───────────────────────────────────
 injection = f"""
 <p align="center">
   <img src="https://img.shields.io/badge/🚀-ML%20Spotlight-brightgreen?style=for-the-badge" alt="ML Spotlight"/>
