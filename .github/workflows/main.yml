@@ -20,10 +20,13 @@ jobs:
       - name: Run README update script
         run: python update_readme.py
 
-      - name: Commit changes
+      - name: Commit and Push Changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "CoelhoNunes"
           git config --global user.email "danunesc@gmail.com"
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/CoelhoNunes/CoelhoNunes.git
           git add README.md
           git commit -m "🤖 Update ML article in README" || echo "No changes to commit"
-          git push
+          git push origin main
