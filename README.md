@@ -23,21 +23,21 @@
 </p>
 
 <h3 align="center">
-  <a href="https://www.marktechpost.com/2025/06/07/meet-bioreason-the-worlds-first-reasoning-model-in-biology-that-enables-ai-to-reason-about-genomics-like-a-biology-expert/">Meet BioReason: The World’s First Reasoning Model in Biology that Enables AI to Reason about Genomics like a Biology Expert</a>
+  <a href="https://www.jdsupra.com/legalnews/gai-in-practice-the-truth-about-4132476/">GAI in Practice: The Truth About Generative AI For Legal</a>
 </h3>
 
-<p align="center"><em>📅 Published: 2025-06-08_08-35</em></p>
+<p align="center"><em>📅 Published: 2025-06-04_16-35</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Summary-gray" />
 </p>
 
 <p align="center">
-  <i>BioReason: The World’s First Reasoning Model in Biology that Enables AI to Reason about Genomics like a Biology Expert</i>
+  <i>GAI in Practice: The Truth About Generative AI For</i>
 </p>
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/06/07/meet-bioreason-the-worlds-first-reasoning-model-in-biology-that-enables-ai-to-reason-about-genomics-like-a-biology-expert/">
+  <a href="https://www.jdsupra.com/legalnews/gai-in-practice-the-truth-about-4132476/">
     🔗 <strong>Read Full Article</strong>
   </a>
 </p>
