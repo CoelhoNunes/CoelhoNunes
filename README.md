@@ -17,13 +17,13 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techxplore.com/news/2025-06-lost-middle-llm-architecture-ai.html" target="_blank" rel="noopener noreferrer"><strong>Lost in the middle: How LLM architecture and training data shape AI's position bias</strong></a>
+  <a href="https://machinelearning.apple.com/research/computational-bottlenecks" target="_blank" rel="noopener noreferrer"><strong>Computational Bottlenecks of Training Small-Scale Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-18_02-06</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_08-38</em></p>
 
 <p align="center">
-  <a href="https://techxplore.com/news/2025-06-lost-middle-llm-architecture-ai.html" target="_blank" rel="noopener noreferrer">
+  <a href="https://machinelearning.apple.com/research/computational-bottlenecks" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
   </a>
 </p>
