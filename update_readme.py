@@ -50,11 +50,11 @@ injection = f"""
   <a href="{url}" target="_blank" rel="noopener noreferrer">{title}</a>
 </h2>
 
-<p align="center"><em>📅 Published: {date}</em></p>
+<p align="center"><em style="color:#bbb;">📅 Published: {date}</em></p>
 
-<blockquote align="center">
+<p align="center" style="color:#aaa; font-style:italic;">
   “{summary}”
-</blockquote>
+</p>
 
 <p align="center">
   <a href="{url}" target="_blank" rel="noopener noreferrer">
