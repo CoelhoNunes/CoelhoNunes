@@ -1,50 +1,44 @@
-# scripts/update_readme.py
-import os
 import json
 import random
-from datetime import datetime
 
-# Paths
-README_PATH = "README.md"
-TEMPLATE_PATH = "README_TEMPLATE.md"
-ARTICLES_DIR = "ML-News-Bot-o-Matic/articles"
+# Path to your full digest file
+DIGEST_PATH = "ML-News-Bot-o-Matic/data/digest.json"  # adjust if needed
 
-TAG_START = "<!-- START_ML_UPDATE -->"
-TAG_END = "<!-- END_ML_UPDATE -->"
+# Load all articles
+with open(DIGEST_PATH, "r", encoding="utf-8") as f:
+    all_articles = json.load(f)
 
-# Randomly select article
-files = [f for f in os.listdir(ARTICLES_DIR) if f.endswith(".json")]
-chosen_file = random.choice(files)
+# Pick a random article
+entry = random.choice(all_articles)
 
-with open(os.path.join(ARTICLES_DIR, chosen_file), "r", encoding="utf-8") as f:
-    data = json.load(f)
+title = entry["title"]
+url = f"https://reddit.com/comments/{entry['post_id']}"  # or a custom URL
+summary = entry.get("summary", "No summary available.")
+date = entry.get("timestamp", "Unknown date")
 
-# Format the update block
-update_md = f"""## 🧑‍💻 Daily ML Article
+# Now inject using your same Markdown/HTML block
+update_md = f"""
+<p align="center">
+  <img src="https://img.shields.io/badge/-🧠%20Daily%20ML%20Article-blueviolet" />
+</p>
 
-**[{data['title']}]({data['url']})**  
-📵 _Published: {data.get('date', datetime.utcnow().strftime('%Y-%m-%d'))}_
+<h3 align="center">
+  <a href="{url}">{title}</a>
+</h3>
 
-> {data.get('summary', 'No summary available...')}
+<p align="center"><em>📅 Published: {date}</em></p>
 
-🔗 [Read Full Article]({data['url']})
+<p align="center">
+  <img src="https://img.shields.io/badge/-Summary-gray" />
+</p>
+
+<p align="center">
+  <i>{summary}</i>
+</p>
+
+<p align="center">
+  <a href="{url}">
+    🔗 <strong>Read Full Article</strong>
+  </a>
+</p>
 """
-
-# Read template
-with open(TEMPLATE_PATH, "r", encoding="utf-8") as f:
-    content = f.read()
-
-start = content.find(TAG_START)
-end = content.find(TAG_END)
-
-if start != -1 and end != -1:
-    new_content = (
-        content[:start + len(TAG_START)] +
-        "\n" + update_md + "\n" +
-        content[end:]
-    )
-
-    with open(README_PATH, "w", encoding="utf-8") as f:
-        f.write(new_content)
-else:
-    raise ValueError("Update tags not found in README template.")
