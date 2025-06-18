@@ -6,7 +6,7 @@ import glob
 # ─── CONFIG ─────────────────────────────────────────────────────
 README_PATH   = "README.md"
 TEMPLATE_PATH = "README_TEMPLATE.md"
-ML_PATH       = "ML-News-Bot-o-Matic"      # must match your checkout path
+ML_PATH       = "ML-News-Bot-o-Matic"      # must match the checkout path
 
 TAG_START = "<!-- START_ML_UPDATE -->"
 TAG_END   = "<!-- END_ML_UPDATE -->"
@@ -15,54 +15,41 @@ TAG_END   = "<!-- END_ML_UPDATE -->"
 pattern = os.path.join(ML_PATH, "**", "*.json")
 files = glob.glob(pattern, recursive=True)
 
-raw_entries = []
+entries = []
 for fp in files:
     try:
         with open(fp, "r", encoding="utf-8") as f:
             data = json.load(f)
         if isinstance(data, list):
-            raw_entries.extend(data)
+            entries.extend(data)
         elif isinstance(data, dict):
-            raw_entries.append(data)
+            entries.append(data)
     except Exception:
         continue
 
-# ─── FILTER ONLY DICT ENTRIES ───────────────────────────────────
-entries = [e for e in raw_entries if isinstance(e, dict)]
 if not entries:
-    raise RuntimeError(f"No valid JSON objects found under `{ML_PATH}`")
+    raise RuntimeError(f"No JSON entries found under `{ML_PATH}`")
 
 # ─── PICK ONE AT RANDOM ─────────────────────────────────────────
 entry   = random.choice(entries)
-title   = entry.get("title",   "Untitled")
-url     = entry.get("url",     entry.get("link", "#"))
-summary = entry.get("summary", "No summary available.")
+title   = entry.get("title", "Untitled")
+url     = entry.get("url", entry.get("link", "#"))
 date    = entry.get("timestamp", entry.get("date", "Unknown date"))
 
-# ─── BUILD “ML SPOTLIGHT” CARD ───────────────────────────────────
+# ─── BUILD THE INJECTION BLOCK ─────────────────────────────────
 injection = f"""
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀-ML%20Spotlight-brightgreen?style=for-the-badge" alt="ML Spotlight"/>
+  <a href="{url}" target="_blank" rel="noopener noreferrer">
+    <strong>{title}</strong>
+  </a>
 </p>
+
+<p align="center"><em>📅 Published: {date}</em></p>
 
 <p align="center">
-  [**{title}**]({url})
-</p>
-
-<p align="center">
-  *📅 Published: {date}*
-</p>
-
-<p align="center">
-  *“{summary}”*
-</p>
-
-<p align="center">
-  [![Continue Reading ↗️](https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge)]({url})
-</p>
-
-<p align="center" style="font-size:0.8em; color:#888;">
-  Press Ctrl+Click (or ⌘+Click) to open in a new tab
+  <a href="{url}" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
+  </a>
 </p>
 """
 
