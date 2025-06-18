@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 import json
 import random
@@ -6,42 +7,44 @@ import glob
 # ─── CONFIG ─────────────────────────────────────────────────────
 README_PATH   = "README.md"
 TEMPLATE_PATH = "README_TEMPLATE.md"
-ML_PATH       = "ML-News-Bot-o-Matic"      # must match the checkout path
+ML_PATH       = "ML-News-Bot-o-Matic"   # checkout path in your workflow
 
 TAG_START = "<!-- START_ML_UPDATE -->"
 TAG_END   = "<!-- END_ML_UPDATE -->"
 
-# ─── GATHER ALL JSON DIGESTS ────────────────────────────────────
+# ─── COLLECT ALL JSON ARTICLES ──────────────────────────────────
 pattern = os.path.join(ML_PATH, "**", "*.json")
 files = glob.glob(pattern, recursive=True)
 
-entries = []
+articles = []
 for fp in files:
     try:
         with open(fp, "r", encoding="utf-8") as f:
             data = json.load(f)
+        # If it's a list of dicts, extend; if a single dict, append
         if isinstance(data, list):
-            entries.extend(data)
+            for item in data:
+                if isinstance(item, dict):
+                    articles.append(item)
         elif isinstance(data, dict):
-            entries.append(data)
+            articles.append(data)
     except Exception:
+        # skip non-JSON or malformed files
         continue
 
-if not entries:
-    raise RuntimeError(f"No JSON entries found under `{ML_PATH}`")
+if not articles:
+    raise RuntimeError(f"No valid JSON article objects found under `{ML_PATH}`")
 
-# ─── PICK ONE AT RANDOM ─────────────────────────────────────────
-entry   = random.choice(entries)
-title   = entry.get("title", "Untitled")
-url     = entry.get("url", entry.get("link", "#"))
-date    = entry.get("timestamp", entry.get("date", "Unknown date"))
+# ─── PICK A RANDOM ARTICLE ──────────────────────────────────────
+entry = random.choice(articles)
+title = entry.get("title", "Untitled")
+url   = entry.get("url", entry.get("link", "#"))
+date  = entry.get("timestamp", entry.get("date", "Unknown date"))
 
 # ─── BUILD THE INJECTION BLOCK ─────────────────────────────────
 injection = f"""
 <p align="center">
-  <a href="{url}" target="_blank" rel="noopener noreferrer">
-    <strong>{title}</strong>
-  </a>
+  <a href="{url}" target="_blank" rel="noopener noreferrer"><strong>{title}</strong></a>
 </p>
 
 <p align="center"><em>📅 Published: {date}</em></p>
@@ -53,14 +56,14 @@ injection = f"""
 </p>
 """
 
-# ─── INJECT INTO README ──────────────────────────────────────────
+# ─── INJECT INTO YOUR README ────────────────────────────────────
 with open(TEMPLATE_PATH, "r", encoding="utf-8") as f:
     template = f.read()
 
 start = template.find(TAG_START)
 end   = template.find(TAG_END)
 if start == -1 or end == -1:
-    raise RuntimeError("Missing START/END tags in README_TEMPLATE.md")
+    raise RuntimeError("Missing <!-- START_ML_UPDATE --> or <!-- END_ML_UPDATE --> in README_TEMPLATE.md")
 
 new_md = (
     template[: start + len(TAG_START)] +
