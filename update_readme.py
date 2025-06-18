@@ -29,12 +29,11 @@ for fp in files:
 
 # ─── FILTER ONLY DICT ENTRIES ───────────────────────────────────
 entries = [e for e in raw_entries if isinstance(e, dict)]
-
 if not entries:
     raise RuntimeError(f"No valid JSON objects found under `{ML_PATH}`")
 
 # ─── PICK ONE AT RANDOM ─────────────────────────────────────────
-entry = random.choice(entries)
+entry   = random.choice(entries)
 title   = entry.get("title",   "Untitled")
 url     = entry.get("url",     entry.get("link", "#"))
 summary = entry.get("summary", "No summary available.")
@@ -47,19 +46,23 @@ injection = f"""
 </p>
 
 <p align="center">
-  <a href="{url}" target="_blank" rel="noopener noreferrer">
-    **{title}**
-  </a>
+  [**{title}**]({url})
 </p>
 
-<p align="center"><em>📅 Published: {date}</em></p>
-
-<p align="center"><em>“{summary}”</em></p>
+<p align="center">
+  *📅 Published: {date}*
+</p>
 
 <p align="center">
-  <a href="{url}" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
-  </a>
+  *“{summary}”*
+</p>
+
+<p align="center">
+  [![Continue Reading ↗️](https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge)]({url})
+</p>
+
+<p align="center" style="font-size:0.8em; color:#888;">
+  Press Ctrl+Click (or ⌘+Click) to open in a new tab
 </p>
 """
 
