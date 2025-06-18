@@ -17,13 +17,13 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.opensourceforu.com/2025/05/python-indispensable-for-innovation-in-the-age-of-ai-and-ml/" target="_blank" rel="noopener noreferrer"><strong>Python: Indispensable for Innovation in the Age of AI and ML</strong></a>
+  <a href="https://financialit.net/news/machine-learning/broadridge-announces-new-patent-large-language-model-orchestration-machine" target="_blank" rel="noopener noreferrer"><strong>Broadridge Announces New Patent on Large Language Model Orchestration of Machine Learning Agents</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-20_08-40</em></p>
+<p align="center"><em>📅 Published: 2025-06-07_08-35</em></p>
 
 <p align="center">
-  <a href="https://www.opensourceforu.com/2025/05/python-indispensable-for-innovation-in-the-age-of-ai-and-ml/" target="_blank" rel="noopener noreferrer">
+  <a href="https://financialit.net/news/machine-learning/broadridge-announces-new-patent-large-language-model-orchestration-machine" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
   </a>
 </p>
