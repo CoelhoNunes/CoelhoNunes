@@ -25,42 +25,37 @@ for fp in files:
         elif isinstance(data, dict):
             entries.append(data)
     except Exception:
-        # skip malformed or non-JSON files
         continue
 
 if not entries:
     raise RuntimeError(f"No JSON entries found under `{ML_PATH}`")
 
 # ─── PICK ONE AT RANDOM ─────────────────────────────────────────
-entry = random.choice(entries)
-title   = entry.get("title",        "Untitled")
-url     = entry.get("url",          entry.get("link", "#"))
-summary = entry.get("summary",      "No summary available.")
-date    = entry.get("timestamp",    entry.get("date",    "Unknown date"))
+entry   = random.choice(entries)
+title   = entry.get("title",   "Untitled")
+url     = entry.get("url",     entry.get("link", "#"))
+summary = entry.get("summary", "No summary available.")
+date    = entry.get("timestamp", entry.get("date", "Unknown date"))
 
-# ─── BUILD CENTERED MARKDOWN BLOCK ─────────────────────────────
+# ─── BUILD YOUR “ML SPOTLIGHT” CARD ─────────────────────────────
 injection = f"""
 <p align="center">
-  <img src="https://img.shields.io/badge/-🧠%20Daily%20ML%20Article-blueviolet" />
+  <img src="https://img.shields.io/badge/🚀-ML%20Spotlight-brightgreen?style=for-the-badge" alt="ML Spotlight"/>
 </p>
 
-<h3 align="center">
-  <a href="{url}">{title}</a>
-</h3>
+<h2 align="center">
+  <a href="{url}" target="_blank" rel="noopener noreferrer">{title}</a>
+</h2>
 
 <p align="center"><em>📅 Published: {date}</em></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Summary-gray" />
-</p>
+<blockquote align="center">
+  “{summary}”
+</blockquote>
 
 <p align="center">
-  <i>{summary}</i>
-</p>
-
-<p align="center">
-  <a href="{url}">
-    🔗 <strong>Read Full Article</strong>
+  <a href="{url}" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
   </a>
 </p>
 """
