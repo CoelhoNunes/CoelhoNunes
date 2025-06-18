@@ -20,18 +20,18 @@
   <img src="https://img.shields.io/badge/🚀-ML%20Spotlight-brightgreen?style=for-the-badge" alt="ML Spotlight"/>
 </p>
 
-<h2 align="center">
-  <a href="https://www.pymnts.com/news/artificial-intelligence/2025/house-committee-aims-ban-states-from-regulating-ai/" target="_blank" rel="noopener noreferrer">House Committee Aims to Ban States From Regulating AI</a>
-</h2>
-
-<p align="center"><em style="color:#bbb;">📅 Published: 2025-05-21_03-31</em></p>
-
-<p align="center" style="color:#aaa; font-style:italic;">
-  “House Committee Aims to Ban States From Regulating”
+<p align="center">
+  <a href="https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-practical-deep-learning-with-python-2025-06/" target="_blank" rel="noopener noreferrer">
+    **Practical Deep Learning - book preview**
+  </a>
 </p>
 
+<p align="center"><em>📅 Published: 2025-06-06_16-39</em></p>
+
+<p align="center"><em>“Practical Deep Learning - Pract”</em></p>
+
 <p align="center">
-  <a href="https://www.pymnts.com/news/artificial-intelligence/2025/house-committee-aims-ban-states-from-regulating-ai/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-practical-deep-learning-with-python-2025-06/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
   </a>
 </p>
