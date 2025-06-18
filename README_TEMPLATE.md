@@ -14,9 +14,28 @@
 <br />
 
 <h2 align="center">📰 Check out my ML News Project</h2>
-<p align="center">Here’s a fresh article my bot found from the ML world:</p>
-
 <!-- START_ML_UPDATE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-ML%20Spotlight-brightgreen?style=for-the-badge" alt="ML Spotlight"/>
+</p>
+
+<h2 align="center">
+  <a href="{url}" target="_blank" rel="noopener noreferrer">
+    {title}
+  </a>
+</h2>
+
+<p align="center"><em>📅 Published: {date}</em></p>
+
+<blockquote align="center">
+  “{summary}”
+</blockquote>
+
+<p align="center">
+  <a href="{url}" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
+  </a>
+</p>
 <!-- END_ML_UPDATE -->
 
 <h2 align="center">🛠 Tech Toolbox</h2>
