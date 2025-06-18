@@ -2,32 +2,46 @@ name: ✨ Auto Update README
 
 on:
   schedule:
-    - cron: '0 3,7,11,15,19 * * *'
+    - cron: '0 3,7,11,15,19 * * *'  # Runs 5× per day (UTC)
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository with PAT
+      # Checkout your profile README repo with write access via PAT
+      - name: Checkout profile repository
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GH_PAT }}
 
+      # Checkout the ML-News-Bot-o-Matic repo into a subfolder
+      - name: Checkout ML-News-Bot-o-Matic
+        uses: actions/checkout@v3
+        with:
+          repository: CoelhoNunes/ML-News-Bot-o-Matic
+          token:      ${{ secrets.GH_PAT }}
+          path:       ML-News-Bot-o-Matic
+
+      # Python setup
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
+      # Run the README update script (pure-Python, no extra deps)
       - name: Run README update script
         run: python update_readme.py
 
+      # Commit & push the updated README back to your profile repo
       - name: Commit and Push Changes
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "CoelhoNunes"
           git config --global user.email "danunesc@gmail.com"
+          # Point origin to use your PAT
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/CoelhoNunes/CoelhoNunes.git
           git add README.md
           git commit -m "🤖 Update ML article in README" || echo "No changes to commit"
           git push origin main
