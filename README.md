@@ -14,34 +14,28 @@
 <br />
 
 <h2 align="center">📰 Check out my ML News Project</h2>
-<p align="center">Here’s a fresh article my bot found from the ML world:</p>
-
 <!-- START_ML_UPDATE -->
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-🧠%20Daily%20ML%20Article-blueviolet" />
+  <img src="https://img.shields.io/badge/🚀-ML%20Spotlight-brightgreen?style=for-the-badge" alt="ML Spotlight"/>
 </p>
 
-<h3 align="center">
-  <a href="https://news.mit.edu/2025/large-language-models-reason-about-diverse-data-general-way-0219">Like human brains, large language models reason about diverse data in a general way</a>
-</h3>
+<h2 align="center">
+  <a href="{url}" target="_blank" rel="noopener noreferrer">
+    {title}
+  </a>
+</h2>
 
-<p align="center"><em>📅 Published: 2025-05-25_08-35</em></p>
+<p align="center"><em>📅 Published: {date}</em></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Summary-gray" />
-</p>
-
-<p align="center">
-  <i>Large language models reason about diverse data in a general way . Like human</i>
-</p>
+<blockquote align="center">
+  “{summary}”
+</blockquote>
 
 <p align="center">
-  <a href="https://news.mit.edu/2025/large-language-models-reason-about-diverse-data-general-way-0219">
-    🔗 <strong>Read Full Article</strong>
+  <a href="{url}" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
   </a>
 </p>
-
 <!-- END_ML_UPDATE -->
 
 <h2 align="center">🛠 Tech Toolbox</h2>
