@@ -17,13 +17,13 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://financialit.net/news/machine-learning/broadridge-announces-new-patent-large-language-model-orchestration-machine" target="_blank" rel="noopener noreferrer"><strong>Broadridge Announces New Patent on Large Language Model Orchestration of Machine Learning Agents</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1408817/full" target="_blank" rel="noopener noreferrer"><strong>David vs. Goliath: comparing conventional machine learning and a large language model for assessing students' concept use in a physics problem</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-07_08-35</em></p>
+<p align="center"><em>📅 Published: 2025-06-01_16-36</em></p>
 
 <p align="center">
-  <a href="https://financialit.net/news/machine-learning/broadridge-announces-new-patent-large-language-model-orchestration-machine" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1408817/full" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
   </a>
 </p>
