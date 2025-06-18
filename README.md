@@ -17,13 +17,13 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1408817/full" target="_blank" rel="noopener noreferrer"><strong>David vs. Goliath: comparing conventional machine learning and a large language model for assessing students' concept use in a physics problem</strong></a>
+  <a href="https://www.nature.com/articles/s42256-024-00963-y" target="_blank" rel="noopener noreferrer"><strong>Visual cognition in multimodal large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-01_16-36</em></p>
+<p align="center"><em>📅 Published: 2025-06-08_16-37</em></p>
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1408817/full" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.nature.com/articles/s42256-024-00963-y" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
   </a>
 </p>
