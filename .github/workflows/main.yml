@@ -2,15 +2,17 @@ name: ✨ Auto Update README
 
 on:
   schedule:
-    - cron: '0 3,7,11,15,19 * * *'  # 5x per day
+    - cron: '0 3,7,11,15,19 * * *'
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout repository with PAT
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,7 +28,6 @@ jobs:
         run: |
           git config --global user.name "CoelhoNunes"
           git config --global user.email "danunesc@gmail.com"
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/CoelhoNunes/CoelhoNunes.git
           git add README.md
           git commit -m "🤖 Update ML article in README" || echo "No changes to commit"
           git push origin main
