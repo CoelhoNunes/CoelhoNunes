@@ -1,56 +1,67 @@
 import os
 import json
 import random
-import glob
+import requests
 
 # ─── CONFIG ─────────────────────────────────────────────────────
 
-# Where your profile README lives
-README_PATH     = "README.md"
-TEMPLATE_PATH   = "README_TEMPLATE.md"
+# Your profile repo’s README and template
+README_PATH   = "README.md"
+TEMPLATE_PATH = "README_TEMPLATE.md"
 
-# Path to the ML-News-Bot digest checkout
-ML_PATH         = "ML-News-Bot-o-Matic"
+# The ML-News-Bot-o-Matic repo details
+API_URL      = "https://api.github.com"
+OWNER        = "CoelhoNunes"
+REPO         = "ML-News-Bot-o-Matic"
+DATA_DIR     = "data"   # directory in that repo containing JSON digests
 
-# These two dirs might contain your JSON arrays
-DIGEST_DIRS     = [
-    os.path.join(ML_PATH, "data"),
-    os.path.join(ML_PATH, "digests"),
-]
-
+# Template markers
 TAG_START = "<!-- START_ML_UPDATE -->"
 TAG_END   = "<!-- END_ML_UPDATE -->"
 
-# ─── LOAD ALL JSON ENTRIES ───────────────────────────────────────
+# ─── AUTH ────────────────────────────────────────────────────────
 
-entries = []
-for d in DIGEST_DIRS:
-    if not os.path.isdir(d):
-        continue
-    for filepath in glob.glob(os.path.join(d, "*.json")):
-        try:
-            with open(filepath, "r", encoding="utf-8") as f:
-                data = json.load(f)
-            # if file is a list of items, extend; if single, append
-            if isinstance(data, list):
-                entries.extend(data)
-            elif isinstance(data, dict):
-                entries.append(data)
-        except Exception:
-            continue
+# Use your PAT so you don’t get rate-limited
+GH_PAT = os.getenv("GH_PAT")
+headers = {"Authorization": f"token {GH_PAT}"} if GH_PAT else {}
 
-if not entries:
-    raise RuntimeError("No JSON entries found in ML-News-Bot-o-Matic/data or /digests")
+# ─── LIST JSON FILES IN ML REPO ──────────────────────────────────
 
-# ─── PICK A RANDOM ENTRY ─────────────────────────────────────────
+contents_url = f"{API_URL}/repos/{OWNER}/{REPO}/contents/{DATA_DIR}"
+resp = requests.get(contents_url, headers=headers)
+resp.raise_for_status()
+items = resp.json()
 
-entry = random.choice(entries)
+# Filter to just the .json files
+json_files = [i for i in items if i["type"] == "file" and i["name"].endswith(".json")]
+if not json_files:
+    raise RuntimeError(f"No JSON files found in `{DATA_DIR}/` of {OWNER}/{REPO}")
+
+# ─── PICK ONE AND DOWNLOAD ───────────────────────────────────────
+
+chosen = random.choice(json_files)
+download_url = chosen["download_url"]
+
+r2 = requests.get(download_url, headers=headers)
+r2.raise_for_status()
+data = r2.json()
+
+# If your digest is a list of entries, choose one; else treat as single
+if isinstance(data, list):
+    entry = random.choice(data)
+elif isinstance(data, dict):
+    entry = data
+else:
+    raise RuntimeError("Unexpected JSON structure in digest file")
+
+# ─── EXTRACT FIELDS ─────────────────────────────────────────────
+
 title   = entry.get("title", "Untitled")
 url     = entry.get("url", entry.get("link", "#"))
 summary = entry.get("summary", "No summary available.")
 date    = entry.get("timestamp", entry.get("date", "Unknown date"))
 
-# ─── BUILD YOUR INJECTION HTML ───────────────────────────────────
+# ─── BUILD CENTERED INJECTION BLOCK ────────────────────────────
 
 injection = f"""
 <p align="center">
@@ -78,21 +89,22 @@ injection = f"""
 </p>
 """
 
-# ─── INJECT INTO README ──────────────────────────────────────────
+# ─── INJECT INTO YOUR README ────────────────────────────────────
 
 with open(TEMPLATE_PATH, "r", encoding="utf-8") as f:
     template = f.read()
 
 start = template.find(TAG_START)
 end   = template.find(TAG_END)
-
 if start == -1 or end == -1:
     raise RuntimeError("Missing START/END tags in README_TEMPLATE.md")
 
 new_readme = (
-    template[: start + len(TAG_START)] +
-    injection +
-    template[end:]
+    template[: start + len(TAG_START)]
+  + "\n"
+  + injection
+  + "\n"
+  + template[end:]
 )
 
 with open(README_PATH, "w", encoding="utf-8") as f:
