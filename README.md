@@ -21,19 +21,23 @@
 </p>
 
 <p align="center">
-  <a href="https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-practical-deep-learning-with-python-2025-06/" target="_blank" rel="noopener noreferrer">
-    **Practical Deep Learning - book preview**
-  </a>
+  [**On the Modeling Capabilities of Large Language Models for Sequential Decision Making**](https://machinelearning.apple.com/research/modeling-capabilities-of-language)
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-06_16-39</em></p>
-
-<p align="center"><em>“Practical Deep Learning - Pract”</em></p>
+<p align="center">
+  *📅 Published: 2025-05-21_03-31*
+</p>
 
 <p align="center">
-  <a href="https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-practical-deep-learning-with-python-2025-06/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
-  </a>
+  *“On the Modeling Capabilities of Large Language Models for Sequential Decision”*
+</p>
+
+<p align="center">
+  [![Continue Reading ↗️](https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge)](https://machinelearning.apple.com/research/modeling-capabilities-of-language)
+</p>
+
+<p align="center" style="font-size:0.8em; color:#888;">
+  Press Ctrl+Click (or ⌘+Click) to open in a new tab
 </p>
 
 <!-- END_ML_UPDATE -->
