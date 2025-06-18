@@ -46,15 +46,15 @@ injection = f"""
   <img src="https://img.shields.io/badge/🚀-ML%20Spotlight-brightgreen?style=for-the-badge" alt="ML Spotlight"/>
 </p>
 
-<h2 align="center">
-  <a href="{url}" target="_blank" rel="noopener noreferrer">{title}</a>
-</h2>
-
-<p align="center"><em style="color:#bbb;">📅 Published: {date}</em></p>
-
-<p align="center" style="color:#aaa; font-style:italic;">
-  “{summary}”
+<p align="center">
+  <a href="{url}" target="_blank" rel="noopener noreferrer">
+    **{title}**
+  </a>
 </p>
+
+<p align="center"><em>📅 Published: {date}</em></p>
+
+<p align="center"><em>“{summary}”</em></p>
 
 <p align="center">
   <a href="{url}" target="_blank" rel="noopener noreferrer">
