@@ -17,13 +17,13 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.britannica.com/technology/artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence (AI) | Definition, Examples, Types, Applications, Companies, & Facts</strong></a>
+  <a href="https://www.dice.com/career-advice/your-2025-ai-skills-roadmap-from-ai-newbie-to-future-proofing-your-tech-career" target="_blank" rel="noopener noreferrer"><strong>Your 2025 AI Skills Roadmap: From AI Newbie to Future-Proofing Your Tech Career</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-01_08-36</em></p>
+<p align="center"><em>📅 Published: 2025-06-04_08-40</em></p>
 
 <p align="center">
-  <a href="https://www.britannica.com/technology/artificial-intelligence" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.dice.com/career-advice/your-2025-ai-skills-roadmap-from-ai-newbie-to-future-proofing-your-tech-career" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
   </a>
 </p>
