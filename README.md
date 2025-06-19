@@ -17,13 +17,13 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/06/03/from-exploration-collapse-to-predictable-limits-shanghai-ai-lab-proposes-entropy-based-scaling-laws-for-reinforcement-learning-in-llms/" target="_blank" rel="noopener noreferrer"><strong>From Exploration Collapse to Predictable Limits: Shanghai AI Lab Proposes Entropy-Based Scaling Laws for Reinforcement Learning in LLMs</strong></a>
+  <a href="https://www.britannica.com/technology/artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence (AI) | Definition, Examples, Types, Applications, Companies, & Facts</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-06-01_08-36</em></p>
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/06/03/from-exploration-collapse-to-predictable-limits-shanghai-ai-lab-proposes-entropy-based-scaling-laws-for-reinforcement-learning-in-llms/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.britannica.com/technology/artificial-intelligence" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
   </a>
 </p>
