@@ -25,8 +25,8 @@
 <p align="center">
   <a href="https://www.dice.com/career-advice/your-2025-ai-skills-roadmap-from-ai-newbie-to-future-proofing-your-tech-career" target="_blank" rel="noopener noreferrer">
     <p align="center">
-  <sub style="color:#888; font-size:0.8em;">
-    🔔 Note: This article was automatically selected by my ML-News-Bot-o-Matic and refreshes several times a day.
+  <sub style="color:#818; font-size:0.8em;">
+    🔔 Note: This article was automatically selected by my ML-News-Bot-o-Matic and refreshes several times a day.🔔
   </sub>
 </p>
   </a>
