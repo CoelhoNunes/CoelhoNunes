@@ -17,13 +17,13 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.securities.io/ai-energy-efficient-chip/" target="_blank" rel="noopener noreferrer"><strong>AI Meets Efficiency: A New Chip Shrinks LLM Power Use by 50%</strong></a>
+  <a href="https://finance.yahoo.com/news/vidizmo-set-drive-europes-ai-154000659.html" target="_blank" rel="noopener noreferrer"><strong>VIDIZMO Set to Drive Europe's AI Adoption at GITEX EUROPE 2025 with Responsible AI-powered Solutions</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-07</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-00</em></p>
 
 <p align="center">
-  <a href="https://www.securities.io/ai-energy-efficient-chip/" target="_blank" rel="noopener noreferrer">
+  <a href="https://finance.yahoo.com/news/vidizmo-set-drive-europes-ai-154000659.html" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
   </a>
 </p>
