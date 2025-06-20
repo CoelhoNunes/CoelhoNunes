@@ -17,13 +17,13 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://finance.yahoo.com/news/vidizmo-set-drive-europes-ai-154000659.html" target="_blank" rel="noopener noreferrer"><strong>VIDIZMO Set to Drive Europe's AI Adoption at GITEX EUROPE 2025 with Responsible AI-powered Solutions</strong></a>
+  <a href="https://www.britannica.com/science/history-of-artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>History of artificial intelligence | Dates, Advances, Alan Turing, ELIZA, & Facts</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-00</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_02-23</em></p>
 
 <p align="center">
-  <a href="https://finance.yahoo.com/news/vidizmo-set-drive-europes-ai-154000659.html" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.britannica.com/science/history-of-artificial-intelligence" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
   </a>
 </p>
