@@ -17,13 +17,13 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.aboutschwab.com/mss/story/ai-on-the-other-end-of-the-line" target="_blank" rel="noopener noreferrer"><strong>AI on the other end of the line (but you’re not talking to a computer)</strong></a>
+  <a href="https://www.securities.io/ai-energy-efficient-chip/" target="_blank" rel="noopener noreferrer"><strong>AI Meets Efficiency: A New Chip Shrinks LLM Power Use by 50%</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-31_16-37</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-07</em></p>
 
 <p align="center">
-  <a href="https://www.aboutschwab.com/mss/story/ai-on-the-other-end-of-the-line" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.securities.io/ai-energy-efficient-chip/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
   </a>
 </p>
