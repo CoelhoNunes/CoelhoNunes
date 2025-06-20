@@ -17,15 +17,15 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.netguru.com/blog/how-to-make-an-ai-model" target="_blank" rel="noopener noreferrer"><strong>How to Make an AI Model: A Step-by-Step Guide for Beginners</strong></a>
+  <a href="https://www.kdnuggets.com/10-github-repositories-to-master-large-language-models" target="_blank" rel="noopener noreferrer"><strong>10 GitHub Repositories to Master Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-03</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-16</em></p>
 
 <p align="center">
-  <a href="https://www.netguru.com/blog/how-to-make-an-ai-model" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
-  </a>
+  <sub style="color:#FF4500; font-size:0.8em;">
+    🔔 Note: This article was automatically selected by my ML-News-Bot-o-Matic and refreshes several times a day.
+  </sub>
 </p>
 
 <!-- END_ML_UPDATE -->
