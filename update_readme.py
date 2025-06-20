@@ -51,7 +51,7 @@ injection = f"""
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
-    🔔 Note: This article was automatically selected by my ML-News-Bot-o-Matic and refreshes several times a day.
+    🔔 Note: This article was automatically selected by my ML-News-Bot-o-Matic and refreshes several times a day. 🔔
   </sub>
 </p>
 """
