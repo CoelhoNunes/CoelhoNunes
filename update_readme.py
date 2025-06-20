@@ -50,9 +50,9 @@ injection = f"""
 <p align="center"><em>📅 Published: {date}</em></p>
 
 <p align="center">
-  <a href="{url}" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
-  </a>
+  <sub style="color:#FF4500; font-size:0.8em;">
+    🔔 Note: This article was automatically selected by my ML-News-Bot-o-Matic and refreshes several times a day.
+  </sub>
 </p>
 """
 
