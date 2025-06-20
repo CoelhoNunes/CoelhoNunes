@@ -17,18 +17,14 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.dice.com/career-advice/your-2025-ai-skills-roadmap-from-ai-newbie-to-future-proofing-your-tech-career" target="_blank" rel="noopener noreferrer"><strong>Your 2025 AI Skills Roadmap: From AI Newbie to Future-Proofing Your Tech Career</strong></a>
+  <a href="https://www.aboutschwab.com/mss/story/ai-on-the-other-end-of-the-line" target="_blank" rel="noopener noreferrer"><strong>AI on the other end of the line (but you’re not talking to a computer)</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_08-40</em></p>
+<p align="center"><em>📅 Published: 2025-05-31_16-37</em></p>
 
 <p align="center">
-  <a href="https://www.dice.com/career-advice/your-2025-ai-skills-roadmap-from-ai-newbie-to-future-proofing-your-tech-career" target="_blank" rel="noopener noreferrer">
-    <p align="center">
-  <sub style="color:#FF4500; font-size:0.8em;">
-    🔔 Note: This article was automatically selected by my ML-News-Bot-o-Matic and refreshes several times a day.🔔
-  </sub>
-</p>
+  <a href="https://www.aboutschwab.com/mss/story/ai-on-the-other-end-of-the-line" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🔗%20Continue%20Reading-blue?style=for-the-badge" alt="Continue Reading"/>
   </a>
 </p>
 
