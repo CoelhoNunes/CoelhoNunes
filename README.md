@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://wmich.edu/engineer/news/2024/11/gang-chen-making-strides-ai-machine-learning" target="_blank" rel="noopener noreferrer"><strong>Alumnus Gang Chen is making strides in AI and machine learning</strong></a>
+  <a href="https://www.nature.com/articles/s41598-024-68168-2" target="_blank" rel="noopener noreferrer"><strong>Leveraging large language models for knowledge-free weak supervision in clinical natural language processing</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-24_08-34</em></p>
+<p align="center"><em>📅 Published: 2025-05-31_08-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
