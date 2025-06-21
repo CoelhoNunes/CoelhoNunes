@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-024-68168-2" target="_blank" rel="noopener noreferrer"><strong>Leveraging large language models for knowledge-free weak supervision in clinical natural language processing</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/creating-asynchronous-ai-agents-with-amazon-bedrock/" target="_blank" rel="noopener noreferrer"><strong>Creating asynchronous AI agents with Amazon Bedrock | Amazon Web Services</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-31_08-35</em></p>
+<p align="center"><em>📅 Published: 2025-05-30_16-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
