@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bigthink.com/big-think-books/raising-ai-excerpt/" target="_blank" rel="noopener noreferrer"><strong>Why AI today is more toddler than Terminator</strong></a>
+  <a href="https://wmich.edu/engineer/news/2024/11/gang-chen-making-strides-ai-machine-learning" target="_blank" rel="noopener noreferrer"><strong>Alumnus Gang Chen is making strides in AI and machine learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-03_16-42</em></p>
+<p align="center"><em>📅 Published: 2025-05-24_08-34</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
