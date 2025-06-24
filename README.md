@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-59957-y" target="_blank" rel="noopener noreferrer"><strong>Modeling rapid language learning by distilling Bayesian priors into artificial neural networks</strong></a>
+  <a href="https://www.techtarget.com/searchenterpriseai/definition/GPT-3" target="_blank" rel="noopener noreferrer"><strong>What is GPT-3? Everything You Need to Know</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-01_02-37</em></p>
+<p align="center"><em>📅 Published: 2025-05-25_08-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
