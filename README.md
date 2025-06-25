@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://ipwatchdog.com/2025/06/11/ai-machine-learning-patents-doomed-recentive/id=189573/" target="_blank" rel="noopener noreferrer"><strong>Are AI and Machine Learning Patents Doomed After Recentive?</strong></a>
+  <a href="https://www.nature.com/articles/s41591-024-03425-5" target="_blank" rel="noopener noreferrer"><strong>The TRIPOD-LLM reporting guideline for studies using large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-21_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-05-29_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
