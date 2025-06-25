@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41591-024-03425-5" target="_blank" rel="noopener noreferrer"><strong>The TRIPOD-LLM reporting guideline for studies using large language models</strong></a>
+  <a href="https://www.usatoday.com/press-release/story/6586/top-interview-kickstart-reviews-on-reddit-for-advanced-generative-ai-course-best-genai-course-for-software-developers-and-engineers-2025/" target="_blank" rel="noopener noreferrer"><strong>Top Interview Kickstart Reviews on Reddit For Advanced Generative AI Course - Best GenAI Course For Software Developers and Engineers 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-29_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-05-31_02-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
