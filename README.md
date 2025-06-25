@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.hackster.io/news/pine64-packs-a-starpro64-into-a-passive-cooling-case-to-make-the-alpha-one-deepseek-gen-ai-box-9e8942b7dd18" target="_blank" rel="noopener noreferrer"><strong>PINE64 Packs a StarPro64 Into a Passive Cooling Case to Make the ALPHA-One DeepSeek Gen AI Box</strong></a>
+  <a href="https://financialit.net/news/machine-learning/broadridge-announces-new-patent-large-language-model-orchestration-machine" target="_blank" rel="noopener noreferrer"><strong>Broadridge Announces New Patent on Large Language Model Orchestration of Machine Learning Agents</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-11</em></p>
+<p align="center"><em>📅 Published: 2025-06-07_08-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
