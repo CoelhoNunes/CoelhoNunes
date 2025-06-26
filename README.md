@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.techtarget.com/searchenterpriseai/definition/GPT-3" target="_blank" rel="noopener noreferrer"><strong>What is GPT-3? Everything You Need to Know</strong></a>
+  <a href="https://indianexpress.com/article/technology/artificial-intelligence/google-offers-free-ai-courses-under-an-hour-each-10085037/" target="_blank" rel="noopener noreferrer"><strong>7 free Google AI courses: Master LLMs, ML, and more in under an hour</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-25_08-35</em></p>
+<p align="center"><em>📅 Published: 2025-06-25_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
