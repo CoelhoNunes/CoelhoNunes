@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-and-generative-ai-what-are-they-good-for" target="_blank" rel="noopener noreferrer"><strong>Machine learning and generative AI: What are they good for in 2025?</strong></a>
+  <a href="https://spectrum.ieee.org/deepmind-alphaevolve" target="_blank" rel="noopener noreferrer"><strong>New AI Model Advances the “Kissing Problem” and More</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_16-41</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
