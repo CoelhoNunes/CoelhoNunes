@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://spectrum.ieee.org/deepmind-alphaevolve" target="_blank" rel="noopener noreferrer"><strong>New AI Model Advances the “Kissing Problem” and More</strong></a>
+  <a href="https://techcrunch.com/2025/05/22/anthropics-latest-flagship-ai-sure-seems-to-love-using-the-cyclone-emoji/" target="_blank" rel="noopener noreferrer"><strong>Anthropic’s latest flagship AI sure seems to love using the ‘cyclone’ emoji</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-03</em></p>
+<p align="center"><em>📅 Published: 2025-05-27_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
