@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/06/05/top-artificial-intelligence-books-to-read-in-2025/" target="_blank" rel="noopener noreferrer"><strong>Top Artificial Intelligence AI Books to Read in 2025</strong></a>
+  <a href="https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-and-generative-ai-what-are-they-good-for" target="_blank" rel="noopener noreferrer"><strong>Machine learning and generative AI: What are they good for in 2025?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-05_08-39</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_16-41</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
