@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techcrunch.com/2025/05/22/anthropics-latest-flagship-ai-sure-seems-to-love-using-the-cyclone-emoji/" target="_blank" rel="noopener noreferrer"><strong>Anthropic’s latest flagship AI sure seems to love using the ‘cyclone’ emoji</strong></a>
+  <a href="https://trendsresearch.org/insight/machine-learning-for-endangered-language-preservation/" target="_blank" rel="noopener noreferrer"><strong>Machine Learning for Endangered Language Preservation</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-27_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-05-29_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
