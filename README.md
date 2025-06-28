@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://sakana.ai/ctm/" target="_blank" rel="noopener noreferrer"><strong>Introducing Continuous Thought Machines</strong></a>
+  <a href="https://www.techinasia.com/news/nvidias-ai-model-large-language-tasks-efficient" target="_blank" rel="noopener noreferrer"><strong>Nvidia’s new AI model makes large language tasks more efficient</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_16-23</em></p>
+<p align="center"><em>📅 Published: 2025-06-06_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
