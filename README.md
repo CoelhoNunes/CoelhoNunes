@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/fine-tune-large-language-models-with-reinforcement-learning-from-human-or-ai-feedback/" target="_blank" rel="noopener noreferrer"><strong>Fine-tune large language models with reinforcement learning from human or AI feedback</strong></a>
+  <a href="https://www.nature.com/articles/s41524-025-01554-0" target="_blank" rel="noopener noreferrer"><strong>Applications of natural language processing and large language models in materials discovery</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_16-18</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
