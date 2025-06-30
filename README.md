@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/topics/deep-learning" target="_blank" rel="noopener noreferrer"><strong>What Is Deep Learning?</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1568360/full" target="_blank" rel="noopener noreferrer"><strong>Generative AI cybersecurity and resilience</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-15_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_16-41</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
