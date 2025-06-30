@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/06/18/revisual-r1-an-open-source-7b-multimodal-large-language-model-mllms-that-achieves-long-accurate-and-thoughtful-reasoning/" target="_blank" rel="noopener noreferrer"><strong>ReVisual-R1: An Open-Source 7B Multimodal Large Language Model (MLLMs) that Achieves Long, Accurate and Thoughtful Reasoning</strong></a>
+  <a href="https://www.hackster.io/news/pine64-packs-a-starpro64-into-a-passive-cooling-case-to-make-the-alpha-one-deepseek-gen-ai-box-9e8942b7dd18" target="_blank" rel="noopener noreferrer"><strong>PINE64 Packs a StarPro64 Into a Passive Cooling Case to Make the ALPHA-One DeepSeek Gen AI Box</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-23_02-20</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
