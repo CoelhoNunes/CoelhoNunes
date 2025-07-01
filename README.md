@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/ebscolearning-scales-assessment-generation-for-their-online-learning-content-with-generative-ai/" target="_blank" rel="noopener noreferrer"><strong>EBSCOlearning scales assessment generation for their online learning content with generative AI</strong></a>
+  <a href="https://www.hindustantimes.com/cities/mumbai-news/iitbombay-leads-push-for-india-centric-ai-101748719053673.html" target="_blank" rel="noopener noreferrer"><strong>IIT-Bombay leads push for India-centric AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_08-40</em></p>
+<p align="center"><em>📅 Published: 2025-06-01_02-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
