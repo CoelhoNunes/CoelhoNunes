@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://explodingtopics.com/blog/best-ai-courses" target="_blank" rel="noopener noreferrer"><strong>10 Best AI Courses and Certifications in 2025</strong></a>
+  <a href="https://www.cnet.com/tech/services-and-software/chatgpt-glossary-50-ai-terms-everyone-should-know/" target="_blank" rel="noopener noreferrer"><strong>ChatGPT Glossary: 50 AI Terms Everyone Should Know</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-26_16-37</em></p>
+<p align="center"><em>📅 Published: 2025-05-28_08-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
