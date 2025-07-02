@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://ipwatchdog.com/2025/06/11/ai-machine-learning-patents-doomed-recentive/id=189573/" target="_blank" rel="noopener noreferrer"><strong>Are AI and Machine Learning Patents Doomed After Recentive?</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/racing-beyond-deepracer-debut-of-the-aws-llm-league/" target="_blank" rel="noopener noreferrer"><strong>Racing beyond DeepRacer: Debut of the AWS LLM League | Amazon Web Services</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-21_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-05-28_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
