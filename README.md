@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/racing-beyond-deepracer-debut-of-the-aws-llm-league/" target="_blank" rel="noopener noreferrer"><strong>Racing beyond DeepRacer: Debut of the AWS LLM League | Amazon Web Services</strong></a>
+  <a href="https://explodingtopics.com/blog/best-ai-courses" target="_blank" rel="noopener noreferrer"><strong>10 Best AI Courses and Certifications in 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-28_02-18</em></p>
+<p align="center"><em>📅 Published: 2025-05-26_16-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
