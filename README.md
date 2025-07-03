@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/detecting-malicious-urls-using-lstm-and-googles-bert-models/" target="_blank" rel="noopener noreferrer"><strong>Detecting Malicious URLs Using LSTM and Google’s BERT Models</strong></a>
+  <a href="https://www.marktechpost.com/2025/06/05/top-artificial-intelligence-books-to-read-in-2025/" target="_blank" rel="noopener noreferrer"><strong>Top Artificial Intelligence AI Books to Read in 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-29_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-06-05_08-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
