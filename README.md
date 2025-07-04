@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/06/18/revisual-r1-an-open-source-7b-multimodal-large-language-model-mllms-that-achieves-long-accurate-and-thoughtful-reasoning/" target="_blank" rel="noopener noreferrer"><strong>ReVisual-R1: An Open-Source 7B Multimodal Large Language Model (MLLMs) that Achieves Long, Accurate and Thoughtful Reasoning</strong></a>
+  <a href="https://www.thefastmode.com/technology-solutions/42252-indosat-supercharges-sahabat-ai-llm-with-70-billion-parameters-multilingual-chat" target="_blank" rel="noopener noreferrer"><strong>Indosat Supercharges Sahabat-AI LLM with 70 Billion Parameters, Multilingual Chat</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-23_02-20</em></p>
+<p align="center"><em>📅 Published: 2025-06-03_08-41</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
