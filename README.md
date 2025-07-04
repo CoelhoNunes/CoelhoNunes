@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.thefastmode.com/technology-solutions/42252-indosat-supercharges-sahabat-ai-llm-with-70-billion-parameters-multilingual-chat" target="_blank" rel="noopener noreferrer"><strong>Indosat Supercharges Sahabat-AI LLM with 70 Billion Parameters, Multilingual Chat</strong></a>
+  <a href="https://source.washu.edu/2025/02/washu-expert-how-deepseek-changes-the-ai-industry/" target="_blank" rel="noopener noreferrer"><strong>WashU Expert: How DeepSeek changes the AI industry</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-03_08-41</em></p>
+<p align="center"><em>📅 Published: 2025-05-25_08-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
