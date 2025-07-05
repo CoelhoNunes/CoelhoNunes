@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/" target="_blank" rel="noopener noreferrer"><strong>One year of Phi: Small language models making big leaps in AI</strong></a>
+  <a href="https://www.marktechpost.com/2025/06/10/meta-introduces-llamarl-a-scalable-pytorch-based-reinforcement-learning-rl-framework-for-efficient-llm-training-at-scale/" target="_blank" rel="noopener noreferrer"><strong>Meta Introduces LlamaRL: A Scalable PyTorch-Based Reinforcement Learning RL Framework for Efficient LLM Training at Scale</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-11</em></p>
+<p align="center"><em>📅 Published: 2025-06-14_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
