@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-56573-8" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence for modeling and understanding extreme weather and climate events</strong></a>
+  <a href="https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/" target="_blank" rel="noopener noreferrer"><strong>One year of Phi: Small language models making big leaps in AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_08-41</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
