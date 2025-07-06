@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1589788/full" target="_blank" rel="noopener noreferrer"><strong>Improving drug-drug interaction prediction via in-context learning and judging with large language models</strong></a>
+  <a href="https://www.newswise.com/articles/ai-deciphers-plant-dna-language-models-set-to-transform-genomics-and-agriculture" target="_blank" rel="noopener noreferrer"><strong>AI Deciphers Plant DNA: Language Models Set to Transform Genomics and Agriculture | Newswise</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_22-11</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
