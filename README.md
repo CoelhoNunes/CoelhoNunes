@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.moneytalksnews.com/slideshows/free-ai-training-courses-that-could-boost-your-career/" target="_blank" rel="noopener noreferrer"><strong>20 Free AI Training Courses That Could Boost Your Career</strong></a>
+  <a href="https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1589788/full" target="_blank" rel="noopener noreferrer"><strong>Improving drug-drug interaction prediction via in-context learning and judging with large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-30_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_22-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
