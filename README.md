@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://venturebeat.com/ai/sakana-introduces-new-ai-architecture-continuous-thought-machines-to-make-models-reason-with-less-guidance-like-human-brains/" target="_blank" rel="noopener noreferrer"><strong>Sakana introduces new AI architecture, 'Continuous Thought Machines' to make models reason with less guidance — like human brains</strong></a>
+  <a href="https://www.analyticsinsight.net/courses/top-udemy-courses-for-computer-vision-gen-ai-in-2025" target="_blank" rel="noopener noreferrer"><strong>Top Udemy Courses for Computer Vision & Gen AI in 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-21_03-31</em></p>
+<p align="center"><em>📅 Published: 2025-06-01_16-36</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
