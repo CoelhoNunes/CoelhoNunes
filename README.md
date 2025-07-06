@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.newswise.com/articles/ai-deciphers-plant-dna-language-models-set-to-transform-genomics-and-agriculture" target="_blank" rel="noopener noreferrer"><strong>AI Deciphers Plant DNA: Language Models Set to Transform Genomics and Agriculture | Newswise</strong></a>
+  <a href="https://venturebeat.com/ai/sakana-introduces-new-ai-architecture-continuous-thought-machines-to-make-models-reason-with-less-guidance-like-human-brains/" target="_blank" rel="noopener noreferrer"><strong>Sakana introduces new AI architecture, 'Continuous Thought Machines' to make models reason with less guidance — like human brains</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_02-23</em></p>
+<p align="center"><em>📅 Published: 2025-05-21_03-31</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
