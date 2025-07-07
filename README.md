@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.rcrwireless.com/20250606/ai-ml/ai-telecom-front-line-force" target="_blank" rel="noopener noreferrer"><strong>AI in telecom – from quiet power to front-line force</strong></a>
+  <a href="https://www.hindustantimes.com/cities/mumbai-news/iitbombay-leads-push-for-india-centric-ai-101748719053673.html" target="_blank" rel="noopener noreferrer"><strong>IIT-Bombay leads push for India-centric AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-08_21-57</em></p>
+<p align="center"><em>📅 Published: 2025-06-01_02-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
