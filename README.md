@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.analyticsinsight.net/courses/top-udemy-courses-for-computer-vision-gen-ai-in-2025" target="_blank" rel="noopener noreferrer"><strong>Top Udemy Courses for Computer Vision & Gen AI in 2025</strong></a>
+  <a href="https://www.rcrwireless.com/20250606/ai-ml/ai-telecom-front-line-force" target="_blank" rel="noopener noreferrer"><strong>AI in telecom – from quiet power to front-line force</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-01_16-36</em></p>
+<p align="center"><em>📅 Published: 2025-06-08_21-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
