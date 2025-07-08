@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nortonrosefulbright.com/en-ca/knowledge/publications/87200379/practical-commentary-regarding-copyright-and-generative-ai-training" target="_blank" rel="noopener noreferrer"><strong>Practical commentary regarding copyright and generative AI training | Canada | Global law firm</strong></a>
+  <a href="https://machinelearning.apple.com/research/transporting-activations" target="_blank" rel="noopener noreferrer"><strong>Controlling Language and Diffusion Models by Transporting Activations</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-06_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-13</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
