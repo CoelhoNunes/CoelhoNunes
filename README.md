@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.netguru.com/blog/ai-types" target="_blank" rel="noopener noreferrer"><strong>8 Types of AI You Should Know About in 2025</strong></a>
+  <a href="https://www.nature.com/articles/s42256-025-01044-4" target="_blank" rel="noopener noreferrer"><strong>Generalized biological foundation model with unified nucleic acid and protein language</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-03_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-06-21_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
