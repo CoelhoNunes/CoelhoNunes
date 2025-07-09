@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://hackernoon.com/criticism-of-ai-sounding-writing-overlooks-deeper-cultural-biases" target="_blank" rel="noopener noreferrer"><strong>Criticism of ‘AI-Sounding’ Writing Overlooks Deeper Cultural Biases</strong></a>
+  <a href="https://source.washu.edu/2025/02/washu-expert-how-deepseek-changes-the-ai-industry/" target="_blank" rel="noopener noreferrer"><strong>WashU Expert: How DeepSeek changes the AI industry</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-05-25_08-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
