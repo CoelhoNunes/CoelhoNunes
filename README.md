@@ -17,7 +17,7 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.predictiveanalyticsworld.com/machinelearningtimes/how-predictive-ai-will-solve-genais-deadly-reliability-problem/13859/" target="_blank" rel="noopener noreferrer"><strong>How Predictive AI Will Solve GenAI’s Deadly Reliability Problem</strong></a>
+  <a href="https://www.scmp.com/tech/big-tech/article/3314613/baidu-ramps-ai-hiring-china-faces-talent-crunch-joining-other-tech-giants" target="_blank" rel="noopener noreferrer"><strong>Baidu ramps up AI hiring as China faces talent crunch, joining other tech giants</strong></a>
 </p>
 
 <p align="center"><em>📅 Published: 2025-06-16_23-09</em></p>
