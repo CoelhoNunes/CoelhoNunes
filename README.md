@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/lu/artificial-intelligence/ai-translation/" target="_blank" rel="noopener noreferrer"><strong>Breaking language barriers: The power of AI translation</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/enterprise-grade-natural-language-to-sql-generation-using-llms-balancing-accuracy-latency-and-scale/" target="_blank" rel="noopener noreferrer"><strong>Enterprise-grade natural language to SQL generation using LLMs: Balancing accuracy, latency, and scale</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-05_08-39</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
