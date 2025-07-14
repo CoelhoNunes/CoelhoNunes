@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.martechcube.com/napster-returns-to-disrupt-ai-commerce-and-culture/" target="_blank" rel="noopener noreferrer"><strong>Napster Returns to Disrupt AI, Commerce, and Culture</strong></a>
+  <a href="https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/" target="_blank" rel="noopener noreferrer"><strong>What Is Retrieval-Augmented Generation, aka RAG?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-22_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
