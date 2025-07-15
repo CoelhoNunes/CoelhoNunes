@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1568360/full" target="_blank" rel="noopener noreferrer"><strong>Generative AI cybersecurity and resilience</strong></a>
+  <a href="https://www.aol.com/llms-ai-arent-same-everything-120019739.html" target="_blank" rel="noopener noreferrer"><strong>LLMs and AI Aren't the Same. Everything You Should Know About What's Behind Chatbots</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_16-41</em></p>
+<p align="center"><em>📅 Published: 2025-06-01_16-36</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
