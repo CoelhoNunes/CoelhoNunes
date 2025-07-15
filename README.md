@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.aol.com/llms-ai-arent-same-everything-120019739.html" target="_blank" rel="noopener noreferrer"><strong>LLMs and AI Aren't the Same. Everything You Should Know About What's Behind Chatbots</strong></a>
+  <a href="https://www.nature.com/articles/s41598-025-08208-7" target="_blank" rel="noopener noreferrer"><strong>Identifying artificial intelligence-generated content using the DistilBERT transformer and NLP techniques</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-01_16-36</em></p>
+<p align="center"><em>📅 Published: 2025-07-02_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
