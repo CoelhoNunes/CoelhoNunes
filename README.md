@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/insights-in-implementing-production-ready-solutions-with-generative-ai/" target="_blank" rel="noopener noreferrer"><strong>Insights in implementing production-ready solutions with generative AI</strong></a>
+  <a href="https://www.infoworld.com/article/2335213/large-language-models-the-foundations-of-generative-ai.html" target="_blank" rel="noopener noreferrer"><strong>Large language models: The foundations of generative AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-26_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
