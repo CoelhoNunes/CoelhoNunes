@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/05/21/meta-researchers-introduced-j1-a-reinforcement-learning-framework-that-trains-language-models-to-judge-with-reasoned-consistency-and-minimal-data/" target="_blank" rel="noopener noreferrer"><strong>Meta Researchers Introduced J1: A Reinforcement Learning Framework That Trains Language Models to Judge With Reasoned Consistency and Minimal Data</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/insights-in-implementing-production-ready-solutions-with-generative-ai/" target="_blank" rel="noopener noreferrer"><strong>Insights in implementing production-ready solutions with generative AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-22_02-16</em></p>
+<p align="center"><em>📅 Published: 2025-06-26_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
