@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://lithub.com/on-the-very-real-dangers-of-the-artificial-intelligence-hype-machine/" target="_blank" rel="noopener noreferrer"><strong>On the Very Real Dangers of the Artificial Intelligence Hype Machine</strong></a>
+  <a href="https://www.thehawk.in/news/health/large-language-models-can-accurately-predict-plant-gene-functions-study" target="_blank" rel="noopener noreferrer"><strong>Large language models can accurately predict plant gene functions: Study</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-11</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
