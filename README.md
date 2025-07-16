@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.infoworld.com/article/2335213/large-language-models-the-foundations-of-generative-ai.html" target="_blank" rel="noopener noreferrer"><strong>Large language models: The foundations of generative AI</strong></a>
+  <a href="https://www.miragenews.com/kaist-unveils-speechssm-for-247-ai-voice-1490834/" target="_blank" rel="noopener noreferrer"><strong>KAIST Unveils SpeechSSM for 24/7 AI Voice Assistant</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-22_02-16</em></p>
+<p align="center"><em>📅 Published: 2025-07-06_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
