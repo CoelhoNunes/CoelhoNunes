@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.thehawk.in/news/health/large-language-models-can-accurately-predict-plant-gene-functions-study" target="_blank" rel="noopener noreferrer"><strong>Large language models can accurately predict plant gene functions: Study</strong></a>
+  <a href="https://9meters.com/technology/ai/chinas-non%E2%80%91binary-ai-chip-enters-mass-production" target="_blank" rel="noopener noreferrer"><strong>China’s “Non‑Binary” AI Chip Enters Mass Production</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_02-23</em></p>
+<p align="center"><em>📅 Published: 2025-06-10_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
