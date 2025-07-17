@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-01104-0" target="_blank" rel="noopener noreferrer"><strong>A modernized approach to sentiment analysis of product reviews using BiGRU and RNN based LSTM deep learning models</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/a-generative-ai-prototype-with-amazon-bedrock-transforms-life-sciences-and-the-genome-analysis-process/" target="_blank" rel="noopener noreferrer"><strong>A generative AI prototype with Amazon Bedrock transforms life sciences and the genome analysis process</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-05</em></p>
+<p align="center"><em>📅 Published: 2025-05-29_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
