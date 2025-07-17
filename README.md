@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://venturebeat.com/ai/sakana-introduces-new-ai-architecture-continuous-thought-machines-to-make-models-reason-with-less-guidance-like-human-brains/" target="_blank" rel="noopener noreferrer"><strong>Sakana introduces new AI architecture, 'Continuous Thought Machines' to make models reason with less guidance — like human brains</strong></a>
+  <a href="https://www.nature.com/articles/s41598-025-01104-0" target="_blank" rel="noopener noreferrer"><strong>A modernized approach to sentiment analysis of product reviews using BiGRU and RNN based LSTM deep learning models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-21_03-31</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
