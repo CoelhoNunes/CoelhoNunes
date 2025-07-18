@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://phys.org/news/2025-05-unknown-molecules-ai.html" target="_blank" rel="noopener noreferrer"><strong>Researchers discover unknown molecules with the help of AI</strong></a>
+  <a href="https://news.med.miami.edu/new-ai-class-helps-medical-students-dissect-artificial-intelligence/" target="_blank" rel="noopener noreferrer"><strong>New AI Class Helps Medical Students Dissect Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-27_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-06-19_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
