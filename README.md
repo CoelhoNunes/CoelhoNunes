@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-inference-market-report" target="_blank" rel="noopener noreferrer"><strong>AI Inference Market Size And Trends | Industry Report, 2030</strong></a>
+  <a href="http://news.ucsc.edu/2025/02/ai-browser-tracks.html" target="_blank" rel="noopener noreferrer"><strong>Newest Genome Browser features highlight the power of generative AI and machine learning for biology</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-29_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-05-24_16-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
