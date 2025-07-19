@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/06/18/revisual-r1-an-open-source-7b-multimodal-large-language-model-mllms-that-achieves-long-accurate-and-thoughtful-reasoning/" target="_blank" rel="noopener noreferrer"><strong>ReVisual-R1: An Open-Source 7B Multimodal Large Language Model (MLLMs) that Achieves Long, Accurate and Thoughtful Reasoning</strong></a>
+  <a href="https://ai-scholar.tech/en/articles/llm-paper%2Fdicow-diarizen" target="_blank" rel="noopener noreferrer"><strong>A New Wave of Multispeaker Speech Recognition! The Challenge of High Accuracy Systems by DiCoW and DiariZen</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-23_02-20</em></p>
+<p align="center"><em>📅 Published: 2025-07-07_02-20</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
