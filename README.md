@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work" target="_blank" rel="noopener noreferrer"><strong>Superagency in the workplace: Empowering people to unlock AI’s full potential</strong></a>
+  <a href="https://www.marktechpost.com/2025/06/18/revisual-r1-an-open-source-7b-multimodal-large-language-model-mllms-that-achieves-long-accurate-and-thoughtful-reasoning/" target="_blank" rel="noopener noreferrer"><strong>ReVisual-R1: An Open-Source 7B Multimodal Large Language Model (MLLMs) that Achieves Long, Accurate and Thoughtful Reasoning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-25_16-36</em></p>
+<p align="center"><em>📅 Published: 2025-06-23_02-20</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
