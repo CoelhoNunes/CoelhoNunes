@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="http://news.ucsc.edu/2025/02/ai-browser-tracks.html" target="_blank" rel="noopener noreferrer"><strong>Newest Genome Browser features highlight the power of generative AI and machine learning for biology</strong></a>
+  <a href="https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work" target="_blank" rel="noopener noreferrer"><strong>Superagency in the workplace: Empowering people to unlock AI’s full potential</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-24_16-35</em></p>
+<p align="center"><em>📅 Published: 2025-05-25_16-36</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
