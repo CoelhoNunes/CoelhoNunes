@@ -17,7 +17,7 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/06/21/this-ai-paper-introduces-wings-a-dual-learner-architecture-to-prevent-text-only-forgetting-in-multimodal-large-language-models/" target="_blank" rel="noopener noreferrer"><strong>This AI Paper Introduces WINGS: A Dual-Learner Architecture to Prevent Text-Only Forgetting in Multimodal Large Language Models</strong></a>
+  <a href="https://www.marktechpost.com/2025/06/20/meta-ai-researchers-introduced-a-scalable-byte-level-autoregressive-u-net-model-that-outperforms-token-based-transformers-across-language-modeling-benchmarks/" target="_blank" rel="noopener noreferrer"><strong>Meta AI Researchers Introduced a Scalable Byte-Level Autoregressive U-Net Model That Outperforms Token-Based Transformers Across Language Modeling Benchmarks</strong></a>
 </p>
 
 <p align="center"><em>📅 Published: 2025-06-22_02-22</em></p>
