@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techcrunch.com/2025/05/22/anthropics-latest-flagship-ai-sure-seems-to-love-using-the-cyclone-emoji/" target="_blank" rel="noopener noreferrer"><strong>Anthropic’s latest flagship AI sure seems to love using the ‘cyclone’ emoji</strong></a>
+  <a href="https://www.psychologytoday.com/au/blog/the-future-brain/202505/enhanced-llm-aces-the-us-medical-licensing-examination" target="_blank" rel="noopener noreferrer"><strong>New AI tool outperforms most physicians and other AI on medical exam.</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-27_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-05-29_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
