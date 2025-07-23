@@ -17,7 +17,7 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.psychologytoday.com/au/blog/the-future-brain/202505/enhanced-llm-aces-the-us-medical-licensing-examination" target="_blank" rel="noopener noreferrer"><strong>New AI tool outperforms most physicians and other AI on medical exam.</strong></a>
+  <a href="https://www.blockchain-council.org/ai-certification-courses/" target="_blank" rel="noopener noreferrer"><strong>AI Certification Courses</strong></a>
 </p>
 
 <p align="center"><em>📅 Published: 2025-05-29_16-39</em></p>
