@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.unite.ai/ai-hype-fatigue-why-journalists-are-snoozing-on-your-press-release/" target="_blank" rel="noopener noreferrer"><strong>AI Hype Fatigue: Why Journalists Are Snoozing on Your Press Release</strong></a>
+  <a href="https://www.nature.com/articles/s41467-025-56989-2" target="_blank" rel="noopener noreferrer"><strong>Benchmarking large language models for biomedical natural language processing applications and recommendations</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_22-11</em></p>
+<p align="center"><em>📅 Published: 2025-07-16_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
