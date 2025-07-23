@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techxplore.com/news/2025-06-lost-middle-llm-architecture-ai.html" target="_blank" rel="noopener noreferrer"><strong>Lost in the middle: How LLM architecture and training data shape AI's position bias</strong></a>
+  <a href="https://www.psychologytoday.com/au/blog/the-future-brain/202505/enhanced-llm-aces-the-us-medical-licensing-examination" target="_blank" rel="noopener noreferrer"><strong>New AI tool outperforms most physicians and other AI on medical exam.</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-18_02-06</em></p>
+<p align="center"><em>📅 Published: 2025-05-29_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
