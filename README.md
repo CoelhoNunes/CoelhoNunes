@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-56989-2" target="_blank" rel="noopener noreferrer"><strong>Benchmarking large language models for biomedical natural language processing applications and recommendations</strong></a>
+  <a href="https://www.sanofi.com/en/our-science/digital-artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>Digital Transformation and Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-16_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-06-15_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
