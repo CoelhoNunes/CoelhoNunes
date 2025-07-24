@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.eweek.com/artificial-intelligence/large-language-model/" target="_blank" rel="noopener noreferrer"><strong>Large Language Model: A Guide To The Question ‘What Is An LLM”</strong></a>
+  <a href="https://www.madinamerica.com/2025/06/ai-medical-advice-biased-against-marginalized-people/" target="_blank" rel="noopener noreferrer"><strong>AI Medical Advice Biased Against Marginalized People</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-23_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-06-16_23-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
