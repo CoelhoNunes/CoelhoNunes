@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.businesswire.com/news/home/20250501694064/en/IonQ-Demonstrates-Quantum-Enhanced-Applications-Advancing-AI" target="_blank" rel="noopener noreferrer"><strong>IonQ Demonstrates Quantum-Enhanced Applications Advancing AI</strong></a>
+  <a href="https://www.nature.com/articles/s41467-025-56573-8" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence for modeling and understanding extreme weather and climate events</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-13</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_08-41</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
