@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.hackster.io/news/apple-opens-access-to-its-on-device-large-language-model-integrates-chatgpt-into-xcode-2abe4c6c5b18" target="_blank" rel="noopener noreferrer"><strong>Apple Opens Access to Its On-Device Large Language Model, Integrates ChatGPT Into Xcode</strong></a>
+  <a href="https://www.bu.edu/cds-faculty/2025/06/02/pacchiano-new-method-adaptive-llms/" target="_blank" rel="noopener noreferrer"><strong>Teaching AI to Personalize: Aldo Pacchiano Introduces a New Method for Adaptive Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-11_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-06-03_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
