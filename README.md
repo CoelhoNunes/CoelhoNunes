@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1408817/full" target="_blank" rel="noopener noreferrer"><strong>David vs. Goliath: comparing conventional machine learning and a large language model for assessing students' concept use in a physics problem</strong></a>
+  <a href="https://hai.stanford.edu/research/how-persuasive-is-ai-generated-propaganda" target="_blank" rel="noopener noreferrer"><strong>How Persuasive Is AI-generated Propaganda?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-01_16-36</em></p>
+<p align="center"><em>📅 Published: 2025-06-08_16-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
