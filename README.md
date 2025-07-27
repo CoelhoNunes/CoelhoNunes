@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://gizmodo.com/things-humans-still-do-better-than-ai-understanding-flowers-2000611412" target="_blank" rel="noopener noreferrer"><strong>Things Humans Still Do Better Than AI: Understanding Flowers</strong></a>
+  <a href="https://news.med.miami.edu/new-ai-class-helps-medical-students-dissect-artificial-intelligence/" target="_blank" rel="noopener noreferrer"><strong>New AI Class Helps Medical Students Dissect Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-05_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-06-19_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
