@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://fortune.com/2025/05/20/kumo-ai-rfm-foundation-model-for-predictions-shows-power-of-smaller-foundation-models-eye-on-ai/" target="_blank" rel="noopener noreferrer"><strong>Kumo AI's new RFM model showcases the power of more narrow foundation models</strong></a>
+  <a href="https://techcrunch.com/2025/05/22/anthropic-ceo-claims-ai-models-hallucinate-less-than-humans/" target="_blank" rel="noopener noreferrer"><strong>Anthropic CEO claims AI models hallucinate less than humans</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-21_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-05-26_09-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
