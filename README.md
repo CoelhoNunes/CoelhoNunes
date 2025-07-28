@@ -17,7 +17,7 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://today.ucsd.edu/story/uc-san-diego-machine-learning-initiative-aims-to-advance-ai-systems" target="_blank" rel="noopener noreferrer"><strong>UC San Diego’s Machine Learning Initiative Aims to Advance AI Systems</strong></a>
+  <a href="https://fortune.com/2025/05/20/kumo-ai-rfm-foundation-model-for-predictions-shows-power-of-smaller-foundation-models-eye-on-ai/" target="_blank" rel="noopener noreferrer"><strong>Kumo AI's new RFM model showcases the power of more narrow foundation models</strong></a>
 </p>
 
 <p align="center"><em>📅 Published: 2025-05-21_08-38</em></p>
