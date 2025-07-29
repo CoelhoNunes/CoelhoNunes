@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techcrunch.com/2025/05/22/anthropic-ceo-claims-ai-models-hallucinate-less-than-humans/" target="_blank" rel="noopener noreferrer"><strong>Anthropic CEO claims AI models hallucinate less than humans</strong></a>
+  <a href="https://www.unite.ai/deepcoder-14b-the-open-source-ai-model-enhancing-developer-productivity-and-innovation/" target="_blank" rel="noopener noreferrer"><strong>DeepCoder-14B: The Open-Source AI Model Enhancing Developer Productivity and Innovation</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-26_09-01</em></p>
+<p align="center"><em>📅 Published: 2025-06-16_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
