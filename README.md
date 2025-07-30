@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://venturebeat.com/ai/kumos-relational-foundation-model-predicts-the-future-your-llm-cant-see/" target="_blank" rel="noopener noreferrer"><strong>Kumo’s ‘relational foundation model’ predicts the future your LLM can’t see</strong></a>
+  <a href="https://www.businesswire.com/news/home/20250311548179/en/ScaleOut-Software-Adds-Generative-AI-and-Machine-Learning-Capabilities-with-Version-4-Release" target="_blank" rel="noopener noreferrer"><strong>ScaleOut Software Adds Generative AI and Machine Learning Capabilities with Version 4 Release</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-03_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-05-31_08-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
