@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.unite.ai/deepcoder-14b-the-open-source-ai-model-enhancing-developer-productivity-and-innovation/" target="_blank" rel="noopener noreferrer"><strong>DeepCoder-14B: The Open-Source AI Model Enhancing Developer Productivity and Innovation</strong></a>
+  <a href="https://machinelearning.apple.com/research/do-llms-know-internally" target="_blank" rel="noopener noreferrer"><strong>Do LLMs Know Internally When They Follow Instructions?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-16_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-05-28_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
