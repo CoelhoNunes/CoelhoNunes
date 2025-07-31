@@ -17,7 +17,7 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.morningstar.com/news/pr-newswire/20250630ny20018/race-against-the-machine-pearson-expands-ai-content-to-equip-learners-for-future-of-work" target="_blank" rel="noopener noreferrer"><strong>Race Against the Machine: Pearson Expands AI Content to Equip Learners for Future of Work</strong></a>
+  <a href="https://www.ibm.com/think/topics/ai-reasoning" target="_blank" rel="noopener noreferrer"><strong>What Is Reasoning in AI?</strong></a>
 </p>
 
 <p align="center"><em>📅 Published: 2025-07-01_02-25</em></p>
