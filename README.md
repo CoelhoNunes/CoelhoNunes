@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.zdnet.com/article/how-chatgpt-actually-works-and-why-its-been-so-game-changing/" target="_blank" rel="noopener noreferrer"><strong>How ChatGPT actually works (and why it's been so game-changing)</strong></a>
+  <a href="https://blogs.nvidia.com/blog/ai-blueprint-fraud-detection/" target="_blank" rel="noopener noreferrer"><strong>Bring Receipts: New NVIDIA AI Blueprint Detects Fraudulent Credit Card Transactions With Precision</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-10_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-06-05_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
