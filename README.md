@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/07/03/thought-anchors-a-machine-learning-framework-for-identifying-and-measuring-key-reasoning-steps-in-large-language-models-with-precision/" target="_blank" rel="noopener noreferrer"><strong>Thought Anchors: A Machine Learning Framework for Identifying and Measuring Key Reasoning Steps in Large Language Models with Precision</strong></a>
+  <a href="https://www.nature.com/articles/s41524-025-01538-0" target="_blank" rel="noopener noreferrer"><strong>Foundation models for materials discovery – current state and future directions | npj Computational Materials</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-04_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-07-30_02-24</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
