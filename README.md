@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41524-025-01538-0" target="_blank" rel="noopener noreferrer"><strong>Foundation models for materials discovery – current state and future directions | npj Computational Materials</strong></a>
+  <a href="https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2025.65" target="_blank" rel="noopener noreferrer"><strong>As AI giants duel, the Global South builds its own brainpower</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-30_02-24</em></p>
+<p align="center"><em>📅 Published: 2025-05-20_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
