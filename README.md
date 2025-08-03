@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/differential-privacy-aggregate-trends" target="_blank" rel="noopener noreferrer"><strong>Understanding Aggregate Trends for Apple Intelligence Using Differential Privacy</strong></a>
+  <a href="https://hbr.org/2025/06/forget-what-you-know-about-seo-heres-how-to-optimize-your-brand-for-llms" target="_blank" rel="noopener noreferrer"><strong>Forget What You Know About Search. Optimize Your Brand for LLMs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-29_02-24</em></p>
+<p align="center"><em>📅 Published: 2025-06-08_16-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
