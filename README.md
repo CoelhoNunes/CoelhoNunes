@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.msspalert.com/news/crowdstrike-and-nvidia-add-llm-security-offer-new-service-for-mssps" target="_blank" rel="noopener noreferrer"><strong>CrowdStrike and Nvidia Add LLM Security, Offer New Service for MSSPs</strong></a>
+  <a href="https://hbr.org/2025/06/forget-what-you-know-about-seo-heres-how-to-optimize-your-brand-for-llms" target="_blank" rel="noopener noreferrer"><strong>Forget What You Know About Search. Optimize Your Brand for LLMs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-14_02-02</em></p>
+<p align="center"><em>📅 Published: 2025-06-08_16-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
