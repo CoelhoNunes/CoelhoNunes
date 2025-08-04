@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://hbr.org/2025/06/forget-what-you-know-about-seo-heres-how-to-optimize-your-brand-for-llms" target="_blank" rel="noopener noreferrer"><strong>Forget What You Know About Search. Optimize Your Brand for LLMs</strong></a>
+  <a href="https://www.marktechpost.com/2025/06/05/top-artificial-intelligence-books-to-read-in-2025/" target="_blank" rel="noopener noreferrer"><strong>Top Artificial Intelligence AI Books to Read in 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-08_16-37</em></p>
+<p align="center"><em>📅 Published: 2025-06-05_08-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
