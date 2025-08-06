@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.aboutamazon.sg/news/aws/aws-ai-spring-progressing-singapores-ai-vision" target="_blank" rel="noopener noreferrer"><strong>AWS AI Spring – Progressing Singapore’s AI vision</strong></a>
+  <a href="https://www.kdnuggets.com/wtf-is-grpo" target="_blank" rel="noopener noreferrer"><strong>WTF is GRPO?!?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-29_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-06-05_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
