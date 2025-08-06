@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://hitconsultant.net/2025/06/26/ai-breakthrough-reveals-2025-ai-breakthrough-award-winners/" target="_blank" rel="noopener noreferrer"><strong>AI Breakthrough Reveals 2025 AI Breakthrough Award Winners</strong></a>
+  <a href="https://www.aboutamazon.sg/news/aws/aws-ai-spring-progressing-singapores-ai-vision" target="_blank" rel="noopener noreferrer"><strong>AWS AI Spring – Progressing Singapore’s AI vision</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-27_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-05-29_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
