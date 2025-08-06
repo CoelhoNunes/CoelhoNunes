@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://huggingface.co/CompVis/stable-diffusion-v1-4" target="_blank" rel="noopener noreferrer"><strong>CompVis/stable-diffusion-v1-4</strong></a>
+  <a href="https://www.hackster.io/news/x-origin-s-chatgpt-powered-yonbo-companion-bot-promises-fun-learning-and-mental-health-evaluations-10098fb073d5" target="_blank" rel="noopener noreferrer"><strong>X-Origin's ChatGPT-Powered Yonbo Companion Bot Promises Fun, Learning, and Mental Health Evaluations</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-18_17-25</em></p>
+<p align="center"><em>📅 Published: 2025-05-28_16-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
