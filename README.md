@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.simplilearn.com/top-technology-trends-and-jobs-article" target="_blank" rel="noopener noreferrer"><strong>25 New Technology Trends for 2025</strong></a>
+  <a href="https://machinelearning.apple.com/research/do-llms-know-internally" target="_blank" rel="noopener noreferrer"><strong>Do LLMs Know Internally When They Follow Instructions?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-16</em></p>
+<p align="center"><em>📅 Published: 2025-05-28_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
