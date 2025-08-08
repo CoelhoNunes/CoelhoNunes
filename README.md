@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://ppc.land/study-large-language-models-qualify-as-personal-data/" target="_blank" rel="noopener noreferrer"><strong>Study: large language models qualify as personal data</strong></a>
+  <a href="https://www.kdnuggets.com/the-ultimate-guide-to-learning-anything-with-notebooklm" target="_blank" rel="noopener noreferrer"><strong>The Ultimate Guide to Learning Anything with NotebookLM</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-25_02-21</em></p>
+<p align="center"><em>📅 Published: 2025-05-21_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
