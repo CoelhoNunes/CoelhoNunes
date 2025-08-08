@@ -109,7 +109,7 @@
       <img src="https://www.svgrepo.com/show/373541/cuda.svg" width="60" /><br>CUDA
     </td>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/NVIDIA_logo.svg" width="60" /><br>NVIDIA
+      <img src="https://www.svgrepo.com/show/373541/cuda.svg" width="60" /><br>NVIDIA
     </td>
   </tr>
 </table>
