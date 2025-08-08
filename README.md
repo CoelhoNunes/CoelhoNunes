@@ -93,7 +93,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /><br>Linux
     </td>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/UbuntuCoF.svg" width="50" /><br>Ubuntu
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="50" /><br>Ubuntu
     </td>
   </tr>
 
