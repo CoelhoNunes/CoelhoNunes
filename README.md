@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.sciencedirect.com/science/article/pii/S2090123225001092" target="_blank" rel="noopener noreferrer"><strong>AI-enabled language models (LMs) to large language models (LLMs) and multimodal large language models (MLLMs) in drug discovery and development</strong></a>
+  <a href="https://www.prweb.com/releases/quantum-leap-in-financial-ai-zoonovas-llm-ml-fusion-outperforms-the-market-302462712.html" target="_blank" rel="noopener noreferrer"><strong>Quantum Leap in Financial AI: Zoonova's LLM-ML Fusion Outperforms the Market</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-28_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_16-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
