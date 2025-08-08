@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.kdnuggets.com/the-ultimate-guide-to-learning-anything-with-notebooklm" target="_blank" rel="noopener noreferrer"><strong>The Ultimate Guide to Learning Anything with NotebookLM</strong></a>
+  <a href="https://dev.ua/en/news/rekomendatsii-mintsyfry-pro-shi-1748940783" target="_blank" rel="noopener noreferrer"><strong>32 tools for developing AI solutions. The Ministry of Digital Transformation has published recommendations for AI startups</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-21_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-06-04_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
