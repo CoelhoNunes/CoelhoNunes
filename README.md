@@ -49,16 +49,20 @@
     </td>
   </tr>
 
-  <!-- Terminal / Tools -->
+  <!-- Web + Tools -->
   <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /><br>HTML
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /><br>CSS
+    </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" /><br>Bash
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br>Git
     </td>
-    <td align="center" width="100"></td>
-    <td align="center" width="100"></td>
   </tr>
 
   <!-- AI / ML Frameworks -->
@@ -76,16 +80,8 @@
       <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="50" /><br>Hugging Face
     </td>
   </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/CUDA_logo.svg" width="60" /><br>CUDA
-    </td>
-    <td align="center" width="100"></td>
-    <td align="center" width="100"></td>
-    <td align="center" width="100"></td>
-  </tr>
 
-  <!-- Cloud Platforms -->
+  <!-- Cloud & OS -->
   <tr>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" /><br>AWS
@@ -93,46 +89,31 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" /><br>GCP
     </td>
-    <td align="center" width="100"></td>
-    <td align="center" width="100"></td>
-  </tr>
-
-  <!-- Operating Systems / Platforms -->
-  <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /><br>Linux
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" /><br>Ubuntu
     </td>
+  </tr>
+
+  <!-- Platforms / IDE / GPU -->
+  <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" /><br>Android
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="50" /><br>Xcode
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="100">
+      <img src="https://www.svgrepo.com/show/373541/cuda.svg" width="60" /><br>CUDA
+    </td>
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/NVIDIA_logo.svg" width="60" /><br>NVIDIA
     </td>
-    <td align="center" width="100"></td>
-    <td align="center" width="100"></td>
-    <td align="center" width="100"></td>
-  </tr>
-
-  <!-- Web Development -->
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /><br>HTML
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /><br>CSS
-    </td>
-    <td align="center" width="100"></td>
-    <td align="center" width="100"></td>
   </tr>
 </table>
+
 
 
 <p align="center">
