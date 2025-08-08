@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://dev.ua/en/news/rekomendatsii-mintsyfry-pro-shi-1748940783" target="_blank" rel="noopener noreferrer"><strong>32 tools for developing AI solutions. The Ministry of Digital Transformation has published recommendations for AI startups</strong></a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S2090123225001092" target="_blank" rel="noopener noreferrer"><strong>AI-enabled language models (LMs) to large language models (LLMs) and multimodal large language models (MLLMs) in drug discovery and development</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-06-28_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
