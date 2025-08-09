@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/topics/self-supervised-learning" target="_blank" rel="noopener noreferrer"><strong>What Is Self-Supervised Learning?</strong></a>
+  <a href="https://www.globes.co.il/news/article.aspx?did=1001516449" target="_blank" rel="noopener noreferrer"><strong>AI experts command the highest salaries in Israeli tech</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_22-14</em></p>
+<p align="center"><em>📅 Published: 2025-07-21_02-27</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
@@ -33,6 +33,7 @@
 <h2 align="center">🛠 Tech Toolbox</h2>
 
 <table align="center">
+  <!-- Programming Languages -->
   <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /><br>Python
@@ -41,12 +42,14 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /><br>C++
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /><br>SQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" /><br>C
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" /><br>Bash
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /><br>SQL
     </td>
   </tr>
+
+  <!-- Web + Tools -->
   <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /><br>HTML
@@ -55,30 +58,47 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /><br>CSS
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" /><br>PyTorch
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" /><br>Bash
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" /><br>Scikit-Learn
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br>Git
     </td>
   </tr>
+
+  <!-- AI / ML Frameworks -->
   <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" /><br>PyTorch
+    </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" /><br>TensorFlow
     </td>
     <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" /><br>Scikit-Learn
+    </td>
+    <td align="center" width="100">
       <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="50" /><br>Hugging Face
     </td>
+  </tr>
+
+  <!-- Cloud & OS -->
+  <tr>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" /><br>AWS
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" /><br>GCP
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /><br>Linux
     </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="50" /><br>Ubuntu
+    </td>
+  </tr>
+
+  <!-- Platforms / IDE / GPU -->
+  <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" /><br>Android
     </td>
@@ -86,7 +106,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="50" /><br>Xcode
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br>Git
+      <img src="https://www.svgrepo.com/show/373541/cuda.svg" width="60" /><br>CUDA
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.svgrepo.com/show/373541/cuda.svg" width="60" /><br>NVIDIA
     </td>
   </tr>
 </table>
