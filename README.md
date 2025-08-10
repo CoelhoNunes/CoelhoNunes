@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.globes.co.il/news/article.aspx?did=1001516449" target="_blank" rel="noopener noreferrer"><strong>AI experts command the highest salaries in Israeli tech</strong></a>
+  <a href="https://www.nature.com/articles/s41599-025-04633-1" target="_blank" rel="noopener noreferrer"><strong>Interpreting text corpora from androids-related stories using large language models: “Machines like me” by Ian McEwan in generative AI | Humanities and Social Sciences Communications</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-21_02-27</em></p>
+<p align="center"><em>📅 Published: 2025-06-03_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
