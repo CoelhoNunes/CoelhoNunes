@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.besttechie.com/complete-guide-to-artificial-intelligence-in-2025-from-basics-to-advanced-applications/" target="_blank" rel="noopener noreferrer"><strong>Complete Guide to Artificial Intelligence in 2025: From Basics to Advanced Applications</strong></a>
+  <a href="https://www.nationalmortgagenews.com/list/inside-onitys-ai-driven-mortgage-strategy" target="_blank" rel="noopener noreferrer"><strong>How Onity Group is making use of AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-26_02-20</em></p>
+<p align="center"><em>📅 Published: 2025-07-09_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
