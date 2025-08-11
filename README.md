@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://nianticlabs.com/news/largegeospatialmodel/" target="_blank" rel="noopener noreferrer"><strong>Building a Large Geospatial Model to Achieve Spatial Intelligence</strong></a>
+  <a href="https://www.marktechpost.com/2025/07/23/amazon-researchers-reveal-mitra-advancing-tabular-machine-learning-with-synthetic-priors/" target="_blank" rel="noopener noreferrer"><strong>Amazon Researchers Reveal Mitra: Advancing Tabular Machine Learning with Synthetic Priors</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-28_08-39</em></p>
+<p align="center"><em>📅 Published: 2025-07-24_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
