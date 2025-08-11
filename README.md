@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.med.miami.edu/new-ai-class-helps-medical-students-dissect-artificial-intelligence/" target="_blank" rel="noopener noreferrer"><strong>New AI Class Helps Medical Students Dissect Artificial Intelligence</strong></a>
+  <a href="https://blogs.nvidia.com/blog/ai-blueprint-fraud-detection/" target="_blank" rel="noopener noreferrer"><strong>Bring Receipts: New NVIDIA AI Blueprint Detects Fraudulent Credit Card Transactions With Precision</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-19_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-06-05_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
