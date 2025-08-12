@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/07/23/amazon-researchers-reveal-mitra-advancing-tabular-machine-learning-with-synthetic-priors/" target="_blank" rel="noopener noreferrer"><strong>Amazon Researchers Reveal Mitra: Advancing Tabular Machine Learning with Synthetic Priors</strong></a>
+  <a href="https://www.indiatoday.in/education-today/jobs-and-careers/story/metas-elite-ai-hires-education-and-career-path-to-inspire-your-own-journey-2752622-2025-07-08" target="_blank" rel="noopener noreferrer"><strong>Meta's $100 million AI hires reveal roadmap to becoming a top AI talent</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-24_02-21</em></p>
+<p align="center"><em>📅 Published: 2025-07-10_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
