@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.wired.com/story/former-top-google-researchers-have-made-a-new-kind-of-ai-agent/" target="_blank" rel="noopener noreferrer"><strong>Former Top Google Researchers Have Made a New Kind of AI Agent</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1590105/abstract" target="_blank" rel="noopener noreferrer"><strong>Evaluation of Large Language Model-Driven AutoML in Data and Model Management from Human-Centered Perspective</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-27_02-31</em></p>
+<p align="center"><em>📅 Published: 2025-07-12_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
