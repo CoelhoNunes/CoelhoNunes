@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.indiatoday.in/education-today/jobs-and-careers/story/metas-elite-ai-hires-education-and-career-path-to-inspire-your-own-journey-2752622-2025-07-08" target="_blank" rel="noopener noreferrer"><strong>Meta's $100 million AI hires reveal roadmap to becoming a top AI talent</strong></a>
+  <a href="https://www.nature.com/articles/s41467-025-59628-y" target="_blank" rel="noopener noreferrer"><strong>Token-Mol 1.0: tokenized drug design with large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-10_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
