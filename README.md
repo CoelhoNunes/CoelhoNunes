@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/modeling-capabilities-of-language" target="_blank" rel="noopener noreferrer"><strong>On the Modeling Capabilities of Large Language Models for Sequential Decision Making</strong></a>
+  <a href="https://www.ibm.com/think/topics/vision-language-models" target="_blank" rel="noopener noreferrer"><strong>What Are Vision Language Models (VLMs)?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-21_03-31</em></p>
+<p align="center"><em>📅 Published: 2025-05-29_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
