@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.quantamagazine.org/to-make-language-models-work-better-researchers-sidestep-language-20250414/" target="_blank" rel="noopener noreferrer"><strong>To Make Language Models Work Better, Researchers Sidestep Language</strong></a>
+  <a href="https://blogs.nvidia.com/blog/what-are-foundation-models/" target="_blank" rel="noopener noreferrer"><strong>What Are Foundation Models?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-20_02-30</em></p>
+<p align="center"><em>📅 Published: 2025-06-05_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
