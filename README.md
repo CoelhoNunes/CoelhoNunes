@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.newindianexpress.com/states/karnataka/2025/Jun/23/iisc-trying-to-teach-machines-to-understand-voice-amid-noise" target="_blank" rel="noopener noreferrer"><strong>IISc trying to teach machines to understand voice amid noise</strong></a>
+  <a href="https://www.trendmicro.com/en_sg/what-is/ai/ai-security.html" target="_blank" rel="noopener noreferrer"><strong>What Is AI Security?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-23_02-20</em></p>
+<p align="center"><em>📅 Published: 2025-06-24_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
