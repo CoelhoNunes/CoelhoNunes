@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/au/artificial-intelligence/ai-translation/" target="_blank" rel="noopener noreferrer"><strong>Breaking language barriers: The power of AI translation</strong></a>
+  <a href="https://phys.org/news/2025-05-unknown-molecules-ai.html" target="_blank" rel="noopener noreferrer"><strong>Researchers discover unknown molecules with the help of AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-30_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-05-27_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
