@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://embeddedcomputing.com/technology/ai-machine-learning/ai-logic-devices-worload-acceleration/premio-rolls-out-compact-edge-server-for-industrial-grade-genai-deployment" target="_blank" rel="noopener noreferrer"><strong>Premio Rolls Out Compact Edge Server for Industrial-Grade GenAI Deployment</strong></a>
+  <a href="https://www.nature.com/articles/s41698-025-00986-7" target="_blank" rel="noopener noreferrer"><strong>Progress and challenges of artificial intelligence in lung cancer clinical translation</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-09_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-07-04_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
