@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.techtarget.com/searchenterpriseai/definition/vision-language-models-VLMs" target="_blank" rel="noopener noreferrer"><strong>What are vision language models (VLMs)?</strong></a>
+  <a href="https://techxplore.com/news/2025-07-qa-professor-science-ai-human.html" target="_blank" rel="noopener noreferrer"><strong>Q&A with professor of computer science: What happens when AI faces the human problem of uncertainty?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-25_02-25</em></p>
+<p align="center"><em>📅 Published: 2025-07-25_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
