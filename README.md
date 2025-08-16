@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techxplore.com/news/2025-07-qa-professor-science-ai-human.html" target="_blank" rel="noopener noreferrer"><strong>Q&A with professor of computer science: What happens when AI faces the human problem of uncertainty?</strong></a>
+  <a href="https://www.marktechpost.com/2025/05/22/beyond-aha-moments-structuring-reasoning-in-large-language-models/" target="_blank" rel="noopener noreferrer"><strong>Beyond Aha Moments: Structuring Reasoning in Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-25_02-21</em></p>
+<p align="center"><em>📅 Published: 2025-05-23_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
