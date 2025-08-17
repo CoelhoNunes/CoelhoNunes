@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.pymnts.com/artificial-intelligence-2/2025/ai-explainer-how-large-transaction-models-are-securing-payment-flows/" target="_blank" rel="noopener noreferrer"><strong>AI Explainer: How Large Transaction Models Are Securing Payment Flows</strong></a>
+  <a href="https://www.army.mil/article/282934/center_strategizing_artificial_intelligence_and_machine_learning" target="_blank" rel="noopener noreferrer"><strong>Center strategizing artificial intelligence and machine learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-00</em></p>
+<p align="center"><em>📅 Published: 2025-05-24_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
