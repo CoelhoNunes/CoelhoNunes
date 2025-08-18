@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.army.mil/article/282934/center_strategizing_artificial_intelligence_and_machine_learning" target="_blank" rel="noopener noreferrer"><strong>Center strategizing artificial intelligence and machine learning</strong></a>
+  <a href="https://techcrunch.com/2025/05/20/googles-ai-mode-rolls-out-to-us-will-add-support-for-deeper-research-comparison-shopping-and-more/" target="_blank" rel="noopener noreferrer"><strong>Google's AI Mode rolls out to US, will add support for deeper research, comparison shopping, and more</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-24_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-05-26_09-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
