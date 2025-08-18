@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.fiercehealthcare.com/ai-and-machine-learning/openai-pushes-further-healthcare-release-healthbench-evaluate-ai-models" target="_blank" rel="noopener noreferrer"><strong>OpenAI pushes further into healthcare with release of HealthBench to evaluate AI models</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1479855/full" target="_blank" rel="noopener noreferrer"><strong>A systematic review of Machine Learning and Deep Learning approaches in Mexico: challenges and opportunities</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-00</em></p>
+<p align="center"><em>📅 Published: 2025-05-25_02-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
