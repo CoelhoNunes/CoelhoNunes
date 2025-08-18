@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1479855/full" target="_blank" rel="noopener noreferrer"><strong>A systematic review of Machine Learning and Deep Learning approaches in Mexico: challenges and opportunities</strong></a>
+  <a href="https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-inference-market-report" target="_blank" rel="noopener noreferrer"><strong>AI Inference Market Size And Trends | Industry Report, 2030</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-25_02-25</em></p>
+<p align="center"><em>📅 Published: 2025-05-29_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
