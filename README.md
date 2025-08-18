@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techcrunch.com/2025/05/20/googles-ai-mode-rolls-out-to-us-will-add-support-for-deeper-research-comparison-shopping-and-more/" target="_blank" rel="noopener noreferrer"><strong>Google's AI Mode rolls out to US, will add support for deeper research, comparison shopping, and more</strong></a>
+  <a href="https://www.fiercehealthcare.com/ai-and-machine-learning/openai-pushes-further-healthcare-release-healthbench-evaluate-ai-models" target="_blank" rel="noopener noreferrer"><strong>OpenAI pushes further into healthcare with release of HealthBench to evaluate AI models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-26_09-01</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-00</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
