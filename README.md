@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.mit.edu/2025/inroads-personalized-ai-trip-planning-0610" target="_blank" rel="noopener noreferrer"><strong>Inroads to personalized AI trip planning</strong></a>
+  <a href="https://www.predictiveanalyticsworld.com/machinelearningtimes/predictive-ai-too-hard-to-use-genai-makes-it-easy/13883/" target="_blank" rel="noopener noreferrer"><strong>Predictive AI Too Hard To Use? GenAI Makes It Easy</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-11_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-07-23_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
