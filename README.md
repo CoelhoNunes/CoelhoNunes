@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/iclr-2025" target="_blank" rel="noopener noreferrer"><strong>Apple Machine Learning Research at ICLR 2025</strong></a>
+  <a href="https://www.kdnuggets.com/10-large-language-model-key-concepts-explained" target="_blank" rel="noopener noreferrer"><strong>10 Large Language Model Key Concepts Explained</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-16</em></p>
+<p align="center"><em>📅 Published: 2025-06-23_02-20</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
