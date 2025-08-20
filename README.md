@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techcrunch.com/2025/05/21/mistrals-new-devstral-model-was-designed-for-coding/" target="_blank" rel="noopener noreferrer"><strong>Mistral’s new Devstral AI model was designed for coding</strong></a>
+  <a href="https://www.unite.ai/weird-science-ais-impact-on-animal-research/" target="_blank" rel="noopener noreferrer"><strong>Weird Science: AI’s Impact on Animal Research</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-26_09-01</em></p>
+<p align="center"><em>📅 Published: 2025-05-23_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
