@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2025.65" target="_blank" rel="noopener noreferrer"><strong>As AI giants duel, the Global South builds its own brainpower</strong></a>
+  <a href="https://www.niemanlab.org/2025/05/how-this-years-pulitzer-awardees-used-ai-in-their-reporting/" target="_blank" rel="noopener noreferrer"><strong>How this year’s Pulitzer awardees used AI in their reporting</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-20_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-05-23_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
