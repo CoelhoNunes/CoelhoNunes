@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1592399/full" target="_blank" rel="noopener noreferrer"><strong>Moving LLM evaluation forward: lessons from human judgment research</strong></a>
+  <a href="https://yieldpro.com/2025/08/what-just-happened-3/" target="_blank" rel="noopener noreferrer"><strong>What just happened?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_16-41</em></p>
+<p align="center"><em>📅 Published: 2025-08-20_02-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
