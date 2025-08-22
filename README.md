@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://ppc.land/study-large-language-models-qualify-as-personal-data/" target="_blank" rel="noopener noreferrer"><strong>Study: large language models qualify as personal data</strong></a>
+  <a href="https://www.techtimes.com/articles/310663/20250606/engineering-leader-nirup-reddy-wants-solve-real-world-problems.htm" target="_blank" rel="noopener noreferrer"><strong>Engineering Leader Nirup Reddy Wants to Solve Real-World Problems</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-25_02-21</em></p>
+<p align="center"><em>📅 Published: 2025-06-06_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
