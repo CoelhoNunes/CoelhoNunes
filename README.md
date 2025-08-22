@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techcrunch.com/2025/05/20/googles-ai-mode-rolls-out-to-us-will-add-support-for-deeper-research-comparison-shopping-and-more/" target="_blank" rel="noopener noreferrer"><strong>Google's AI Mode rolls out to US, will add support for deeper research, comparison shopping, and more</strong></a>
+  <a href="https://ppc.land/study-large-language-models-qualify-as-personal-data/" target="_blank" rel="noopener noreferrer"><strong>Study: large language models qualify as personal data</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-26_09-01</em></p>
+<p align="center"><em>📅 Published: 2025-07-25_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
