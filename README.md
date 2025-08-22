@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.techtimes.com/articles/310663/20250606/engineering-leader-nirup-reddy-wants-solve-real-world-problems.htm" target="_blank" rel="noopener noreferrer"><strong>Engineering Leader Nirup Reddy Wants to Solve Real-World Problems</strong></a>
+  <a href="https://theconversation.com/groks-white-genocide-responses-show-how-generative-ai-can-be-weaponized-257880" target="_blank" rel="noopener noreferrer"><strong>Grok’s ‘white genocide’ responses show how generative AI can be weaponized</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-06_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-06-20_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
