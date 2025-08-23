@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/topics/ai-reasoning" target="_blank" rel="noopener noreferrer"><strong>What Is Reasoning in AI?</strong></a>
+  <a href="https://aithority.com/machine-learning/aligned-joins-forces-with-amd-and-usc-isi-to-power-next-generation-ai-with-megalodon-language-model/" target="_blank" rel="noopener noreferrer"><strong>Aligned Joins Forces with AMD and USC ISI to Power Next-Generation AI with MEGALODON Language Model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-01_02-25</em></p>
+<p align="center"><em>📅 Published: 2025-07-28_02-28</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
