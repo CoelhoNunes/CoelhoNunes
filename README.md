@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/the-age-of-self-evolving-ai-is-here/" target="_blank" rel="noopener noreferrer"><strong>The Age of Self-Evolving AI Is Here</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1525937/full" target="_blank" rel="noopener noreferrer"><strong>Evaluating artificial intelligence bias in nephrology: the role of diversity, equity, and inclusion in AI-driven decision-making and ethical regulation</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-19_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-05-28_16-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
