@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1494474/full" target="_blank" rel="noopener noreferrer"><strong>Recent advances in deep learning and language models for studying the microbiome</strong></a>
+  <a href="https://www.nature.com/articles/s41467-025-59628-y" target="_blank" rel="noopener noreferrer"><strong>Token-Mol 1.0: tokenized drug design with large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-01_08-36</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
