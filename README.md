@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-59628-y" target="_blank" rel="noopener noreferrer"><strong>Token-Mol 1.0: tokenized drug design with large language models</strong></a>
+  <a href="https://quantumzeitgeist.com/ai-learns-to-reason-new-method-boosts-diversity-and-accuracy/" target="_blank" rel="noopener noreferrer"><strong>AI Learns To Reason: New Method Boosts Diversity And Accuracy</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-05</em></p>
+<p align="center"><em>📅 Published: 2025-08-22_02-00</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
