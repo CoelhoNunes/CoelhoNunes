@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://research.google/blog/teaching-machines-the-language-of-biology-scaling-large-language-models-for-next-generation-single-cell-analysis/" target="_blank" rel="noopener noreferrer"><strong>Teaching machines the language of biology: Scaling large language models for next-generation single-cell analysis</strong></a>
+  <a href="https://ppc.land/study-large-language-models-qualify-as-personal-data/" target="_blank" rel="noopener noreferrer"><strong>Study: large language models qualify as personal data</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-02_02-12</em></p>
+<p align="center"><em>📅 Published: 2025-07-25_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
