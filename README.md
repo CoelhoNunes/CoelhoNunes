@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.sentinelone.com/cybersecurity-101/data-and-ai/ai-threat-detection/" target="_blank" rel="noopener noreferrer"><strong>AI Threat Detection: Leverage AI to Detect Security Threats</strong></a>
+  <a href="https://research.google/blog/teaching-machines-the-language-of-biology-scaling-large-language-models-for-next-generation-single-cell-analysis/" target="_blank" rel="noopener noreferrer"><strong>Teaching machines the language of biology: Scaling large language models for next-generation single-cell analysis</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-24_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-08-02_02-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
