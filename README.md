@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://searchengineland.com/guide/what-is-ai-seo" target="_blank" rel="noopener noreferrer"><strong>What Is AI SEO? How Artificial Intelligence Is Changing Search Optimization</strong></a>
+  <a href="https://machinelearning.apple.com/research/iclr-2025" target="_blank" rel="noopener noreferrer"><strong>Apple Machine Learning Research at ICLR 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-06_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
