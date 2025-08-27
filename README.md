@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.kdnuggets.com/10-github-repositories-for-machine-learning-projects" target="_blank" rel="noopener noreferrer"><strong>10 GitHub Repositories for Machine Learning Projects</strong></a>
+  <a href="https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/" target="_blank" rel="noopener noreferrer"><strong>The AI Was Fed Sloppy Code. It Turned Into Something Evil.</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-22_02-21</em></p>
+<p align="center"><em>📅 Published: 2025-08-15_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
