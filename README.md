@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/08/22/top-10-ai-blogs-and-news-websites-for-ai-developers-and-engineers-in-2025/" target="_blank" rel="noopener noreferrer"><strong>Top 10 AI Blogs and News Websites for AI Developers and Engineers in 2025</strong></a>
+  <a href="https://news.rice.edu/news/2025/rice-experts-equip-houston-professionals-ai-and-machine-learning-training" target="_blank" rel="noopener noreferrer"><strong>Rice experts equip Houston professionals with AI and machine learning training</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-23_01-56</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_16-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
