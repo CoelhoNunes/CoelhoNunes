@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/06/05/top-artificial-intelligence-books-to-read-in-2025/" target="_blank" rel="noopener noreferrer"><strong>Top Artificial Intelligence AI Books to Read in 2025</strong></a>
+  <a href="https://www.kdnuggets.com/10-github-repositories-for-machine-learning-projects" target="_blank" rel="noopener noreferrer"><strong>10 GitHub Repositories for Machine Learning Projects</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-05_08-39</em></p>
+<p align="center"><em>📅 Published: 2025-07-22_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
