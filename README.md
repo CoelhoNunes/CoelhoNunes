@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techcrunch.com/2025/05/20/google-updates-the-gemini-app-with-real-time-ai-video-deep-research-and-more/" target="_blank" rel="noopener noreferrer"><strong>Google updates the Gemini app with real-time AI video, Deep Research, and more</strong></a>
+  <a href="https://www.marktechpost.com/2025/08/22/top-10-ai-blogs-and-news-websites-for-ai-developers-and-engineers-in-2025/" target="_blank" rel="noopener noreferrer"><strong>Top 10 AI Blogs and News Websites for AI Developers and Engineers in 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-26_02-20</em></p>
+<p align="center"><em>📅 Published: 2025-08-23_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
