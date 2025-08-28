@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techcrunch.com/2025/05/22/anthropics-latest-flagship-ai-sure-seems-to-love-using-the-cyclone-emoji/" target="_blank" rel="noopener noreferrer"><strong>Anthropic’s latest flagship AI sure seems to love using the ‘cyclone’ emoji</strong></a>
+  <a href="https://www.nature.com/articles/s41586-025-09215-4" target="_blank" rel="noopener noreferrer"><strong>A foundation model to predict and capture human cognition</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-27_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-07-05_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
