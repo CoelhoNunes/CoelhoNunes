@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-97378-5" target="_blank" rel="noopener noreferrer"><strong>An automated multi parameter neural architecture discovery framework using ChatGPT in the backend</strong></a>
+  <a href="https://www.nature.com/articles/s42256-025-01044-4" target="_blank" rel="noopener noreferrer"><strong>Generalized biological foundation model with unified nucleic acid and protein language</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-05_08-39</em></p>
+<p align="center"><em>📅 Published: 2025-06-21_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
