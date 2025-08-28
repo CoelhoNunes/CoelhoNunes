@@ -17,7 +17,7 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s42256-025-01044-4" target="_blank" rel="noopener noreferrer"><strong>Generalized biological foundation model with unified nucleic acid and protein language</strong></a>
+  <a href="https://ipwatchdog.com/2025/06/11/ai-machine-learning-patents-doomed-recentive/id=189573/" target="_blank" rel="noopener noreferrer"><strong>Are AI and Machine Learning Patents Doomed After Recentive?</strong></a>
 </p>
 
 <p align="center"><em>📅 Published: 2025-06-21_02-04</em></p>
