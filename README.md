@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ama-assn.org/practice-management/digital-health/doctors-use-ai-dramatically-here-s-cme-they-need" target="_blank" rel="noopener noreferrer"><strong>Doctors’ use of AI up dramatically. Here’s the CME they need.</strong></a>
+  <a href="https://www.onclive.com/view/ai-powered-scout-platform-could-enhances-oncology-decision-making-with-data--and-expert-based-insights" target="_blank" rel="noopener noreferrer"><strong>AI-Powered Scout Platform Could Enhance Oncology Decision-Making With Data- and Expert-Based Insights</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-21_02-00</em></p>
+<p align="center"><em>📅 Published: 2025-07-16_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
