@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.onclive.com/view/ai-powered-scout-platform-could-enhances-oncology-decision-making-with-data--and-expert-based-insights" target="_blank" rel="noopener noreferrer"><strong>AI-Powered Scout Platform Could Enhance Oncology Decision-Making With Data- and Expert-Based Insights</strong></a>
+  <a href="https://news.artnet.com/art-world/ai-cracks-archaeology-secrets-2637925" target="_blank" rel="noopener noreferrer"><strong>7 Times A.I. Helped Unlock Ancient Secrets</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-16_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_16-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
