@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.rice.edu/news/2025/rice-experts-equip-houston-professionals-ai-and-machine-learning-training" target="_blank" rel="noopener noreferrer"><strong>Rice experts equip Houston professionals with AI and machine learning training</strong></a>
+  <a href="https://www.gpsworld.com/the-use-and-promise-of-artificial-intelligence-in-gnss-pnt/" target="_blank" rel="noopener noreferrer"><strong>The use and promise of artificial intelligence in GNSS PNT</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-22_16-38</em></p>
+<p align="center"><em>📅 Published: 2025-05-24_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
