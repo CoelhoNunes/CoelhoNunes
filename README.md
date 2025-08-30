@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/spatial/ai-powered-construction-document-analysis-by-leveraging-computer-vision-and-large-language-models/" target="_blank" rel="noopener noreferrer"><strong>AI-Powered Construction Document Analysis by Leveraging Computer Vision and Large Language Models</strong></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/" target="_blank" rel="noopener noreferrer"><strong>AI-powered success—with more than 1,000 stories of customer transformation and innovation</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-24_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-08-18_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
