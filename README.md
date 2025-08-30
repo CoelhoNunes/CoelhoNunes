@@ -17,7 +17,7 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.gpsworld.com/the-use-and-promise-of-artificial-intelligence-in-gnss-pnt/" target="_blank" rel="noopener noreferrer"><strong>The use and promise of artificial intelligence in GNSS PNT</strong></a>
+  <a href="https://aws.amazon.com/blogs/spatial/ai-powered-construction-document-analysis-by-leveraging-computer-vision-and-large-language-models/" target="_blank" rel="noopener noreferrer"><strong>AI-Powered Construction Document Analysis by Leveraging Computer Vision and Large Language Models</strong></a>
 </p>
 
 <p align="center"><em>📅 Published: 2025-05-24_02-07</em></p>
