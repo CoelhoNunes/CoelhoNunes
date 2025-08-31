@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.prnewswire.com/news-releases/broadridge-announces-new-patent-on-large-language-model-orchestration-of-machine-learning-agents-302454711.html" target="_blank" rel="noopener noreferrer"><strong>Broadridge Announces New Patent on Large Language Model Orchestration of Machine Learning Agents</strong></a>
+  <a href="https://www.nature.com/articles/s42256-025-01005-x" target="_blank" rel="noopener noreferrer"><strong>Embodied large language models enable robots to complete complex tasks in unpredictable environments</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-24_16-35</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
