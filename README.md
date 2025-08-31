@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/" target="_blank" rel="noopener noreferrer"><strong>AI-powered success—with more than 1,000 stories of customer transformation and innovation</strong></a>
+  <a href="https://www.prnewswire.com/news-releases/broadridge-announces-new-patent-on-large-language-model-orchestration-of-machine-learning-agents-302454711.html" target="_blank" rel="noopener noreferrer"><strong>Broadridge Announces New Patent on Large Language Model Orchestration of Machine Learning Agents</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-18_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-05-24_16-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
