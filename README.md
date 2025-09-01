@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/06/19/minimax-ai-releases-minimax-m1-a-456b-parameter-hybrid-model-for-long-context-and-reinforcement-learning-rl-tasks/" target="_blank" rel="noopener noreferrer"><strong>MiniMax AI Releases MiniMax-M1: A 456B Parameter Hybrid Model for Long-Context and Reinforcement Learning RL Tasks</strong></a>
+  <a href="https://www.theregister.com/2025/07/17/new_algorithms_boost_ai_perf/" target="_blank" rel="noopener noreferrer"><strong>Boffins detail new algorithms to losslessly boost AI perf by up to 2.8x</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-20_02-06</em></p>
+<p align="center"><em>📅 Published: 2025-07-19_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
