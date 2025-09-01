@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.theregister.com/2025/07/17/new_algorithms_boost_ai_perf/" target="_blank" rel="noopener noreferrer"><strong>Boffins detail new algorithms to losslessly boost AI perf by up to 2.8x</strong></a>
+  <a href="https://www.techtarget.com/searchenterpriseai/feature/AI-agents-increasingly-viable-for-enterprise-use" target="_blank" rel="noopener noreferrer"><strong>AI agents increasingly viable for enterprise use</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-19_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-06-25_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
