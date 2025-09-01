@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://singularityhub.com/2025/06/02/neurosymbolic-ai-is-the-answer-to-large-language-models-inability-to-stop-hallucinating/" target="_blank" rel="noopener noreferrer"><strong>Neurosymbolic AI Could Be the Answer to Hallucination in Large Language Models</strong></a>
+  <a href="https://huggingface.co/black-forest-labs/FLUX.1-dev" target="_blank" rel="noopener noreferrer"><strong>black-forest-labs/FLUX.1-dev</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_22-11</em></p>
+<p align="center"><em>📅 Published: 2025-05-18_17-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
