@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.eurekalert.org/news-releases/1077707" target="_blank" rel="noopener noreferrer"><strong>AI reshapes how we observe the stars</strong></a>
+  <a href="https://www.businesswire.com/news/home/20250501694064/en/IonQ-Demonstrates-Quantum-Enhanced-Applications-Advancing-AI" target="_blank" rel="noopener noreferrer"><strong>IonQ Demonstrates Quantum-Enhanced Applications Advancing AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-22_02-16</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-13</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
