@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.microsoft.com/source/features/ai/15-milestones-that-shaped-microsofts-vision-for-ai/" target="_blank" rel="noopener noreferrer"><strong>15 milestones that shaped Microsoft's vision for AI</strong></a>
+  <a href="https://www.nature.com/articles/s42004-024-01393-y" target="_blank" rel="noopener noreferrer"><strong>Human interpretable structure-property relationships in chemistry using explainable machine learning and large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-07_16-37</em></p>
+<p align="center"><em>📅 Published: 2025-05-23_16-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
