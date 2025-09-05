@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.cio.com/article/3988330/sas-enters-new-ai-era-with-ipo-on-the-horizon.html" target="_blank" rel="noopener noreferrer"><strong>SAS enters new AI era with IPO on the horizon</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/how-videoamp-uses-amazon-bedrock-to-power-their-media-analytics-interface/" target="_blank" rel="noopener noreferrer"><strong>How VideoAmp uses Amazon Bedrock to power their media analytics interface</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_12-58</em></p>
+<p align="center"><em>📅 Published: 2025-06-17_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
