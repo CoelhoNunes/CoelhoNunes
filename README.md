@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.thefastmode.com/technology-solutions/43571-sk-telecom-krafton-unveil-7b-language-models-for-math-and-game-ai" target="_blank" rel="noopener noreferrer"><strong>SK Telecom, Krafton Unveil 7B Language Models for Math and Game AI</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/optimizing-salesforces-model-endpoints-with-amazon-sagemaker-ai-inference-components/" target="_blank" rel="noopener noreferrer"><strong>Optimizing Salesforce’s model endpoints with Amazon SageMaker AI inference components</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-29_02-33</em></p>
+<p align="center"><em>📅 Published: 2025-08-16_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
