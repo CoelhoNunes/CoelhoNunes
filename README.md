@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s44387-025-00011-z" target="_blank" rel="noopener noreferrer"><strong>Large language models for disease diagnosis: a scoping review</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/detect-hallucinations-for-rag-based-systems/" target="_blank" rel="noopener noreferrer"><strong>Detect hallucinations for RAG-based systems | Amazon Web Services</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-10_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-05-23_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
