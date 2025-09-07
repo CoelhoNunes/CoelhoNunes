@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/evaluate-large-language-models-for-your-machine-translation-tasks-on-aws/" target="_blank" rel="noopener noreferrer"><strong>Evaluate large language models for your machine translation tasks on AWS | Amazon Web Services</strong></a>
+  <a href="https://news.microsoft.com/source/features/ai/15-milestones-that-shaped-microsofts-vision-for-ai/" target="_blank" rel="noopener noreferrer"><strong>15 milestones that shaped Microsoft's vision for AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-28_02-28</em></p>
+<p align="center"><em>📅 Published: 2025-06-07_16-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
