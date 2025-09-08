@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.bloomberg.com/news/articles/2025-06-30/apple-weighs-replacing-siri-s-ai-llms-with-anthropic-claude-or-openai-chatgpt" target="_blank" rel="noopener noreferrer"><strong>Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal</strong></a>
+  <a href="https://www.techloy.com/6-free-deep-learning-courses-to-get-you-career-ready/" target="_blank" rel="noopener noreferrer"><strong>6 Free Deep Learning Courses to Get You Career-Ready</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-05_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-06-12_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
