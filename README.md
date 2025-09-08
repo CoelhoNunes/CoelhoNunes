@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/detect-hallucinations-for-rag-based-systems/" target="_blank" rel="noopener noreferrer"><strong>Detect hallucinations for RAG-based systems | Amazon Web Services</strong></a>
+  <a href="https://www.livescience.com/technology/artificial-intelligence/what-is-the-turing-test" target="_blank" rel="noopener noreferrer"><strong>What is the Turing test? How the rise of generative AI may have broken the famous imitation game.</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-23_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
