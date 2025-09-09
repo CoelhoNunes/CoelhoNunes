@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.techloy.com/6-free-deep-learning-courses-to-get-you-career-ready/" target="_blank" rel="noopener noreferrer"><strong>6 Free Deep Learning Courses to Get You Career-Ready</strong></a>
+  <a href="https://www.nature.com/articles/s42256-025-01072-0" target="_blank" rel="noopener noreferrer"><strong>High-level visual representations in the human brain are aligned with large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-12_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-08-13_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
