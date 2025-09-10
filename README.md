@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/" target="_blank" rel="noopener noreferrer"><strong>When ChatGPT Broke an Entire Field: An Oral History</strong></a>
+  <a href="https://www.manilatimes.net/2025/07/02/tmt-newswire/pr-newswire/idc-releases-report-on-ai-powered-adaptive-education-industry-revealing-opportunities-and-future-trends-of-ai-in-education/2142371" target="_blank" rel="noopener noreferrer"><strong>IDC Releases Report on AI-Powered Adaptive Education Industry, Revealing Opportunities and Future Trends of AI in Education</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-22_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-07-03_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
