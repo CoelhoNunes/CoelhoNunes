@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://timesofindia.indiatimes.com/education/news/8-ways-prompt-engineering-can-be-your-career-lifeline-in-the-age-of-ai/articleshow/121647074.cms" target="_blank" rel="noopener noreferrer"><strong>8 ways prompt engineering can be your career lifeline in the age of AI</strong></a>
+  <a href="https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/" target="_blank" rel="noopener noreferrer"><strong>When ChatGPT Broke an Entire Field: An Oral History</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-06_02-18</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
