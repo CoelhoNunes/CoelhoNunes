@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/se/artificial-intelligence/ai-translation/" target="_blank" rel="noopener noreferrer"><strong>Breaking language barriers: The power of AI translation</strong></a>
+  <a href="https://www.nature.com/articles/s40494-025-01697-9" target="_blank" rel="noopener noreferrer"><strong>Research on machine translation of ancient books in the era of large language model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-30_02-16</em></p>
+<p align="center"><em>📅 Published: 2025-05-21_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
