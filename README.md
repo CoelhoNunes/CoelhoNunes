@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s40494-025-01697-9" target="_blank" rel="noopener noreferrer"><strong>Research on machine translation of ancient books in the era of large language model</strong></a>
+  <a href="https://www.esri.com/about/newsroom/arcnews/why-ai-and-large-language-models-benefit-from-cartography" target="_blank" rel="noopener noreferrer"><strong>Why AI and Large Language Models Benefit from Cartography | Winter 2025 | ArcNews</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-21_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-08-28_01-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
