@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://research.google/blog/synthetic-and-federated-privacy-preserving-domain-adaptation-with-llms-for-mobile-applications/" target="_blank" rel="noopener noreferrer"><strong>Synthetic and federated: Privacy-preserving domain adaptation with LLMs for mobile applications</strong></a>
+  <a href="https://www.itnewsafrica.com/2025/05/how-can-you-learn-the-basic-ai-concepts/" target="_blank" rel="noopener noreferrer"><strong>How Can You Learn the Basic AI Concepts</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-31_02-24</em></p>
+<p align="center"><em>📅 Published: 2025-05-27_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
@@ -124,8 +124,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/coelhodan/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:danunesc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
