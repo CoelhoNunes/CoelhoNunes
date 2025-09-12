@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/transporting-activations" target="_blank" rel="noopener noreferrer"><strong>Controlling Language and Diffusion Models by Transporting Activations</strong></a>
+  <a href="https://venturebeat.com/ai/gepa-optimizes-llms-without-costly-reinforcement-learning" target="_blank" rel="noopener noreferrer"><strong>GEPA optimizes LLMs without costly reinforcement learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-13</em></p>
+<p align="center"><em>📅 Published: 2025-09-02_01-59</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
