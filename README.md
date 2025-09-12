@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41746-025-01721-z" target="_blank" rel="noopener noreferrer"><strong>Situating governance and regulatory concerns for generative artificial intelligence and large language models in medical education</strong></a>
+  <a href="https://machinelearning.apple.com/research/transporting-activations" target="_blank" rel="noopener noreferrer"><strong>Controlling Language and Diffusion Models by Transporting Activations</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-27_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-13</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
