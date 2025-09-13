@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.pymnts.com/news/artificial-intelligence/2025/house-committee-aims-ban-states-from-regulating-ai/" target="_blank" rel="noopener noreferrer"><strong>House Committee Aims to Ban States From Regulating AI</strong></a>
+  <a href="https://www.pharmiweb.com/press-release/2025-09-04/global-generative-ai-in-healthcare-market-to-grow-at-36-38-cagr-driven-by-ai-data-by-2030" target="_blank" rel="noopener noreferrer"><strong>Global Generative AI in Healthcare Market to Grow at 36-38% CAGR, Driven by AI & Data by 2030</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-21_03-31</em></p>
+<p align="center"><em>📅 Published: 2025-09-05_01-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
