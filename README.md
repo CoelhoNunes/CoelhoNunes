@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://venturebeat.com/ai/gepa-optimizes-llms-without-costly-reinforcement-learning" target="_blank" rel="noopener noreferrer"><strong>GEPA optimizes LLMs without costly reinforcement learning</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/build-and-deploy-ai-inference-workflows-with-new-enhancements-to-the-amazon-sagemaker-python-sdk/" target="_blank" rel="noopener noreferrer"><strong>Build and deploy AI inference workflows with new enhancements to the Amazon SageMaker Python SDK</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-02_01-59</em></p>
+<p align="center"><em>📅 Published: 2025-07-02_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
