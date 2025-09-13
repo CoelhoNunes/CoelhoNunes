@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.engineering.com/the-prompt-frontier-how-engineers-are-learning-to-speak-ai/" target="_blank" rel="noopener noreferrer"><strong>The prompt frontier—how engineers are learning to speak AI</strong></a>
+  <a href="https://www.pymnts.com/news/artificial-intelligence/2025/house-committee-aims-ban-states-from-regulating-ai/" target="_blank" rel="noopener noreferrer"><strong>House Committee Aims to Ban States From Regulating AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-20_08-40</em></p>
+<p align="center"><em>📅 Published: 2025-05-21_03-31</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
