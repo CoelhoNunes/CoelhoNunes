@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/build-and-deploy-ai-inference-workflows-with-new-enhancements-to-the-amazon-sagemaker-python-sdk/" target="_blank" rel="noopener noreferrer"><strong>Build and deploy AI inference workflows with new enhancements to the Amazon SageMaker Python SDK</strong></a>
+  <a href="https://www.engineering.com/the-prompt-frontier-how-engineers-are-learning-to-speak-ai/" target="_blank" rel="noopener noreferrer"><strong>The prompt frontier—how engineers are learning to speak AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-02_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-05-20_08-40</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
