@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://energycommerce.house.gov/posts/chairman-hudson-delivers-opening-statement-at-subcommittee-on-communications-and-technology-hearing-on-ai-and-communications-infrastructure" target="_blank" rel="noopener noreferrer"><strong>Chairman Hudson Delivers Opening Statement at Subcommittee on Communications and Technology Hearing on AI and Communications Infrastructure</strong></a>
+  <a href="https://news.mit.edu/2025/making-ai-generated-code-more-accurate-0418" target="_blank" rel="noopener noreferrer"><strong>Making AI-generated code more accurate in any language</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_16-35</em></p>
+<p align="center"><em>📅 Published: 2025-05-24_08-34</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
