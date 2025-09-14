@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://investingnews.com/top-generative-ai-stocks/" target="_blank" rel="noopener noreferrer"><strong>10 Generative AI Stocks to Watch as ChatGPT Soars</strong></a>
+  <a href="https://www.nature.com/articles/s41467-025-56573-8" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence for modeling and understanding extreme weather and climate events</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-08_02-00</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_08-41</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
