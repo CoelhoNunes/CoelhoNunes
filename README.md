@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.hpcwire.com/off-the-wire/lanl-team-finds-a-new-path-toward-quantum-machine-learning/" target="_blank" rel="noopener noreferrer"><strong>LANL Team Finds a New Path Toward Quantum Machine Learning</strong></a>
+  <a href="https://blogs.nvidia.com/blog/three-computers-robotics/" target="_blank" rel="noopener noreferrer"><strong>What Is NVIDIA’s Three-Computer Solution for Robotics?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-26_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-08-10_02-29</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
