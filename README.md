@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/a-brief-history-of-gpt-through-papers/" target="_blank" rel="noopener noreferrer"><strong>A Brief History of GPT Through Papers</strong></a>
+  <a href="https://denison.edu/magazine/2025-issue-2/157810" target="_blank" rel="noopener noreferrer"><strong>AI at Denison</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-30_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-05-20_00-49</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
