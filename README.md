@@ -17,7 +17,7 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.blockchain-council.org/ai-certification-courses/" target="_blank" rel="noopener noreferrer"><strong>AI Certification Courses</strong></a>
+  <a href="https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-inference-market-report" target="_blank" rel="noopener noreferrer"><strong>AI Inference Market Size And Trends | Industry Report, 2030</strong></a>
 </p>
 
 <p align="center"><em>📅 Published: 2025-05-29_16-39</em></p>
