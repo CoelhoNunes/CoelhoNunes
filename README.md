@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-inference-market-report" target="_blank" rel="noopener noreferrer"><strong>AI Inference Market Size And Trends | Industry Report, 2030</strong></a>
+  <a href="https://www.jagranjosh.com/us/tech-ai/list-of-indian-origin-ai-experts-1860000668" target="_blank" rel="noopener noreferrer"><strong>List of 8 Indian-Origin AI Experts and their Contributions</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-29_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-08-02_02-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
