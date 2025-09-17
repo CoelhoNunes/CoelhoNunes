@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://industrytoday.co.uk/it/ai-voice-generator-market-expected-to-grow-to-usd-1283-billion-with-a-3721-cagr-by-2032" target="_blank" rel="noopener noreferrer"><strong>Ai Voice Generator Market Expected to Grow to USD 128.3 Billion, with a 37.21% CAGR by 2032</strong></a>
+  <a href="https://engineering.berkeley.edu/news/2025/02/new-ai-breakthrough-can-model-and-design-genetic-code-across-all-domains-of-life/" target="_blank" rel="noopener noreferrer"><strong>New AI breakthrough can model and design genetic code across all domains of life</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-07-15_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
