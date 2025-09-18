@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/artificial-intelligence/large-language-model/" target="_blank" rel="noopener noreferrer"><strong>Everything You Need to Know About Large Language Models</strong></a>
+  <a href="https://www.abc.net.au/digital-product/blogpost-mlops/105286212" target="_blank" rel="noopener noreferrer"><strong>Accelerating ABC’s AI capabilities with MLOps</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-01_02-35</em></p>
+<p align="center"><em>📅 Published: 2025-06-04_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
