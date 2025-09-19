@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.ucsc.edu/2025/02/ai-browser-tracks/" target="_blank" rel="noopener noreferrer"><strong>Newest Genome Browser features highlight the power of generative AI and machine learning for biology</strong></a>
+  <a href="https://www.ama-assn.org/practice-management/digital-health/doctors-use-ai-dramatically-here-s-cme-they-need" target="_blank" rel="noopener noreferrer"><strong>Doctors’ use of AI up dramatically. Here’s the CME they need.</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-23_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-08-21_02-00</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
