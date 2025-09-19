@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://executivebiz.com/article/fiddler-ai-carahsoft-llm-artificial-intelligence-machine-learning" target="_blank" rel="noopener noreferrer"><strong>Fiddler AI, Carahsoft to Deliver AI Observability, Security to Public Sector</strong></a>
+  <a href="https://www.xjtlu.edu.cn/en/xipu-ai" target="_blank" rel="noopener noreferrer"><strong>XIPU AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-23_02-20</em></p>
+<p align="center"><em>📅 Published: 2025-06-16_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
