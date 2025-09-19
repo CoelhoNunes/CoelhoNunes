@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.quantamagazine.org/will-ai-ever-understand-language-like-humans-20250501/" target="_blank" rel="noopener noreferrer"><strong>Will AI Ever Understand Language Like Humans?</strong></a>
+  <a href="https://huggingface.co/meta-llama/Meta-Llama-3-8B" target="_blank" rel="noopener noreferrer"><strong>meta-llama/Meta-Llama-3-8B</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-09</em></p>
+<p align="center"><em>📅 Published: 2025-05-18_17-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
