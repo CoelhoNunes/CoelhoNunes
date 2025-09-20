@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://ppc.land/wetransfer-modifies-terms-service-following-user-backlash-over-ai-rights/" target="_blank" rel="noopener noreferrer"><strong>WeTransfer modifies terms service following user backlash over AI rights</strong></a>
+  <a href="https://news.ucsc.edu/2025/02/ai-browser-tracks/" target="_blank" rel="noopener noreferrer"><strong>Newest Genome Browser features highlight the power of generative AI and machine learning for biology</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-21_02-27</em></p>
+<p align="center"><em>📅 Published: 2025-05-23_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
