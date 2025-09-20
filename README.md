@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.artnet.com/art-world/ai-cracks-archaeology-secrets-2637925" target="_blank" rel="noopener noreferrer"><strong>7 Times A.I. Helped Unlock Ancient Secrets</strong></a>
+  <a href="https://ppc.land/wetransfer-modifies-terms-service-following-user-backlash-over-ai-rights/" target="_blank" rel="noopener noreferrer"><strong>WeTransfer modifies terms service following user backlash over AI rights</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_16-23</em></p>
+<p align="center"><em>📅 Published: 2025-07-21_02-27</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
