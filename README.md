@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/" target="_blank" rel="noopener noreferrer"><strong>AI-powered success—with more than 1,000 stories of customer transformation and innovation</strong></a>
+  <a href="https://www.ft.com/content/8eada27c-fa22-4406-9e2b-5034b92642fb" target="_blank" rel="noopener noreferrer"><strong>Baiont’s Feng Ji: Quant managers who don’t adopt AI will be eliminated by the market</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-18_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-05-21_02-17</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
