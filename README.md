@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ft.com/content/8eada27c-fa22-4406-9e2b-5034b92642fb" target="_blank" rel="noopener noreferrer"><strong>Baiont’s Feng Ji: Quant managers who don’t adopt AI will be eliminated by the market</strong></a>
+  <a href="https://towardsdatascience.com/a-brief-history-of-gpt-through-papers/" target="_blank" rel="noopener noreferrer"><strong>A Brief History of GPT Through Papers</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-21_02-17</em></p>
+<p align="center"><em>📅 Published: 2025-08-30_01-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
