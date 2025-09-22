@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://research.google/blog/sensorlm-learning-the-language-of-wearable-sensors/" target="_blank" rel="noopener noreferrer"><strong>SensorLM: Learning the language of wearable sensors</strong></a>
+  <a href="https://techcrunch.com/2025/05/25/from-llms-to-hallucinations-heres-a-simple-guide-to-common-ai-terms/" target="_blank" rel="noopener noreferrer"><strong>From LLMs to hallucinations, here’s a simple guide to common AI terms</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-30_02-24</em></p>
+<p align="center"><em>📅 Published: 2025-05-26_02-20</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
