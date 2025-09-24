@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/05/22/beyond-aha-moments-structuring-reasoning-in-large-language-models/" target="_blank" rel="noopener noreferrer"><strong>Beyond Aha Moments: Structuring Reasoning in Large Language Models</strong></a>
+  <a href="https://www.stjohns.edu/news-media/news/2025-08-12/st-johns-embraces-ai-frontier-preparing-students-human-centered-future" target="_blank" rel="noopener noreferrer"><strong>St. John’s Embraces the AI Frontier: Preparing Students for a Human-Centered Future</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-23_02-16</em></p>
+<p align="center"><em>📅 Published: 2025-08-14_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
