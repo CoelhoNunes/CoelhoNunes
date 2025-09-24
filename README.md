@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2024/12/19/google-deepmind-introduces-salt-a-machine-learning-approach-to-efficiently-train-high-performing-large-language-models-using-slms/" target="_blank" rel="noopener noreferrer"><strong>Google DeepMind Introduces ‘SALT’: A Machine Learning Approach to Efficiently Train High-Performing Large Language Models using SLMs</strong></a>
+  <a href="https://pubs.acs.org/doi/10.1021/acs.analchem.4c05046" target="_blank" rel="noopener noreferrer"><strong>Large Language Models (such as ChatGPT) as Tools for Machine Learning-Based Data Insights in Analytical Chemistry</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_02-23</em></p>
+<p align="center"><em>📅 Published: 2025-05-21_03-31</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
