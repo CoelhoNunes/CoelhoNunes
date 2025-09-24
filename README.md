@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.stjohns.edu/news-media/news/2025-08-12/st-johns-embraces-ai-frontier-preparing-students-human-centered-future" target="_blank" rel="noopener noreferrer"><strong>St. John’s Embraces the AI Frontier: Preparing Students for a Human-Centered Future</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/choosing-the-right-approach-for-generative-ai-powered-structured-data-retrieval/" target="_blank" rel="noopener noreferrer"><strong>Choosing the right approach for generative AI-powered structured data retrieval</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-14_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-07-02_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
