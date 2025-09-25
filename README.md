@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/08/10/from-100000-to-under-500-labels-how-google-ai-cuts-llm-training-data-by-orders-of-magnitude/" target="_blank" rel="noopener noreferrer"><strong>From 100,000 to Under 500 Labels: How Google AI Cuts LLM Training Data by Orders of Magnitude</strong></a>
+  <a href="https://www.cnhinews.com/news/article_c37be8d2-fff7-5629-b5bc-29fb22f981ef.html" target="_blank" rel="noopener noreferrer"><strong>Cognizant Launches AI Training Data Services to Accelerate AI Model Development at Enterprise Scale</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-09_01-56</em></p>
+<p align="center"><em>📅 Published: 2025-08-01_02-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
