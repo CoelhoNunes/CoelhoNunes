@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.cnet.com/tech/services-and-software/chatgpt-glossary-53-ai-terms-everyone-should-know/" target="_blank" rel="noopener noreferrer"><strong>ChatGPT Glossary: 53 AI Terms Everyone Should Know</strong></a>
+  <a href="https://ai-scholar.tech/en/articles/llm-paper%2Fdicow-diarizen" target="_blank" rel="noopener noreferrer"><strong>A New Wave of Multispeaker Speech Recognition! The Challenge of High Accuracy Systems by DiCoW and DiariZen</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-08_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-07-07_02-20</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
