@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aithority.com/machine-learning/voodoosoft-unveils-siriusllm-the-worlds-first-chatgpt-like-ai-malware-detection-engine/" target="_blank" rel="noopener noreferrer"><strong>VoodooSoft Unveils SiriusLLM: The World’s First ChatGPT-Like AI Malware Detection Engine</strong></a>
+  <a href="https://www.nature.com/articles/d41586-025-01500-6" target="_blank" rel="noopener noreferrer"><strong>AI language models develop social norms like groups of people</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-28_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-08-04_02-33</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
