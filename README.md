@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.openpr.com/news/4050624/ai-in-industrial-automation-market-opportunities-emerging-from" target="_blank" rel="noopener noreferrer"><strong>AI in Industrial Automation Market Opportunities Emerging from</strong></a>
+  <a href="https://techcrunch.com/2025/05/20/googles-ai-mode-rolls-out-to-us-will-add-support-for-deeper-research-comparison-shopping-and-more/" target="_blank" rel="noopener noreferrer"><strong>Google's AI Mode rolls out to US, will add support for deeper research, comparison shopping, and more</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_08-40</em></p>
+<p align="center"><em>📅 Published: 2025-05-26_09-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
