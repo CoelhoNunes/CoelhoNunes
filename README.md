@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://ai-scholar.tech/en/articles/llm-paper%2Fdicow-diarizen" target="_blank" rel="noopener noreferrer"><strong>A New Wave of Multispeaker Speech Recognition! The Challenge of High Accuracy Systems by DiCoW and DiariZen</strong></a>
+  <a href="https://community.nasscom.in/communities/ai-inside/ai-automated-number-plate-recognition-how-machine-learning-improves-accuracy" target="_blank" rel="noopener noreferrer"><strong>AI in Automated Number Plate Recognition: How Machine Learning Improves Accuracy</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-07_02-20</em></p>
+<p align="center"><em>📅 Published: 2025-09-03_01-50</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
