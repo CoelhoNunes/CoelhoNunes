@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://community.nasscom.in/communities/ai-inside/ai-automated-number-plate-recognition-how-machine-learning-improves-accuracy" target="_blank" rel="noopener noreferrer"><strong>AI in Automated Number Plate Recognition: How Machine Learning Improves Accuracy</strong></a>
+  <a href="https://aithority.com/machine-learning/voodoosoft-unveils-siriusllm-the-worlds-first-chatgpt-like-ai-malware-detection-engine/" target="_blank" rel="noopener noreferrer"><strong>VoodooSoft Unveils SiriusLLM: The World’s First ChatGPT-Like AI Malware Detection Engine</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-03_01-50</em></p>
+<p align="center"><em>📅 Published: 2025-06-28_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
