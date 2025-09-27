@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.scmp.com/news/china/science/article/3314376/chinese-scientists-find-first-evidence-ai-could-think-human" target="_blank" rel="noopener noreferrer"><strong>Chinese scientists find first evidence that AI could think like a human</strong></a>
+  <a href="https://biz.chosun.com/en/en-it/2025/08/11/GIZVP7DRWJGAHOSRSVW2J4KFNE/" target="_blank" rel="noopener noreferrer"><strong>NCSOFT and KRAFTON lead K-AI recruitment to enhance AI capabilities in Korea - CHOSUNBIZ</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-17_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-08-12_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
