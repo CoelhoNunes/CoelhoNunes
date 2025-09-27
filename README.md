@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.unite.ai/ais-linguistic-ghosts-can-machines-revive-dead-languages-or-bury-them-forever/" target="_blank" rel="noopener noreferrer"><strong>AI’s Linguistic Ghosts: Can Machines Revive Dead Languages or Bury Them Forever?</strong></a>
+  <a href="https://www.scmp.com/news/china/science/article/3314376/chinese-scientists-find-first-evidence-ai-could-think-human" target="_blank" rel="noopener noreferrer"><strong>Chinese scientists find first evidence that AI could think like a human</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-29_01-57</em></p>
+<p align="center"><em>📅 Published: 2025-06-17_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
