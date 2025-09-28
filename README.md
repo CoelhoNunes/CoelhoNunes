@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/d41586-025-01500-6" target="_blank" rel="noopener noreferrer"><strong>AI language models develop social norms like groups of people</strong></a>
+  <a href="https://finance.yahoo.com/news/aligned-joins-forces-amd-usc-151200837.html" target="_blank" rel="noopener noreferrer"><strong>Aligned Joins Forces with AMD and USC ISI to Power Next-Generation AI with MEGALODON Language Model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-04_02-33</em></p>
+<p align="center"><em>📅 Published: 2025-07-26_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
