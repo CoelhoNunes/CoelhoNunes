@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/08/10/from-100000-to-under-500-labels-how-google-ai-cuts-llm-training-data-by-orders-of-magnitude/" target="_blank" rel="noopener noreferrer"><strong>From 100,000 to Under 500 Labels: How Google AI Cuts LLM Training Data by Orders of Magnitude</strong></a>
+  <a href="https://www.nature.com/articles/s41598-025-96508-3" target="_blank" rel="noopener noreferrer"><strong>Comparing large Language models and human annotators in latent content analysis of sentiment, political leaning, emotional intensity and sarcasm | Scientific Reports</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-09_01-56</em></p>
+<p align="center"><em>📅 Published: 2025-07-21_02-27</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
