@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.hindustantimes.com/education/admissions/shape-the-future-of-innovation-with-iitm-pravartak-s-generative-ai-and-machine-learning-programme-101747304050389.html" target="_blank" rel="noopener noreferrer"><strong>Shape the future of innovation with IITM Pravartak’s Generative AI and Machine Learning Programme</strong></a>
+  <a href="https://www.nature.com/articles/s41599-025-04361-6" target="_blank" rel="noopener noreferrer"><strong>Integrating machine learning into business and management in the age of artificial intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_16-18</em></p>
+<p align="center"><em>📅 Published: 2025-09-06_01-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
