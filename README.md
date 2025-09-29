@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41599-025-04361-6" target="_blank" rel="noopener noreferrer"><strong>Integrating machine learning into business and management in the age of artificial intelligence</strong></a>
+  <a href="https://www.nature.com/articles/s41599-025-05187-y" target="_blank" rel="noopener noreferrer"><strong>Navigating cognitive boundaries: the impact of CognifyNet AI-powered educational analytics on student improvement</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-06_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-06-24_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
