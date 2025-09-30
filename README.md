@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://market.us/report/generative-ai-in-agriculture-market/" target="_blank" rel="noopener noreferrer"><strong>Generative AI In Agriculture Market Size | CAGR of 28%</strong></a>
+  <a href="https://www.nature.com/articles/d41586-025-02343-x" target="_blank" rel="noopener noreferrer"><strong>DeepMind and OpenAI models solve maths problems at level of top students</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-29_02-33</em></p>
+<p align="center"><em>📅 Published: 2025-08-24_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
