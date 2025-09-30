@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/d41586-025-02343-x" target="_blank" rel="noopener noreferrer"><strong>DeepMind and OpenAI models solve maths problems at level of top students</strong></a>
+  <a href="https://www.techtarget.com/searchenterpriseai/definition/vision-language-models-VLMs" target="_blank" rel="noopener noreferrer"><strong>What are vision language models (VLMs)?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-24_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-05-25_02-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
