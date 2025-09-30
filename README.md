@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://financefeeds.com/the-next-frontier-chuanrui-li-explains-how-ai-is-changing-the-financial-playbook/" target="_blank" rel="noopener noreferrer"><strong>The Next Frontier: Chuanrui Li Explains How AI Is Changing The Financial Playbook</strong></a>
+  <a href="https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html" target="_blank" rel="noopener noreferrer"><strong>Apertus: a fully open, transparent, multilingual language model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-29_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-09-03_01-50</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
