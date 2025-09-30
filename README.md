@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html" target="_blank" rel="noopener noreferrer"><strong>Apertus: a fully open, transparent, multilingual language model</strong></a>
+  <a href="https://finance.yahoo.com/news/palantir-stock-crash-course-history-073500767.html" target="_blank" rel="noopener noreferrer"><strong>Palantir Stock Is on a Crash Course With History That Will Likely Be Very Costly for Investors</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-03_01-50</em></p>
+<p align="center"><em>📅 Published: 2025-06-15_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
