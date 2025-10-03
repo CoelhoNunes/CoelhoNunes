@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/africa/artificial-intelligence/natural-language-processing/" target="_blank" rel="noopener noreferrer"><strong>Natural Language Processing: How Machines Read and Write</strong></a>
+  <a href="https://towardsdatascience.com/a-research-lab-made-entirely-of-virtual-llm-agents-developed-molecules-that-block-a-virus-as-tested-in-real-life/" target="_blank" rel="noopener noreferrer"><strong>How a Research Lab Made Entirely of LLM Agents Developed Molecules That Can Block a Virus</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-01_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-08-10_02-29</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
