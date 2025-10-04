@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2024/12/19/google-deepmind-introduces-salt-a-machine-learning-approach-to-efficiently-train-high-performing-large-language-models-using-slms/" target="_blank" rel="noopener noreferrer"><strong>Google DeepMind Introduces ‘SALT’: A Machine Learning Approach to Efficiently Train High-Performing Large Language Models using SLMs</strong></a>
+  <a href="https://www.prweb.com/releases/quantum-leap-in-financial-ai-zoonovas-llm-ml-fusion-outperforms-the-market-302462712.html" target="_blank" rel="noopener noreferrer"><strong>Quantum Leap in Financial AI: Zoonova's LLM-ML Fusion Outperforms the Market</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_02-23</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_16-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
