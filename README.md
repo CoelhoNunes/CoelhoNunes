@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.boisestate.edu/news/2025/03/04/department-of-computer-science-unveils-first-of-its-kind-ai-degree/" target="_blank" rel="noopener noreferrer"><strong>Department of Computer Science unveils first of its kind artificial intelligence degree</strong></a>
+  <a href="https://www.marktechpost.com/2024/12/19/google-deepmind-introduces-salt-a-machine-learning-approach-to-efficiently-train-high-performing-large-language-models-using-slms/" target="_blank" rel="noopener noreferrer"><strong>Google DeepMind Introduces ‘SALT’: A Machine Learning Approach to Efficiently Train High-Performing Large Language Models using SLMs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-30_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
