@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/a-research-lab-made-entirely-of-virtual-llm-agents-developed-molecules-that-block-a-virus-as-tested-in-real-life/" target="_blank" rel="noopener noreferrer"><strong>How a Research Lab Made Entirely of LLM Agents Developed Molecules That Can Block a Virus</strong></a>
+  <a href="https://www.boisestate.edu/news/2025/03/04/department-of-computer-science-unveils-first-of-its-kind-ai-degree/" target="_blank" rel="noopener noreferrer"><strong>Department of Computer Science unveils first of its kind artificial intelligence degree</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-10_02-29</em></p>
+<p align="center"><em>📅 Published: 2025-06-30_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
