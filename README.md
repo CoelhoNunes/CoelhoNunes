@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.eurasiareview.com/16092025-artificial-intelligence-in-capital-markets-analysis/" target="_blank" rel="noopener noreferrer"><strong>Artificial Intelligence In Capital Markets – Analysis</strong></a>
+  <a href="https://healthcare-in-europe.com/en/news/generative-ai-llm-exaggeration-science.html" target="_blank" rel="noopener noreferrer"><strong>Generative AI routinely blows up science findings</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-16_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-00</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
