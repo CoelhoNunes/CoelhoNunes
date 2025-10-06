@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://fxnewsgroup.com/forex-news/platforms/fis-launches-ai-powered-fis-neural-treasury/" target="_blank" rel="noopener noreferrer"><strong>FIS launches AI-powered FIS Neural Treasury</strong></a>
+  <a href="https://www.eurasiareview.com/16092025-artificial-intelligence-in-capital-markets-analysis/" target="_blank" rel="noopener noreferrer"><strong>Artificial Intelligence In Capital Markets – Analysis</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-05_01-54</em></p>
+<p align="center"><em>📅 Published: 2025-09-16_01-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
