@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.hackster.io/news/google-s-deepmind-announces-alphaevolve-an-llm-based-ai-agent-for-the-hard-problems-e0dcf3642c1f" target="_blank" rel="noopener noreferrer"><strong>Google's DeepMind Announces AlphaEvolve, an LLM-Based AI Agent for the Hard Problems</strong></a>
+  <a href="https://futurestartup.com/2025/05/19/most-important-people-to-understand-the-landscape-of-artificial-intelligence/" target="_blank" rel="noopener noreferrer"><strong>Most Important People to Understand the Landscape of Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-09</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_12-58</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
