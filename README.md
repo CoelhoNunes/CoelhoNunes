@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://healthcare-in-europe.com/en/news/generative-ai-llm-exaggeration-science.html" target="_blank" rel="noopener noreferrer"><strong>Generative AI routinely blows up science findings</strong></a>
+  <a href="https://www.oracle.com/au/artificial-intelligence/ai-translation/" target="_blank" rel="noopener noreferrer"><strong>Breaking language barriers: The power of AI translation</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-00</em></p>
+<p align="center"><em>📅 Published: 2025-05-30_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
