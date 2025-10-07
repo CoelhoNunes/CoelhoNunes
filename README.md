@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/au/artificial-intelligence/ai-translation/" target="_blank" rel="noopener noreferrer"><strong>Breaking language barriers: The power of AI translation</strong></a>
+  <a href="https://www.niemanlab.org/2025/05/how-this-years-pulitzer-awardees-used-ai-in-their-reporting/" target="_blank" rel="noopener noreferrer"><strong>How this year’s Pulitzer awardees used AI in their reporting</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-30_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-05-23_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
