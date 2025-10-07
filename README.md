@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.technologyreview.com/2025/05/30/1117440/fueling-seamless-ai-at-scale/" target="_blank" rel="noopener noreferrer"><strong>Fueling seamless AI at scale</strong></a>
+  <a href="https://www.nextplatform.com/2025/07/31/for-financial-services-firms-ai-inference-is-as-challenging-as-training/" target="_blank" rel="noopener noreferrer"><strong>For Financial Services Firms, AI Inference Is As Challenging As Training</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-30_16-38</em></p>
+<p align="center"><em>📅 Published: 2025-08-01_02-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
