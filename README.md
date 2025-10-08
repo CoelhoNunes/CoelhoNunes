@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-at-scale-with-generative-ai-and-amazon-bedrock-data-automation/" target="_blank" rel="noopener noreferrer"><strong>Intelligent document processing at scale with generative AI and Amazon Bedrock Data Automation | Artificial Intelligence</strong></a>
+  <a href="https://www.openpr.com/news/4050624/ai-in-industrial-automation-market-opportunities-emerging-from" target="_blank" rel="noopener noreferrer"><strong>AI in Industrial Automation Market Opportunities Emerging from</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-03_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-06-04_08-40</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
