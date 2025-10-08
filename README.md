@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.openpr.com/news/4050624/ai-in-industrial-automation-market-opportunities-emerging-from" target="_blank" rel="noopener noreferrer"><strong>AI in Industrial Automation Market Opportunities Emerging from</strong></a>
+  <a href="https://www.straitstimes.com/opinion/groks-hitler-rant-shows-how-generative-ai-can-be-weaponised" target="_blank" rel="noopener noreferrer"><strong>Grok’s Hitler rant shows how generative AI can be weaponised</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_08-40</em></p>
+<p align="center"><em>📅 Published: 2025-07-11_02-13</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
