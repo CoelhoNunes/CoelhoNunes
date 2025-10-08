@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.blackrock.com/us/individual/insights/ai-investing" target="_blank" rel="noopener noreferrer"><strong>How AI is Transforming Investing</strong></a>
+  <a href="https://www.quantamagazine.org/can-ai-models-show-us-how-people-learn-impossible-languages-point-a-way-20250113/" target="_blank" rel="noopener noreferrer"><strong>Can AI Models Show Us How People Learn? Impossible Languages Point a Way.</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-02_01-59</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
