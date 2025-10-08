@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.quantamagazine.org/can-ai-models-show-us-how-people-learn-impossible-languages-point-a-way-20250113/" target="_blank" rel="noopener noreferrer"><strong>Can AI Models Show Us How People Learn? Impossible Languages Point a Way.</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-at-scale-with-generative-ai-and-amazon-bedrock-data-automation/" target="_blank" rel="noopener noreferrer"><strong>Intelligent document processing at scale with generative AI and Amazon Bedrock Data Automation | Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-16</em></p>
+<p align="center"><em>📅 Published: 2025-10-03_01-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
