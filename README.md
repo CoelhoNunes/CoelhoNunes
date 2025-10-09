@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.prdaily.com/foundational-generative-ai-glossary/" target="_blank" rel="noopener noreferrer"><strong>Foundational generative AI glossary</strong></a>
+  <a href="https://www.irishexaminer.com/lifestyle-columnists/arid-41636536.html" target="_blank" rel="noopener noreferrer"><strong>Colm O'Regan: AI scraped my novels, but why? Does it want to describe the inner workings of an imaginary Tidy Towns group?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-31_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-05-23_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
