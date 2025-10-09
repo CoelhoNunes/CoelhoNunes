@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.straitstimes.com/opinion/groks-hitler-rant-shows-how-generative-ai-can-be-weaponised" target="_blank" rel="noopener noreferrer"><strong>Grok’s Hitler rant shows how generative AI can be weaponised</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/build-a-scalable-ai-assistant-to-help-refugees-using-aws/" target="_blank" rel="noopener noreferrer"><strong>Build a scalable AI assistant to help refugees using AWS</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-11_02-13</em></p>
+<p align="center"><em>📅 Published: 2025-06-03_16-42</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
