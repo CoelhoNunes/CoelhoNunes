@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/06/03/from-exploration-collapse-to-predictable-limits-shanghai-ai-lab-proposes-entropy-based-scaling-laws-for-reinforcement-learning-in-llms/" target="_blank" rel="noopener noreferrer"><strong>From Exploration Collapse to Predictable Limits: Shanghai AI Lab Proposes Entropy-Based Scaling Laws for Reinforcement Learning in LLMs</strong></a>
+  <a href="https://www.netguru.com/blog/transformer-models-in-nlp" target="_blank" rel="noopener noreferrer"><strong>Transformer Models in Natural Language Processing</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-09-19_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
