@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.irishexaminer.com/lifestyle-columnists/arid-41636536.html" target="_blank" rel="noopener noreferrer"><strong>Colm O'Regan: AI scraped my novels, but why? Does it want to describe the inner workings of an imaginary Tidy Towns group?</strong></a>
+  <a href="https://www.marktechpost.com/2025/06/03/from-exploration-collapse-to-predictable-limits-shanghai-ai-lab-proposes-entropy-based-scaling-laws-for-reinforcement-learning-in-llms/" target="_blank" rel="noopener noreferrer"><strong>From Exploration Collapse to Predictable Limits: Shanghai AI Lab Proposes Entropy-Based Scaling Laws for Reinforcement Learning in LLMs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-23_02-16</em></p>
+<p align="center"><em>📅 Published: 2025-06-04_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
