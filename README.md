@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://sakana.ai/taid/" target="_blank" rel="noopener noreferrer"><strong>TAID: A Novel Method for Efficient Knowledge Transfer from Large Language Models to Small Language Models</strong></a>
+  <a href="https://www.nature.com/articles/s44387-025-00011-z" target="_blank" rel="noopener noreferrer"><strong>Large language models for disease diagnosis: a scoping review</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-17_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-06-10_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
