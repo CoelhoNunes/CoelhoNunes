@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.mit.edu/2025/making-ai-generated-code-more-accurate-0418" target="_blank" rel="noopener noreferrer"><strong>Making AI-generated code more accurate in any language</strong></a>
+  <a href="https://sakana.ai/taid/" target="_blank" rel="noopener noreferrer"><strong>TAID: A Novel Method for Efficient Knowledge Transfer from Large Language Models to Small Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-24_08-34</em></p>
+<p align="center"><em>📅 Published: 2025-08-17_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
