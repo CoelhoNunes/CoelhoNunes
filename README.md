@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.investmentnews.com/fintech/envestnet-unveils-ai-data-tools-to-empower-advisors-decision-making/260829" target="_blank" rel="noopener noreferrer"><strong>Envestnet unveils AI data tools to empower advisors' decision-making</strong></a>
+  <a href="https://www.newswise.com/articles/ai-deciphers-plant-dna-language-models-set-to-transform-genomics-and-agriculture" target="_blank" rel="noopener noreferrer"><strong>AI Deciphers Plant DNA: Language Models Set to Transform Genomics and Agriculture | Newswise</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-07_02-18</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
