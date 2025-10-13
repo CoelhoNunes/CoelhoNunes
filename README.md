@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://hbr.org/2025/05/research-do-llms-have-values" target="_blank" rel="noopener noreferrer"><strong>Research: Do LLMs Have Values?</strong></a>
+  <a href="https://www.oracle.com/artificial-intelligence/ai-translation/" target="_blank" rel="noopener noreferrer"><strong>Breaking language barriers: The power of AI translation</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-07_02-18</em></p>
+<p align="center"><em>📅 Published: 2025-08-03_02-34</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
