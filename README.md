@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41431-024-01782-w" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence in clinical genetics</strong></a>
+  <a href="https://www.fiercebiotech.com/medtech/fine-tuned-ai-models-openai-babylon-aim-predict-clinical-trial-successes" target="_blank" rel="noopener noreferrer"><strong>With fine-tuned AI models, OpenAI, Babylon aim to predict clinical trial successes</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-21_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-05-27_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
