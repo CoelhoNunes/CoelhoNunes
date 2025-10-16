@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.designboom.com/technology/ai-language-models-chatgpt-gemini-understand-flowers-ohio-state-university-06-04-2025/" target="_blank" rel="noopener noreferrer"><strong>why AI language models like chatGPT and gemini can’t understand flowers like humans do</strong></a>
+  <a href="https://www.nature.com/articles/s42256-025-01049-z" target="_blank" rel="noopener noreferrer"><strong>Human-like object concept representations emerge naturally in multimodal large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-06_02-18</em></p>
+<p align="center"><em>📅 Published: 2025-06-12_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
