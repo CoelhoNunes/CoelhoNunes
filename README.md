@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.wardandsmith.com/articles/demystifying-ai-your-business-is-already-using-it-and-how-to-do-it-better-part-1" target="_blank" rel="noopener noreferrer"><strong>Exorcising AI Myths: What's Really Haunting Your Business - Part 1</strong></a>
+  <a href="https://dev.ua/en/news/google-zapuskaie-onovlenyi-intensyvnyi-kurs-iz-mashynnoho-navchannia-ukrainskoiu-movoiu-1748336451" target="_blank" rel="noopener noreferrer"><strong>Google launches updated “Machine Learning Crash Course” in Ukrainian</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-02_01-53</em></p>
+<p align="center"><em>📅 Published: 2025-05-28_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
