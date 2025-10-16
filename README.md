@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s42256-025-01049-z" target="_blank" rel="noopener noreferrer"><strong>Human-like object concept representations emerge naturally in multimodal large language models</strong></a>
+  <a href="https://www.forbes.com.au/news/innovation/ed-cravens-multi-million-dollar-bet-on-australias-answer-to-openai/" target="_blank" rel="noopener noreferrer"><strong>Inside Ed Craven’s multi-million dollar bet on Australia’s answer to OpenAI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-12_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-08-04_02-33</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
