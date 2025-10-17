@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://dev.ua/en/news/google-zapuskaie-onovlenyi-intensyvnyi-kurs-iz-mashynnoho-navchannia-ukrainskoiu-movoiu-1748336451" target="_blank" rel="noopener noreferrer"><strong>Google launches updated “Machine Learning Crash Course” in Ukrainian</strong></a>
+  <a href="https://market.us/report/ai-deception-tools-market/" target="_blank" rel="noopener noreferrer"><strong>AI Deception Tools Market Size | CAGR of 29.8%</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-28_02-18</em></p>
+<p align="center"><em>📅 Published: 2025-08-06_02-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
