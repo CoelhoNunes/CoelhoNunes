@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.prweb.com/releases/quantum-leap-in-financial-ai-zoonovas-llm-ml-fusion-outperforms-the-market-302462712.html" target="_blank" rel="noopener noreferrer"><strong>Quantum Leap in Financial AI: Zoonova's LLM-ML Fusion Outperforms the Market</strong></a>
+  <a href="https://www.electronicdesign.com/technologies/embedded/machine-learning/article/55285187/electronic-design-making-15-bits-work-for-large-language-models" target="_blank" rel="noopener noreferrer"><strong>Making 1.5 Bits Work for Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-22_16-38</em></p>
+<p align="center"><em>📅 Published: 2025-06-03_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
