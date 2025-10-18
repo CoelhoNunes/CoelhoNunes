@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://ai-scholar.tech/en/articles/llm-paper%2Fpreference-guided-reasoning" target="_blank" rel="noopener noreferrer"><strong>A proposal for mixed-first optimization that revolutionizes the inference performance of multimodal LLMs!</strong></a>
+  <a href="https://www.prweb.com/releases/quantum-leap-in-financial-ai-zoonovas-llm-ml-fusion-outperforms-the-market-302462712.html" target="_blank" rel="noopener noreferrer"><strong>Quantum Leap in Financial AI: Zoonova's LLM-ML Fusion Outperforms the Market</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-07_02-20</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_16-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
