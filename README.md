@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-11877-z" target="_blank" rel="noopener noreferrer"><strong>The influence of Gen-AI tools application for text data augmentation: case of Lithuanian educational context data classification</strong></a>
+  <a href="https://news.microsoft.com/source/features/ai/15-milestones-that-shaped-microsofts-vision-for-ai/" target="_blank" rel="noopener noreferrer"><strong>15 milestones that shaped Microsoft's vision for AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-19_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-06-07_16-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
