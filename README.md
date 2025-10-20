@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.miragenews.com/kaist-unveils-speechssm-for-247-ai-voice-1490834/" target="_blank" rel="noopener noreferrer"><strong>KAIST Unveils SpeechSSM for 24/7 AI Voice Assistant</strong></a>
+  <a href="https://www.ibm.com/think/topics/small-language-models" target="_blank" rel="noopener noreferrer"><strong>What are Small Language Models (SLM)?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-06_02-23</em></p>
+<p align="center"><em>📅 Published: 2025-06-04_08-40</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
