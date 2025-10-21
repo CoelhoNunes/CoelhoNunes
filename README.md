@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/toward-digital-well-being-using-generative-ai-to-detect-and-mitigate-bias-in-social-networks/" target="_blank" rel="noopener noreferrer"><strong>Toward Digital Well-Being: Using Generative AI to Detect and Mitigate Bias in Social Networks</strong></a>
+  <a href="https://www.esri.com/about/newsroom/arcnews/why-ai-and-large-language-models-benefit-from-cartography" target="_blank" rel="noopener noreferrer"><strong>Why AI and Large Language Models Benefit from Cartography | Winter 2025 | ArcNews</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-30_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-08-28_01-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
