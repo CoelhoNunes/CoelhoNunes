@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://particle.scitech.org.au/tech/101-what-is-ai-really/" target="_blank" rel="noopener noreferrer"><strong>101: What is AI, really?</strong></a>
+  <a href="https://towardsdatascience.com/toward-digital-well-being-using-generative-ai-to-detect-and-mitigate-bias-in-social-networks/" target="_blank" rel="noopener noreferrer"><strong>Toward Digital Well-Being: Using Generative AI to Detect and Mitigate Bias in Social Networks</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-04_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-08-30_01-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
