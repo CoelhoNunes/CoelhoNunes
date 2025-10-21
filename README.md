@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.esri.com/about/newsroom/arcnews/why-ai-and-large-language-models-benefit-from-cartography" target="_blank" rel="noopener noreferrer"><strong>Why AI and Large Language Models Benefit from Cartography | Winter 2025 | ArcNews</strong></a>
+  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-10-3-silicons-golden-age-how-ais-insatiable-hunger-is-forging-a-trillion-dollar-chip-empire" target="_blank" rel="noopener noreferrer"><strong>Silicon’s Golden Age: How AI’s Insatiable Hunger is Forging a Trillion-Dollar Chip Empire</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-28_01-57</em></p>
+<p align="center"><em>📅 Published: 2025-10-04_01-48</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
