@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/fast-vision-language-models" target="_blank" rel="noopener noreferrer"><strong>FastVLM: Efficient Vision Encoding for Vision Language Models</strong></a>
+  <a href="https://towardsdatascience.com/evaluating-your-rag-solution/" target="_blank" rel="noopener noreferrer"><strong>Evaluating Your RAG Solution</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-30_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-09-18_01-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
