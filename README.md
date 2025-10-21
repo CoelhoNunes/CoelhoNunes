@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-10-3-silicons-golden-age-how-ais-insatiable-hunger-is-forging-a-trillion-dollar-chip-empire" target="_blank" rel="noopener noreferrer"><strong>Silicon’s Golden Age: How AI’s Insatiable Hunger is Forging a Trillion-Dollar Chip Empire</strong></a>
+  <a href="https://machinelearning.apple.com/research/fast-vision-language-models" target="_blank" rel="noopener noreferrer"><strong>FastVLM: Efficient Vision Encoding for Vision Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-04_01-48</em></p>
+<p align="center"><em>📅 Published: 2025-08-30_01-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
