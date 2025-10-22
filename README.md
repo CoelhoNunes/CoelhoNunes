@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/evaluating-your-rag-solution/" target="_blank" rel="noopener noreferrer"><strong>Evaluating Your RAG Solution</strong></a>
+  <a href="https://www.24-7pressrelease.com/press-release/525769/marquis-whos-who-honors-heather-spetalnick-for-expertise-in-ai-and-software-engineering" target="_blank" rel="noopener noreferrer"><strong>Marquis Who's Who Honors Heather Spetalnick for Expertise in AI and Software Engineering</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-18_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-08-13_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
