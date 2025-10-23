@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-96508-3" target="_blank" rel="noopener noreferrer"><strong>Comparing large Language models and human annotators in latent content analysis of sentiment, political leaning, emotional intensity and sarcasm | Scientific Reports</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/build-and-deploy-ai-inference-workflows-with-new-enhancements-to-the-amazon-sagemaker-python-sdk/" target="_blank" rel="noopener noreferrer"><strong>Build and deploy AI inference workflows with new enhancements to the Amazon SageMaker Python SDK</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-21_02-27</em></p>
+<p align="center"><em>📅 Published: 2025-07-02_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
