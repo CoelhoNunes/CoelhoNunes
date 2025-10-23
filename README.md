@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ainvest.com/news/titans-ai-unveiling-high-growth-companies-shaping-future-business-marketing-2508/" target="_blank" rel="noopener noreferrer"><strong>The New Titans of AI: Unveiling the High-Growth Companies Shaping the Future of Business and Marketing</strong></a>
+  <a href="https://www.cnhinews.com/news/article_9eff7d9f-40b6-5947-9faa-be200f41ada1.html" target="_blank" rel="noopener noreferrer"><strong>hireEZ Appoints Dr. Tianlong Chen as Chief AI Scientist to Lead Next-Generation Agentic AI for Talent Acquisition</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-06_02-25</em></p>
+<p align="center"><em>📅 Published: 2025-08-21_02-00</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
