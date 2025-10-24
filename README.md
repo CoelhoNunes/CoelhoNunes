@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-03290-3" target="_blank" rel="noopener noreferrer"><strong>A neuro-symbolic AI approach for translating children’s stories from English to Tamil with emotional paraphrasing</strong></a>
+  <a href="https://blockchain.news/ainews/anthropic-launches-fall-2025-ai-student-programs-application-process-now-open" target="_blank" rel="noopener noreferrer"><strong>Anthropic Launches Fall 2025 AI Student Programs: Application Process Now Open</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-01_02-25</em></p>
+<p align="center"><em>📅 Published: 2025-07-11_02-13</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
