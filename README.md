@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.cnhinews.com/news/article_9eff7d9f-40b6-5947-9faa-be200f41ada1.html" target="_blank" rel="noopener noreferrer"><strong>hireEZ Appoints Dr. Tianlong Chen as Chief AI Scientist to Lead Next-Generation Agentic AI for Talent Acquisition</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/a-generative-ai-prototype-with-amazon-bedrock-transforms-life-sciences-and-the-genome-analysis-process/" target="_blank" rel="noopener noreferrer"><strong>A generative AI prototype with Amazon Bedrock transforms life sciences and the genome analysis process</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-21_02-00</em></p>
+<p align="center"><em>📅 Published: 2025-05-29_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
