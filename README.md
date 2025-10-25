@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://particle.scitech.org.au/tech/101-what-is-ai-really/" target="_blank" rel="noopener noreferrer"><strong>101: What is AI, really?</strong></a>
+  <a href="https://www.boisestate.edu/news/2025/03/04/department-of-computer-science-unveils-first-of-its-kind-ai-degree/" target="_blank" rel="noopener noreferrer"><strong>Department of Computer Science unveils first of its kind artificial intelligence degree</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-04_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-06-30_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
