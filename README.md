@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://9to5mac.com/2025/10/20/whatsapp-bans-ai-chatbots-from-using-its-business-api/" target="_blank" rel="noopener noreferrer"><strong>WhatsApp bans AI chatbots from using its business API</strong></a>
+  <a href="https://particle.scitech.org.au/tech/101-what-is-ai-really/" target="_blank" rel="noopener noreferrer"><strong>101: What is AI, really?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-21_01-59</em></p>
+<p align="center"><em>📅 Published: 2025-09-04_01-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
