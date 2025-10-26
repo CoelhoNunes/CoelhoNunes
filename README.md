@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/il-en/artificial-intelligence/natural-language-processing/" target="_blank" rel="noopener noreferrer"><strong>Natural Language Processing: How Machines Read and Write</strong></a>
+  <a href="https://the-decoder.com/ai-generated-cuda-kernels-outperform-pytorch-in-several-gpu-heavy-machine-learning-benchmarks/" target="_blank" rel="noopener noreferrer"><strong>AI-generated CUDA kernels outperform PyTorch in several GPU-heavy machine learning benchmarks</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-01_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_22-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
