@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://the-decoder.com/ai-generated-cuda-kernels-outperform-pytorch-in-several-gpu-heavy-machine-learning-benchmarks/" target="_blank" rel="noopener noreferrer"><strong>AI-generated CUDA kernels outperform PyTorch in several GPU-heavy machine learning benchmarks</strong></a>
+  <a href="https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/" target="_blank" rel="noopener noreferrer"><strong>Apple supercharges its tools and technologies for developers to foster creativity, innovation, and design</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_22-11</em></p>
+<p align="center"><em>📅 Published: 2025-06-24_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
