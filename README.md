@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.hackster.io/news/x-origin-s-chatgpt-powered-yonbo-companion-bot-promises-fun-learning-and-mental-health-evaluations-10098fb073d5" target="_blank" rel="noopener noreferrer"><strong>X-Origin's ChatGPT-Powered Yonbo Companion Bot Promises Fun, Learning, and Mental Health Evaluations</strong></a>
+  <a href="https://www.am-online.com/features-landing/simplifying-ai-the-must-knows-of-this-vital-technology" target="_blank" rel="noopener noreferrer"><strong>Demystifying AI - the must-knows of this vital technology</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-28_16-38</em></p>
+<p align="center"><em>📅 Published: 2025-09-16_01-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
