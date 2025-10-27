@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41746-025-01721-z" target="_blank" rel="noopener noreferrer"><strong>Situating governance and regulatory concerns for generative artificial intelligence and large language models in medical education</strong></a>
+  <a href="https://www.techtarget.com/searchdatamanagement/news/366625197/AI-tools-highlight-latest-swath-of-Snowflake-capabi" target="_blank" rel="noopener noreferrer"><strong>AI tools highlight latest swath of Snowflake capabilities</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-27_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-06-03_16-42</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
