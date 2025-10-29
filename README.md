@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.miragenews.com/new-method-speeds-up-ai-model-development-1497712/" target="_blank" rel="noopener noreferrer"><strong>New Method Speeds Up AI Model Development</strong></a>
+  <a href="https://www.marktechpost.com/2025/06/18/revisual-r1-an-open-source-7b-multimodal-large-language-model-mllms-that-achieves-long-accurate-and-thoughtful-reasoning/" target="_blank" rel="noopener noreferrer"><strong>ReVisual-R1: An Open-Source 7B Multimodal Large Language Model (MLLMs) that Achieves Long, Accurate and Thoughtful Reasoning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-17_02-21</em></p>
+<p align="center"><em>📅 Published: 2025-06-23_02-20</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
