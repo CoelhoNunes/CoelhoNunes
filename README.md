@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/topics/few-shot-learning" target="_blank" rel="noopener noreferrer"><strong>What Is Few-Shot Learning?</strong></a>
+  <a href="https://indianexpress.com/article/education/ai-courses-free-for-beginners-no-experience-ibm-google-microsoft-10170812/" target="_blank" rel="noopener noreferrer"><strong>Free AI courses for beginners that does not require any prior experience</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-28_02-28</em></p>
+<p align="center"><em>📅 Published: 2025-08-11_02-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
