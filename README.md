@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/stories/2025/llms-across-industries" target="_blank" rel="noopener noreferrer"><strong>LLMs Across Industries: Recent Research on Large Language Models</strong></a>
+  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/cogito-v2-forging-ai-intuition-on-the-path-to-self-improvement/" target="_blank" rel="noopener noreferrer"><strong>Cogito v2: Forging AI Intuition on the Path to Self-Improvement</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-07_02-18</em></p>
+<p align="center"><em>📅 Published: 2025-08-05_02-27</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
