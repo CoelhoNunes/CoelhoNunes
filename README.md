@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/cogito-v2-forging-ai-intuition-on-the-path-to-self-improvement/" target="_blank" rel="noopener noreferrer"><strong>Cogito v2: Forging AI Intuition on the Path to Self-Improvement</strong></a>
+  <a href="https://www.ibm.com/think/topics/few-shot-learning" target="_blank" rel="noopener noreferrer"><strong>What Is Few-Shot Learning?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-05_02-27</em></p>
+<p align="center"><em>📅 Published: 2025-07-28_02-28</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
