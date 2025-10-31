@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://pubs.acs.org/doi/10.1021/acs.chemmater.5c00940?ai=54q&mi=0&af=R" target="_blank" rel="noopener noreferrer"><strong>Multimodal Machine Learning with Large Language Embedding Model for Polymer Property Prediction</strong></a>
+  <a href="https://lithub.com/on-the-very-real-dangers-of-the-artificial-intelligence-hype-machine/" target="_blank" rel="noopener noreferrer"><strong>On the Very Real Dangers of the Artificial Intelligence Hype Machine</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-24_01-54</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
