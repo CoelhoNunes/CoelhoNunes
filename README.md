@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.milwaukeeindependent.com/syndicated/white-genocide-responses-ai-chatbot-grok-show-easily-generative-ai-can-weaponized/" target="_blank" rel="noopener noreferrer"><strong>"White genocide" responses from the AI chatbot Grok show how easily generative AI can be weaponized</strong></a>
+  <a href="https://the-decoder.com/ai-generated-cuda-kernels-outperform-pytorch-in-several-gpu-heavy-machine-learning-benchmarks/" target="_blank" rel="noopener noreferrer"><strong>AI-generated CUDA kernels outperform PyTorch in several GPU-heavy machine learning benchmarks</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-17_01-56</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_22-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
