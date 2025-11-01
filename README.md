@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.hackster.io/news/pine64-packs-a-starpro64-into-a-passive-cooling-case-to-make-the-alpha-one-deepseek-gen-ai-box-9e8942b7dd18" target="_blank" rel="noopener noreferrer"><strong>PINE64 Packs a StarPro64 Into a Passive Cooling Case to Make the ALPHA-One DeepSeek Gen AI Box</strong></a>
+  <a href="https://www.pharmiweb.com/press-release/2025-09-04/global-generative-ai-in-healthcare-market-to-grow-at-36-38-cagr-driven-by-ai-data-by-2030" target="_blank" rel="noopener noreferrer"><strong>Global Generative AI in Healthcare Market to Grow at 36-38% CAGR, Driven by AI & Data by 2030</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-11</em></p>
+<p align="center"><em>📅 Published: 2025-09-05_01-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
