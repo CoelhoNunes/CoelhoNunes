@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.bgr.com/2003091/meta-bans-ai-chatbots-chatgpt-from-whatsapp/" target="_blank" rel="noopener noreferrer"><strong>Meta Wants AIs Like ChatGPT Gone From Your WhatsApp Chats</strong></a>
+  <a href="https://www.hackster.io/news/pine64-packs-a-starpro64-into-a-passive-cooling-case-to-make-the-alpha-one-deepseek-gen-ai-box-9e8942b7dd18" target="_blank" rel="noopener noreferrer"><strong>PINE64 Packs a StarPro64 Into a Passive Cooling Case to Make the ALPHA-One DeepSeek Gen AI Box</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-22_02-02</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
