@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://the-decoder.com/ai-generated-cuda-kernels-outperform-pytorch-in-several-gpu-heavy-machine-learning-benchmarks/" target="_blank" rel="noopener noreferrer"><strong>AI-generated CUDA kernels outperform PyTorch in several GPU-heavy machine learning benchmarks</strong></a>
+  <a href="https://thebftonline.com/2025/10/09/why-every-school-must-teach-artificial-intelligence/" target="_blank" rel="noopener noreferrer"><strong>Why every school must teach Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_22-11</em></p>
+<p align="center"><em>📅 Published: 2025-10-10_01-55</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
