@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://thebftonline.com/2025/10/09/why-every-school-must-teach-artificial-intelligence/" target="_blank" rel="noopener noreferrer"><strong>Why every school must teach Artificial Intelligence</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/gemma-3-27b-model-now-available-on-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/" target="_blank" rel="noopener noreferrer"><strong>Gemma 3 27B model now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-10_01-55</em></p>
+<p align="center"><em>📅 Published: 2025-06-05_08-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
