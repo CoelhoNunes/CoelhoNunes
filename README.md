@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.unite.ai/evogene-and-google-cloud-unveil-foundation-model-for-generative-molecule-design-pioneering-a-new-era-in-life-science-ai/" target="_blank" rel="noopener noreferrer"><strong>Evogene and Google Cloud Unveil Foundation Model for Generative Molecule Design, Pioneering a New Era in Life-Science AI</strong></a>
+  <a href="https://futurism.com/apple-damning-paper-ai-reasoning" target="_blank" rel="noopener noreferrer"><strong>Apple Researchers Just Released a Damning Paper That Pours Cold Water on the Entire AI Industry</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-12_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-07-06_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
