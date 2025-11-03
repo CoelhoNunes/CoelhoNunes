@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://enews.wvu.edu/articles/2025/07/18/free-summer-ai-workshops-available" target="_blank" rel="noopener noreferrer"><strong>E-News | Free summer AI workshops available</strong></a>
+  <a href="https://www.unite.ai/evogene-and-google-cloud-unveil-foundation-model-for-generative-molecule-design-pioneering-a-new-era-in-life-science-ai/" target="_blank" rel="noopener noreferrer"><strong>Evogene and Google Cloud Unveil Foundation Model for Generative Molecule Design, Pioneering a New Era in Life-Science AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-19_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-06-12_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
