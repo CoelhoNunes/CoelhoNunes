@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/how-llms-work-pre-training-to-post-training-neural-networks-hallucinations-and-inference/" target="_blank" rel="noopener noreferrer"><strong>How LLMs Work: Pre-Training to Post-Training, Neural Networks, Hallucinations, and Inference</strong></a>
+  <a href="https://builtin.com/artificial-intelligence/generative-ai" target="_blank" rel="noopener noreferrer"><strong>What Is Generative AI?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-21_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-10-13_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
