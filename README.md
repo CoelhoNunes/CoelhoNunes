@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-92190-7" target="_blank" rel="noopener noreferrer"><strong>Navigating artificial general intelligence development: societal, technological, ethical, and brain-inspired pathways</strong></a>
+  <a href="https://www.nature.com/articles/d41586-025-02275-6" target="_blank" rel="noopener noreferrer"><strong>‘Another DeepSeek moment’: Chinese AI model Kimi K2 stirs excitement</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-29_01-58</em></p>
+<p align="center"><em>📅 Published: 2025-08-11_02-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
