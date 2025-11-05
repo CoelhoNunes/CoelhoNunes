@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/06/01/off-policy-reinforcement-learning-rl-with-kl-divergence-yields-superior-reasoning-in-large-language-models/" target="_blank" rel="noopener noreferrer"><strong>Off-Policy Reinforcement Learning RL with KL Divergence Yields Superior Reasoning in Large Language Models</strong></a>
+  <a href="https://militaryembedded.com/ai/machine-learning/artificial-intelligence-pact-signed-between-afwerx-and-arize-ai" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence pact signed between AFWERX and Arize AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_08-41</em></p>
+<p align="center"><em>📅 Published: 2025-08-14_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
