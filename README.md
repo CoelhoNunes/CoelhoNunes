@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://militaryembedded.com/ai/machine-learning/artificial-intelligence-pact-signed-between-afwerx-and-arize-ai" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence pact signed between AFWERX and Arize AI</strong></a>
+  <a href="https://www.fortuneindia.com/business-news/keep-fighting-the-good-fight-zohos-sridhar-vembu-defends-sarvam-ai-over-criticism-of-sarvam-m/123445" target="_blank" rel="noopener noreferrer"><strong>'Keep fighting the good fight': Zoho's Sridhar Vembu defends Sarvam AI over criticism of Sarvam-M</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-14_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-05-27_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
