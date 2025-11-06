@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://yourstory.com/2025/05/techhugging-face-humanoid-robots-ai-research" target="_blank" rel="noopener noreferrer"><strong>Hugging Face launches humanoid robots to let AI physically interact with the world</strong></a>
+  <a href="https://www.snexplores.org/article/scientists-say-large-language-model-definition-pronunciation" target="_blank" rel="noopener noreferrer"><strong>Scientists Say: Large language model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-30_16-38</em></p>
+<p align="center"><em>📅 Published: 2025-05-30_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
