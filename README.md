@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/contrastive-localized" target="_blank" rel="noopener noreferrer"><strong>Contrastive Localized Language-Image Pre-Training</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/how-formula-1-uses-generative-ai-to-accelerate-race-day-issue-resolution/" target="_blank" rel="noopener noreferrer"><strong>How Formula 1® uses generative AI to accelerate race-day issue resolution</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-28_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-05-29_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
