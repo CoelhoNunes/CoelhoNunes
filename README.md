@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.kdnuggets.com/top-7-small-language-models" target="_blank" rel="noopener noreferrer"><strong>Top 7 Small Language Models</strong></a>
+  <a href="https://legal.thomsonreuters.com/blog/reasoning-tool-calling-and-agentic-systems-in-legal-llms/" target="_blank" rel="noopener noreferrer"><strong>Reasoning, tool calling, and agentic systems in legal LLMs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-08_02-00</em></p>
+<p align="center"><em>📅 Published: 2025-06-11_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
