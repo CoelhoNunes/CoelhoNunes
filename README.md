@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.newsbytesapp.com/news/science/bengaluru-based-sarvam-ai-brings-24b-parameter-llm-for-indian-languages-reasoning/story" target="_blank" rel="noopener noreferrer"><strong>Sarvam AI launches flagship LLM, comparable to Meta, Google models</strong></a>
+  <a href="https://blog.google/technology/ai/dolphingemma/" target="_blank" rel="noopener noreferrer"><strong>DolphinGemma: How Google AI is helping decode dolphin communication</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-25_08-35</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_22-14</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
