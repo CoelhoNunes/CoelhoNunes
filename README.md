@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://blog.google/technology/ai/dolphingemma/" target="_blank" rel="noopener noreferrer"><strong>DolphinGemma: How Google AI is helping decode dolphin communication</strong></a>
+  <a href="https://www.nature.com/articles/s41541-025-01258-y" target="_blank" rel="noopener noreferrer"><strong>AI-driven epitope prediction: a systematic review, comparative analysis, and practical guide for vaccine development</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_22-14</em></p>
+<p align="center"><em>📅 Published: 2025-10-23_01-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
