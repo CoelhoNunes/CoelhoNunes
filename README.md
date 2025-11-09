@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41541-025-01258-y" target="_blank" rel="noopener noreferrer"><strong>AI-driven epitope prediction: a systematic review, comparative analysis, and practical guide for vaccine development</strong></a>
+  <a href="https://the-decoder.com/ai-generated-cuda-kernels-outperform-pytorch-in-several-gpu-heavy-machine-learning-benchmarks/" target="_blank" rel="noopener noreferrer"><strong>AI-generated CUDA kernels outperform PyTorch in several GPU-heavy machine learning benchmarks</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-23_01-57</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_22-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
