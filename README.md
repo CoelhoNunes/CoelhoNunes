@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.juancole.com/2025/07/mechahitler-antisemitic-generative.html" target="_blank" rel="noopener noreferrer"><strong>Grok’s MechaHitler Antisemitic Rant shows how Generative AI can be Weaponized</strong></a>
+  <a href="https://www.helpnetsecurity.com/2025/08/25/review-adversarial-ai-attacks-mitigations-and-defense-strategies/" target="_blank" rel="noopener noreferrer"><strong>Review: Adversarial AI Attacks, Mitigations, and Defense Strategies</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-13_02-28</em></p>
+<p align="center"><em>📅 Published: 2025-08-26_02-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
