@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.helpnetsecurity.com/2025/08/25/review-adversarial-ai-attacks-mitigations-and-defense-strategies/" target="_blank" rel="noopener noreferrer"><strong>Review: Adversarial AI Attacks, Mitigations, and Defense Strategies</strong></a>
+  <a href="https://news.mit.edu/2025/mit-researchers-propose-new-model-for-legible-modular-software-1106" target="_blank" rel="noopener noreferrer"><strong>MIT researchers propose a new model for legible, modular software</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-26_02-01</em></p>
+<p align="center"><em>📅 Published: 2025-11-09_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
