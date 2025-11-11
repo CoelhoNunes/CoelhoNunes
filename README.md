@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/" target="_blank" rel="noopener noreferrer"><strong>The AI Was Fed Sloppy Code. It Turned Into Something Evil.</strong></a>
+  <a href="https://www.livescience.com/technology/artificial-intelligence/threaten-an-ai-chatbot-and-it-will-lie-cheat-and-let-you-die-in-an-effort-to-stop-you-study-warns" target="_blank" rel="noopener noreferrer"><strong>Threaten an AI chatbot and it will lie, cheat and 'let you die' in an effort to stop you, study warns</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-15_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-07-02_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
