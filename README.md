@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/artificial-intelligence/ai-translation/" target="_blank" rel="noopener noreferrer"><strong>Breaking language barriers: The power of AI translation</strong></a>
+  <a href="https://www.lightreading.com/ai-machine-learning/veon-rolls-out-kazakh-language-ai-tutor-as-part-of-genai-push" target="_blank" rel="noopener noreferrer"><strong>VEON rolls out Kazakh-language AI tutor as part of GenAI push</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-03_02-34</em></p>
+<p align="center"><em>📅 Published: 2025-06-08_02-28</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
