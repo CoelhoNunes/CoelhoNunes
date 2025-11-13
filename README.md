@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://vocal.media/lifehack/ai-career-paths-to-explore-in-2025-roles-skills-and-salaries-that-matter" target="_blank" rel="noopener noreferrer"><strong>AI Career Paths to Explore in 2025: Roles, Skills, and Salaries That Matter</strong></a>
+  <a href="https://www.nature.com/articles/d41586-025-01485-2" target="_blank" rel="noopener noreferrer"><strong>‘AI models are capable of novel research’: OpenAI’s chief scientist on what to expect</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-18_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-05-31_16-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
