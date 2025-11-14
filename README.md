@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://quantumzeitgeist.com/deep-learning-pipeline-gpt-h100-gpus-analyzes-epilepsy-genomics-million/" target="_blank" rel="noopener noreferrer"><strong>Deep Learning Pipeline with GPT-2 XL and H100 GPUs Analyzes Epilepsy Genomics in 50 Million People</strong></a>
+  <a href="https://huggingface.co/deepseek-ai/DeepSeek-R1" target="_blank" rel="noopener noreferrer"><strong>deepseek-ai/DeepSeek-R1</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-07_01-53</em></p>
+<p align="center"><em>📅 Published: 2025-05-18_17-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
