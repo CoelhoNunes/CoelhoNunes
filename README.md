@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/d41586-025-01485-2" target="_blank" rel="noopener noreferrer"><strong>‘AI models are capable of novel research’: OpenAI’s chief scientist on what to expect</strong></a>
+  <a href="https://www.nature.com/articles/s41599-025-04850-8" target="_blank" rel="noopener noreferrer"><strong>AI integration in financial services: a systematic review of trends and regulatory challenges</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-31_16-37</em></p>
+<p align="center"><em>📅 Published: 2025-08-02_02-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
