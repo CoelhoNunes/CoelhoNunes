@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://particle.scitech.org.au/tech/101-what-is-ai-really/" target="_blank" rel="noopener noreferrer"><strong>101: What is AI, really?</strong></a>
+  <a href="https://www.cnet.com/tech/services-and-software/chatgpt-glossary-57-ai-terms-everyone-should-know/" target="_blank" rel="noopener noreferrer"><strong>ChatGPT Glossary: 57 AI Terms Everyone Should Know</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-04_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-09-26_01-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
