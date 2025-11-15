@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.manilatimes.net/2025/10/08/tmt-newswire/globenewswire/genai-course-for-software-engineers-with-agentic-ai-launched-to-meet-top-tech-jobs-demand-for-advanced-generative-ai-skills/2196395" target="_blank" rel="noopener noreferrer"><strong>GenAI Course For Software Engineers With Agentic AI Launched To Meet Top Tech Jobs Demand For Advanced Generative AI Skills</strong></a>
+  <a href="https://towardsdatascience.com/the-three-ages-of-data-science-when-to-use-traditional-machine-learning-deep-learning-or-a-large-language-models-explained-with-one-example/" target="_blank" rel="noopener noreferrer"><strong>The Three Ages of Data Science: When to Use Traditional Machine Learning, Deep Learning, or an LLM (Explained with One Example)</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-08_01-53</em></p>
+<p align="center"><em>📅 Published: 2025-11-12_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
