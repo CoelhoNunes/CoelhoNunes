@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41592-024-02487-0" target="_blank" rel="noopener noreferrer"><strong>Accurate RNA 3D structure prediction using a language model-based deep learning approach</strong></a>
+  <a href="https://www.dice.com/career-advice/top-online-courses-to-upskill-in-emerging-tech" target="_blank" rel="noopener noreferrer"><strong>Top Online Courses to Upskill in Emerging Tech</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-28_02-28</em></p>
+<p align="center"><em>📅 Published: 2025-05-21_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
