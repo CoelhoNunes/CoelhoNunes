@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1479855/full" target="_blank" rel="noopener noreferrer"><strong>A systematic review of Machine Learning and Deep Learning approaches in Mexico: challenges and opportunities</strong></a>
+  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-11-11-navigating-the-ai-gold-rush-fund-managers-grapple-with-tsmc-concentration-amidst-semiconductor-boom" target="_blank" rel="noopener noreferrer"><strong>Navigating the AI Gold Rush: Fund Managers Grapple with TSMC Concentration Amidst Semiconductor Boom</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-25_02-25</em></p>
+<p align="center"><em>📅 Published: 2025-11-12_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
