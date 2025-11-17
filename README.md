@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-025-01249-7" target="_blank" rel="noopener noreferrer"><strong>Turkish medical oncologists’ perspectives on integrating artificial intelligence: knowledge, attitudes, and ethical considerations</strong></a>
+  <a href="https://towardsdatascience.com/ai-papers-to-read-in-2025/" target="_blank" rel="noopener noreferrer"><strong>AI Papers to Read in 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-06_02-23</em></p>
+<p align="center"><em>📅 Published: 2025-11-09_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
