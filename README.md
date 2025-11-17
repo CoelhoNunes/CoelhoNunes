@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.simplilearn.com/tutorials/chatgpt-tutorial/chatgpt-alternatives" target="_blank" rel="noopener noreferrer"><strong>30 Best ChatGPT Alternatives in 2025</strong></a>
+  <a href="https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-025-01249-7" target="_blank" rel="noopener noreferrer"><strong>Turkish medical oncologists’ perspectives on integrating artificial intelligence: knowledge, attitudes, and ethical considerations</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-29_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-07-06_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
