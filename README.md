@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nsf.gov/focus-areas/ai" target="_blank" rel="noopener noreferrer"><strong>Artificial Intelligence</strong></a>
+  <a href="https://ai-scholar.tech/en/articles/llm-paper%2Fpreference-guided-reasoning" target="_blank" rel="noopener noreferrer"><strong>A proposal for mixed-first optimization that revolutionizes the inference performance of multimodal LLMs!</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-04_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-07-07_02-20</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
