@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.designboom.com/technology/ai-language-models-chatgpt-gemini-understand-flowers-ohio-state-university-06-04-2025/" target="_blank" rel="noopener noreferrer"><strong>why AI language models like chatGPT and gemini can’t understand flowers like humans do</strong></a>
+  <a href="https://www.cato.org/policy-analysis/opportunity-costs-state-local-ai-regulation" target="_blank" rel="noopener noreferrer"><strong>Opportunity Costs of State and Local AI Regulation</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-06_02-18</em></p>
+<p align="center"><em>📅 Published: 2025-06-11_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
