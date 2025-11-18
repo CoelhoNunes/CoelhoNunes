@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/enhance-ai-agents-using-predictive-ml-models-with-amazon-sagemaker-ai-and-model-context-protocol-mcp/" target="_blank" rel="noopener noreferrer"><strong>Enhance AI agents using predictive ML models with Amazon SageMaker AI and Model Context Protocol (MCP)</strong></a>
+  <a href="https://www.macrumors.com/2025/06/09/apple-research-questions-ai-reasoning-models/" target="_blank" rel="noopener noreferrer"><strong>Apple Research Questions AI Reasoning Models Just Days Before WWDC</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-24_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-06-12_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
