@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://nianticlabs.com/news/largegeospatialmodel/" target="_blank" rel="noopener noreferrer"><strong>Building a Large Geospatial Model to Achieve Spatial Intelligence</strong></a>
+  <a href="https://www.eurekalert.org/news-releases/1102268" target="_blank" rel="noopener noreferrer"><strong>Learning the language of lasso peptides to improve peptide engineering</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-28_08-39</em></p>
+<p align="center"><em>📅 Published: 2025-10-18_01-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
