@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-03290-3" target="_blank" rel="noopener noreferrer"><strong>A neuro-symbolic AI approach for translating children’s stories from English to Tamil with emotional paraphrasing</strong></a>
+  <a href="https://nianticlabs.com/news/largegeospatialmodel/" target="_blank" rel="noopener noreferrer"><strong>Building a Large Geospatial Model to Achieve Spatial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-01_02-25</em></p>
+<p align="center"><em>📅 Published: 2025-05-28_08-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
