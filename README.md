@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.quantamagazine.org/will-ai-ever-understand-language-like-humans-20250501/" target="_blank" rel="noopener noreferrer"><strong>Will AI Ever Understand Language Like Humans?</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/tii-falcon-h1-models-now-available-on-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/" target="_blank" rel="noopener noreferrer"><strong>TII Falcon-H1 models now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-09</em></p>
+<p align="center"><em>📅 Published: 2025-09-13_01-46</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
