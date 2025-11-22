@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/highlights" target="_blank" rel="noopener noreferrer"><strong>Research Highlights</strong></a>
+  <a href="https://ppc.land/study-large-language-models-qualify-as-personal-data/" target="_blank" rel="noopener noreferrer"><strong>Study: large language models qualify as personal data</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-29_02-33</em></p>
+<p align="center"><em>📅 Published: 2025-07-25_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
