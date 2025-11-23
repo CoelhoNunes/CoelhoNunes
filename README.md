@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/are-you-joking-mate-ai-and-dealing-with-a-countrys-sarcasm/" target="_blank" rel="noopener noreferrer"><strong>‘Are you joking, mate?’ AI and dealing with a country’s sarcasm</strong></a>
+  <a href="https://markets.financialcontent.com/wral/article/abnewswire-2025-11-18-ai-strategy-courses-and-classes-empower-business-leaders-with-ai-skills-training" target="_blank" rel="noopener noreferrer"><strong>AI Strategy Courses and Classes Empower Business Leaders with AI Skills Training</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-22_02-00</em></p>
+<p align="center"><em>📅 Published: 2025-11-19_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
