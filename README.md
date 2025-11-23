@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/topics/self-supervised-learning" target="_blank" rel="noopener noreferrer"><strong>What Is Self-Supervised Learning?</strong></a>
+  <a href="https://www.livescience.com/technology/artificial-intelligence/ai-reasoning-models-arent-as-smart-as-they-were-cracked-up-to-be-apple-study-claims" target="_blank" rel="noopener noreferrer"><strong>Cutting-edge AI models from OpenAI and DeepSeek undergo 'complete collapse' when problems get too difficult, study reveals</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_22-14</em></p>
+<p align="center"><em>📅 Published: 2025-06-13_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
