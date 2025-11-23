@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.livescience.com/technology/artificial-intelligence/ai-reasoning-models-arent-as-smart-as-they-were-cracked-up-to-be-apple-study-claims" target="_blank" rel="noopener noreferrer"><strong>Cutting-edge AI models from OpenAI and DeepSeek undergo 'complete collapse' when problems get too difficult, study reveals</strong></a>
+  <a href="https://ppc.land/study-large-language-models-qualify-as-personal-data/" target="_blank" rel="noopener noreferrer"><strong>Study: large language models qualify as personal data</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-13_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-07-25_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
