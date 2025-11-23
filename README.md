@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.quantamagazine.org/to-understand-ai-watch-how-it-evolves-20250924/" target="_blank" rel="noopener noreferrer"><strong>To Understand AI, Watch How It Evolves</strong></a>
+  <a href="https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/are-you-joking-mate-ai-and-dealing-with-a-countrys-sarcasm/" target="_blank" rel="noopener noreferrer"><strong>‘Are you joking, mate?’ AI and dealing with a country’s sarcasm</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-25_01-55</em></p>
+<p align="center"><em>📅 Published: 2025-08-22_02-00</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
