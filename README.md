@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://ppc.land/study-large-language-models-qualify-as-personal-data/" target="_blank" rel="noopener noreferrer"><strong>Study: large language models qualify as personal data</strong></a>
+  <a href="https://www.wsj.com/tech/ai/yann-lecun-ai-meta-0058b13c?gaa_at=eafs&gaa_n=AWEtsqd82kDsiPEtC8UvWBU7lahNKIk5s96PpNlGOcAzuOK_fh3-yzMjYr4c&gaa_ts=691a8666&gaa_sig=FFv0i5QU-wddswDMlM2NWQSZRDrDOGats6tr-GPdBBEjXTbGZK9EN7QzgDt9r5AqttXp0-ODJLpC7Wn7Cka2dw%3D%3D" target="_blank" rel="noopener noreferrer"><strong>He’s Been Right About AI for 40 Years. Now He Thinks Everyone Is Wrong.</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-25_02-21</em></p>
+<p align="center"><em>📅 Published: 2025-11-17_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
