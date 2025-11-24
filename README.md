@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://market.us/report/generative-ai-in-agriculture-market/" target="_blank" rel="noopener noreferrer"><strong>Generative AI In Agriculture Market Size | CAGR of 28%</strong></a>
+  <a href="https://techxplore.com/news/2025-05-architecture-emulates-higher-human-mental.html" target="_blank" rel="noopener noreferrer"><strong>A new transformer architecture emulates imagination and higher-level human mental states</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-29_02-33</em></p>
+<p align="center"><em>📅 Published: 2025-06-08_02-28</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
