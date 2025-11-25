@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bioengineer.org/enhancing-biosafety-laboratory-management-through-advanced-ai-driven-intelligent-systems/" target="_blank" rel="noopener noreferrer"><strong>Enhancing Biosafety Laboratory Management through Advanced AI-Driven Intelligent Systems</strong></a>
+  <a href="https://cen.acs.org/physical-chemistry/computational-chemistry/guide-navigating-AI-chemistry-hype/103/web/2025/05" target="_blank" rel="noopener noreferrer"><strong>A guide to navigating AI chemistry hype</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-27_01-58</em></p>
+<p align="center"><em>📅 Published: 2025-05-20_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
