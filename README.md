@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.techtarget.com/searchdatamanagement/news/366625197/AI-tools-highlight-latest-swath-of-Snowflake-capabi" target="_blank" rel="noopener noreferrer"><strong>AI tools highlight latest swath of Snowflake capabilities</strong></a>
+  <a href="https://eu.36kr.com/en/p/3443427116389764" target="_blank" rel="noopener noreferrer"><strong>Google's Nano Banana has gone viral across the entire internet. Let's uncover the team behind it.</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-03_16-42</em></p>
+<p align="center"><em>📅 Published: 2025-09-02_01-59</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
