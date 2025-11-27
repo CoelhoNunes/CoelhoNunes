@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://venturebeat.com/ai/deepseek-r1s-bold-bet-on-reinforcement-learning-how-it-outpaced-openai-at-3-of-the-cost" target="_blank" rel="noopener noreferrer"><strong>DeepSeek-R1’s bold bet on reinforcement learning: How it outpaced OpenAI at 3% of the cost</strong></a>
+  <a href="https://www.am-online.com/features-landing/the-history-of-artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>The history of artificial intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-08_02-00</em></p>
+<p align="center"><em>📅 Published: 2025-09-16_01-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
