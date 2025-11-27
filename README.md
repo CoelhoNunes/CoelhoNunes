@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/build-an-agentic-solution-with-amazon-nova-snowflake-and-langgraph/" target="_blank" rel="noopener noreferrer"><strong>Build an agentic solution with Amazon Nova, Snowflake, and LangGraph</strong></a>
+  <a href="https://venturebeat.com/ai/deepseek-r1s-bold-bet-on-reinforcement-learning-how-it-outpaced-openai-at-3-of-the-cost" target="_blank" rel="noopener noreferrer"><strong>DeepSeek-R1’s bold bet on reinforcement learning: How it outpaced OpenAI at 3% of the cost</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-23_02-23</em></p>
+<p align="center"><em>📅 Published: 2025-09-08_02-00</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
