@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/articles/10.3389/feduc.2025.1613067" target="_blank" rel="noopener noreferrer"><strong>Development of generative artificial intelligence in medical education: a bibliometric profiling</strong></a>
+  <a href="https://www.manilatimes.net/2025/11/15/tmt-newswire/pr-newswire/microcloud-hologram-inc-releases-next-generation-quantum-convolutional-neural-network-multi-class-classification-technology-driving-quantum-machine-learning-towards-practicalization/2224469" target="_blank" rel="noopener noreferrer"><strong>MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-18_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-11-15_01-59</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
