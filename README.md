@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/updates/apple-at-emnlp-2025" target="_blank" rel="noopener noreferrer"><strong>Empirical Methods in Natural Language Processing (EMNLP) 2025</strong></a>
+  <a href="https://www.savills.co.uk/blog/article/379458/rural-property/artificial-intelligence--and-all-its-buzzwords--explained.aspx" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence, and all its buzzwords, explained</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-30_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-08-07_02-29</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
