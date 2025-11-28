@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.am-online.com/features-landing/the-history-of-artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>The history of artificial intelligence</strong></a>
+  <a href="https://towardsdatascience.com/ai-papers-to-read-in-2025/" target="_blank" rel="noopener noreferrer"><strong>AI Papers to Read in 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-16_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-11-09_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
