@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://finance.yahoo.com/news/vidizmo-set-drive-europes-ai-154000659.html" target="_blank" rel="noopener noreferrer"><strong>VIDIZMO Set to Drive Europe's AI Adoption at GITEX EUROPE 2025 with Responsible AI-powered Solutions</strong></a>
+  <a href="https://enews.wvu.edu/articles/2025/07/18/free-summer-ai-workshops-available" target="_blank" rel="noopener noreferrer"><strong>E-News | Free summer AI workshops available</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-00</em></p>
+<p align="center"><em>📅 Published: 2025-07-19_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
