@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.netguru.com/blog/ai-types" target="_blank" rel="noopener noreferrer"><strong>8 Types of AI You Should Know About in 2025</strong></a>
+  <a href="https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/" target="_blank" rel="noopener noreferrer"><strong>What Is Retrieval-Augmented Generation, aka RAG?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-03_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
