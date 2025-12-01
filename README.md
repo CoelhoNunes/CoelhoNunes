@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bioengineer.org/shared-brainspace-enhances-alignment-with-language-models/" target="_blank" rel="noopener noreferrer"><strong>Shared Brainspace Enhances Alignment with Language Models</strong></a>
+  <a href="https://machinelearning.apple.com/research/apple-foundation-models-2025-updates" target="_blank" rel="noopener noreferrer"><strong>Updates to Apple's On-Device and Server Foundation Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-20_02-01</em></p>
+<p align="center"><em>📅 Published: 2025-06-11_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
