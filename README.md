@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-58620-w" target="_blank" rel="noopener noreferrer"><strong>Natural language processing models reveal neural dynamics of human conversation</strong></a>
+  <a href="https://towardsdatascience.com/llava-on-a-budget-multimodal-ai-with-limited-resources/" target="_blank" rel="noopener noreferrer"><strong>LLaVA on a Budget: Multimodal AI with Limited Resources</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-01_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-06-18_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
