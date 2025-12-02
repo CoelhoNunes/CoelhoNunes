@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://quantumzeitgeist.com/models-explore-algorithms-reduce-energy-consumption-large-language/" target="_blank" rel="noopener noreferrer"><strong>Researchers Explore Algorithms to Reduce Energy Consumption in Large Language Models</strong></a>
+  <a href="https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-025-03255-6" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence in polycystic ovary syndrome: a systematic review of diagnostic and predictive applications</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-31_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-11-25_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
