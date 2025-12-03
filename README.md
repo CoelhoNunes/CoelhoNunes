@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://wmich.edu/engineer/news/2024/11/gang-chen-making-strides-ai-machine-learning" target="_blank" rel="noopener noreferrer"><strong>Alumnus Gang Chen is making strides in AI and machine learning</strong></a>
+  <a href="https://pubs.acs.org/doi/10.1021/acs.analchem.4c05046" target="_blank" rel="noopener noreferrer"><strong>Large Language Models (such as ChatGPT) as Tools for Machine Learning-Based Data Insights in Analytical Chemistry</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-24_08-34</em></p>
+<p align="center"><em>📅 Published: 2025-05-21_03-31</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
