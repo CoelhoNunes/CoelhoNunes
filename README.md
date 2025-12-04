@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/computational-bottlenecks" target="_blank" rel="noopener noreferrer"><strong>Computational Bottlenecks of Training Small-Scale Large Language Models</strong></a>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645424010115" target="_blank" rel="noopener noreferrer"><strong>Steel design based on a large language model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-22_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-06-29_02-24</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
