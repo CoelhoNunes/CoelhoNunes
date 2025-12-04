@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41592-025-02918-6" target="_blank" rel="noopener noreferrer"><strong>Multimodal foundation transformer models for multiscale genomics</strong></a>
+  <a href="https://machinelearning.apple.com/research/computational-bottlenecks" target="_blank" rel="noopener noreferrer"><strong>Computational Bottlenecks of Training Small-Scale Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-03_02-06</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
