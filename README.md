@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645424010115" target="_blank" rel="noopener noreferrer"><strong>Steel design based on a large language model</strong></a>
+  <a href="https://www.fiercehealthcare.com/health-tech/tennr-clinches-101m-build-out-ai-automates-patient-referral-workflows" target="_blank" rel="noopener noreferrer"><strong>Tennr clinches $101M to build out AI that automates patient referral process</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-29_02-24</em></p>
+<p align="center"><em>📅 Published: 2025-06-19_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
