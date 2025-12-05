@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-025-07321-5" target="_blank" rel="noopener noreferrer"><strong>Modern artificial intelligence and large language models in graduate medical education: a scoping review of attitudes, applications & practice</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1627078/full" target="_blank" rel="noopener noreferrer"><strong>Explainable AI-driven depression detection from social media using natural language processing and black box machine learning models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-20_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-11-10_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
