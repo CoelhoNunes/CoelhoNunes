@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/11/01/anthropics-new-research-shows-claude-can-detect-injected-concepts-but-only-in-controlled-layers/?amp" target="_blank" rel="noopener noreferrer"><strong>Anthropic's New Research Shows Claude can Detect Injected Concepts, but only in Controlled Layers</strong></a>
+  <a href="https://www.precedenceresearch.com/next-generation-ai-in-life-science-market" target="_blank" rel="noopener noreferrer"><strong>Next-Generation AI in Life Science Market Size, Report by 2034</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-02_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-09-26_01-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
