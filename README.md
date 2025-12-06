@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41591-024-03425-5" target="_blank" rel="noopener noreferrer"><strong>The TRIPOD-LLM reporting guideline for studies using large language models</strong></a>
+  <a href="https://hub.jhu.edu/2025/10/13/mark-dredze-johns-hopkins-dsai-director/" target="_blank" rel="noopener noreferrer"><strong>Computer scientist Mark Dredze named director of Johns Hopkins Data Science and AI Institute</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-29_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-10-14_01-55</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
