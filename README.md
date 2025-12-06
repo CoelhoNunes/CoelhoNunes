@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/08/26/nvidia-ai-released-jet-nemotron-53x-faster-hybrid-architecture-language-model-series-that-translates-to-a-98-cost-reduction-for-inference-at-scale/" target="_blank" rel="noopener noreferrer"><strong>NVIDIA AI Released Jet-Nemotron: 53x Faster Hybrid-Architecture Language Model Series that Translates to a 98% Cost Reduction for Inference at Scale</strong></a>
+  <a href="https://www.bgr.com/2003091/meta-bans-ai-chatbots-chatgpt-from-whatsapp/" target="_blank" rel="noopener noreferrer"><strong>Meta Wants AIs Like ChatGPT Gone From Your WhatsApp Chats</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-16_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-10-22_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
