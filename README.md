@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://dataconomy.com/2025/10/21/meta-bans-ai-chatbots-using-whatsapp-business-api/" target="_blank" rel="noopener noreferrer"><strong>Meta Bans AI Chatbots Using WhatsApp Business API</strong></a>
+  <a href="https://www.darpa.mil/news/2025/energy-aware-machine-learning" target="_blank" rel="noopener noreferrer"><strong>Energy-aware machine learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-22_02-02</em></p>
+<p align="center"><em>📅 Published: 2025-09-25_01-55</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
