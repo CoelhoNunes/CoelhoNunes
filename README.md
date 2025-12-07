@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s44385-024-00003-9" target="_blank" rel="noopener noreferrer"><strong>Application of Artificial Intelligence In Drug-target Interactions Prediction: A Review</strong></a>
+  <a href="https://www.unite.ai/speechifys-ai-podcasts-how-machine-learning-is-reshaping-learning-and-education/" target="_blank" rel="noopener noreferrer"><strong>Speechify’s AI Podcasts: How Machine Learning Is Reshaping Learning and Education</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_22-14</em></p>
+<p align="center"><em>📅 Published: 2025-08-25_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
