@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.darpa.mil/news/2025/energy-aware-machine-learning" target="_blank" rel="noopener noreferrer"><strong>Energy-aware machine learning</strong></a>
+  <a href="https://www.unite.ai/weird-science-ais-impact-on-animal-research/" target="_blank" rel="noopener noreferrer"><strong>Weird Science: AI’s Impact on Animal Research</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-25_01-55</em></p>
+<p align="center"><em>📅 Published: 2025-05-23_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
