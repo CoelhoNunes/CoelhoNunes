@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/" target="_blank" rel="noopener noreferrer"><strong>Achieving 10,000x training data reduction with high-fidelity labels</strong></a>
+  <a href="https://www.techtarget.com/searchenterpriseai/definition/LangChain" target="_blank" rel="noopener noreferrer"><strong>What is LangChain and how to use it: A guide</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-10_02-29</em></p>
+<p align="center"><em>📅 Published: 2025-07-14_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
