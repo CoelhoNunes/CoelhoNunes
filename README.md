@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/06/21/this-ai-paper-introduces-wings-a-dual-learner-architecture-to-prevent-text-only-forgetting-in-multimodal-large-language-models/" target="_blank" rel="noopener noreferrer"><strong>This AI Paper Introduces WINGS: A Dual-Learner Architecture to Prevent Text-Only Forgetting in Multimodal Large Language Models</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1408817/full" target="_blank" rel="noopener noreferrer"><strong>David vs. Goliath: comparing conventional machine learning and a large language model for assessing students' concept use in a physics problem</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-22_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-06-01_16-36</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
