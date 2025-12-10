@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://finance.yahoo.com/news/vidizmo-set-drive-europes-ai-154000659.html" target="_blank" rel="noopener noreferrer"><strong>VIDIZMO Set to Drive Europe's AI Adoption at GITEX EUROPE 2025 with Responsible AI-powered Solutions</strong></a>
+  <a href="https://techxplore.com/news/2025-06-lost-middle-llm-architecture-ai.html" target="_blank" rel="noopener noreferrer"><strong>Lost in the middle: How LLM architecture and training data shape AI's position bias</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-00</em></p>
+<p align="center"><em>📅 Published: 2025-06-18_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
