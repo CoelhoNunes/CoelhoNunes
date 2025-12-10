@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.npr.org/2025/02/17/1263339268/ai-chatgpt-deepseek-data-internet-recursion" target="_blank" rel="noopener noreferrer"><strong>Like a snake eating its own tail: What happens when AI consumes its own data? : Short Wave</strong></a>
+  <a href="https://www.marktechpost.com/2025/11/10/gelato-30b-a3b-a-state-of-the-art-grounding-model-for-gui-computer-use-tasks-surpassing-computer-grounding-models-like-gta1-32b/?amp" target="_blank" rel="noopener noreferrer"><strong>Gelato-30B-A3B: A State-of-the-Art Grounding Model for GUI Computer-Use Tasks, Surpassing Computer Grounding Models like GTA1-32B</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-25_16-36</em></p>
+<p align="center"><em>📅 Published: 2025-11-11_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
