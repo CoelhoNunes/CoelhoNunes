@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://biz.chosun.com/en/en-it/2025/07/09/UO3P5HFHBBEYPAG2SS22FPVYPM/" target="_blank" rel="noopener noreferrer"><strong>KT’s Mi:dm 2.0 AI tops Korean evaluation rankings for language models - CHOSUNBIZ</strong></a>
+  <a href="https://www.cnet.com/tech/services-and-software/chatgpt-glossary-55-ai-terms-everyone-should-know/" target="_blank" rel="noopener noreferrer"><strong>ChatGPT Glossary: 55 AI Terms Everyone Should Know</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-13_02-28</em></p>
+<p align="center"><em>📅 Published: 2025-08-07_02-29</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
