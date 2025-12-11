@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.blockchain-council.org/ai-certification-courses/" target="_blank" rel="noopener noreferrer"><strong>AI Certification Courses</strong></a>
+  <a href="https://biz.chosun.com/en/en-it/2025/07/09/UO3P5HFHBBEYPAG2SS22FPVYPM/" target="_blank" rel="noopener noreferrer"><strong>KT’s Mi:dm 2.0 AI tops Korean evaluation rankings for language models - CHOSUNBIZ</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-29_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-07-13_02-28</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
