@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/lu/artificial-intelligence/ai-translation/" target="_blank" rel="noopener noreferrer"><strong>Breaking language barriers: The power of AI translation</strong></a>
+  <a href="https://www.blockchain-council.org/ai-certification-courses/" target="_blank" rel="noopener noreferrer"><strong>AI Certification Courses</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-05_08-39</em></p>
+<p align="center"><em>📅 Published: 2025-05-29_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
