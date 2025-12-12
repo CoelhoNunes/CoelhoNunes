@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.globenewswire.com/news-release/2025/09/23/3154485/0/en/Artificial-Intelligence-in-Marketing-Market-Global-Forecast-Report-2025-2030-Personalized-Omnichannel-Customer-Journey-Orchestration-Using-AI-Driven-Predictive-Analytics-and-Trigge.html" target="_blank" rel="noopener noreferrer"><strong>Artificial Intelligence in Marketing Market Global Forecast</strong></a>
+  <a href="https://www.grandviewresearch.com/industry-analysis/ai-search-engine-market-report" target="_blank" rel="noopener noreferrer"><strong>AI Search Engine Market Size, Share | Industry Report, 2033</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-24_01-54</em></p>
+<p align="center"><em>📅 Published: 2025-08-29_01-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
