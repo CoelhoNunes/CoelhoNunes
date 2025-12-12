@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://artgor.medium.com/paper-review-prorl-prolonged-reinforcement-learning-expands-reasoning-boundaries-in-large-10693a70ac55" target="_blank" rel="noopener noreferrer"><strong>Paper Review: ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large…</strong></a>
+  <a href="https://www.globenewswire.com/news-release/2025/09/23/3154485/0/en/Artificial-Intelligence-in-Marketing-Market-Global-Forecast-Report-2025-2030-Personalized-Omnichannel-Customer-Journey-Orchestration-Using-AI-Driven-Predictive-Analytics-and-Trigge.html" target="_blank" rel="noopener noreferrer"><strong>Artificial Intelligence in Marketing Market Global Forecast</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-02_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-09-24_01-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
