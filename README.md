@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.mit.edu/2025/large-language-models-reason-about-diverse-data-general-way-0219" target="_blank" rel="noopener noreferrer"><strong>Like human brains, large language models reason about diverse data in a general way</strong></a>
+  <a href="https://hbr.org/2025/06/forget-what-you-know-about-seo-heres-how-to-optimize-your-brand-for-llms" target="_blank" rel="noopener noreferrer"><strong>Forget What You Know About Search. Optimize Your Brand for LLMs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-25_08-35</em></p>
+<p align="center"><em>📅 Published: 2025-06-08_16-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
