@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-025-07321-5" target="_blank" rel="noopener noreferrer"><strong>Modern artificial intelligence and large language models in graduate medical education: a scoping review of attitudes, applications & practice</strong></a>
+  <a href="https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/" target="_blank" rel="noopener noreferrer"><strong>Deciphering language processing in the human brain through LLM representations</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-20_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-05-28_08-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
