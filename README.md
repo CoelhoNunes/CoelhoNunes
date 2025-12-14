@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/stocks/article/stockstory-2025-10-30-etsy-q3-deep-dive-ceo-transition-ai-integration-and-buyer-engagement-challenges" target="_blank" rel="noopener noreferrer"><strong>ETSY Q3 Deep Dive: CEO Transition, AI Integration, and Buyer Engagement Challenges</strong></a>
+  <a href="https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1589788/full" target="_blank" rel="noopener noreferrer"><strong>Improving drug-drug interaction prediction via in-context learning and judging with large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-31_02-01</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_22-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
