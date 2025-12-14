@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.mit.edu/2024/generative-ai-lacks-coherent-world-understanding-1105" target="_blank" rel="noopener noreferrer"><strong>Despite its impressive output, generative AI doesn’t have a coherent understanding of the world</strong></a>
+  <a href="https://markets.financialcontent.com/stocks/article/stockstory-2025-10-30-etsy-q3-deep-dive-ceo-transition-ai-integration-and-buyer-engagement-challenges" target="_blank" rel="noopener noreferrer"><strong>ETSY Q3 Deep Dive: CEO Transition, AI Integration, and Buyer Engagement Challenges</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-30_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-10-31_02-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
