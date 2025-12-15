@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41586-025-08869-4" target="_blank" rel="noopener noreferrer"><strong>Towards accurate differential diagnosis with large language models</strong></a>
+  <a href="https://bioengineer.org/swri-unveils-games-a-novel-chemistry-llm-to-accelerate-drug-discovery/" target="_blank" rel="noopener noreferrer"><strong>SwRI Unveils GAMES: A Novel Chemistry LLM to Accelerate Drug Discovery</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-23_01-53</em></p>
+<p align="center"><em>📅 Published: 2025-08-15_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
