@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1623339/full" target="_blank" rel="noopener noreferrer"><strong>Redefining digital health interfaces with large language models</strong></a>
+  <a href="https://www.marktechpost.com/2025/06/20/poe-world-outperforms-reinforcement-learning-rl-baselines-in-montezumas-revenge-with-minimal-demonstration-data/" target="_blank" rel="noopener noreferrer"><strong>PoE-World + Planner Outperforms Reinforcement Learning RL Baselines in Montezuma’s Revenge with Minimal Demonstration Data</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-27_02-02</em></p>
+<p align="center"><em>📅 Published: 2025-06-21_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
