@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/06/20/poe-world-outperforms-reinforcement-learning-rl-baselines-in-montezumas-revenge-with-minimal-demonstration-data/" target="_blank" rel="noopener noreferrer"><strong>PoE-World + Planner Outperforms Reinforcement Learning RL Baselines in Montezuma’s Revenge with Minimal Demonstration Data</strong></a>
+  <a href="https://mugglehead.com/openai-gets-about-us2-91-every-time-chatgpt-is-downloaded/?utm_source=rss&utm_medium=rss&utm_campaign=openai-gets-about-us2-91-every-time-chatgpt-is-downloaded" target="_blank" rel="noopener noreferrer"><strong>OpenAI gets about US$2.91 every time ChatGPT is downloaded</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-21_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-08-19_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
