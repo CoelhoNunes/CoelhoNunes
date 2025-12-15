@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bioengineer.org/swri-unveils-games-a-novel-chemistry-llm-to-accelerate-drug-discovery/" target="_blank" rel="noopener noreferrer"><strong>SwRI Unveils GAMES: A Novel Chemistry LLM to Accelerate Drug Discovery</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1623339/full" target="_blank" rel="noopener noreferrer"><strong>Redefining digital health interfaces with large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-15_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-11-27_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
