@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/the-three-ages-of-data-science-when-to-use-traditional-machine-learning-deep-learning-or-a-large-language-models-explained-with-one-example/" target="_blank" rel="noopener noreferrer"><strong>The Three Ages of Data Science: When to Use Traditional Machine Learning, Deep Learning, or an LLM (Explained with One Example)</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/build-a-scalable-ai-assistant-to-help-refugees-using-aws/" target="_blank" rel="noopener noreferrer"><strong>Build a scalable AI assistant to help refugees using AWS</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-12_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-06-03_16-42</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
