@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/going-beyond-ai-assistants-examples-from-amazon-com-reinventing-industries-with-generative-ai/" target="_blank" rel="noopener noreferrer"><strong>Going beyond AI assistants: Examples from Amazon.com reinventing industries with generative AI</strong></a>
+  <a href="https://www.manilatimes.net/2025/08/19/tmt-newswire/globenewswire/advanced-genai-course-2025-for-software-developers-and-engineers-launched-interview-kickstarts-generative-ai-program-with-agentic-ai/2169878" target="_blank" rel="noopener noreferrer"><strong>Advanced GenAI Course 2025 For Software Developers and Engineers Launched - Interview Kickstart's Generative AI Program With Agentic AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-08_02-28</em></p>
+<p align="center"><em>📅 Published: 2025-08-19_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
