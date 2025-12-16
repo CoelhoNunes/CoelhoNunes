@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/fastvlm-efficient-vision-encoding" target="_blank" rel="noopener noreferrer"><strong>FastVLM: Efficient Vision encoding for Vision Language Models</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/going-beyond-ai-assistants-examples-from-amazon-com-reinventing-industries-with-generative-ai/" target="_blank" rel="noopener noreferrer"><strong>Going beyond AI assistants: Examples from Amazon.com reinventing industries with generative AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-02_01-53</em></p>
+<p align="center"><em>📅 Published: 2025-06-08_02-28</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
