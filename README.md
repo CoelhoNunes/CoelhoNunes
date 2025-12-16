@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/build-a-scalable-ai-assistant-to-help-refugees-using-aws/" target="_blank" rel="noopener noreferrer"><strong>Build a scalable AI assistant to help refugees using AWS</strong></a>
+  <a href="https://machinelearning.apple.com/research/fastvlm-efficient-vision-encoding" target="_blank" rel="noopener noreferrer"><strong>FastVLM: Efficient Vision encoding for Vision Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-03_16-42</em></p>
+<p align="center"><em>📅 Published: 2025-10-02_01-53</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
