@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.miragenews.com/kaist-unveils-speechssm-for-247-ai-voice-1490834/" target="_blank" rel="noopener noreferrer"><strong>KAIST Unveils SpeechSSM for 24/7 AI Voice Assistant</strong></a>
+  <a href="https://arstechnica.com/ai/2025/07/how-a-big-shift-in-training-llms-led-to-a-capability-explosion/" target="_blank" rel="noopener noreferrer"><strong>How a big shift in training LLMs led to a capability explosion</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-06_02-23</em></p>
+<p align="center"><em>📅 Published: 2025-07-10_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
