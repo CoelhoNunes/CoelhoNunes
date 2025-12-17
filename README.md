@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.manilatimes.net/2025/08/19/tmt-newswire/globenewswire/advanced-genai-course-2025-for-software-developers-and-engineers-launched-interview-kickstarts-generative-ai-program-with-agentic-ai/2169878" target="_blank" rel="noopener noreferrer"><strong>Advanced GenAI Course 2025 For Software Developers and Engineers Launched - Interview Kickstart's Generative AI Program With Agentic AI</strong></a>
+  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-10-15-ai-takes-on-the-opioid-crisis-machine-learning-predicts-us-opioid-deaths-with-unprecedented-accuracy" target="_blank" rel="noopener noreferrer"><strong>AI Takes on the Opioid Crisis: Machine Learning Predicts US Opioid Deaths with Unprecedented Accuracy</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-19_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-10-16_01-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
