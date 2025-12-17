@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-10-15-ai-takes-on-the-opioid-crisis-machine-learning-predicts-us-opioid-deaths-with-unprecedented-accuracy" target="_blank" rel="noopener noreferrer"><strong>AI Takes on the Opioid Crisis: Machine Learning Predicts US Opioid Deaths with Unprecedented Accuracy</strong></a>
+  <a href="https://www.minesnewsroom.com/news/media-tip-sheet-navigating-use-ai-education" target="_blank" rel="noopener noreferrer"><strong>Media tip sheet: Navigating the use of AI in education</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-16_01-57</em></p>
+<p align="center"><em>📅 Published: 2025-10-28_01-58</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
