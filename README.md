@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.minesnewsroom.com/news/media-tip-sheet-navigating-use-ai-education" target="_blank" rel="noopener noreferrer"><strong>Media tip sheet: Navigating the use of AI in education</strong></a>
+  <a href="https://www.miragenews.com/kaist-unveils-speechssm-for-247-ai-voice-1490834/" target="_blank" rel="noopener noreferrer"><strong>KAIST Unveils SpeechSSM for 24/7 AI Voice Assistant</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-28_01-58</em></p>
+<p align="center"><em>📅 Published: 2025-07-06_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
