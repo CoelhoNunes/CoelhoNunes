@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.quantamagazine.org/how-ai-models-are-helping-to-understand-and-control-the-brain-20250618/" target="_blank" rel="noopener noreferrer"><strong>How AI Models Are Helping to Understand — and Control — the Brain</strong></a>
+  <a href="https://beebom.com/who-created-ai/" target="_blank" rel="noopener noreferrer"><strong>Who Created AI? Tracing the History of Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-19_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-12-03_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
