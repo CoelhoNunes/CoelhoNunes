@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2025.1561401/full" target="_blank" rel="noopener noreferrer"><strong>Bridging neuroscience and AI: a survey on large language models for neurological signal interpretation</strong></a>
+  <a href="https://www.cnhinews.com/news/article_9eff7d9f-40b6-5947-9faa-be200f41ada1.html" target="_blank" rel="noopener noreferrer"><strong>hireEZ Appoints Dr. Tianlong Chen as Chief AI Scientist to Lead Next-Generation Agentic AI for Talent Acquisition</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-25_01-56</em></p>
+<p align="center"><em>📅 Published: 2025-08-21_02-00</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
