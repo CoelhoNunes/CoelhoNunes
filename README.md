@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.precedenceresearch.com/cloud-based-machine-learning-platforms-market" target="_blank" rel="noopener noreferrer"><strong>Cloud-Based Machine Learning (ML) Platforms Market Size, Report by 2034</strong></a>
+  <a href="https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2025.1561401/full" target="_blank" rel="noopener noreferrer"><strong>Bridging neuroscience and AI: a survey on large language models for neurological signal interpretation</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-03_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-10-25_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
