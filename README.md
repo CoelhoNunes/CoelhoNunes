@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.mk.co.kr/en/it/11422704" target="_blank" rel="noopener noreferrer"><strong>A research paper on the training method and performance of the large-scale language model (LLM) R1 d..</strong></a>
+  <a href="https://www.quantamagazine.org/how-ai-models-are-helping-to-understand-and-control-the-brain-20250618/" target="_blank" rel="noopener noreferrer"><strong>How AI Models Are Helping to Understand — and Control — the Brain</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-18_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-06-19_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
