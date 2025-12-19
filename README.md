@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.cnhinews.com/news/article_9eff7d9f-40b6-5947-9faa-be200f41ada1.html" target="_blank" rel="noopener noreferrer"><strong>hireEZ Appoints Dr. Tianlong Chen as Chief AI Scientist to Lead Next-Generation Agentic AI for Talent Acquisition</strong></a>
+  <a href="https://www.mk.co.kr/en/it/11422704" target="_blank" rel="noopener noreferrer"><strong>A research paper on the training method and performance of the large-scale language model (LLM) R1 d..</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-21_02-00</em></p>
+<p align="center"><em>📅 Published: 2025-09-18_01-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
