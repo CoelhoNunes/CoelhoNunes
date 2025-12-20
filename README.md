@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.quantamagazine.org/why-language-models-are-so-hard-to-understand-20250430/" target="_blank" rel="noopener noreferrer"><strong>Why Language Models Are So Hard To Understand</strong></a>
+  <a href="https://www.netguru.com/blog/crash-course-introduction-to-ai-fundamentals" target="_blank" rel="noopener noreferrer"><strong>Non-Technical Introduction to AI Fundamentals</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-26_02-01</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
