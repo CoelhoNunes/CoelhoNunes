@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41537-025-00585-2" target="_blank" rel="noopener noreferrer"><strong>Leveraging deep neural network and language models for predicting long-term hospitalization risk in schizophrenia</strong></a>
+  <a href="https://www.dailykos.com/stories/2025/6/4/2325777/-Branding-AI-And-The-Death-of-Language" target="_blank" rel="noopener noreferrer"><strong>Branding, AI, And The Death of Language</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-23_16-37</em></p>
+<p align="center"><em>📅 Published: 2025-06-04_16-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
