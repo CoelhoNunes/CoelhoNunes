@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.harvard.edu/gazette/story/newsplus/pivotal-role-of-reinforcement-learning-in-modern-large-language-models/" target="_blank" rel="noopener noreferrer"><strong>Pivotal role of reinforcement learning in modern large language models</strong></a>
+  <a href="https://www.technologynetworks.com/informatics/news/ai-mistakes-mirror-human-brain-condition-399707" target="_blank" rel="noopener noreferrer"><strong>AI Mistakes Mirror Human Brain Condition</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-20_00-49</em></p>
+<p align="center"><em>📅 Published: 2025-09-10_01-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
