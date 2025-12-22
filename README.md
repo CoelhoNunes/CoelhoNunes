@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/llm-continuous-self-instruct-fine-tuning-framework-powered-by-a-compound-ai-system-on-amazon-sagemaker/" target="_blank" rel="noopener noreferrer"><strong>LLM continuous self-instruct fine-tuning framework powered by a compound AI system on Amazon SageMaker</strong></a>
+  <a href="https://www.theglobeandmail.com/investing/markets/markets-news/GetNews/34575888/data-center-gpu-market-worth-228-04-billion-by-2030-at-a-cagr-of-13-7/" target="_blank" rel="noopener noreferrer"><strong>Data Center GPU Market worth $228.04 Billion by 2030, at a CAGR of 13.7%</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-25_16-36</em></p>
+<p align="center"><em>📅 Published: 2025-09-04_01-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
