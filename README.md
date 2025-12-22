@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.theglobeandmail.com/investing/markets/markets-news/GetNews/34575888/data-center-gpu-market-worth-228-04-billion-by-2030-at-a-cagr-of-13-7/" target="_blank" rel="noopener noreferrer"><strong>Data Center GPU Market worth $228.04 Billion by 2030, at a CAGR of 13.7%</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1590105/full" target="_blank" rel="noopener noreferrer"><strong>Evaluation of Large Language Model-Driven AutoML in Data and Model Management from Human-Centered Perspective</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-04_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-07-09_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
