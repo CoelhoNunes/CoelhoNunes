@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.technologynetworks.com/informatics/news/ai-mistakes-mirror-human-brain-condition-399707" target="_blank" rel="noopener noreferrer"><strong>AI Mistakes Mirror Human Brain Condition</strong></a>
+  <a href="https://www.marktechpost.com/2025/05/27/qwen-researchers-proposes-qwenlong-l1-a-reinforcement-learning-framework-for-long-context-reasoning-in-large-language-models/" target="_blank" rel="noopener noreferrer"><strong>Qwen Researchers Proposes QwenLong-L1: A Reinforcement Learning Framework for Long-Context Reasoning in Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-10_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-05-27_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
