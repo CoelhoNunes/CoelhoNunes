@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.juancole.com/2025/07/mechahitler-antisemitic-generative.html" target="_blank" rel="noopener noreferrer"><strong>Grok’s MechaHitler Antisemitic Rant shows how Generative AI can be Weaponized</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/llm-continuous-self-instruct-fine-tuning-framework-powered-by-a-compound-ai-system-on-amazon-sagemaker/" target="_blank" rel="noopener noreferrer"><strong>LLM continuous self-instruct fine-tuning framework powered by a compound AI system on Amazon SageMaker</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-13_02-28</em></p>
+<p align="center"><em>📅 Published: 2025-05-25_16-36</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
