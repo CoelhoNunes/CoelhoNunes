@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.businesswire.com/news/home/20250722162521/en/NTT-Researchers-Advance-AI-and-Machine-Learning-Accuracy-Security-and-Cost-Effectiveness-at-ICML-2025" target="_blank" rel="noopener noreferrer"><strong>NTT Researchers Advance AI and Machine Learning Accuracy, Security and Cost Effectiveness at ICML 2025</strong></a>
+  <a href="https://enews.wvu.edu/articles/2025/07/18/free-summer-ai-workshops-available" target="_blank" rel="noopener noreferrer"><strong>E-News | Free summer AI workshops available</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-23_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-07-19_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
