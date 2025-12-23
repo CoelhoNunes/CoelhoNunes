@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1590105/full" target="_blank" rel="noopener noreferrer"><strong>Evaluation of Large Language Model-Driven AutoML in Data and Model Management from Human-Centered Perspective</strong></a>
+  <a href="https://www.cureus.com/articles/369411-hybrid-ai-framework-for-the-early-detection-of-heart-failure-integrating-traditional-machine-learning-and-generative-language-models-with-clinical-data" target="_blank" rel="noopener noreferrer"><strong>Hybrid AI Framework for the Early Detection of Heart Failure: Integrating Traditional Machine Learning and Generative Language Models With Clinical Data</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-09_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-06-10_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
