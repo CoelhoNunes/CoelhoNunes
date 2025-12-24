@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.darpa.mil/news/2025/energy-aware-machine-learning" target="_blank" rel="noopener noreferrer"><strong>Energy-aware machine learning</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/choosing-the-right-approach-for-generative-ai-powered-structured-data-retrieval/" target="_blank" rel="noopener noreferrer"><strong>Choosing the right approach for generative AI-powered structured data retrieval</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-25_01-55</em></p>
+<p align="center"><em>📅 Published: 2025-07-02_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
