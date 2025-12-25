@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aimagazine.com/top10/top-10-cloud-platforms-for-ai" target="_blank" rel="noopener noreferrer"><strong>Top 10: Cloud Platforms for AI</strong></a>
+  <a href="https://www.hstoday.us/subject-matter-areas/cybersecurity/cisa-and-partners-issue-joint-guide-to-advance-secure-integration-of-artificial-intelligence-in-operational-technology/" target="_blank" rel="noopener noreferrer"><strong>CISA and Partners Issue Joint Guide to Advance Secure Integration of AI in Operational Technology</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-15_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-12-11_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
