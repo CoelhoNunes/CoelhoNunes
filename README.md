@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.gpsworld.com/the-use-and-promise-of-artificial-intelligence-in-gnss-pnt/" target="_blank" rel="noopener noreferrer"><strong>The use and promise of artificial intelligence in GNSS PNT</strong></a>
+  <a href="https://hothardware.com/news/radeon-ai-pro-r9700-arrives-32gb-vram-machine-learning" target="_blank" rel="noopener noreferrer"><strong>Radeon AI Pro R9700 Arrives With 32GB VRAM For Machine Learning And More</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-24_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-08-17_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
