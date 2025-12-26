@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.taxnotes.com/lr/resolve/tax-notes-live/from-lisbon-the-search-for-consensus-on-international-tax/7tb3q" target="_blank" rel="noopener noreferrer"><strong>From Lisbon: The Search for Consensus on International Tax</strong></a>
+  <a href="https://www.nature.com/articles/s41598-025-00724-w" target="_blank" rel="noopener noreferrer"><strong>Dual retrieving and ranking medical large language model with retrieval augmented generation</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-27_02-02</em></p>
+<p align="center"><em>📅 Published: 2025-07-06_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
