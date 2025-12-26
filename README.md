@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s42256-025-01137-0" target="_blank" rel="noopener noreferrer"><strong>Densing law of LLMs</strong></a>
+  <a href="https://deepmind.google/blog/aeneas-transforms-how-historians-connect-the-past/" target="_blank" rel="noopener noreferrer"><strong>Aeneas transforms how historians connect the past</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-01_02-31</em></p>
+<p align="center"><em>📅 Published: 2025-11-17_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
