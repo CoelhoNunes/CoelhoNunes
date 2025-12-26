@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://hothardware.com/news/radeon-ai-pro-r9700-arrives-32gb-vram-machine-learning" target="_blank" rel="noopener noreferrer"><strong>Radeon AI Pro R9700 Arrives With 32GB VRAM For Machine Learning And More</strong></a>
+  <a href="https://www.nature.com/articles/s42256-025-01137-0" target="_blank" rel="noopener noreferrer"><strong>Densing law of LLMs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-17_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-12-01_02-31</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
