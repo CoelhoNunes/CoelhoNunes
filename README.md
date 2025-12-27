@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.analyticsinsight.net/courses/best-ai-courses-for-remote-work-opportunities-in-2025" target="_blank" rel="noopener noreferrer"><strong>Best AI Courses for Remote Work Opportunities in 2025</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/end-to-end-model-training-and-deployment-with-amazon-sagemaker-unified-studio/" target="_blank" rel="noopener noreferrer"><strong>End-to-End model training and deployment with Amazon SageMaker Unified Studio</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-29_02-24</em></p>
+<p align="center"><em>📅 Published: 2025-07-13_02-28</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
