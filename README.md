@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.rcrwireless.com/20250606/ai-ml/ai-telecom-front-line-force" target="_blank" rel="noopener noreferrer"><strong>AI in telecom – from quiet power to front-line force</strong></a>
+  <a href="https://eu.36kr.com/en/p/3608026572030976" target="_blank" rel="noopener noreferrer"><strong>2025: 6 Key Insights into the Year of Large Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-08_21-57</em></p>
+<p align="center"><em>📅 Published: 2025-12-24_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
