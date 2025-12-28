@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.tradingview.com/news/zacks:45f1e2db2094b:0-pltr-vs-cohr-which-ai-driven-tech-stock-has-more-upside-now/" target="_blank" rel="noopener noreferrer"><strong>PLTR vs. COHR: Which AI-Driven Tech Stock Has More Upside Now?</strong></a>
+  <a href="https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-the-llmops-shift-with-abi-aryan/" target="_blank" rel="noopener noreferrer"><strong>Generative AI in the Real World: The LLMOps Shift with Abi Aryan</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-28_16-38</em></p>
+<p align="center"><em>📅 Published: 2025-11-22_01-58</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
