@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-the-llmops-shift-with-abi-aryan/" target="_blank" rel="noopener noreferrer"><strong>Generative AI in the Real World: The LLMOps Shift with Abi Aryan</strong></a>
+  <a href="https://www.nature.com/articles/s41592-025-02918-6" target="_blank" rel="noopener noreferrer"><strong>Multimodal foundation transformer models for multiscale genomics</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-22_01-58</em></p>
+<p align="center"><em>📅 Published: 2025-12-03_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
