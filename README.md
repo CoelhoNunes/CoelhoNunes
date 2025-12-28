@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://eu.36kr.com/en/p/3608026572030976" target="_blank" rel="noopener noreferrer"><strong>2025: 6 Key Insights into the Year of Large Models</strong></a>
+  <a href="https://analyticsindiamag.com/ai-highlights/indias-100-most-influential-people-in-ai/" target="_blank" rel="noopener noreferrer"><strong>India’s 100 Most Influential People in AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-24_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-08-12_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
