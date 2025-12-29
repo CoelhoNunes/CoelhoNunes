@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-024-83540-y" target="_blank" rel="noopener noreferrer"><strong>Ontology-guided machine learning outperforms zero-shot foundation models for cardiac ultrasound text reports</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1653728/full" target="_blank" rel="noopener noreferrer"><strong>Leveraging Pre-trained Embeddings in an Ensemble Machine Learning Approach for Arabic Sentiment Analysis</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-10_01-55</em></p>
+<p align="center"><em>📅 Published: 2025-09-06_01-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
