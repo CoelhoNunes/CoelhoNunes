@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://hai.stanford.edu/research/wikichat-stopping-the-hallucination-of-large-language-model-chatbots-by-few-shot-grounding-on-wikipedia" target="_blank" rel="noopener noreferrer"><strong>WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia</strong></a>
+  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/on-policy-distillation-llms-redefine-post-training-efficiency/" target="_blank" rel="noopener noreferrer"><strong>On-Policy Distillation LLMs Redefine Post-Training Efficiency</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-22_02-21</em></p>
+<p align="center"><em>📅 Published: 2025-10-29_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
