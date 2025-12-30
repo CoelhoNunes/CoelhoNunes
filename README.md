@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/on-policy-distillation-llms-redefine-post-training-efficiency/" target="_blank" rel="noopener noreferrer"><strong>On-Policy Distillation LLMs Redefine Post-Training Efficiency</strong></a>
+  <a href="https://www.ibm.com/think/news/cracking-empire-of-ai" target="_blank" rel="noopener noreferrer"><strong>Cracking the ‘Empire of AI’: Author Karen Hao on power, data and the race to build superintelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-29_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-06-01_02-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
