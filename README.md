@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s44387-025-00019-5" target="_blank" rel="noopener noreferrer"><strong>Exploring the role of large language models in the scientific method: from hypothesis to discovery</strong></a>
+  <a href="https://towardsdatascience.com/implementing-vibe-proving-with-rl/" target="_blank" rel="noopener noreferrer"><strong>Implementing Vibe Proving with Reinforcement Learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-14_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-12-30_02-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
