@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aimagazine.com/top10/top-10-cloud-platforms-for-ai" target="_blank" rel="noopener noreferrer"><strong>Top 10: Cloud Platforms for AI</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/choosing-the-right-approach-for-generative-ai-powered-structured-data-retrieval/" target="_blank" rel="noopener noreferrer"><strong>Choosing the right approach for generative AI-powered structured data retrieval</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-15_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-07-02_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
