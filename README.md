@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/news/cracking-empire-of-ai" target="_blank" rel="noopener noreferrer"><strong>Cracking the ‘Empire of AI’: Author Karen Hao on power, data and the race to build superintelligence</strong></a>
+  <a href="https://aimagazine.com/top10/top-10-cloud-platforms-for-ai" target="_blank" rel="noopener noreferrer"><strong>Top 10: Cloud Platforms for AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-01_02-37</em></p>
+<p align="center"><em>📅 Published: 2025-08-15_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
