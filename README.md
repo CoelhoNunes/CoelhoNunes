@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://legal.thomsonreuters.com/blog/reasoning-tool-calling-and-agentic-systems-in-legal-llms/" target="_blank" rel="noopener noreferrer"><strong>Reasoning, tool calling, and agentic systems in legal LLMs</strong></a>
+  <a href="https://www.oracle.com/middleeast/artificial-intelligence/natural-language-processing/" target="_blank" rel="noopener noreferrer"><strong>Natural Language Processing: How Machines Read and Write</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-11_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-10-23_01-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
