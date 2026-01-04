@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.jacc.org/doi/full/10.1016/S0735-1097%2825%2901662-6" target="_blank" rel="noopener noreferrer"><strong>INSIGHT-CM: INTERPRETABLE NATURAL LANGUAGE PROCESSING SYSTEM FOR IDENTIFICATION OF TRANSTHYRETIN AMYLOIDOSIS CARDIOMYOPATHY USING MACHINE LEARNING AND DEEP LEARNING</strong></a>
+  <a href="https://www.cnet.com/tech/services-and-software/chatgpt-glossary-52-ai-terms-everyone-should-know/" target="_blank" rel="noopener noreferrer"><strong>ChatGPT Glossary: 52 AI Terms Everyone Should Know</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-12_01-50</em></p>
+<p align="center"><em>📅 Published: 2025-06-15_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
