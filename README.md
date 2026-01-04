@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.infoworld.com/article/2335213/large-language-models-the-foundations-of-generative-ai.html" target="_blank" rel="noopener noreferrer"><strong>Large language models: The foundations of generative AI</strong></a>
+  <a href="https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/" target="_blank" rel="noopener noreferrer"><strong>AI benchmarks hampered by bad science</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-22_02-16</em></p>
+<p align="center"><em>📅 Published: 2025-11-08_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
