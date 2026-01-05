@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://developer.nvidia.com/blog/scaling-llm-reinforcement-learning-with-prolonged-training-using-prorl-v2/" target="_blank" rel="noopener noreferrer"><strong>Scaling LLM Reinforcement Learning with Prolonged Training Using ProRL v2 | NVIDIA Technical Blog</strong></a>
+  <a href="https://www.earth.com/news/children-are-much-better-at-learning-language-than-ai/" target="_blank" rel="noopener noreferrer"><strong>Children are much better at learning language than AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-22_02-00</em></p>
+<p align="center"><em>📅 Published: 2025-06-27_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
