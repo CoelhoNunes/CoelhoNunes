@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.earth.com/news/children-are-much-better-at-learning-language-than-ai/" target="_blank" rel="noopener noreferrer"><strong>Children are much better at learning language than AI</strong></a>
+  <a href="https://www.psychologytoday.com/us/blog/the-future-brain/202506/what-game-theory-reveals-about-ai" target="_blank" rel="noopener noreferrer"><strong>A new study finds that LLMs struggle to cooperate—and therefore to be social.</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-27_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-06-08_16-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
