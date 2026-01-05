@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.psychologytoday.com/us/blog/the-future-brain/202506/what-game-theory-reveals-about-ai" target="_blank" rel="noopener noreferrer"><strong>A new study finds that LLMs struggle to cooperate—and therefore to be social.</strong></a>
+  <a href="https://markets.financialcontent.com/streetinsider/article/tokenring-2025-10-21-ai-achieves-96-accuracy-in-detecting-depression-from-reddit-posts-signaling-a-new-era-for-mental-health-diagnosis" target="_blank" rel="noopener noreferrer"><strong>AI Achieves 96% Accuracy in Detecting Depression from Reddit Posts, Signaling a New Era for Mental Health Diagnosis</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-08_16-37</em></p>
+<p align="center"><em>📅 Published: 2025-10-22_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
