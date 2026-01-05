@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/" target="_blank" rel="noopener noreferrer"><strong>AI benchmarks hampered by bad science</strong></a>
+  <a href="https://developer.nvidia.com/blog/scaling-llm-reinforcement-learning-with-prolonged-training-using-prorl-v2/" target="_blank" rel="noopener noreferrer"><strong>Scaling LLM Reinforcement Learning with Prolonged Training Using ProRL v2 | NVIDIA Technical Blog</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-08_01-56</em></p>
+<p align="center"><em>📅 Published: 2025-08-22_02-00</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
