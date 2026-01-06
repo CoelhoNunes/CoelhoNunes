@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-15501-y" target="_blank" rel="noopener noreferrer"><strong>Intelligent emotion sensing using BERT BiLSTM and generative AI for proactive customer care</strong></a>
+  <a href="https://www.nature.com/articles/d41586-025-02275-6" target="_blank" rel="noopener noreferrer"><strong>‘Another DeepSeek moment’: Chinese AI model Kimi K2 stirs excitement</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-02_01-53</em></p>
+<p align="center"><em>📅 Published: 2025-08-11_02-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
