@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/topics/large-language-models" target="_blank" rel="noopener noreferrer"><strong>What Are Large Language Models (LLMs)?</strong></a>
+  <a href="https://garymarcus.substack.com/p/the-false-glorification-of-yann-lecun" target="_blank" rel="noopener noreferrer"><strong>The False Glorification of Yann LeCun</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_16-23</em></p>
+<p align="center"><em>📅 Published: 2025-11-21_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
