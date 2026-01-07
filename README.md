@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://garymarcus.substack.com/p/the-false-glorification-of-yann-lecun" target="_blank" rel="noopener noreferrer"><strong>The False Glorification of Yann LeCun</strong></a>
+  <a href="https://www.tomsguide.com/best-picks/best-ai-laptop" target="_blank" rel="noopener noreferrer"><strong>Best AI laptop for 2025 — tested and rated</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-21_02-02</em></p>
+<p align="center"><em>📅 Published: 2025-09-02_01-59</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
