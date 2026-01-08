@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://ai-scholar.tech/en/articles/others%2Funifiedcrawl" target="_blank" rel="noopener noreferrer"><strong>UnifiedCrawl: A New Approach to Low-Resource Language Data Collection and Efficient LLM Adaptation</strong></a>
+  <a href="https://www.shacknews.com/article/146905/facebook-meta-yann-lecun-ai-start-up" target="_blank" rel="noopener noreferrer"><strong>Facebook (META) chief AI scientist Yann LeCun leaves company to open new AMI start-up</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-07_02-20</em></p>
+<p align="center"><em>📅 Published: 2025-11-20_02-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
