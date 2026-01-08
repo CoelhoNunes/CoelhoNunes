@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.tomsguide.com/best-picks/best-ai-laptop" target="_blank" rel="noopener noreferrer"><strong>Best AI laptop for 2025 — tested and rated</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/aws-doubles-investment-in-aws-generative-ai-innovation-center-marking-two-years-of-customer-success/" target="_blank" rel="noopener noreferrer"><strong>AWS doubles investment in AWS Generative AI Innovation Center, marking two years of customer success</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-02_01-59</em></p>
+<p align="center"><em>📅 Published: 2025-09-20_01-50</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
