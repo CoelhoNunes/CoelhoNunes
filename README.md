@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="http://en.kremlin.ru/events/president/news/78498" target="_blank" rel="noopener noreferrer"><strong>AI Journey international conference</strong></a>
+  <a href="https://www.aol.com/llms-ai-arent-same-everything-120019739.html" target="_blank" rel="noopener noreferrer"><strong>LLMs and AI Aren't the Same. Everything You Should Know About What's Behind Chatbots</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-21_02-02</em></p>
+<p align="center"><em>📅 Published: 2025-06-01_16-36</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
