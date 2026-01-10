@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://biz.chosun.com/en/en-it/2025/07/09/UO3P5HFHBBEYPAG2SS22FPVYPM/" target="_blank" rel="noopener noreferrer"><strong>KT’s Mi:dm 2.0 AI tops Korean evaluation rankings for language models - CHOSUNBIZ</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/llm-continuous-self-instruct-fine-tuning-framework-powered-by-a-compound-ai-system-on-amazon-sagemaker/" target="_blank" rel="noopener noreferrer"><strong>LLM continuous self-instruct fine-tuning framework powered by a compound AI system on Amazon SageMaker</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-13_02-28</em></p>
+<p align="center"><em>📅 Published: 2025-05-25_16-36</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
