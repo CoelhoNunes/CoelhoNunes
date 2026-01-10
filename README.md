@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/llm-continuous-self-instruct-fine-tuning-framework-powered-by-a-compound-ai-system-on-amazon-sagemaker/" target="_blank" rel="noopener noreferrer"><strong>LLM continuous self-instruct fine-tuning framework powered by a compound AI system on Amazon SageMaker</strong></a>
+  <a href="http://en.kremlin.ru/events/president/news/78498" target="_blank" rel="noopener noreferrer"><strong>AI Journey international conference</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-25_16-36</em></p>
+<p align="center"><em>📅 Published: 2025-11-21_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
