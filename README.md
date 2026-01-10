@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/05/20/nvidia-releases-cosmos-reason1-a-suite-of-ai-models-advancing-physical-common-sense-and-embodied-reasoning-in-real-world-environments/?amp" target="_blank" rel="noopener noreferrer"><strong>NVIDIA Releases Cosmos-Reason1: A Suite of AI Models Advancing Physical Common Sense and Embodied Reasoning in Real-World Environments</strong></a>
+  <a href="https://biz.chosun.com/en/en-it/2025/07/09/UO3P5HFHBBEYPAG2SS22FPVYPM/" target="_blank" rel="noopener noreferrer"><strong>KT’s Mi:dm 2.0 AI tops Korean evaluation rankings for language models - CHOSUNBIZ</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-21_02-17</em></p>
+<p align="center"><em>📅 Published: 2025-07-13_02-28</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
