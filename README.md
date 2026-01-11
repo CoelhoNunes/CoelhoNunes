@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.dailykos.com/stories/2025/6/4/2325777/-Branding-AI-And-The-Death-of-Language" target="_blank" rel="noopener noreferrer"><strong>Branding, AI, And The Death of Language</strong></a>
+  <a href="https://machinelearning.apple.com/research/gsm-symbolic" target="_blank" rel="noopener noreferrer"><strong>GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_16-35</em></p>
+<p align="center"><em>📅 Published: 2025-05-25_08-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
