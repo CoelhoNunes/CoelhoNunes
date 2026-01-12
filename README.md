@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/06/09/from-text-to-action-how-tool-augmented-ai-agents-are-redefining-language-models-with-reasoning-memory-and-autonomy/" target="_blank" rel="noopener noreferrer"><strong>From Text to Action: How Tool-Augmented AI Agents Are Redefining Language Models with Reasoning, Memory, and Autonomy</strong></a>
+  <a href="https://www.marktechpost.com/2025/11/17/meta-ai-introduces-dreamgym-a-textual-experience-synthesizer-for-reinforcement-learning-rl-agents/" target="_blank" rel="noopener noreferrer"><strong>Meta AI Introduces DreamGym: A Textual Experience Synthesizer For Reinforcement learning RL Agents</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-13_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-11-18_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
