@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/11/17/meta-ai-introduces-dreamgym-a-textual-experience-synthesizer-for-reinforcement-learning-rl-agents/" target="_blank" rel="noopener noreferrer"><strong>Meta AI Introduces DreamGym: A Textual Experience Synthesizer For Reinforcement learning RL Agents</strong></a>
+  <a href="https://www.kdnuggets.com/5-free-ai-courses-from-hugging-face" target="_blank" rel="noopener noreferrer"><strong>5 Free AI Courses from Hugging Face</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-18_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-09-10_01-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
