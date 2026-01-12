@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.kdnuggets.com/5-free-ai-courses-from-hugging-face" target="_blank" rel="noopener noreferrer"><strong>5 Free AI Courses from Hugging Face</strong></a>
+  <a href="https://www.msspalert.com/news/crowdstrike-and-nvidia-add-llm-security-offer-new-service-for-mssps" target="_blank" rel="noopener noreferrer"><strong>CrowdStrike and Nvidia Add LLM Security, Offer New Service for MSSPs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-10_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-06-14_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
