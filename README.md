@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1469197/full" target="_blank" rel="noopener noreferrer"><strong>Investigating generative AI models and detection techniques: impacts of tokenization and dataset size on identification of AI-generated text</strong></a>
+  <a href="https://www.nature.com/articles/d41586-025-02993-x" target="_blank" rel="noopener noreferrer"><strong>Which diseases will you have in 20 years? This AI accurately predicts your risks</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_22-14</em></p>
+<p align="center"><em>📅 Published: 2025-10-17_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
