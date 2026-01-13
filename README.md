@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://hackernoon.com/can-ai-explain-a-joke-not-quite-but-its-learning-fast" target="_blank" rel="noopener noreferrer"><strong>Can AI Explain a Joke? Not Quite — But It’s Learning Fast</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1469197/full" target="_blank" rel="noopener noreferrer"><strong>Investigating generative AI models and detection techniques: impacts of tokenization and dataset size on identification of AI-generated text</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-21_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_22-14</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
