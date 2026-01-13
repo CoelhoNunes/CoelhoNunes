@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/d41586-025-02993-x" target="_blank" rel="noopener noreferrer"><strong>Which diseases will you have in 20 years? This AI accurately predicts your risks</strong></a>
+  <a href="https://mugglehead.com/hackers-weaponize-anthropics-ai-model-claude-for-cybercrime-spree/" target="_blank" rel="noopener noreferrer"><strong>Hackers weaponize Anthropic’s AI model ‘Claude’ for cybercrime spree</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-17_01-56</em></p>
+<p align="center"><em>📅 Published: 2025-08-30_01-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
