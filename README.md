@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2025.1622873/full" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence in civil engineering: emerging applications and opportunities</strong></a>
+  <a href="https://www.nature.com/articles/s41598-025-96508-3" target="_blank" rel="noopener noreferrer"><strong>Comparing large Language models and human annotators in latent content analysis of sentiment, political leaning, emotional intensity and sarcasm | Scientific Reports</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-27_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-07-21_02-27</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
