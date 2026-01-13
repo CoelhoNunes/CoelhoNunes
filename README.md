@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://mugglehead.com/hackers-weaponize-anthropics-ai-model-claude-for-cybercrime-spree/" target="_blank" rel="noopener noreferrer"><strong>Hackers weaponize Anthropic’s AI model ‘Claude’ for cybercrime spree</strong></a>
+  <a href="https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2025.1622873/full" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence in civil engineering: emerging applications and opportunities</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-30_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-06-27_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
