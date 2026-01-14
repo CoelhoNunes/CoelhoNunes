@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/immersive/d44151-025-00085-3/index.html" target="_blank" rel="noopener noreferrer"><strong>As AI giants duel, the Global South builds its own brainpower</strong></a>
+  <a href="https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/?amp" target="_blank" rel="noopener noreferrer"><strong>Microsoft Releases Agent Lightning: A New AI Framework that Enables Reinforcement Learning (RL)-based Training of LLMs for Any AI Agent</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-20_02-30</em></p>
+<p align="center"><em>📅 Published: 2025-10-30_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
