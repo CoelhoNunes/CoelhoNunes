@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41586-024-08328-6" target="_blank" rel="noopener noreferrer"><strong>Accurate predictions on small data with a tabular foundation model</strong></a>
+  <a href="https://www.nature.com/immersive/d44151-025-00085-3/index.html" target="_blank" rel="noopener noreferrer"><strong>As AI giants duel, the Global South builds its own brainpower</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-05_02-27</em></p>
+<p align="center"><em>📅 Published: 2025-07-20_02-30</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
