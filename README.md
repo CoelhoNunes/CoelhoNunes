@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117" target="_blank" rel="noopener noreferrer"><strong>Explained: Generative AI’s environmental impact</strong></a>
+  <a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/stories/2025/llms-across-industries" target="_blank" rel="noopener noreferrer"><strong>LLMs Across Industries: Recent Research on Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-24_16-35</em></p>
+<p align="center"><em>📅 Published: 2025-06-07_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
