@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://market.us/report/ai-in-computer-aided-synthesis-planning-market/" target="_blank" rel="noopener noreferrer"><strong>AI in Computer Aided Synthesis Planning Market Growth at 41.40%</strong></a>
+  <a href="https://e.vnexpress.net/news/tech/enterprises/meta-finalizes-14-3b-scale-ai-investment-poaching-its-ceo-world-s-youngest-self-made-billionaire-alenxandr-wang-4898342.html" target="_blank" rel="noopener noreferrer"><strong>Meta finalizes $14.3B Scale AI investment, poaching its CEO - world's youngest self-made billionaire Alenxandr Wang</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-23_01-57</em></p>
+<p align="center"><em>📅 Published: 2025-06-14_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
