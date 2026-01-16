@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-10-5-the-silicon-backbone-how-semiconductors-fuel-the-ai-revolution-and-drive-it-sector-growth" target="_blank" rel="noopener noreferrer"><strong>The Silicon Backbone: How Semiconductors Fuel the AI Revolution and Drive IT Sector Growth</strong></a>
+  <a href="https://www.nature.com/articles/d41586-025-00259-0" target="_blank" rel="noopener noreferrer"><strong>How China created AI model DeepSeek and shocked the world</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-06_01-56</em></p>
+<p align="center"><em>📅 Published: 2025-05-24_16-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
