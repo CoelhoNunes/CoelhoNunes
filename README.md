@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://inrix.com/blog/understanding-ai-machine-learning-and-generative-ai/" target="_blank" rel="noopener noreferrer"><strong>Understanding Artificial Intelligence, Machine Learning, & Generative AI: How Transportation Agencies Can Harness Intelligence from Probe Data</strong></a>
+  <a href="https://www.stocktitan.net/news/WIMI/wi-mi-explores-quantum-algorithms-for-large-scale-machine-learning-bb03pkp5laui.html" target="_blank" rel="noopener noreferrer"><strong>WiMi's Revolutionary Quantum Algorithm Promises to Transform AI Model Training Efficiency</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-16_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-08-08_02-26</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
