@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.tradingview.com/news/zacks:f5669c9da094b:0-can-completion-of-qualcomm-s-alphawave-buyout-deal-propel-its-shares/" target="_blank" rel="noopener noreferrer"><strong>Can Completion of Qualcomm's Alphawave Buyout Deal Propel Its Shares?</strong></a>
+  <a href="https://inrix.com/blog/understanding-ai-machine-learning-and-generative-ai/" target="_blank" rel="noopener noreferrer"><strong>Understanding Artificial Intelligence, Machine Learning, & Generative AI: How Transportation Agencies Can Harness Intelligence from Probe Data</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-23_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-08-16_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
