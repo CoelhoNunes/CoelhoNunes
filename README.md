@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/exploring-prompt-learning-using-english-feedback-to-optimize-llm-systems/" target="_blank" rel="noopener noreferrer"><strong>Exploring Prompt Learning: Using English Feedback to Optimize LLM Systems</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/choosing-the-right-approach-for-generative-ai-powered-structured-data-retrieval/" target="_blank" rel="noopener noreferrer"><strong>Choosing the right approach for generative AI-powered structured data retrieval</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-17_02-21</em></p>
+<p align="center"><em>📅 Published: 2025-07-02_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
