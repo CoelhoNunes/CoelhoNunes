@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.stocktitan.net/news/WIMI/wi-mi-explores-quantum-algorithms-for-large-scale-machine-learning-bb03pkp5laui.html" target="_blank" rel="noopener noreferrer"><strong>WiMi's Revolutionary Quantum Algorithm Promises to Transform AI Model Training Efficiency</strong></a>
+  <a href="https://towardsdatascience.com/exploring-prompt-learning-using-english-feedback-to-optimize-llm-systems/" target="_blank" rel="noopener noreferrer"><strong>Exploring Prompt Learning: Using English Feedback to Optimize LLM Systems</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-08_02-26</em></p>
+<p align="center"><em>📅 Published: 2025-07-17_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
