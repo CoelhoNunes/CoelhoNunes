@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://hub.jhu.edu/2025/10/13/mark-dredze-johns-hopkins-dsai-director/" target="_blank" rel="noopener noreferrer"><strong>Computer scientist Mark Dredze named director of Johns Hopkins Data Science and AI Institute</strong></a>
+  <a href="https://www.bloomberg.com/news/articles/2025-06-30/apple-weighs-replacing-siri-s-ai-llms-with-anthropic-claude-or-openai-chatgpt" target="_blank" rel="noopener noreferrer"><strong>Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-14_01-55</em></p>
+<p align="center"><em>📅 Published: 2025-07-05_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
