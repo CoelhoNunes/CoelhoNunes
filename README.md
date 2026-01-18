@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.kdnuggets.com/gemma-3n-smarter-faster-and-offline-ready" target="_blank" rel="noopener noreferrer"><strong>Gemma 3n: Smarter, Faster, and Offline-Ready</strong></a>
+  <a href="https://www.marketsandmarkets.com/Market-Reports/ai-inference-platform-as-a-service-paas-market-102780827.html" target="_blank" rel="noopener noreferrer"><strong>AI Inference Platform-as-a-Service (PaaS) Market Size, Share & Trends</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-22_16-38</em></p>
+<p align="center"><em>📅 Published: 2025-10-04_01-48</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
