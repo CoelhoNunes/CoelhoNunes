@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/" target="_blank" rel="noopener noreferrer"><strong>Titans + MIRAS: Helping AI have long-term memory</strong></a>
+  <a href="https://hub.jhu.edu/2025/10/13/mark-dredze-johns-hopkins-dsai-director/" target="_blank" rel="noopener noreferrer"><strong>Computer scientist Mark Dredze named director of Johns Hopkins Data Science and AI Institute</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-06_02-01</em></p>
+<p align="center"><em>📅 Published: 2025-10-14_01-55</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
