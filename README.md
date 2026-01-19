@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://venturebeat.com/ai/kumos-relational-foundation-model-predicts-the-future-your-llm-cant-see/" target="_blank" rel="noopener noreferrer"><strong>Kumo’s ‘relational foundation model’ predicts the future your LLM can’t see</strong></a>
+  <a href="https://techcrunch.com/2025/05/22/anthropics-latest-flagship-ai-sure-seems-to-love-using-the-cyclone-emoji/" target="_blank" rel="noopener noreferrer"><strong>Anthropic’s latest flagship AI sure seems to love using the ‘cyclone’ emoji</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-03_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-05-27_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
