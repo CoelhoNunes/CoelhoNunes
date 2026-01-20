@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.chemistryworld.com/news/llms-could-rewrite-how-ais-predict-reactions-and-plan-syntheses/4021931.article" target="_blank" rel="noopener noreferrer"><strong>LLMs could rewrite how AIs predict reactions and plan syntheses – but should chemists be wary of them?</strong></a>
+  <a href="https://theconversation.com/a-neuroscientist-explains-why-its-impossible-for-ai-to-understand-language-246540" target="_blank" rel="noopener noreferrer"><strong>A neuroscientist explains why it’s impossible for AI to ‘understand’ language</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-06_02-25</em></p>
+<p align="center"><em>📅 Published: 2025-06-05_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
