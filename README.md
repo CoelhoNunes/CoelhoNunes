@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41537-025-00585-2" target="_blank" rel="noopener noreferrer"><strong>Leveraging deep neural network and language models for predicting long-term hospitalization risk in schizophrenia</strong></a>
+  <a href="https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-025-07321-5" target="_blank" rel="noopener noreferrer"><strong>Modern artificial intelligence and large language models in graduate medical education: a scoping review of attitudes, applications & practice</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-23_16-37</em></p>
+<p align="center"><em>📅 Published: 2025-05-20_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
