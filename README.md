@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://theconversation.com/a-neuroscientist-explains-why-its-impossible-for-ai-to-understand-language-246540" target="_blank" rel="noopener noreferrer"><strong>A neuroscientist explains why it’s impossible for AI to ‘understand’ language</strong></a>
+  <a href="https://www.oracle.com/il-en/artificial-intelligence/natural-language-processing/" target="_blank" rel="noopener noreferrer"><strong>Natural Language Processing: How Machines Read and Write</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-05_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-10-01_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
