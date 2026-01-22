@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2025.65" target="_blank" rel="noopener noreferrer"><strong>As AI giants duel, the Global South builds its own brainpower</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/natural-language-based-database-analytics-with-amazon-nova/" target="_blank" rel="noopener noreferrer"><strong>Natural language-based database analytics with Amazon Nova</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-20_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-09-03_01-50</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
