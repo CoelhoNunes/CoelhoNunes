@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://gizmodo.com/things-humans-still-do-better-than-ai-understanding-flowers-2000611412" target="_blank" rel="noopener noreferrer"><strong>Things Humans Still Do Better Than AI: Understanding Flowers</strong></a>
+  <a href="https://www.marktechpost.com/2025/09/18/alibaba-releases-tongyi-deepresearch-a-30b-parameter-open-source-agentic-llm-optimized-for-long-horizon-research/" target="_blank" rel="noopener noreferrer"><strong>Alibaba Releases Tongyi DeepResearch: A 30B-Parameter Open-Source Agentic LLM Optimized for Long-Horizon Research</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-05_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-09-19_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
