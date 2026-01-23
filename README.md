@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://ppc.land/ai-keywords-tracked-in-pew-research-study-explained/" target="_blank" rel="noopener noreferrer"><strong>AI keywords tracked in Pew Research study explained</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/run-small-language-models-cost-efficiently-with-aws-graviton-and-amazon-sagemaker-ai/" target="_blank" rel="noopener noreferrer"><strong>Run small language models cost-efficiently with AWS Graviton and Amazon SageMaker AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-24_02-21</em></p>
+<p align="center"><em>📅 Published: 2025-06-05_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
