@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.3ds.com/products/biovia/artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>BIOVIA Scientific AI</strong></a>
+  <a href="https://www.cnx-software.com/2025/12/05/edgi-talk-machine-learning-platform-features-infineon-psoc-edge-e84-soc/" target="_blank" rel="noopener noreferrer"><strong>Edgi-Talk machine learning development kit features Infineon PSOC Edge E84 Edge AI SoC (Crowdfunding)</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-01_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-12-06_02-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
