@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.cnx-software.com/2025/12/05/edgi-talk-machine-learning-platform-features-infineon-psoc-edge-e84-soc/" target="_blank" rel="noopener noreferrer"><strong>Edgi-Talk machine learning development kit features Infineon PSOC Edge E84 Edge AI SoC (Crowdfunding)</strong></a>
+  <a href="https://artgor.medium.com/paper-review-prorl-prolonged-reinforcement-learning-expands-reasoning-boundaries-in-large-10693a70ac55" target="_blank" rel="noopener noreferrer"><strong>Paper Review: ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large…</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-06_02-01</em></p>
+<p align="center"><em>📅 Published: 2025-07-02_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
