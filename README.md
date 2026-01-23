@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.am-online.com/features-landing/the-history-of-artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>The history of artificial intelligence</strong></a>
+  <a href="https://ppc.land/ai-keywords-tracked-in-pew-research-study-explained/" target="_blank" rel="noopener noreferrer"><strong>AI keywords tracked in Pew Research study explained</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-16_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-07-24_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
