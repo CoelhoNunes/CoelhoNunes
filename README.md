@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://artgor.medium.com/paper-review-prorl-prolonged-reinforcement-learning-expands-reasoning-boundaries-in-large-10693a70ac55" target="_blank" rel="noopener noreferrer"><strong>Paper Review: ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large…</strong></a>
+  <a href="https://www.am-online.com/features-landing/the-history-of-artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>The history of artificial intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-02_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-09-16_01-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
