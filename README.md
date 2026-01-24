@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://eu.36kr.com/en/p/3646186166242951" target="_blank" rel="noopener noreferrer"><strong>Tsinghua University's Nature Research: AI Can Write Papers Three Times Faster, Yet Science Boundaries Remain Locked</strong></a>
+  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/on-policy-distillation-llms-redefine-post-training-efficiency/" target="_blank" rel="noopener noreferrer"><strong>On-Policy Distillation LLMs Redefine Post-Training Efficiency</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-20_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-10-29_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
