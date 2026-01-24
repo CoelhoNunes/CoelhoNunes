@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1691468/full" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence adoption and corporate ESG performance: evidence from a refined large language model</strong></a>
+  <a href="https://eu.36kr.com/en/p/3646186166242951" target="_blank" rel="noopener noreferrer"><strong>Tsinghua University's Nature Research: AI Can Write Papers Three Times Faster, Yet Science Boundaries Remain Locked</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-12_02-26</em></p>
+<p align="center"><em>📅 Published: 2026-01-20_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
