@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41746-025-01794-w" target="_blank" rel="noopener noreferrer"><strong>Responsible Artificial Intelligence governance in oncology</strong></a>
+  <a href="https://industrialcyber.co/cisa/global-security-agencies-issue-joint-guidance-to-help-critical-infrastructure-integrate-ai-into-ot-systems/" target="_blank" rel="noopener noreferrer"><strong>Global security agencies issue joint guidance to help critical infrastructure integrate AI into OT systems</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-05_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-12-05_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
