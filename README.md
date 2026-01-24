@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/on-policy-distillation-llms-redefine-post-training-efficiency/" target="_blank" rel="noopener noreferrer"><strong>On-Policy Distillation LLMs Redefine Post-Training Efficiency</strong></a>
+  <a href="https://www.nature.com/articles/s41746-025-01794-w" target="_blank" rel="noopener noreferrer"><strong>Responsible Artificial Intelligence governance in oncology</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-29_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-07-05_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
