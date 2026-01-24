@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/run-small-language-models-cost-efficiently-with-aws-graviton-and-amazon-sagemaker-ai/" target="_blank" rel="noopener noreferrer"><strong>Run small language models cost-efficiently with AWS Graviton and Amazon SageMaker AI</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1691468/full" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence adoption and corporate ESG performance: evidence from a refined large language model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-05_16-39</em></p>
+<p align="center"><em>📅 Published: 2026-01-12_02-26</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
