@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://executivebiz.com/article/fiddler-ai-carahsoft-llm-artificial-intelligence-machine-learning" target="_blank" rel="noopener noreferrer"><strong>Fiddler AI, Carahsoft to Deliver AI Observability, Security to Public Sector</strong></a>
+  <a href="https://www.cnhinews.com/news/article_c37be8d2-fff7-5629-b5bc-29fb22f981ef.html" target="_blank" rel="noopener noreferrer"><strong>Cognizant Launches AI Training Data Services to Accelerate AI Model Development at Enterprise Scale</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-23_02-20</em></p>
+<p align="center"><em>📅 Published: 2025-08-01_02-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
