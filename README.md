@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://industrialcyber.co/cisa/global-security-agencies-issue-joint-guidance-to-help-critical-infrastructure-integrate-ai-into-ot-systems/" target="_blank" rel="noopener noreferrer"><strong>Global security agencies issue joint guidance to help critical infrastructure integrate AI into OT systems</strong></a>
+  <a href="https://www.nature.com/articles/s41746-025-01952-0" target="_blank" rel="noopener noreferrer"><strong>AI assisted prediction of unplanned intensive care admissions using natural language processing in elective neurosurgery</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-05_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-11-04_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
