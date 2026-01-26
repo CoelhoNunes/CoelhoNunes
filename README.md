@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://physicsworld.com/a/how-ai-can-help-and-hopefully-not-hinder-physics/" target="_blank" rel="noopener noreferrer"><strong>How AI can help (and hopefully not hinder) physics</strong></a>
+  <a href="https://www.netguru.com/blog/what-is-machine-learning" target="_blank" rel="noopener noreferrer"><strong>What is Machine Learning? 18 Crucial Concepts in AI, ML, and LLMs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-31_02-24</em></p>
+<p align="center"><em>📅 Published: 2025-05-20_00-49</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
