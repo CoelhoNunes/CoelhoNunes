@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://beebom.com/who-created-ai/" target="_blank" rel="noopener noreferrer"><strong>Who Created AI? Tracing the History of Artificial Intelligence</strong></a>
+  <a href="https://machinelearning.apple.com/research/exploring-llms-mlx-m5" target="_blank" rel="noopener noreferrer"><strong>Exploring LLMs with MLX and the Neural Accelerators in the M5 GPU</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-03_02-06</em></p>
+<p align="center"><em>📅 Published: 2025-11-22_01-58</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
