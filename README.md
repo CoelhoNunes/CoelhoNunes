@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://tech.yahoo.com/ai/articles/qualcomm-introduces-ai200-ai250-racks-084450752.html" target="_blank" rel="noopener noreferrer"><strong>Qualcomm introduces AI200 and AI250 racks for AI inference</strong></a>
+  <a href="https://www.goldmansachs.com/insights/articles/ai-to-drive-165-increase-in-data-center-power-demand-by-2030" target="_blank" rel="noopener noreferrer"><strong>AI to drive 165% increase in data center power demand by 2030</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-29_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-09-26_01-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
