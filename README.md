@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://venturebeat.com/ai/samsung-ai-researchers-new-open-reasoning-model-trm-outperforms-models-10" target="_blank" rel="noopener noreferrer"><strong>Samsung AI researcher's new, open reasoning model TRM outperforms models 10,000X larger — on specific problems</strong></a>
+  <a href="https://beebom.com/who-created-ai/" target="_blank" rel="noopener noreferrer"><strong>Who Created AI? Tracing the History of Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-11_01-50</em></p>
+<p align="center"><em>📅 Published: 2025-12-03_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
