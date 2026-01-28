@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/exploring-llms-mlx-m5" target="_blank" rel="noopener noreferrer"><strong>Exploring LLMs with MLX and the Neural Accelerators in the M5 GPU</strong></a>
+  <a href="https://builtin.com/articles/ai-hallucinations-worsening-solutions" target="_blank" rel="noopener noreferrer"><strong>AI Hallucinations Are Getting Worse. What Can We Do About It?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-22_01-58</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_16-41</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
