@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.goldmansachs.com/insights/articles/ai-to-drive-165-increase-in-data-center-power-demand-by-2030" target="_blank" rel="noopener noreferrer"><strong>AI to drive 165% increase in data center power demand by 2030</strong></a>
+  <a href="https://venturebeat.com/ai/samsung-ai-researchers-new-open-reasoning-model-trm-outperforms-models-10" target="_blank" rel="noopener noreferrer"><strong>Samsung AI researcher's new, open reasoning model TRM outperforms models 10,000X larger — on specific problems</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-26_01-54</em></p>
+<p align="center"><em>📅 Published: 2025-10-11_01-50</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
