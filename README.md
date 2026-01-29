@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s42256-024-00976-7" target="_blank" rel="noopener noreferrer"><strong>What large language models know and what people think they know</strong></a>
+  <a href="https://siliconangle.com/2025/06/03/snowflake-expands-ai-tools-streamline-enterprise-data-workflows-speed-machine-learning/" target="_blank" rel="noopener noreferrer"><strong>Snowflake expands AI tools to streamline enterprise data workflows and speed machine learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-21_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-06-03_16-42</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
