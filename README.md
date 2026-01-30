@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://siliconangle.com/2025/06/03/snowflake-expands-ai-tools-streamline-enterprise-data-workflows-speed-machine-learning/" target="_blank" rel="noopener noreferrer"><strong>Snowflake expands AI tools to streamline enterprise data workflows and speed machine learning</strong></a>
+  <a href="https://www.frontiersin.org/articles/10.3389/feduc.2025.1613067" target="_blank" rel="noopener noreferrer"><strong>Development of generative artificial intelligence in medical education: a bibliometric profiling</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-03_16-42</em></p>
+<p align="center"><em>📅 Published: 2025-10-18_01-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
