@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nytimes.com/2025/12/09/crosswords/why-youre-better-than-a-computer-at-solving-connections.html" target="_blank" rel="noopener noreferrer"><strong>Why You’re Better Than Artificial Intelligence at Solving Connections</strong></a>
+  <a href="https://www.psypost.org/personality-traits-predict-students-use-of-generative-ai-in-higher-education-study-finds/" target="_blank" rel="noopener noreferrer"><strong>Personality traits predict students’ use of generative AI in higher education, study finds</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-10_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-09-25_01-55</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
