@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-03979-5" target="_blank" rel="noopener noreferrer"><strong>Use of deep learning-based NLP models for full-text data elements extraction for systematic literature review tasks</strong></a>
+  <a href="https://www.nature.com/articles/s41598-025-01104-0" target="_blank" rel="noopener noreferrer"><strong>A modernized approach to sentiment analysis of product reviews using BiGRU and RNN based LSTM deep learning models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-05_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
