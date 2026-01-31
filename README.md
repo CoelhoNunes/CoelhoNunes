@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/updates/nlis-workshop-2025" target="_blank" rel="noopener noreferrer"><strong>Apple Workshop on Natural Language and Interactive Systems 2025</strong></a>
+  <a href="https://www.genengnews.com/topics/bioprocessing/katalyze-ai-launches-digityze-ai-for-biomanufacturing-on-snowflake-ai-data-cloud/" target="_blank" rel="noopener noreferrer"><strong>Katalyze AI Launches Digityze AI for Biomanufacturing on Snowflake AI Data Cloud</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-24_01-54</em></p>
+<p align="center"><em>📅 Published: 2025-07-11_02-13</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
