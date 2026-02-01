@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://quantumzeitgeist.com/systems-models-compression-advances-intelligence-large-language/" target="_blank" rel="noopener noreferrer"><strong>Compression Advances Intelligence In Large Language Models And Multimedia Systems</strong></a>
+  <a href="https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut" target="_blank" rel="noopener noreferrer"><strong>Meta’s DreamGym framework trains AI agents in a simulated world to cut reinforcement learning costs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-31_00-42</em></p>
+<p align="center"><em>📅 Published: 2025-11-20_02-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
