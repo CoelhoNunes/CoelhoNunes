@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bioengineer.org/predicting-drug-target-affinity-with-ai-innovations/" target="_blank" rel="noopener noreferrer"><strong>Predicting Drug-Target Affinity with AI Innovations</strong></a>
+  <a href="https://biz.chosun.com/en/en-it/2025/07/24/7TMK26G2ZJBQ3OJ6AK4CBOMXEE/" target="_blank" rel="noopener noreferrer"><strong>Krafton and NCSOFT lead AI initiatives in gaming and fashion expansion in South Korea - CHOSUNBIZ</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-13_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-07-25_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
