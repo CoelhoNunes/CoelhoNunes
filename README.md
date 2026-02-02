@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://quantumzeitgeist.com/2x-reinforcement-learning-faster-rift-achieves-llm-accelerator-fault-assessment-scalable-methodology/" target="_blank" rel="noopener noreferrer"><strong>Rift: Reinforcement Learning Achieves 2x Faster LLM Accelerator Fault Assessment with Scalable Methodology</strong></a>
+  <a href="https://www.mtu.edu/computing/ai/" target="_blank" rel="noopener noreferrer"><strong>What is Artificial intelligence (AI)?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-12_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-08-18_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
