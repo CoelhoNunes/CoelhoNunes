@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/grounding-multimodal-large" target="_blank" rel="noopener noreferrer"><strong>Grounding Multimodal Large Language Models in Actions</strong></a>
+  <a href="https://quantumzeitgeist.com/2x-reinforcement-learning-faster-rift-achieves-llm-accelerator-fault-assessment-scalable-methodology/" target="_blank" rel="noopener noreferrer"><strong>Rift: Reinforcement Learning Achieves 2x Faster LLM Accelerator Fault Assessment with Scalable Methodology</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-13</em></p>
+<p align="center"><em>📅 Published: 2025-12-12_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
