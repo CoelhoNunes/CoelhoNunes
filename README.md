@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41746-025-01830-9" target="_blank" rel="noopener noreferrer"><strong>Evaluation of performance of generative large language models for stroke care</strong></a>
+  <a href="https://www.shopify.com/blog/ai-models" target="_blank" rel="noopener noreferrer"><strong>AI Models for Ecommerce: Types & Applications (2025)</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-11_01-55</em></p>
+<p align="center"><em>📅 Published: 2025-10-12_01-58</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
