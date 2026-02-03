@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://hai.stanford.edu/topics/machine-learning" target="_blank" rel="noopener noreferrer"><strong>Machine Learning</strong></a>
+  <a href="https://www.nature.com/articles/s41746-025-01830-9" target="_blank" rel="noopener noreferrer"><strong>Evaluation of performance of generative large language models for stroke care</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-08_02-26</em></p>
+<p align="center"><em>📅 Published: 2025-09-11_01-55</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
