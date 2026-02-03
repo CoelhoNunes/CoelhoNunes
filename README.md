@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.shopify.com/blog/ai-models" target="_blank" rel="noopener noreferrer"><strong>AI Models for Ecommerce: Types & Applications (2025)</strong></a>
+  <a href="https://thebatt.com/news/the-future-of-ai-is-here-how-texas-am-students-and-faculty-use-large-language-models-in-research-classrooms/" target="_blank" rel="noopener noreferrer"><strong>‘The future of AI is here’: How Texas A&M students and faculty use large language models in research, classrooms</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-12_01-58</em></p>
+<p align="center"><em>📅 Published: 2025-11-07_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
