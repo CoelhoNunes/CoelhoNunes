@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/topics/small-language-models" target="_blank" rel="noopener noreferrer"><strong>What are Small Language Models (SLM)?</strong></a>
+  <a href="https://www.bastillepost.com/global/article/5512595-bidgely-redefines-energy-ai-in-2025-from-machine-learning-to-agentic-ai" target="_blank" rel="noopener noreferrer"><strong>Bidgely Redefines Energy AI in 2025: From Machine Learning to Agentic AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_08-40</em></p>
+<p align="center"><em>📅 Published: 2026-01-09_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
