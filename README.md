@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.openpr.com/news/4096027/ai-server-market-to-grow-at-34-46-cagr-hitting-457-93-billion" target="_blank" rel="noopener noreferrer"><strong>AI Server Market to Grow at 34.46% CAGR, Hitting $457.93 Billion by 2034</strong></a>
+  <a href="https://www.goldmansachs.com/insights/articles/ai-to-drive-165-increase-in-data-center-power-demand-by-2030" target="_blank" rel="noopener noreferrer"><strong>AI to drive 165% increase in data center power demand by 2030</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-09_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-09-26_01-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
