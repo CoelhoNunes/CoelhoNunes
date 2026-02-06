@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.goldmansachs.com/insights/articles/ai-to-drive-165-increase-in-data-center-power-demand-by-2030" target="_blank" rel="noopener noreferrer"><strong>AI to drive 165% increase in data center power demand by 2030</strong></a>
+  <a href="https://www.morningstar.com/news/pr-newswire/20250630ny20018/race-against-the-machine-pearson-expands-ai-content-to-equip-learners-for-future-of-work" target="_blank" rel="noopener noreferrer"><strong>Race Against the Machine: Pearson Expands AI Content to Equip Learners for Future of Work</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-26_01-54</em></p>
+<p align="center"><em>📅 Published: 2025-07-01_02-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
