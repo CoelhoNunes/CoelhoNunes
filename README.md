@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-024-81370-6" target="_blank" rel="noopener noreferrer"><strong>Use of large language models as artificial intelligence tools in academic research and publishing among global clinical researchers</strong></a>
+  <a href="https://www.hstoday.us/subject-matter-areas/cybersecurity/cisa-and-partners-issue-joint-guide-to-advance-secure-integration-of-artificial-intelligence-in-operational-technology/" target="_blank" rel="noopener noreferrer"><strong>CISA and Partners Issue Joint Guide to Advance Secure Integration of AI in Operational Technology</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-29_01-58</em></p>
+<p align="center"><em>📅 Published: 2025-12-11_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
