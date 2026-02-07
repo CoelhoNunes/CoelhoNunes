@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.techzine.eu/news/applications/133135/zoho-launches-its-own-ai-model-and-agent-platform/" target="_blank" rel="noopener noreferrer"><strong>Zoho launches its own AI model and agent platform</strong></a>
+  <a href="https://news.ucsc.edu/2025/02/ai-browser-tracks.html" target="_blank" rel="noopener noreferrer"><strong>Newest Genome Browser features highlight the power of generative AI and machine learning for biology</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-18_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_16-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
