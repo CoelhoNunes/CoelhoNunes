@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.hstoday.us/subject-matter-areas/cybersecurity/cisa-and-partners-issue-joint-guide-to-advance-secure-integration-of-artificial-intelligence-in-operational-technology/" target="_blank" rel="noopener noreferrer"><strong>CISA and Partners Issue Joint Guide to Advance Secure Integration of AI in Operational Technology</strong></a>
+  <a href="https://www.techzine.eu/news/applications/133135/zoho-launches-its-own-ai-model-and-agent-platform/" target="_blank" rel="noopener noreferrer"><strong>Zoho launches its own AI model and agent platform</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-11_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-07-18_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
