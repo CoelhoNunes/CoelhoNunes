@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/d41586-025-03379-9" target="_blank" rel="noopener noreferrer"><strong>‘Tiny’ AI model beats massive LLMs at logic test</strong></a>
+  <a href="https://techxplore.com/news/2025-12-ai-method-slashes-pre-boosting.html" target="_blank" rel="noopener noreferrer"><strong>AI training method slashes pre-training time by 50% while boosting accuracy</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-04_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-12-11_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
