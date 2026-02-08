@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techxplore.com/news/2025-12-ai-method-slashes-pre-boosting.html" target="_blank" rel="noopener noreferrer"><strong>AI training method slashes pre-training time by 50% while boosting accuracy</strong></a>
+  <a href="https://www.pymnts.com/artificial-intelligence-2/2025/ai-explainer-how-large-transaction-models-are-securing-payment-flows/" target="_blank" rel="noopener noreferrer"><strong>AI Explainer: How Large Transaction Models Are Securing Payment Flows</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-11_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-00</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
