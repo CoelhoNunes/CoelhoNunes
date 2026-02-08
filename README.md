@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aimmediahouse.com/market-industry/netflix-is-paying-up-to-840000-for-ai-roles-and-every-job-is-remote" target="_blank" rel="noopener noreferrer"><strong>Netflix Is Paying Up to $840,000 for AI Roles And Every Job Is Remote</strong></a>
+  <a href="https://www.frontiersin.org/articles/10.3389/feduc.2025.1613067" target="_blank" rel="noopener noreferrer"><strong>Development of generative artificial intelligence in medical education: a bibliometric profiling</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-08_01-53</em></p>
+<p align="center"><em>📅 Published: 2025-10-18_01-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
