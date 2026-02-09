@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.pymnts.com/artificial-intelligence-2/2025/ai-explainer-how-large-transaction-models-are-securing-payment-flows/" target="_blank" rel="noopener noreferrer"><strong>AI Explainer: How Large Transaction Models Are Securing Payment Flows</strong></a>
+  <a href="https://www.nature.com/articles/s42256-025-01084-w" target="_blank" rel="noopener noreferrer"><strong>Mechanistic understanding and validation of large AI models with SemanticLens</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-00</em></p>
+<p align="center"><em>📅 Published: 2025-12-24_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
