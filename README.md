@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-17738-z" target="_blank" rel="noopener noreferrer"><strong>A hybrid deep learning and fuzzy logic framework for feature-based evaluation of english Language learners</strong></a>
+  <a href="https://iol.co.za/technology/2025-10-12-are-we-facing-a-trillion-dollar-ai-bubble/" target="_blank" rel="noopener noreferrer"><strong>Are we facing a trillion dollar AI bubble?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-01_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-10-13_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
