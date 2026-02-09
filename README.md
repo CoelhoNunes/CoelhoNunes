@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://iol.co.za/technology/2025-10-12-are-we-facing-a-trillion-dollar-ai-bubble/" target="_blank" rel="noopener noreferrer"><strong>Are we facing a trillion dollar AI bubble?</strong></a>
+  <a href="https://timesofindia.indiatimes.com/education/news/which-genai-courses-became-indias-top-choice-in-2025-amid-soaring-ai-demand/articleshow/125929184.cms" target="_blank" rel="noopener noreferrer"><strong>Which GenAI courses became India’s top choice in 2025 amid soaring AI demand?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-13_02-02</em></p>
+<p align="center"><em>📅 Published: 2025-12-13_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
