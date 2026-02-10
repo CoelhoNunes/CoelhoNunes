@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41586-025-09292-5" target="_blank" rel="noopener noreferrer"><strong>Contextualizing ancient texts with generative neural networks</strong></a>
+  <a href="https://news.mit.edu/2025/unpacking-large-language-model-bias-0617" target="_blank" rel="noopener noreferrer"><strong>Unpacking the bias of large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-02_02-12</em></p>
+<p align="center"><em>📅 Published: 2025-06-19_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
