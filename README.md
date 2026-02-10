@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://ischool.syracuse.edu/how-to-become-an-ai-engineer/" target="_blank" rel="noopener noreferrer"><strong>How to Become an AI Engineer</strong></a>
+  <a href="https://www.oracle.com/sa/artificial-intelligence/natural-language-processing/" target="_blank" rel="noopener noreferrer"><strong>Natural Language Processing: How Machines Read and Write</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-14_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-12-28_02-29</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
