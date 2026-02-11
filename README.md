@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/updates/apple-at-emnlp-2025" target="_blank" rel="noopener noreferrer"><strong>Empirical Methods in Natural Language Processing (EMNLP) 2025</strong></a>
+  <a href="#" target="_blank" rel="noopener noreferrer"><strong>Untitled</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-30_02-04</em></p>
+<p align="center"><em>📅 Published: Unknown date</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
