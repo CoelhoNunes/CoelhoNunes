@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.kdnuggets.com/the-ultimate-guide-to-learning-anything-with-notebooklm" target="_blank" rel="noopener noreferrer"><strong>The Ultimate Guide to Learning Anything with NotebookLM</strong></a>
+  <a href="https://towardsdatascience.com/how-llms-work-pre-training-to-post-training-neural-networks-hallucinations-and-inference/" target="_blank" rel="noopener noreferrer"><strong>How LLMs Work: Pre-Training to Post-Training, Neural Networks, Hallucinations, and Inference</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-21_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-09-21_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
