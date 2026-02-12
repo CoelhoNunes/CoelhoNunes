@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/" target="_blank" rel="noopener noreferrer"><strong>Apple supercharges its tools and technologies for developers to foster creativity, innovation, and design</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1546179/full" target="_blank" rel="noopener noreferrer"><strong>Large language models for intelligent RDF knowledge graph construction: results from medical ontology mapping</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-24_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-10-09_01-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
