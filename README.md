@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/how-llms-work-pre-training-to-post-training-neural-networks-hallucinations-and-inference/" target="_blank" rel="noopener noreferrer"><strong>How LLMs Work: Pre-Training to Post-Training, Neural Networks, Hallucinations, and Inference</strong></a>
+  <a href="https://www.analyticsinsight.net/courses/top-udemy-courses-for-computer-vision-gen-ai-in-2025" target="_blank" rel="noopener noreferrer"><strong>Top Udemy Courses for Computer Vision & Gen AI in 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-21_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-06-01_16-36</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
