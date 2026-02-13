@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://research.google/blog/fine-tuning-llms-with-user-level-differential-privacy/" target="_blank" rel="noopener noreferrer"><strong>Fine-tuning LLMs with user-level differential privacy</strong></a>
+  <a href="https://www.nytimes.com/2025/12/09/crosswords/why-youre-better-than-a-computer-at-solving-connections.html" target="_blank" rel="noopener noreferrer"><strong>Why You’re Better Than Artificial Intelligence at Solving Connections</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-27_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-12-10_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
