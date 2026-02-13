@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/choosing-the-right-approach-for-generative-ai-powered-structured-data-retrieval/" target="_blank" rel="noopener noreferrer"><strong>Choosing the right approach for generative AI-powered structured data retrieval</strong></a>
+  <a href="https://hackernoon.com/as-ai-advances-researchers-push-for-models-that-reason-like-humans?source=rss" target="_blank" rel="noopener noreferrer"><strong>As AI Advances, Researchers Push for Models That Reason Like Humans</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-02_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-05-23_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
