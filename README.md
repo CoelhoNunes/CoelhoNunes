@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.meer.com/en/96758-when-machines-master-skills-in-minutes-not-months" target="_blank" rel="noopener noreferrer"><strong>When machines master skills in minutes, not months</strong></a>
+  <a href="https://www.nature.com/articles/s42003-025-08745-x" target="_blank" rel="noopener noreferrer"><strong>Evaluation of cell type annotation reliability using a large language model-based identifier</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-28_02-29</em></p>
+<p align="center"><em>📅 Published: 2025-12-20_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
