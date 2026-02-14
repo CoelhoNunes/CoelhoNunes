@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/bz/artificial-intelligence/large-language-model/" target="_blank" rel="noopener noreferrer"><strong>Everything You Need to Know About Large Language Models</strong></a>
+  <a href="https://www.globenewswire.com/news-release/2025/06/25/3105219/0/en/Eighth-Annual-AI-Breakthrough-Awards-Program-Honors-Breakthrough-Artificial-Intelligence-Technologies-Around-the-World.html" target="_blank" rel="noopener noreferrer"><strong>Eighth Annual AI Breakthrough Awards Program Honors</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-28_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-06-26_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
