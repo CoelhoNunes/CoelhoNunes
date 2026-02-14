@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://hackernoon.com/as-ai-advances-researchers-push-for-models-that-reason-like-humans?source=rss" target="_blank" rel="noopener noreferrer"><strong>As AI Advances, Researchers Push for Models That Reason Like Humans</strong></a>
+  <a href="https://eu.36kr.com/en/p/3443427116389764" target="_blank" rel="noopener noreferrer"><strong>Google's Nano Banana has gone viral across the entire internet. Let's uncover the team behind it.</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-23_02-16</em></p>
+<p align="center"><em>📅 Published: 2025-09-02_01-59</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
