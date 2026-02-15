@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.eweek.com/artificial-intelligence/natural-language-processing-tools/" target="_blank" rel="noopener noreferrer"><strong>6 Best NLP Tools: AI Tools for Content Excellence</strong></a>
+  <a href="https://www.manilatimes.net/2026/01/17/tmt-newswire/globenewswire/2026-advanced-genai-course-focused-on-large-language-models-and-diffusion-systems-launched-by-interview-kickstart/2260487" target="_blank" rel="noopener noreferrer"><strong>2026 Advanced GenAI Course Focused on Large Language Models and Diffusion Systems Launched by Interview Kickstart</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-20_02-30</em></p>
+<p align="center"><em>📅 Published: 2026-01-17_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
