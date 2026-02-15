@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/wral/article/abnewswire-2025-11-18-ai-strategy-courses-and-classes-empower-business-leaders-with-ai-skills-training" target="_blank" rel="noopener noreferrer"><strong>AI Strategy Courses and Classes Empower Business Leaders with AI Skills Training</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/run-small-language-models-cost-efficiently-with-aws-graviton-and-amazon-sagemaker-ai/" target="_blank" rel="noopener noreferrer"><strong>Run small language models cost-efficiently with AWS Graviton and Amazon SageMaker AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-19_02-02</em></p>
+<p align="center"><em>📅 Published: 2025-06-05_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
