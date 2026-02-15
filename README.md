@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.manilatimes.net/2026/01/17/tmt-newswire/globenewswire/2026-advanced-genai-course-focused-on-large-language-models-and-diffusion-systems-launched-by-interview-kickstart/2260487" target="_blank" rel="noopener noreferrer"><strong>2026 Advanced GenAI Course Focused on Large Language Models and Diffusion Systems Launched by Interview Kickstart</strong></a>
+  <a href="https://markets.financialcontent.com/wral/article/abnewswire-2025-11-18-ai-strategy-courses-and-classes-empower-business-leaders-with-ai-skills-training" target="_blank" rel="noopener noreferrer"><strong>AI Strategy Courses and Classes Empower Business Leaders with AI Skills Training</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-17_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-11-19_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
