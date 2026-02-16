@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/run-small-language-models-cost-efficiently-with-aws-graviton-and-amazon-sagemaker-ai/" target="_blank" rel="noopener noreferrer"><strong>Run small language models cost-efficiently with AWS Graviton and Amazon SageMaker AI</strong></a>
+  <a href="https://www.freepressjournal.in/latest-news/top-university-backed-ai-courses-for-working-professionals" target="_blank" rel="noopener noreferrer"><strong>Top University-Backed AI Courses For Working Professionals</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-05_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-12-10_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
