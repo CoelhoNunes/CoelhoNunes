@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.insideprecisionmedicine.com/topics/informatics/seeing-what-cant-be-seen/" target="_blank" rel="noopener noreferrer"><strong>Seeing What Can’t Be Seen</strong></a>
+  <a href="https://finance.yahoo.com/news/aligned-joins-forces-amd-usc-151200837.html" target="_blank" rel="noopener noreferrer"><strong>Aligned Joins Forces with AMD and USC ISI to Power Next-Generation AI with MEGALODON Language Model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-25_01-56</em></p>
+<p align="center"><em>📅 Published: 2025-07-26_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
