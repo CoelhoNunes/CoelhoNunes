@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://ccforum.biomedcentral.com/articles/10.1186/s13054-025-05479-4" target="_blank" rel="noopener noreferrer"><strong>Primer on large language models: an educational overview for intensivists</strong></a>
+  <a href="https://www.sciencedaily.com/releases/2026/01/260120000308.htm" target="_blank" rel="noopener noreferrer"><strong>The human brain may work more like AI than anyone expected</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-06_01-56</em></p>
+<p align="center"><em>📅 Published: 2026-01-22_00-40</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
