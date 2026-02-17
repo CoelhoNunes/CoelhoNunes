@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.sciencedaily.com/releases/2026/01/260120000308.htm" target="_blank" rel="noopener noreferrer"><strong>The human brain may work more like AI than anyone expected</strong></a>
+  <a href="https://www.chosun.com/english/world-en/2025/09/17/DXLK4IWL7ZBKTLQ3UNVTIJBT2I/" target="_blank" rel="noopener noreferrer"><strong>Chinese firms commercialize thousands of AI Agents, outpacing U.S. and South Korea</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-22_00-40</em></p>
+<p align="center"><em>📅 Published: 2025-09-17_01-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
