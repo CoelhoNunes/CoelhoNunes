@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.openpr.com/news/4295176/deep-learning-market-is-projected-to-reach-usd-276-8-billion" target="_blank" rel="noopener noreferrer"><strong>Deep Learning Market is projected to reach USD 276.8 billion by 2034</strong></a>
+  <a href="https://www.nature.com/articles/s41592-024-02487-0" target="_blank" rel="noopener noreferrer"><strong>Accurate RNA 3D structure prediction using a language model-based deep learning approach</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-02_02-06</em></p>
+<p align="center"><em>📅 Published: 2025-07-28_02-28</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
