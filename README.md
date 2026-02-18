@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.netguru.com/blog/what-is-machine-learning" target="_blank" rel="noopener noreferrer"><strong>What is Machine Learning? 18 Crucial Concepts in AI, ML, and LLMs</strong></a>
+  <a href="https://scale.com/guides/model-training-building" target="_blank" rel="noopener noreferrer"><strong>Training and Building Machine Learning Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-20_00-49</em></p>
+<p align="center"><em>📅 Published: 2026-01-24_00-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
