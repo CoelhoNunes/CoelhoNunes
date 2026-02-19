@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.analyticsinsight.net/artificial-intelligence/best-ai-skills-to-learn-for-future-jobs-january-2026" target="_blank" rel="noopener noreferrer"><strong>Best AI Skills to Learn for Future Jobs January 2026</strong></a>
+  <a href="https://garymarcus.substack.com/p/how-o3-and-grok-4-accidentally-vindicated" target="_blank" rel="noopener noreferrer"><strong>How o3 and Grok 4 Accidentally Vindicated Neurosymbolic AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-13_02-12</em></p>
+<p align="center"><em>📅 Published: 2025-12-27_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
