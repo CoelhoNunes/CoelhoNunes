@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.mit.edu/2025/new-way-to-increase-large-language-model-capabilities-1217" target="_blank" rel="noopener noreferrer"><strong>A new way to increase the capabilities of large language models</strong></a>
+  <a href="https://www.technologynetworks.com/informatics/news/toddlers-still-learn-language-faster-than-ai-401440" target="_blank" rel="noopener noreferrer"><strong>Toddlers Still Learn Language Faster Than AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-18_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-06-25_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
