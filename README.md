@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://garymarcus.substack.com/p/how-o3-and-grok-4-accidentally-vindicated" target="_blank" rel="noopener noreferrer"><strong>How o3 and Grok 4 Accidentally Vindicated Neurosymbolic AI</strong></a>
+  <a href="https://mugglehead.com/malaysia-enhances-ai-stature-with-us2-35b-investment-nvidia-partnership/" target="_blank" rel="noopener noreferrer"><strong>Malaysia enhances AI stature with US$2.35B investment, NVIDIA partnership</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-27_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-08-01_02-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
