@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.apa.org/topics/artificial-intelligence-machine-learning/health-advisory-chatbots-wellness-apps" target="_blank" rel="noopener noreferrer"><strong>Health advisory: Use of generative AI chatbots and wellness applications for mental health</strong></a>
+  <a href="https://news.mit.edu/2025/new-way-to-increase-large-language-model-capabilities-1217" target="_blank" rel="noopener noreferrer"><strong>A new way to increase the capabilities of large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-18_02-30</em></p>
+<p align="center"><em>📅 Published: 2025-12-18_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
