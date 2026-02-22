@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.quantamagazine.org/cryptographers-show-that-ai-protections-will-always-have-holes-20251210/" target="_blank" rel="noopener noreferrer"><strong>Cryptographers Show That AI Protections Will Always Have Holes</strong></a>
+  <a href="https://www.ibm.com/think/topics/deep-learning" target="_blank" rel="noopener noreferrer"><strong>What Is Deep Learning?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-11_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-06-15_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
