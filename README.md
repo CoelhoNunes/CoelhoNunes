@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.wsj.com/tech/ai/yann-lecun-ai-meta-0058b13c?gaa_at=eafs&gaa_n=AWEtsqcr2TBJwCzcz4rSKUZZX6UNA4u3By2dcxtf7j3OUkiMxjwXuOMIebrz&gaa_ts=6989328f&gaa_sig=hnyOvtZUDoDgt06p2c7OvG-cvf9rtM-n-Pv8Y6O_PNpftxYqbaBJxWEoRKwEwWJYrgj1ip7MD2z0KrOmJlb-kw%3D%3D" target="_blank" rel="noopener noreferrer"><strong>He’s Been Right About AI for 40 Years. Now He Thinks Everyone Is Wrong.</strong></a>
+  <a href="https://www.quantamagazine.org/cryptographers-show-that-ai-protections-will-always-have-holes-20251210/" target="_blank" rel="noopener noreferrer"><strong>Cryptographers Show That AI Protections Will Always Have Holes</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-09_00-49</em></p>
+<p align="center"><em>📅 Published: 2025-12-11_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
