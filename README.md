@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/09/12/bentoml-released-llm-optimizer-an-open-source-ai-tool-for-benchmarking-and-optimizing-llm-inference/" target="_blank" rel="noopener noreferrer"><strong>BentoML Released llm-optimizer: An Open-Source AI Tool for Benchmarking and Optimizing LLM Inference</strong></a>
+  <a href="https://spectrum.ieee.org/nvidia-blackwell-mlperf-training-5" target="_blank" rel="noopener noreferrer"><strong>Nvidia’s Blackwell Conquers Largest LLM Training Benchmark</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-14_02-00</em></p>
+<p align="center"><em>📅 Published: 2025-06-05_08-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
