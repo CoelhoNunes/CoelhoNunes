@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://spectrum.ieee.org/nvidia-blackwell-mlperf-training-5" target="_blank" rel="noopener noreferrer"><strong>Nvidia’s Blackwell Conquers Largest LLM Training Benchmark</strong></a>
+  <a href="https://www.nature.com/articles/s41586-025-09922-y" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence tools expand scientists’ impact but contract science’s focus</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-05_08-39</em></p>
+<p align="center"><em>📅 Published: 2026-01-15_02-14</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
