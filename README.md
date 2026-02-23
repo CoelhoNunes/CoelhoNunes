@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.npr.org/2025/02/17/1263339268/ai-chatgpt-deepseek-data-internet-recursion" target="_blank" rel="noopener noreferrer"><strong>Like a snake eating its own tail: What happens when AI consumes its own data? : Short Wave</strong></a>
+  <a href="https://www.marktechpost.com/2025/09/12/bentoml-released-llm-optimizer-an-open-source-ai-tool-for-benchmarking-and-optimizing-llm-inference/" target="_blank" rel="noopener noreferrer"><strong>BentoML Released llm-optimizer: An Open-Source AI Tool for Benchmarking and Optimizing LLM Inference</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-25_16-36</em></p>
+<p align="center"><em>📅 Published: 2025-09-14_02-00</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
