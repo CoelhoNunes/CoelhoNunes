@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.harvard.edu/gazette/story/2025/07/ai-leaps-from-math-dunce-to-whiz/" target="_blank" rel="noopener noreferrer"><strong>AI leaps from math dunce to whiz</strong></a>
+  <a href="https://www.nature.com/articles/s41746-025-01886-7" target="_blank" rel="noopener noreferrer"><strong>A scoping review of artificial intelligence applications in clinical trial risk assessment</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-18_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-10-27_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
