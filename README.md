@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.dice.com/career-advice/your-2025-ai-skills-roadmap-from-ai-newbie-to-future-proofing-your-tech-career" target="_blank" rel="noopener noreferrer"><strong>Your 2025 AI Skills Roadmap: From AI Newbie to Future-Proofing Your Tech Career</strong></a>
+  <a href="https://www.nplusonemag.com/issue-51/the-intellectual-situation/large-language-muddle/" target="_blank" rel="noopener noreferrer"><strong>Large Language Muddle | The Editors</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_08-40</em></p>
+<p align="center"><em>📅 Published: 2026-01-11_02-31</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
