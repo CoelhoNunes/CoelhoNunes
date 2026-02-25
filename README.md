@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/" target="_blank" rel="noopener noreferrer"><strong>VaultGemma: The world's most capable differentially private LLM</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1623339/full" target="_blank" rel="noopener noreferrer"><strong>Redefining digital health interfaces with large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-16_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-11-27_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
