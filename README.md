@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/artificial-intelligence-applications" target="_blank" rel="noopener noreferrer"><strong>Top 25 Applications of AI: Transforming Industries Today</strong></a>
+  <a href="https://ai-scholar.tech/en/articles/llm-paper%2Fgenrecal" target="_blank" rel="noopener noreferrer"><strong>GenRecal, a general-purpose distillation framework for lightweight, high-performance distillation</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-10_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-07-07_02-20</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
