@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aidi.202500063" target="_blank" rel="noopener noreferrer"><strong>CrossMatAgent: AI-Assisted Design of Manufacturable Metamaterial Patterns via Multi-Agent Generative Framework</strong></a>
+  <a href="https://eu.36kr.com/en/p/3547942320025479" target="_blank" rel="noopener noreferrer"><strong>Top Strategies for Preparing Your Data for Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-16_00-48</em></p>
+<p align="center"><em>📅 Published: 2025-11-11_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
