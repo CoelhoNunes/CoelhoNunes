@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.eweek.com/artificial-intelligence/best-large-language-models/" target="_blank" rel="noopener noreferrer"><strong>9 Best Large Language Models (2025) For Your Tech Stack</strong></a>
+  <a href="https://itbrief.com.au/story/teradata-scales-enterprise-ai-deployments-across-sectors" target="_blank" rel="noopener noreferrer"><strong>Teradata scales enterprise AI deployments across sectors</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-08_02-26</em></p>
+<p align="center"><em>📅 Published: 2026-01-14_02-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
