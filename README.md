@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/d41586-025-01586-y" target="_blank" rel="noopener noreferrer"><strong>I told AI to make me a protein. Here’s what it came up with</strong></a>
+  <a href="https://www.marktechpost.com/2026/02/22/forget-keyword-imitation-bytedance-ai-maps-molecular-bonds-in-ai-reasoning-to-stabilize-long-chain-of-thought-performance-and-reinforcement-learning-rl-training/" target="_blank" rel="noopener noreferrer"><strong>Forget Keyword Imitation: ByteDance AI Maps Molecular Bonds in AI Reasoning to Stabilize Long Chain-of-Thought Performance and Reinforcement Learning (RL) Training</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-26_02-07</em></p>
+<p align="center"><em>📅 Published: 2026-02-25_00-49</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
