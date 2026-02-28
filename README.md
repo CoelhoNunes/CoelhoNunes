@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2026/02/22/forget-keyword-imitation-bytedance-ai-maps-molecular-bonds-in-ai-reasoning-to-stabilize-long-chain-of-thought-performance-and-reinforcement-learning-rl-training/" target="_blank" rel="noopener noreferrer"><strong>Forget Keyword Imitation: ByteDance AI Maps Molecular Bonds in AI Reasoning to Stabilize Long Chain-of-Thought Performance and Reinforcement Learning (RL) Training</strong></a>
+  <a href="https://pubs.rsna.org/doi/10.1148/radiol.241516" target="_blank" rel="noopener noreferrer"><strong>Best Practices for the Safe Use of Large Language Models and Other Generative AI in Radiology</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-25_00-49</em></p>
+<p align="center"><em>📅 Published: 2025-10-10_01-55</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
