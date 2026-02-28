@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://currentaffairs.adda247.com/google-vs-baidu-the-battle-for-ai-supremacy-between-west-and-east/" target="_blank" rel="noopener noreferrer"><strong>Google vs Baidu: The Battle for AI Supremacy Between West and East</strong></a>
+  <a href="https://www.netguru.com/blog/crash-course-introduction-to-ai-fundamentals" target="_blank" rel="noopener noreferrer"><strong>Non-Technical Introduction to AI Fundamentals</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-21_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
