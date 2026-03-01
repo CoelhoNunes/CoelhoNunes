@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techxplore.com/news/2025-05-ai-technique-large-language.html" target="_blank" rel="noopener noreferrer"><strong>Steering AI: New technique offers more control over large language models</strong></a>
+  <a href="https://www.oracle.com/in/artificial-intelligence/natural-language-processing/" target="_blank" rel="noopener noreferrer"><strong>Natural Language Processing: How Machines Read and Write</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-20_08-40</em></p>
+<p align="center"><em>📅 Published: 2025-11-30_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
