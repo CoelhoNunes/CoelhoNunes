@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/in/artificial-intelligence/natural-language-processing/" target="_blank" rel="noopener noreferrer"><strong>Natural Language Processing: How Machines Read and Write</strong></a>
+  <a href="https://techcrunch.com/2025/05/20/google-updates-the-gemini-app-with-real-time-ai-video-deep-research-and-more/" target="_blank" rel="noopener noreferrer"><strong>Google updates the Gemini app with real-time AI video, Deep Research, and more</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-30_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-05-26_02-20</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
