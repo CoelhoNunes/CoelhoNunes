@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://pubs.rsna.org/doi/10.1148/radiol.241516" target="_blank" rel="noopener noreferrer"><strong>Best Practices for the Safe Use of Large Language Models and Other Generative AI in Radiology</strong></a>
+  <a href="https://www.mtu.edu/computing/ai/" target="_blank" rel="noopener noreferrer"><strong>What is Artificial intelligence (AI)?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-10_01-55</em></p>
+<p align="center"><em>📅 Published: 2025-08-18_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
