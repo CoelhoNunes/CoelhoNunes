@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.mtu.edu/computing/ai/" target="_blank" rel="noopener noreferrer"><strong>What is Artificial intelligence (AI)?</strong></a>
+  <a href="https://techxplore.com/news/2025-05-ai-technique-large-language.html" target="_blank" rel="noopener noreferrer"><strong>Steering AI: New technique offers more control over large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-18_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-05-20_08-40</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
