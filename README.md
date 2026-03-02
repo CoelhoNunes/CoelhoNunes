@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://vocal.media/futurism/the-mind-of-the-machine-inside-the-world-of-generative-ai" target="_blank" rel="noopener noreferrer"><strong>The Mind of the Machine: Inside the World of Generative AI</strong></a>
+  <a href="https://www.technology.org/2025/11/14/teaching-large-language-models-how-to-absorb-new-knowledge/" target="_blank" rel="noopener noreferrer"><strong>Teaching large language models how to absorb new knowledge</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-01_00-52</em></p>
+<p align="center"><em>📅 Published: 2025-11-15_01-59</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
