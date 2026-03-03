@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/d41586-025-03713-1" target="_blank" rel="noopener noreferrer"><strong>Google DeepMind won a Nobel prize for AI: can it produce the next big breakthrough?</strong></a>
+  <a href="https://www.nature.com/articles/d41586-025-03542-2" target="_blank" rel="noopener noreferrer"><strong>Too much social media gives AI chatbots ‘brain rot’</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-08_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-11-26_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
