@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.sciencedirect.com/science/article/pii/S2161831325000341" target="_blank" rel="noopener noreferrer"><strong>A Scoping Review of Artificial Intelligence for Precision Nutrition</strong></a>
+  <a href="https://markets.financialcontent.com/stocks/article/tokenring-2025-11-5-capital-one-and-uva-engineering-forge-45-million-ai-research-alliance-to-reshape-fintech-future" target="_blank" rel="noopener noreferrer"><strong>Capital One and UVA Engineering Forge $4.5 Million AI Research Alliance to Reshape FinTech Future</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-03_02-34</em></p>
+<p align="center"><em>📅 Published: 2025-11-06_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
