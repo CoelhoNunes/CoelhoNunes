@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://vocal.media/01/ai-development-services-everything-businesses-need-to-know" target="_blank" rel="noopener noreferrer"><strong>AI Development Services: Everything Businesses Need to Know</strong></a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S2161831325000341" target="_blank" rel="noopener noreferrer"><strong>A Scoping Review of Artificial Intelligence for Precision Nutrition</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-25_00-49</em></p>
+<p align="center"><em>📅 Published: 2025-08-03_02-34</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
