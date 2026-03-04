@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.universityworldnews.com/post.php?story=20250613103432154" target="_blank" rel="noopener noreferrer"><strong>MBZUAI – World’s first AI university is all about the future</strong></a>
+  <a href="https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/" target="_blank" rel="noopener noreferrer"><strong>VaultGemma: The world's most capable differentially private LLM</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-16_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-11-16_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
