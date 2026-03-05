@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://quantumzeitgeist.com/reinforcement-learning-ai-achieves-breakthrough-reasoning/" target="_blank" rel="noopener noreferrer"><strong>Reinforcement Learning Achieves Breakthrough In Reasoning AI</strong></a>
+  <a href="https://militaryembedded.com/ai/machine-learning/artificial-intelligence-pact-signed-between-afwerx-and-arize-ai" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence pact signed between AFWERX and Arize AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-13_01-46</em></p>
+<p align="center"><em>📅 Published: 2025-08-14_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
