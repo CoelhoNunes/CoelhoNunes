@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://militaryembedded.com/ai/machine-learning/artificial-intelligence-pact-signed-between-afwerx-and-arize-ai" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence pact signed between AFWERX and Arize AI</strong></a>
+  <a href="https://www.nature.com/articles/s41467-025-59636-y" target="_blank" rel="noopener noreferrer"><strong>Exploration of crystal chemical space using text-guided generative artificial intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-14_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-10-23_01-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
