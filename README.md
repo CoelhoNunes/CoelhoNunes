@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s42256-024-00963-y" target="_blank" rel="noopener noreferrer"><strong>Visual cognition in multimodal large language models</strong></a>
+  <a href="https://quantumzeitgeist.com/reinforcement-learning-ai-achieves-breakthrough-reasoning/" target="_blank" rel="noopener noreferrer"><strong>Reinforcement Learning Achieves Breakthrough In Reasoning AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-08_16-37</em></p>
+<p align="center"><em>📅 Published: 2025-09-13_01-46</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
