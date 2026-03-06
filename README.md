@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-10-6-the-ai-revolution-reshaping-the-tech-workforce-with-layoffs-reassignments-and-a-new-era-of-skills" target="_blank" rel="noopener noreferrer"><strong>The AI Revolution: Reshaping the Tech Workforce with Layoffs, Reassignments, and a New Era of Skills</strong></a>
+  <a href="https://hai.stanford.edu/research/how-persuasive-is-ai-generated-propaganda" target="_blank" rel="noopener noreferrer"><strong>How Persuasive Is AI-generated Propaganda?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-07_01-53</em></p>
+<p align="center"><em>📅 Published: 2025-06-08_16-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
