@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41405-025-00338-4" target="_blank" rel="noopener noreferrer"><strong>Transforming education: tackling the two sigma problem with AI in journal clubs – a proof of concept</strong></a>
+  <a href="https://www.webpronews.com/javas-quiet-ai-revolution-how-a-30-year-old-language-is-powering-the-next-wave-of-enterprise-machine-learning/" target="_blank" rel="noopener noreferrer"><strong>Java's Quiet AI Revolution: How a 30-Year-Old Language Is Powering the Next Wave of Enterprise Machine Learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-25_00-49</em></p>
+<p align="center"><em>📅 Published: 2026-02-12_00-47</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
