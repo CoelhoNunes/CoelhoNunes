@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://deepmind.google/discover/blog/aeneas-transforms-how-historians-connect-the-past/" target="_blank" rel="noopener noreferrer"><strong>Aeneas transforms how historians connect the past</strong></a>
+  <a href="https://technologymagazine.com/news/nvidias-new-tools-accelerate-custom-ai-model-development" target="_blank" rel="noopener noreferrer"><strong>Nvidia’s New Tools Accelerate Custom AI Model Development</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-03_02-07</em></p>
+<p align="center"><em>📅 Published: 2026-01-22_00-40</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
