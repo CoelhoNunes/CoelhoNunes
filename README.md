@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://technologymagazine.com/news/nvidias-new-tools-accelerate-custom-ai-model-development" target="_blank" rel="noopener noreferrer"><strong>Nvidia’s New Tools Accelerate Custom AI Model Development</strong></a>
+  <a href="https://www.nature.com/articles/s41405-025-00338-4" target="_blank" rel="noopener noreferrer"><strong>Transforming education: tackling the two sigma problem with AI in journal clubs – a proof of concept</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-22_00-40</em></p>
+<p align="center"><em>📅 Published: 2026-02-25_00-49</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
