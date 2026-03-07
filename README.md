@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/fine-tune-large-language-models-with-reinforcement-learning-from-human-or-ai-feedback/" target="_blank" rel="noopener noreferrer"><strong>Fine-tune large language models with reinforcement learning from human or AI feedback</strong></a>
+  <a href="https://nerdbot.com/2026/01/15/top-generative-ai-course-in-chennai-with-live-projects-placement-support/" target="_blank" rel="noopener noreferrer"><strong>Top Generative AI Course in Chennai with Live Projects & Placement Support</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_16-18</em></p>
+<p align="center"><em>📅 Published: 2026-01-16_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
