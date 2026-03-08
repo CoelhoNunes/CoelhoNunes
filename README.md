@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.sciencedirect.com/science/article/pii/S2090123225001092" target="_blank" rel="noopener noreferrer"><strong>AI-enabled language models (LMs) to large language models (LLMs) and multimodal large language models (MLLMs) in drug discovery and development</strong></a>
+  <a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/stories/llms-across-industries" target="_blank" rel="noopener noreferrer"><strong>LLMs Across Industries: Recent Research on Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-28_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-07-08_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
