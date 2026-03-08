@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.kdnuggets.com/5-cutting-edge-automl-techniques-to-watch-in-2026" target="_blank" rel="noopener noreferrer"><strong>5 Cutting-Edge AutoML Techniques to Watch in 2026</strong></a>
+  <a href="https://huggingface.co/CompVis/stable-diffusion-v1-4" target="_blank" rel="noopener noreferrer"><strong>CompVis/stable-diffusion-v1-4</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-10_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-05-18_17-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
