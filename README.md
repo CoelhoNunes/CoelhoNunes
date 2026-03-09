@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://learn.g2.com/large-language-models" target="_blank" rel="noopener noreferrer"><strong>What are Large Language Models (LLMs)? Examples Included</strong></a>
+  <a href="https://aithority.com/machine-learning/nota-ai-signs-exaone-commercialization-partnership-with-lg-ai-research-to-accelerate-llm-adoption-through-ai-model-compression-technology/" target="_blank" rel="noopener noreferrer"><strong>Nota AI Signs EXAONE Commercialization Partnership with LG AI Research to Accelerate LLM Adoption Through AI Model Compression Technology</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-16_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-12-12_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
