@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-10-27-ai-accelerates-automotive-remarketing-a-revolution-in-efficiency-pricing-and-personalization" target="_blank" rel="noopener noreferrer"><strong>AI Accelerates Automotive Remarketing: A Revolution in Efficiency, Pricing, and Personalization</strong></a>
+  <a href="https://www.nature.com/articles/s41598-024-81370-6" target="_blank" rel="noopener noreferrer"><strong>Use of large language models as artificial intelligence tools in academic research and publishing among global clinical researchers</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-29_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-09-29_01-58</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
