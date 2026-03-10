@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/enhance-ai-agents-using-predictive-ml-models-with-amazon-sagemaker-ai-and-model-context-protocol-mcp/" target="_blank" rel="noopener noreferrer"><strong>Enhance AI agents using predictive ML models with Amazon SageMaker AI and Model Context Protocol (MCP)</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1653728/full" target="_blank" rel="noopener noreferrer"><strong>Leveraging Pre-trained Embeddings in an Ensemble Machine Learning Approach for Arabic Sentiment Analysis</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-24_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-09-06_01-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
