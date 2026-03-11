@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://vocal.media/futurism/large-language-model-llm-market-to-reach-usd-82-1-billion-by-2033" target="_blank" rel="noopener noreferrer"><strong>Large Language Model (LLM) Market to Reach USD 82.1 Billion by 2033</strong></a>
+  <a href="https://medium.datadriveninvestor.com/why-machine-learning-challenges-still-matter-in-the-age-of-generative-ai-42cd3c90dd15" target="_blank" rel="noopener noreferrer"><strong>Why Machine Learning Challenges Still Matter in the Age of Generative AI | by Angelica Lo Duca | Aug, 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-07_00-44</em></p>
+<p align="center"><em>📅 Published: 2025-08-25_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
