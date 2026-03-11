@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-024-81370-6" target="_blank" rel="noopener noreferrer"><strong>Use of large language models as artificial intelligence tools in academic research and publishing among global clinical researchers</strong></a>
+  <a href="https://eu.36kr.com/en/p/3443427116389764" target="_blank" rel="noopener noreferrer"><strong>Google's Nano Banana has gone viral across the entire internet. Let's uncover the team behind it.</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-29_01-58</em></p>
+<p align="center"><em>📅 Published: 2025-09-02_01-59</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
