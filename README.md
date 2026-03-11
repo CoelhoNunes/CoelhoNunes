@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/09/17/ibm-ai-releases-granite-docling-258m-an-open-source-enterprise-ready-document-ai-model/" target="_blank" rel="noopener noreferrer"><strong>IBM AI Releases Granite-Docling-258M: An Open-Source, Enterprise-Ready Document AI Model</strong></a>
+  <a href="https://www.etvbharat.com/en/technology/google-introduces-hope-a-new-ai-model-that-promotes-continual-learning-enn25111003618" target="_blank" rel="noopener noreferrer"><strong>Google Introduces HOPE, A New AI Model That Promotes Continual Learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-18_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-11-11_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
