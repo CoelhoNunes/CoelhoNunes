@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-10-4-ai-revolutionizes-wall-street-human-ai-synergy-in-financial-analysis" target="_blank" rel="noopener noreferrer"><strong>AI Revolutionizes Wall Street: Human-AI Synergy in Financial Analysis</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1691468/full" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence adoption and corporate ESG performance: evidence from a refined large language model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-05_02-03</em></p>
+<p align="center"><em>📅 Published: 2026-01-12_02-26</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
