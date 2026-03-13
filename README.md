@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://eu.36kr.com/en/p/3606454820996104" target="_blank" rel="noopener noreferrer"><strong>AI Guru Andrej Karpathy Unveils 2025 Annual Summary: LLMs Step into New Era of "Ghost Intelligence" and "Ambient Programming"</strong></a>
+  <a href="https://machinelearning.apple.com/research/efficient-and-effective" target="_blank" rel="noopener noreferrer"><strong>Efficient and Effective Uncertainty Quantification in LLMs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-23_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-06-01_08-36</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
