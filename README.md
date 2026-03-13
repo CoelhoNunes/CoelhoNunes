@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/efficient-and-effective" target="_blank" rel="noopener noreferrer"><strong>Efficient and Effective Uncertainty Quantification in LLMs</strong></a>
+  <a href="https://machinelearning.apple.com/highlights" target="_blank" rel="noopener noreferrer"><strong>Research Highlights</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-01_08-36</em></p>
+<p align="center"><em>📅 Published: 2025-07-29_02-33</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
