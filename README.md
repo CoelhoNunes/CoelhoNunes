@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ama-assn.org/membership/continuing-medical-education-cme-online/doctors-use-ai-dramatically-here-s-cme-they-need" target="_blank" rel="noopener noreferrer"><strong>Doctors’ use of AI up dramatically. Here’s the CME they need.</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/how-formula-1-uses-generative-ai-to-accelerate-race-day-issue-resolution/" target="_blank" rel="noopener noreferrer"><strong>How Formula 1® uses generative AI to accelerate race-day issue resolution</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-15_00-50</em></p>
+<p align="center"><em>📅 Published: 2025-05-29_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
