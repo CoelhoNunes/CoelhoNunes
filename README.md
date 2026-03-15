@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://semiengineering.com/a-review-of-acoustic-side-channel-attacks-an-ai-view-penn-state-univ/" target="_blank" rel="noopener noreferrer"><strong>A Review Of Acoustic Side-Channel Attacks: An AI View (Penn State Univ.)</strong></a>
+  <a href="https://www.nature.com/articles/s41467-025-60014-x" target="_blank" rel="noopener noreferrer"><strong>Generating dermatopathology reports from gigapixel whole slide images with HistoGPT</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-07_02-13</em></p>
+<p align="center"><em>📅 Published: 2026-02-23_00-48</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
