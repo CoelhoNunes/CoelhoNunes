@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.miragenews.com/ai-emerges-as-new-language-in-kaist-materials-1558039/" target="_blank" rel="noopener noreferrer"><strong>AI Emerges as New Language in KAIST Materials Science</strong></a>
+  <a href="https://news.mit.edu/2025/cost-of-thinking-1119" target="_blank" rel="noopener noreferrer"><strong>The cost of thinking</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-27_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-12-29_02-27</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
