@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41746-025-01982-8" target="_blank" rel="noopener noreferrer"><strong>Using a fine-tuned large language model for symptom-based depression evaluation | npj Digital Medicine</strong></a>
+  <a href="https://www.chemistryworld.com/news/ai-research-tools-benefit-individual-scientists-but-may-slow-scientific-progress/4022803.article" target="_blank" rel="noopener noreferrer"><strong>AI research tools benefit individual scientists but may slow scientific progress</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-06_00-49</em></p>
+<p align="center"><em>📅 Published: 2026-01-24_00-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
