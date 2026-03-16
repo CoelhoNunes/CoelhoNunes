@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/separating-intelligence" target="_blank" rel="noopener noreferrer"><strong>On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment</strong></a>
+  <a href="https://www.telecomreviewafrica.com/articles/reports-and-coverage/13461-artificial-intelligence-in-telecoms-beyond-the-hype/" target="_blank" rel="noopener noreferrer"><strong>Artificial Intelligence in Telecoms Beyond the Hype</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-05_00-47</em></p>
+<p align="center"><em>📅 Published: 2025-12-11_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
