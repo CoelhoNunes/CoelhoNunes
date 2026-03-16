@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.chemistryworld.com/news/ai-research-tools-benefit-individual-scientists-but-may-slow-scientific-progress/4022803.article" target="_blank" rel="noopener noreferrer"><strong>AI research tools benefit individual scientists but may slow scientific progress</strong></a>
+  <a href="https://machinelearning.apple.com/research/separating-intelligence" target="_blank" rel="noopener noreferrer"><strong>On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-24_00-38</em></p>
+<p align="center"><em>📅 Published: 2026-03-05_00-47</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
