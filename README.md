@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.zmescience.com/science/news-science/polish-effective-prompting-ai/" target="_blank" rel="noopener noreferrer"><strong>Polish May Be the Most Effective Language to Prompt AI, According to New Study</strong></a>
+  <a href="https://www.nature.com/articles/s41746-025-01982-8" target="_blank" rel="noopener noreferrer"><strong>Using a fine-tuned large language model for symptom-based depression evaluation | npj Digital Medicine</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-16_02-09</em></p>
+<p align="center"><em>📅 Published: 2026-03-06_00-49</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
