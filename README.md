@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/africa/artificial-intelligence/natural-language-processing/" target="_blank" rel="noopener noreferrer"><strong>Natural Language Processing: How Machines Read and Write</strong></a>
+  <a href="https://tech.yahoo.com/ai/articles/best-free-online-classes-level-143220968.html" target="_blank" rel="noopener noreferrer"><strong>Become an AI Expert (or at Least Come Close) With Our Favorite Free Classes</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-01_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_16-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
