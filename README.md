@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.cpajournal.com/2025/08/25/the-next-chapter-of-ai-empowerment/" target="_blank" rel="noopener noreferrer"><strong>The Next Chapter of AI Empowerment</strong></a>
+  <a href="https://www.manilatimes.net/2026/01/15/campus-press/integrating-ai-in-education/2258668" target="_blank" rel="noopener noreferrer"><strong>Integrating AI in education</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-26_02-01</em></p>
+<p align="center"><em>📅 Published: 2026-01-15_02-14</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
