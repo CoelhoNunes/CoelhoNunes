@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nytimes.com/2025/09/03/opinion/ai-gpt5-rethinking.html" target="_blank" rel="noopener noreferrer"><strong>Opinion | How to Rethink A.I.</strong></a>
+  <a href="https://www.bis.org/fsi/fsipapers24.htm" target="_blank" rel="noopener noreferrer"><strong>Managing explanations: how regulators can address AI explainability</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-04_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-12-18_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
