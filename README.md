@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.bis.org/fsi/fsipapers24.htm" target="_blank" rel="noopener noreferrer"><strong>Managing explanations: how regulators can address AI explainability</strong></a>
+  <a href="https://techcrunch.com/2025/05/23/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/" target="_blank" rel="noopener noreferrer"><strong>What is Mistral AI? Everything to know about the OpenAI competitor</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-18_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-05-26_02-20</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
