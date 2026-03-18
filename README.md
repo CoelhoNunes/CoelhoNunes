@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.manilatimes.net/2026/01/15/campus-press/integrating-ai-in-education/2258668" target="_blank" rel="noopener noreferrer"><strong>Integrating AI in education</strong></a>
+  <a href="https://news.harvard.edu/gazette/story/2025/07/does-ai-understand/" target="_blank" rel="noopener noreferrer"><strong>Does AI understand?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-15_02-14</em></p>
+<p align="center"><em>📅 Published: 2026-01-21_02-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
