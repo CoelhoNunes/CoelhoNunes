@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nsf.gov/focus-areas/ai" target="_blank" rel="noopener noreferrer"><strong>Artificial Intelligence</strong></a>
+  <a href="https://www.nature.com/articles/s41597-025-05518-3" target="_blank" rel="noopener noreferrer"><strong>A Global Dataset Mapping the AI Innovation from Academic Research to Industrial Patents</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-04_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-11-03_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
