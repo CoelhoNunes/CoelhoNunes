@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/build-an-agentic-solution-with-amazon-nova-snowflake-and-langgraph/" target="_blank" rel="noopener noreferrer"><strong>Build an agentic solution with Amazon Nova, Snowflake, and LangGraph</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/fine-tune-large-language-models-with-reinforcement-learning-from-human-or-ai-feedback/" target="_blank" rel="noopener noreferrer"><strong>Fine-tune large language models with reinforcement learning from human or AI feedback</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-23_02-23</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_16-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
