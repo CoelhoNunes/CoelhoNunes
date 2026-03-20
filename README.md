@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.etvbharat.com/en/technology/google-introduces-hope-a-new-ai-model-that-promotes-continual-learning-enn25111003618" target="_blank" rel="noopener noreferrer"><strong>Google Introduces HOPE, A New AI Model That Promotes Continual Learning</strong></a>
+  <a href="https://www.nature.com/articles/d41586-025-01753-1" target="_blank" rel="noopener noreferrer"><strong>Exclusive: Start-up FutureHouse debuts powerful AI ‘reasoning model’ for science</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-11_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-06-16_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
