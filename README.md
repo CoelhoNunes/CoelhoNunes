@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nytimes.com/2025/09/03/opinion/ai-gpt5-rethinking.html" target="_blank" rel="noopener noreferrer"><strong>Opinion | How to Rethink A.I.</strong></a>
+  <a href="https://www.techtarget.com/whatis/feature/AI-lawsuits-explained-Whos-getting-sued" target="_blank" rel="noopener noreferrer"><strong>AI lawsuits explained: Who's getting sued?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-04_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-06-22_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
