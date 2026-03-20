@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://deepmind.google/blog/aeneas-transforms-how-historians-connect-the-past/" target="_blank" rel="noopener noreferrer"><strong>Aeneas transforms how historians connect the past</strong></a>
+  <a href="https://www.nytimes.com/2025/09/03/opinion/ai-gpt5-rethinking.html" target="_blank" rel="noopener noreferrer"><strong>Opinion | How to Rethink A.I.</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-17_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-09-04_01-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
