@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.openpr.com/news/4303065/2025-2034-large-language-model-llm-observability-platform" target="_blank" rel="noopener noreferrer"><strong>2025-2034 Large Language Model (LLM) Observability Platform</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/bringing-agentic-retrieval-augmented-generation-to-amazon-q-business/" target="_blank" rel="noopener noreferrer"><strong>Bringing agentic Retrieval Augmented Generation to Amazon Q Business</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-06_02-01</em></p>
+<p align="center"><em>📅 Published: 2025-08-23_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
