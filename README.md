@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41746-025-01830-9" target="_blank" rel="noopener noreferrer"><strong>Evaluation of performance of generative large language models for stroke care</strong></a>
+  <a href="https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html" target="_blank" rel="noopener noreferrer"><strong>Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-11_01-55</em></p>
+<p align="center"><em>📅 Published: 2026-02-05_00-47</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
