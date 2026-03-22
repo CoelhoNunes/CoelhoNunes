@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/bringing-agentic-retrieval-augmented-generation-to-amazon-q-business/" target="_blank" rel="noopener noreferrer"><strong>Bringing agentic Retrieval Augmented Generation to Amazon Q Business</strong></a>
+  <a href="https://www.nature.com/articles/s41746-025-01830-9" target="_blank" rel="noopener noreferrer"><strong>Evaluation of performance of generative large language models for stroke care</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-23_01-56</em></p>
+<p align="center"><em>📅 Published: 2025-09-11_01-55</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
