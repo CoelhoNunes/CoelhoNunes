@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://research.aimultiple.com/large-language-models-examples/" target="_blank" rel="noopener noreferrer"><strong>10+ Large Language Model Examples & Benchmark in 2026</strong></a>
+  <a href="https://news.mit.edu/2025/can-large-language-models-figure-out-real-world-0825" target="_blank" rel="noopener noreferrer"><strong>Can large language models figure out the real world?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-16_00-48</em></p>
+<p align="center"><em>📅 Published: 2026-01-05_02-30</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
