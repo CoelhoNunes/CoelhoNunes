@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://quantumzeitgeist.com/anaflow-agentic-llm-framework-enables-sample-efficient-explainable/" target="_blank" rel="noopener noreferrer"><strong>Anaflow: Agentic LLM Framework Enables Sample-Efficient, Explainable Analog Circuit Sizing</strong></a>
+  <a href="https://www.nature.com/articles/s41746-025-01649-4" target="_blank" rel="noopener noreferrer"><strong>Multimodal generative AI for interpreting 3D medical images and videos</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-12_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
