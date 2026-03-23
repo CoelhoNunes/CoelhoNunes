@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.mit.edu/2025/can-large-language-models-figure-out-real-world-0825" target="_blank" rel="noopener noreferrer"><strong>Can large language models figure out the real world?</strong></a>
+  <a href="https://quantumzeitgeist.com/anaflow-agentic-llm-framework-enables-sample-efficient-explainable/" target="_blank" rel="noopener noreferrer"><strong>Anaflow: Agentic LLM Framework Enables Sample-Efficient, Explainable Analog Circuit Sizing</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-05_02-30</em></p>
+<p align="center"><em>📅 Published: 2025-11-12_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
