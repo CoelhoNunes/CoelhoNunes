@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://dataconomy.com/2025/09/11/tml-defeating-nondeterminism-in-llm-inference/" target="_blank" rel="noopener noreferrer"><strong>Thinking Machines Lab Reveals Research On Eliminating Randomness In AI Model Responses</strong></a>
+  <a href="https://technologymagazine.com/news/how-alibabas-quark-ai-glasses-take-on-meta-in-wearables" target="_blank" rel="noopener noreferrer"><strong>Do Alibaba Quark AI Glasses Rival Meta’s Dominance?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-12_01-50</em></p>
+<p align="center"><em>📅 Published: 2025-11-28_02-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
