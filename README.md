@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/how-ai-is-rewriting-the-day-to-day-of-data-scientists/" target="_blank" rel="noopener noreferrer"><strong>How AI Is Rewriting the Day-to-Day of Data Scientists</strong></a>
+  <a href="https://ai-scholar.tech/en/articles/llm-paper%2Fdicow-diarizen" target="_blank" rel="noopener noreferrer"><strong>A New Wave of Multispeaker Speech Recognition! The Challenge of High Accuracy Systems by DiCoW and DiariZen</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-02_00-47</em></p>
+<p align="center"><em>📅 Published: 2025-07-07_02-20</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
