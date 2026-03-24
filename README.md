@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://quantumzeitgeist.com/3-percent-ai-decodes-metasurface-genome-achieving-precision-meta-gpt-technology/" target="_blank" rel="noopener noreferrer"><strong>AI Decodes Metasurface Genome, Achieving 3% Precision With Meta-GPT Technology</strong></a>
+  <a href="https://www.marktechpost.com/2025/11/01/anthropics-new-research-shows-claude-can-detect-injected-concepts-but-only-in-controlled-layers/?amp" target="_blank" rel="noopener noreferrer"><strong>Anthropic's New Research Shows Claude can Detect Injected Concepts, but only in Controlled Layers</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-17_02-06</em></p>
+<p align="center"><em>📅 Published: 2025-11-02_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
