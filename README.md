@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/11/01/anthropics-new-research-shows-claude-can-detect-injected-concepts-but-only-in-controlled-layers/?amp" target="_blank" rel="noopener noreferrer"><strong>Anthropic's New Research Shows Claude can Detect Injected Concepts, but only in Controlled Layers</strong></a>
+  <a href="https://www.stocktitan.net/news/WIMI/wi-mi-explores-quantum-algorithms-for-large-scale-machine-learning-bb03pkp5laui.html" target="_blank" rel="noopener noreferrer"><strong>WiMi's Revolutionary Quantum Algorithm Promises to Transform AI Model Training Efficiency</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-02_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-08-08_02-26</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
