@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41746-025-01649-4" target="_blank" rel="noopener noreferrer"><strong>Multimodal generative AI for interpreting 3D medical images and videos</strong></a>
+  <a href="https://quantumzeitgeist.com/3-percent-ai-decodes-metasurface-genome-achieving-precision-meta-gpt-technology/" target="_blank" rel="noopener noreferrer"><strong>AI Decodes Metasurface Genome, Achieving 3% Precision With Meta-GPT Technology</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-05</em></p>
+<p align="center"><em>📅 Published: 2025-12-17_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
