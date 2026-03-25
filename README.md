@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-and-generative-ai-what-are-they-good-for" target="_blank" rel="noopener noreferrer"><strong>Machine learning and generative AI: What are they good for in 2025?</strong></a>
+  <a href="https://www.thomsonreuters.com/en/insights/articles/agentic-ai-vs-generative-ai-the-core-differences" target="_blank" rel="noopener noreferrer"><strong>Agentic AI vs. generative AI: The core differences</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_16-41</em></p>
+<p align="center"><em>📅 Published: 2025-12-28_02-29</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
