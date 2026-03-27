@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/32607962/cerence-ai-partners-with-arm-to-deliver-enhanced-llm-capabilities-at-the-edge/" target="_blank" rel="noopener noreferrer"><strong>Cerence AI Partners with Arm to Deliver Enhanced LLM Capabilities at the Edge</strong></a>
+  <a href="https://www.miragenews.com/ai-cracks-plant-dna-revolutionizing-genomics-1470109/" target="_blank" rel="noopener noreferrer"><strong>AI Cracks Plant DNA: Revolutionizing Genomics & Farming</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-28_16-38</em></p>
+<p align="center"><em>📅 Published: 2025-06-01_08-36</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
