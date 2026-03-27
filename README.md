@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.miragenews.com/ai-cracks-plant-dna-revolutionizing-genomics-1470109/" target="_blank" rel="noopener noreferrer"><strong>AI Cracks Plant DNA: Revolutionizing Genomics & Farming</strong></a>
+  <a href="https://artgor.medium.com/paper-review-prorl-prolonged-reinforcement-learning-expands-reasoning-boundaries-in-large-10693a70ac55" target="_blank" rel="noopener noreferrer"><strong>Paper Review: ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large…</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-01_08-36</em></p>
+<p align="center"><em>📅 Published: 2025-07-02_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
