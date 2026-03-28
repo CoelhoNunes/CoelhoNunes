@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://artgor.medium.com/paper-review-prorl-prolonged-reinforcement-learning-expands-reasoning-boundaries-in-large-10693a70ac55" target="_blank" rel="noopener noreferrer"><strong>Paper Review: ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large…</strong></a>
+  <a href="https://news.mit.edu/2025/ai-system-learns-many-types-scientific-information-and-runs-experiments-discovering-new-materials-0925" target="_blank" rel="noopener noreferrer"><strong>AI system learns from many types of scientific information and runs experiments to discover new materials</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-02_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-12-14_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
