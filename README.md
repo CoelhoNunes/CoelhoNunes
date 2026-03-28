@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.mit.edu/2025/ai-system-learns-many-types-scientific-information-and-runs-experiments-discovering-new-materials-0925" target="_blank" rel="noopener noreferrer"><strong>AI system learns from many types of scientific information and runs experiments to discover new materials</strong></a>
+  <a href="https://www.infoworld.com/article/2336757/16-open-source-projects-transforming-ai-and-machine-learning.html" target="_blank" rel="noopener noreferrer"><strong>16 open source projects transforming AI and machine learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-14_02-23</em></p>
+<p align="center"><em>📅 Published: 2026-01-30_17-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
