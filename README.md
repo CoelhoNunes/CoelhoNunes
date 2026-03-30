@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.itvoice.in/apple-reportedly-building-ai-powered-answer-engine-amid-search-strategy-shifts" target="_blank" rel="noopener noreferrer"><strong>Apple Reportedly Building AI-Powered Answer Engine Amid Search Strategy Shifts</strong></a>
+  <a href="https://blog.google/technology/ai/dolphingemma/" target="_blank" rel="noopener noreferrer"><strong>DolphinGemma: How Google AI is helping decode dolphin communication</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-05_02-27</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_22-14</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
