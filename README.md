@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://securityboulevard.com/2025/09/python-machine-learning-care-quality-for-developers/" target="_blank" rel="noopener noreferrer"><strong>Python Machine Learning: Care & Quality for Developers</strong></a>
+  <a href="https://www.purdue.edu/newsroom/purduetoday/2025/Q1/purdue-computer-science-phd-student-in-indianapolis-thrives-using-ai-to-model-human-cognition-and-learning" target="_blank" rel="noopener noreferrer"><strong>Purdue computer science PhD student in Indianapolis thrives using AI to model human cognition and learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-28_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-06-04_08-40</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
