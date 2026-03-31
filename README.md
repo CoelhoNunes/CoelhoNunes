@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.niemanlab.org/2025/05/how-this-years-pulitzer-awardees-used-ai-in-their-reporting/" target="_blank" rel="noopener noreferrer"><strong>How this year’s Pulitzer awardees used AI in their reporting</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1558696/full" target="_blank" rel="noopener noreferrer"><strong>Gender and content bias in Large Language Models: a case study on Google Gemini 2.0 Flash Experimental</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-23_02-16</em></p>
+<p align="center"><em>📅 Published: 2025-08-24_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
