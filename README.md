@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/?amp" target="_blank" rel="noopener noreferrer"><strong>Meet 'kvcached': A Machine Learning Library to Enable Virtualized, Elastic KV Cache for LLM Serving on Shared GPUs</strong></a>
+  <a href="https://www.niemanlab.org/2025/05/how-this-years-pulitzer-awardees-used-ai-in-their-reporting/" target="_blank" rel="noopener noreferrer"><strong>How this year’s Pulitzer awardees used AI in their reporting</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-27_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-05-23_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
