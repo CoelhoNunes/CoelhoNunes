@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1558696/full" target="_blank" rel="noopener noreferrer"><strong>Gender and content bias in Large Language Models: a case study on Google Gemini 2.0 Flash Experimental</strong></a>
+  <a href="https://www.businesswire.com/news/home/20250722162521/en/NTT-Researchers-Advance-AI-and-Machine-Learning-Accuracy-Security-and-Cost-Effectiveness-at-ICML-2025" target="_blank" rel="noopener noreferrer"><strong>NTT Researchers Advance AI and Machine Learning Accuracy, Security and Cost Effectiveness at ICML 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-24_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-07-23_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
