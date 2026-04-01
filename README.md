@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.kdnuggets.com/how-transformers-think-the-information-flow-that-makes-language-models-work" target="_blank" rel="noopener noreferrer"><strong>How Transformers Think: The Information Flow That Makes Language Models Work</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-memory-building-context-aware-agents/" target="_blank" rel="noopener noreferrer"><strong>Amazon Bedrock AgentCore Memory: Building context-aware agents | Amazon Web Services</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-04_02-31</em></p>
+<p align="center"><em>📅 Published: 2026-02-15_00-50</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
