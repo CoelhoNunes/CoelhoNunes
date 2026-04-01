@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://itc.ua/en/articles/ai-revolution-in-ukraine-the-ministry-of-digital-transformation-told-about-the-national-llm-and-plans-to-launch-it-by-the-end-of-2025/" target="_blank" rel="noopener noreferrer"><strong>AI revolution in Ukraine: the Ministry of Digital Transformation told about the national LLM and plans to</strong></a>
+  <a href="https://www.kdnuggets.com/how-to-become-an-ai-engineer-in-2026-a-self-study-roadmap" target="_blank" rel="noopener noreferrer"><strong>How to Become an AI Engineer in 2026: A Self-Study Roadmap</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_16-41</em></p>
+<p align="center"><em>📅 Published: 2026-02-05_00-47</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
