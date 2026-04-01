@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.psypost.org/personality-traits-predict-students-use-of-generative-ai-in-higher-education-study-finds/" target="_blank" rel="noopener noreferrer"><strong>Personality traits predict students’ use of generative AI in higher education, study finds</strong></a>
+  <a href="https://www.kdnuggets.com/how-transformers-think-the-information-flow-that-makes-language-models-work" target="_blank" rel="noopener noreferrer"><strong>How Transformers Think: The Information Flow That Makes Language Models Work</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-25_01-55</em></p>
+<p align="center"><em>📅 Published: 2026-01-04_02-31</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
