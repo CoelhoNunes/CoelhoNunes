@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2026/03/02/alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications/" target="_blank" rel="noopener noreferrer"><strong>Alibaba just released Qwen 3.5 Small models: a family of 0.8B to 9B parameters built for on-device applications</strong></a>
+  <a href="https://news.stanford.edu/stories/2025/07/new-cost-effective-way-to-evaluate-AI-language-models" target="_blank" rel="noopener noreferrer"><strong>Evaluating AI language models just got more effective and efficient</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-05_00-47</em></p>
+<p align="center"><em>📅 Published: 2026-01-12_02-26</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
