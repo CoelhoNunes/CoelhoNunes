@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://explodingtopics.com/blog/ai-startups" target="_blank" rel="noopener noreferrer"><strong>60 Growing AI Companies & Startups (2025)</strong></a>
+  <a href="https://www.nature.com/articles/s44172-025-00517-z" target="_blank" rel="noopener noreferrer"><strong>MechRAG: a multimodal large language model for mechanical engineering</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-05_02-27</em></p>
+<p align="center"><em>📅 Published: 2026-01-25_00-45</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
