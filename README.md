@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.newsweek.com/ai-impact-interview-yann-lecun-artificial-intelligence-2054237" target="_blank" rel="noopener noreferrer"><strong>Yann LeCun, a legend in AI, thinks LLMs are nearly obsolete</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/natural-language-based-database-analytics-with-amazon-nova/" target="_blank" rel="noopener noreferrer"><strong>Natural language-based database analytics with Amazon Nova</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-13_02-28</em></p>
+<p align="center"><em>📅 Published: 2025-09-03_01-50</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
