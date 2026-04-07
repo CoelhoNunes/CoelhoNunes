@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://mitsloan.mit.edu/ideas-made-to-matter/new-mit-sloan-courses-focus-deep-learning-generative-ai-and-financial-technology" target="_blank" rel="noopener noreferrer"><strong>New MIT Sloan courses focus on deep learning, generative AI, and financial technology</strong></a>
+  <a href="https://techxplore.com/news/2025-05-architecture-emulates-higher-human-mental.html" target="_blank" rel="noopener noreferrer"><strong>A new transformer architecture emulates imagination and higher-level human mental states</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-01_02-30</em></p>
+<p align="center"><em>📅 Published: 2025-06-08_02-28</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
