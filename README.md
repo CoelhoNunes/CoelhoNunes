@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/natural-language-based-database-analytics-with-amazon-nova/" target="_blank" rel="noopener noreferrer"><strong>Natural language-based database analytics with Amazon Nova</strong></a>
+  <a href="https://mitsloan.mit.edu/ideas-made-to-matter/new-mit-sloan-courses-focus-deep-learning-generative-ai-and-financial-technology" target="_blank" rel="noopener noreferrer"><strong>New MIT Sloan courses focus on deep learning, generative AI, and financial technology</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-03_01-50</em></p>
+<p align="center"><em>📅 Published: 2026-01-01_02-30</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
