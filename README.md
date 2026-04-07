@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techxplore.com/news/2025-05-architecture-emulates-higher-human-mental.html" target="_blank" rel="noopener noreferrer"><strong>A new transformer architecture emulates imagination and higher-level human mental states</strong></a>
+  <a href="https://www.computer.org/csdl/magazine/co/2025/05/10970139/260SnPGehxK" target="_blank" rel="noopener noreferrer"><strong>Evolving AI: What Lies Beyond Today’s Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-08_02-28</em></p>
+<p align="center"><em>📅 Published: 2025-10-27_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
