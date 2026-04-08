@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.bgr.com/2003091/meta-bans-ai-chatbots-chatgpt-from-whatsapp/" target="_blank" rel="noopener noreferrer"><strong>Meta Wants AIs Like ChatGPT Gone From Your WhatsApp Chats</strong></a>
+  <a href="https://www.morgan.edu/news/ceamls-to-test-large-language-model-ai" target="_blank" rel="noopener noreferrer"><strong>Morgan’s Center for Equitable AI and Machine Learning Systems to Test Efficacy and Functionality of New Inclusive Large Language Model AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-22_02-02</em></p>
+<p align="center"><em>📅 Published: 2026-02-24_00-44</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
