@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.thehansindia.com/business/hyderabad-professionals-lead-the-country-in-upskilling-plans-with-90-set-to-acquire-new-technical-skills-in-fy26-finds-great-learning-report-1010627" target="_blank" rel="noopener noreferrer"><strong>Hyderabad Professionals Lead the Country in Upskilling Plans with 90% Set to Acquire New Technical Skills ...</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/bringing-agentic-retrieval-augmented-generation-to-amazon-q-business/" target="_blank" rel="noopener noreferrer"><strong>Bringing agentic Retrieval Augmented Generation to Amazon Q Business</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-30_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-08-23_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
