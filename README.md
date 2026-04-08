@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/bringing-agentic-retrieval-augmented-generation-to-amazon-q-business/" target="_blank" rel="noopener noreferrer"><strong>Bringing agentic Retrieval Augmented Generation to Amazon Q Business</strong></a>
+  <a href="https://www.bgr.com/2003091/meta-bans-ai-chatbots-chatgpt-from-whatsapp/" target="_blank" rel="noopener noreferrer"><strong>Meta Wants AIs Like ChatGPT Gone From Your WhatsApp Chats</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-23_01-56</em></p>
+<p align="center"><em>📅 Published: 2025-10-22_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
