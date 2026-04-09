@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/reducing-hallucinations-in-large-language-models-with-custom-intervention-using-amazon-bedrock-agents/" target="_blank" rel="noopener noreferrer"><strong>Reducing hallucinations in large language models with custom intervention using Amazon Bedrock Agents</strong></a>
+  <a href="https://www.unite.ai/the-many-faces-of-reinforcement-learning-shaping-large-language-models/" target="_blank" rel="noopener noreferrer"><strong>The Many Faces of Reinforcement Learning: Shaping Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-22_02-21</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
