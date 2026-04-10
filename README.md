@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://builtin.com/articles/ai-recruiting-companies" target="_blank" rel="noopener noreferrer"><strong>Top AI Recruiting Companies Driving the Next Hiring Model</strong></a>
+  <a href="https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html" target="_blank" rel="noopener noreferrer"><strong>A language model built for the public good</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-22_01-58</em></p>
+<p align="center"><em>📅 Published: 2025-07-10_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
