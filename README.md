@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.unite.ai/the-many-faces-of-reinforcement-learning-shaping-large-language-models/" target="_blank" rel="noopener noreferrer"><strong>The Many Faces of Reinforcement Learning: Shaping Large Language Models</strong></a>
+  <a href="https://hibiscuscoastapp.nz/NewsStory/ai-job-demand-surges-in-nz/69a0ec1cdf9fa0002d582210" target="_blank" rel="noopener noreferrer"><strong>AI Job Demand Surges In NZ</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_02-23</em></p>
+<p align="center"><em>📅 Published: 2026-02-28_00-41</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
