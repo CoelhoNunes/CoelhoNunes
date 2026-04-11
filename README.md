@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/05/21/meta-researchers-introduced-j1-a-reinforcement-learning-framework-that-trains-language-models-to-judge-with-reasoned-consistency-and-minimal-data/" target="_blank" rel="noopener noreferrer"><strong>Meta Researchers Introduced J1: A Reinforcement Learning Framework That Trains Language Models to Judge With Reasoned Consistency and Minimal Data</strong></a>
+  <a href="https://www.esri.com/about/newsroom/arcnews/why-ai-and-large-language-models-benefit-from-cartography" target="_blank" rel="noopener noreferrer"><strong>Why AI and Large Language Models Benefit from Cartography | Winter 2025 | ArcNews</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-22_02-16</em></p>
+<p align="center"><em>📅 Published: 2025-08-28_01-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
