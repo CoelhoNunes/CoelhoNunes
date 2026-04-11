@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.esri.com/about/newsroom/arcnews/why-ai-and-large-language-models-benefit-from-cartography" target="_blank" rel="noopener noreferrer"><strong>Why AI and Large Language Models Benefit from Cartography | Winter 2025 | ArcNews</strong></a>
+  <a href="https://machinelearning.apple.com/research/semantic-mastery" target="_blank" rel="noopener noreferrer"><strong>Semantic Mastery: Enhancing LLMs with Advanced Natural Language Understanding</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-28_01-57</em></p>
+<p align="center"><em>📅 Published: 2026-02-11_00-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
