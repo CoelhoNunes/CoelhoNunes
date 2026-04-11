@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.bu.edu/cds-faculty/2025/06/02/pacchiano-new-method-adaptive-llms/" target="_blank" rel="noopener noreferrer"><strong>Teaching AI to Personalize: Aldo Pacchiano Introduces a New Method for Adaptive Large Language Models</strong></a>
+  <a href="https://www.mk.co.kr/en/it/11422704" target="_blank" rel="noopener noreferrer"><strong>A research paper on the training method and performance of the large-scale language model (LLM) R1 d..</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-03_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-09-18_01-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
