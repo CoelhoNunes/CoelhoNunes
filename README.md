@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.digitimes.com/news/a20250618PD239/apple-alibaba-partnership-qwen-ai-llm.html" target="_blank" rel="noopener noreferrer"><strong>Apple turns to Alibaba for AI push in China, drawing US concern</strong></a>
+  <a href="https://www.understandingai.org/p/large-language-models-explained-with" target="_blank" rel="noopener noreferrer"><strong>Large language models, explained with a minimum of math and jargon</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-22_02-22</em></p>
+<p align="center"><em>📅 Published: 2026-02-16_00-48</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
