@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.understandingai.org/p/large-language-models-explained-with" target="_blank" rel="noopener noreferrer"><strong>Large language models, explained with a minimum of math and jargon</strong></a>
+  <a href="https://www.nature.com/articles/s41598-025-15501-y" target="_blank" rel="noopener noreferrer"><strong>Intelligent emotion sensing using BERT BiLSTM and generative AI for proactive customer care</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-16_00-48</em></p>
+<p align="center"><em>📅 Published: 2025-10-02_01-53</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
