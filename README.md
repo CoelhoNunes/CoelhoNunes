@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-15501-y" target="_blank" rel="noopener noreferrer"><strong>Intelligent emotion sensing using BERT BiLSTM and generative AI for proactive customer care</strong></a>
+  <a href="https://www.chemistryworld.com/news/ai-agents-set-to-democratise-computational-chemistry/4022465.article" target="_blank" rel="noopener noreferrer"><strong>AI agents set to democratise computational chemistry</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-02_01-53</em></p>
+<p align="center"><em>📅 Published: 2026-01-03_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
