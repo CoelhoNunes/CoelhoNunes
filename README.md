@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://hai.stanford.edu/news/language-models-in-the-classroom-bridging-the-gap-between-technology-and-teaching" target="_blank" rel="noopener noreferrer"><strong>Language Models in the Classroom: Bridging the Gap Between Technology and Teaching</strong></a>
+  <a href="https://today.ucsd.edu/story/is-artificial-general-intelligence-here" target="_blank" rel="noopener noreferrer"><strong>Is Artificial General Intelligence Here?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-27_02-09</em></p>
+<p align="center"><em>📅 Published: 2026-02-06_00-44</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
