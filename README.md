@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.chemistryworld.com/news/ai-agents-set-to-democratise-computational-chemistry/4022465.article" target="_blank" rel="noopener noreferrer"><strong>AI agents set to democratise computational chemistry</strong></a>
+  <a href="https://hai.stanford.edu/news/language-models-in-the-classroom-bridging-the-gap-between-technology-and-teaching" target="_blank" rel="noopener noreferrer"><strong>Language Models in the Classroom: Bridging the Gap Between Technology and Teaching</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-03_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-10-27_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
