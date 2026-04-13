@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://thejournal.com/articles/2025/08/01/presidential-ai-challenge-seeks-innovative-ai-solutions-for-learning-and-community.aspx" target="_blank" rel="noopener noreferrer"><strong>Presidential AI Challenge Seeks Innovative AI Solutions for Learning and Community</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/ebscolearning-scales-assessment-generation-for-their-online-learning-content-with-generative-ai/" target="_blank" rel="noopener noreferrer"><strong>EBSCOlearning scales assessment generation for their online learning content with generative AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-03_02-34</em></p>
+<p align="center"><em>📅 Published: 2025-06-04_08-40</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
