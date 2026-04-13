@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://today.ucsd.edu/story/is-artificial-general-intelligence-here" target="_blank" rel="noopener noreferrer"><strong>Is Artificial General Intelligence Here?</strong></a>
+  <a href="https://iol.co.za/technology/2025-10-12-are-we-facing-a-trillion-dollar-ai-bubble/" target="_blank" rel="noopener noreferrer"><strong>Are we facing a trillion dollar AI bubble?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-06_00-44</em></p>
+<p align="center"><em>📅 Published: 2025-10-13_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
