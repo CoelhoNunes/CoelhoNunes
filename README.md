@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/ebscolearning-scales-assessment-generation-for-their-online-learning-content-with-generative-ai/" target="_blank" rel="noopener noreferrer"><strong>EBSCOlearning scales assessment generation for their online learning content with generative AI</strong></a>
+  <a href="https://techxplore.com/news/2025-06-ai-specialized-chip-language.html" target="_blank" rel="noopener noreferrer"><strong>Engineers create first AI model specialized for chip design language</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_08-40</em></p>
+<p align="center"><em>📅 Published: 2025-06-30_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
