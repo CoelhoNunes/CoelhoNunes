@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/?amp" target="_blank" rel="noopener noreferrer"><strong>Thinking Machines Lab Makes Tinker Generally Available: Adds Kimi K2 Thinking And Qwen3-VL Vision Input</strong></a>
+  <a href="https://indianexpress.com/article/technology/artificial-intelligence/is-grok-4-the-smartest-ai-model-yet-elon-musk-xai-10120394/" target="_blank" rel="noopener noreferrer"><strong>Is Grok 4 the smartest AI model yet? Why Elon Musk’s new model is winning praise</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-18_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-07-12_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
