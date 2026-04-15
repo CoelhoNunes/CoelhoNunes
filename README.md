@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://indianexpress.com/article/technology/artificial-intelligence/is-grok-4-the-smartest-ai-model-yet-elon-musk-xai-10120394/" target="_blank" rel="noopener noreferrer"><strong>Is Grok 4 the smartest AI model yet? Why Elon Musk’s new model is winning praise</strong></a>
+  <a href="https://towardsdatascience.com/implementing-vibe-proving-with-rl/" target="_blank" rel="noopener noreferrer"><strong>Implementing Vibe Proving with Reinforcement Learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-12_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-12-30_02-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
