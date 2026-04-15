@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://gulfnews.com/technology/when-you-should-and-shouldnt-rely-on-chatgpt-for-answers-1.500143425" target="_blank" rel="noopener noreferrer"><strong>When you should (and shouldn’t) rely on ChatGPT for answers</strong></a>
+  <a href="https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/?amp" target="_blank" rel="noopener noreferrer"><strong>Thinking Machines Lab Makes Tinker Generally Available: Adds Kimi K2 Thinking And Qwen3-VL Vision Input</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-28_16-38</em></p>
+<p align="center"><em>📅 Published: 2025-12-18_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
