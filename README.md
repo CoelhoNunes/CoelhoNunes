@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://quantumzeitgeist.com/learning-ai-models-vibe-education-adapts-generative-large-language-reshaping-human/" target="_blank" rel="noopener noreferrer"><strong>Vibe Learning: Education Adapts to Generative AI and Large Language Models Reshaping Human Intellectual Labor</strong></a>
+  <a href="https://www.nature.com/articles/s12276-025-01547-5" target="_blank" rel="noopener noreferrer"><strong>Single-cell foundation models: bringing artificial intelligence into cell biology | Experimental & Molecular Medicine</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-12_02-03</em></p>
+<p align="center"><em>📅 Published: 2026-02-05_00-47</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
