@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/implementing-vibe-proving-with-rl/" target="_blank" rel="noopener noreferrer"><strong>Implementing Vibe Proving with Reinforcement Learning</strong></a>
+  <a href="https://quantumzeitgeist.com/learning-ai-models-vibe-education-adapts-generative-large-language-reshaping-human/" target="_blank" rel="noopener noreferrer"><strong>Vibe Learning: Education Adapts to Generative AI and Large Language Models Reshaping Human Intellectual Labor</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-30_02-12</em></p>
+<p align="center"><em>📅 Published: 2025-11-12_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
