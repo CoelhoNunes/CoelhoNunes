@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.boisestate.edu/news/2025/03/04/department-of-computer-science-unveils-first-of-its-kind-ai-degree/" target="_blank" rel="noopener noreferrer"><strong>Department of Computer Science unveils first of its kind artificial intelligence degree</strong></a>
+  <a href="https://towardsdatascience.com/boosting-your-anomaly-detection-with-llms/" target="_blank" rel="noopener noreferrer"><strong>Boosting Your Anomaly Detection With LLMs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-30_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-09-05_01-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
