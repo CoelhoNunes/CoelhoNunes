@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.thehansindia.com/tech/ai/ai-tools-skills-every-data-engineer-should-know-986913" target="_blank" rel="noopener noreferrer"><strong>AI Tools & Skills Every Data Engineer Should Know</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/using-large-language-models-on-amazon-bedrock-for-multi-step-task-execution/" target="_blank" rel="noopener noreferrer"><strong>Using Large Language Models on Amazon Bedrock for multi-step task execution | Amazon Web Services</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-11_02-13</em></p>
+<p align="center"><em>📅 Published: 2025-09-13_01-46</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
