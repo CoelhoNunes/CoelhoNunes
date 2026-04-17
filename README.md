@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bioengineer.org/shared-brainspace-enhances-alignment-with-language-models/" target="_blank" rel="noopener noreferrer"><strong>Shared Brainspace Enhances Alignment with Language Models</strong></a>
+  <a href="https://news.rice.edu/news/2025/rice-experts-equip-houston-professionals-ai-and-machine-learning-training" target="_blank" rel="noopener noreferrer"><strong>Rice experts equip Houston professionals with AI and machine learning training</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-20_02-01</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_16-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
