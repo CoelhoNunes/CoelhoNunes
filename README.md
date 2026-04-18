@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://industrytoday.co.uk/it/ai-voice-generator-market-expected-to-grow-to-usd-1283-billion-with-a-3721-cagr-by-2032" target="_blank" rel="noopener noreferrer"><strong>Ai Voice Generator Market Expected to Grow to USD 128.3 Billion, with a 37.21% CAGR by 2032</strong></a>
+  <a href="https://www.nature.com/articles/s41598-026-35327-6" target="_blank" rel="noopener noreferrer"><strong>Knowledge integration for physics-informed symbolic regression using pre-trained large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_02-19</em></p>
+<p align="center"><em>📅 Published: 2026-04-07_00-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
