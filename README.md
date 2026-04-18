@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.startuphub.ai/ai-news/ai-video/2026/deconstructing-ai-hype-from-fundamentals-to-generative-models/" target="_blank" rel="noopener noreferrer"><strong>Deconstructing AI Hype From Fundamentals to Generative Models</strong></a>
+  <a href="https://www.nature.com/articles/s41594-025-01739-7" target="_blank" rel="noopener noreferrer"><strong>Computation and deep-learning-driven advances in CRISPR genome editing</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-20_02-22</em></p>
+<p align="center"><em>📅 Published: 2026-02-20_00-45</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
