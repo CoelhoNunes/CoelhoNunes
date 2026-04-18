@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.persuasion.community/p/david-bau" target="_blank" rel="noopener noreferrer"><strong>David Bau on How Artificial Intelligence Works</strong></a>
+  <a href="https://www.startuphub.ai/ai-news/ai-video/2026/deconstructing-ai-hype-from-fundamentals-to-generative-models/" target="_blank" rel="noopener noreferrer"><strong>Deconstructing AI Hype From Fundamentals to Generative Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-01_02-05</em></p>
+<p align="center"><em>📅 Published: 2026-01-20_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
