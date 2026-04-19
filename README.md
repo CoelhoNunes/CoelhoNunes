@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.mit.edu/2025/can-large-language-models-figure-out-real-world-0825" target="_blank" rel="noopener noreferrer"><strong>Can large language models figure out the real world?</strong></a>
+  <a href="https://onlinelibrary.wiley.com/doi/10.1111/coin.70051" target="_blank" rel="noopener noreferrer"><strong>Speech2Dementia: A Novel Deep Learning Framework Integrating Enhanced CNN and Large Language Models for Automatic Detection of Alzheimer's Dementia</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-05_02-30</em></p>
+<p align="center"><em>📅 Published: 2026-02-11_00-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
