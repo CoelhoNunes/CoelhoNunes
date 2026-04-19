@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41599-026-06508-5" target="_blank" rel="noopener noreferrer"><strong>Thematic analysis with open-source generative AI and machine learning: a new method for inductive qualitative codebook development</strong></a>
+  <a href="https://www.nucamp.co/blog/top-10-ai-and-machine-learning-bootcamps-in-2026-ranked-by-outcomes" target="_blank" rel="noopener noreferrer"><strong>Top 10 AI and Machine Learning Bootcamps in 2026 (Ranked by Outcomes)</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-08_00-52</em></p>
+<p align="center"><em>📅 Published: 2026-01-05_02-30</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
