@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-026-35327-6" target="_blank" rel="noopener noreferrer"><strong>Knowledge integration for physics-informed symbolic regression using pre-trained large language models</strong></a>
+  <a href="https://www.nature.com/articles/s41599-026-06508-5" target="_blank" rel="noopener noreferrer"><strong>Thematic analysis with open-source generative AI and machine learning: a new method for inductive qualitative codebook development</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-07_00-52</em></p>
+<p align="center"><em>📅 Published: 2026-04-08_00-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
