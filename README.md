@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://onlinelibrary.wiley.com/doi/10.1111/coin.70051" target="_blank" rel="noopener noreferrer"><strong>Speech2Dementia: A Novel Deep Learning Framework Integrating Enhanced CNN and Large Language Models for Automatic Detection of Alzheimer's Dementia</strong></a>
+  <a href="https://www.marktechpost.com/2025/08/27/google-ais-new-regression-language-model-rlm-framework-enables-llms-to-predict-industrial-system-performance-directly-from-raw-text-data/" target="_blank" rel="noopener noreferrer"><strong>Google AI’s New Regression Language Model (RLM) Framework Enables LLMs to Predict Industrial System Performance Directly from Raw Text Data</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-11_00-52</em></p>
+<p align="center"><em>📅 Published: 2025-08-28_01-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
