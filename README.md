@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/wral/article/bizwire-2025-11-13-verisilicon-and-google-jointly-launch-open-source-coral-npu-ip" target="_blank" rel="noopener noreferrer"><strong>VeriSilicon and Google Jointly Launch Open-Source Coral NPU IP</strong></a>
+  <a href="https://www.nature.com/articles/s41586-025-09292-5" target="_blank" rel="noopener noreferrer"><strong>Contextualizing ancient texts with generative neural networks</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-13_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-08-02_02-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
