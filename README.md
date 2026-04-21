@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://silvijaseres.com/ai-podcasts-every-professional-should-tune-into/" target="_blank" rel="noopener noreferrer"><strong>Top AI Podcasts Every Professional Should Tune Into</strong></a>
+  <a href="https://www.oracle.com/middleeast/artificial-intelligence/natural-language-processing/" target="_blank" rel="noopener noreferrer"><strong>Natural Language Processing: How Machines Read and Write</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-11_02-31</em></p>
+<p align="center"><em>📅 Published: 2025-10-23_01-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
