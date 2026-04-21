@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.openpr.com/news/4423856/ai-powered-drug-discovery-in-dermatology-in-healthcare-market" target="_blank" rel="noopener noreferrer"><strong>AI-Powered Drug Discovery in Dermatology in Healthcare Market</strong></a>
+  <a href="https://silvijaseres.com/ai-podcasts-every-professional-should-tune-into/" target="_blank" rel="noopener noreferrer"><strong>Top AI Podcasts Every Professional Should Tune Into</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-14_00-44</em></p>
+<p align="center"><em>📅 Published: 2026-01-11_02-31</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
