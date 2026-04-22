@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/wral/article/pressadvantage-2026-1-13-2026-advanced-genai-course-focused-on-large-language-models-and-diffusion-systems-launched-by-interview-kickstart" target="_blank" rel="noopener noreferrer"><strong>2026 Advanced GenAI Course Focused on Large Language Models and Diffusion Systems Launched by Interview Kickstart</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/sentiment-analysis-with-text-and-audio-using-aws-generative-ai-services-approaches-challenges-and-solutions/" target="_blank" rel="noopener noreferrer"><strong>Sentiment Analysis with Text and Audio Using AWS Generative AI Services: Approaches, Challenges, and Solutions</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-14_02-25</em></p>
+<p align="center"><em>📅 Published: 2026-01-10_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
