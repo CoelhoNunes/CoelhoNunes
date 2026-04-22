@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/sentiment-analysis-with-text-and-audio-using-aws-generative-ai-services-approaches-challenges-and-solutions/" target="_blank" rel="noopener noreferrer"><strong>Sentiment Analysis with Text and Audio Using AWS Generative AI Services: Approaches, Challenges, and Solutions</strong></a>
+  <a href="https://markets.financialcontent.com/wral/article/marketminute-2025-8-6-what-is-generative-ai-genai" target="_blank" rel="noopener noreferrer"><strong>What is Generative AI (GenAI)?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-10_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-08-07_02-29</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
