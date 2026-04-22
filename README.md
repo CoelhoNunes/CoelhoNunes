@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/middleeast/artificial-intelligence/natural-language-processing/" target="_blank" rel="noopener noreferrer"><strong>Natural Language Processing: How Machines Read and Write</strong></a>
+  <a href="https://markets.financialcontent.com/wral/article/pressadvantage-2026-1-13-2026-advanced-genai-course-focused-on-large-language-models-and-diffusion-systems-launched-by-interview-kickstart" target="_blank" rel="noopener noreferrer"><strong>2026 Advanced GenAI Course Focused on Large Language Models and Diffusion Systems Launched by Interview Kickstart</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-23_01-57</em></p>
+<p align="center"><em>📅 Published: 2026-01-14_02-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
