@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://pioneerworks.org/programs/scientific-controversies-deep-thoughts-of-artificial-minds" target="_blank" rel="noopener noreferrer"><strong>Scientific Controversies: Deep Thoughts of Artificial Minds</strong></a>
+  <a href="https://guardian.ng/sponsored/from-edge-devices-to-enterprise-security-an-engineers-vision-for-trustworthy-machine-learning-is-setting-new-benchmarks/" target="_blank" rel="noopener noreferrer"><strong>From edge devices to enterprise security, an engineer’s vision for trustworthy machine learning is setting new benchmarks</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-21_02-23</em></p>
+<p align="center"><em>📅 Published: 2026-02-14_00-45</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
