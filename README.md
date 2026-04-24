@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.startuphub.ai/ai-news/ai-video/2025/googles-gemini-3-dominance-reshapes-ai-landscape/" target="_blank" rel="noopener noreferrer"><strong>Google’s Gemini 3 Dominance Reshapes AI Landscape</strong></a>
+  <a href="https://www.asiaresearchnews.com/content/reliable-material-databases-bridge-ai-and-experimental-led-material-discovery" target="_blank" rel="noopener noreferrer"><strong>Reliable Material Databases Bridge AI- and Experimental-Led Material Discovery</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-21_02-02</em></p>
+<p align="center"><em>📅 Published: 2026-04-10_00-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
