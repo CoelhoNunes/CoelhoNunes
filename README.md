@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.asiaresearchnews.com/content/reliable-material-databases-bridge-ai-and-experimental-led-material-discovery" target="_blank" rel="noopener noreferrer"><strong>Reliable Material Databases Bridge AI- and Experimental-Led Material Discovery</strong></a>
+  <a href="https://www.kdnuggets.com/10-free-artificial-intelligence-books-for-2025" target="_blank" rel="noopener noreferrer"><strong>10 Free Artificial Intelligence Books For 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-10_00-52</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
