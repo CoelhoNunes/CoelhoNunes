@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://research.google/blog/synthetic-and-federated-privacy-preserving-domain-adaptation-with-llms-for-mobile-applications/" target="_blank" rel="noopener noreferrer"><strong>Synthetic and federated: Privacy-preserving domain adaptation with LLMs for mobile applications</strong></a>
+  <a href="https://developer.nvidia.com/blog/breaking-through-rl-training-limits-with-scaling-rollouts-in-brorl/" target="_blank" rel="noopener noreferrer"><strong>Breaking Through Reinforcement Learning Training Limits with Scaling Rollouts in BroRL</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-31_02-24</em></p>
+<p align="center"><em>📅 Published: 2025-11-20_02-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
