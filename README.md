@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.extremetech.com/computing/what-is-artificial-intelligence-from-agi-to-ai-slop-what-you-need-to-know" target="_blank" rel="noopener noreferrer"><strong>What Is Artificial Intelligence? From AGI to AI Slop, What You Need to Know</strong></a>
+  <a href="https://blockchain.news/ainews/anthropic-launches-fall-2025-ai-student-programs-application-process-now-open" target="_blank" rel="noopener noreferrer"><strong>Anthropic Launches Fall 2025 AI Student Programs: Application Process Now Open</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-28_01-57</em></p>
+<p align="center"><em>📅 Published: 2025-07-11_02-13</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
