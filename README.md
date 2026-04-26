@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/05/28/incorrect-answers-improve-math-reasoning-reinforcement-learning-with-verifiable-rewards-rlvr-surprises-with-qwen2-5-math/" target="_blank" rel="noopener noreferrer"><strong>Incorrect Answers Improve Math Reasoning? Reinforcement Learning with Verifiable Rewards (RLVR) Surprises with Qwen2.5-Math</strong></a>
+  <a href="https://blockchain.news/ainews/anthropic-launches-fall-2025-ai-student-programs-application-process-now-open" target="_blank" rel="noopener noreferrer"><strong>Anthropic Launches Fall 2025 AI Student Programs: Application Process Now Open</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-29_02-18</em></p>
+<p align="center"><em>📅 Published: 2025-07-11_02-13</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
