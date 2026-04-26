@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://market.us/report/autonomous-ai-market/" target="_blank" rel="noopener noreferrer"><strong>Autonomous AI Market Size | CAGR of 37.9%</strong></a>
+  <a href="https://www.marktechpost.com/2025/05/28/incorrect-answers-improve-math-reasoning-reinforcement-learning-with-verifiable-rewards-rlvr-surprises-with-qwen2-5-math/" target="_blank" rel="noopener noreferrer"><strong>Incorrect Answers Improve Math Reasoning? Reinforcement Learning with Verifiable Rewards (RLVR) Surprises with Qwen2.5-Math</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-22_02-00</em></p>
+<p align="center"><em>📅 Published: 2025-05-29_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
