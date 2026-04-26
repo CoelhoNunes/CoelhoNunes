@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://blockchain.news/ainews/anthropic-launches-fall-2025-ai-student-programs-application-process-now-open" target="_blank" rel="noopener noreferrer"><strong>Anthropic Launches Fall 2025 AI Student Programs: Application Process Now Open</strong></a>
+  <a href="https://www.techtarget.com/searchenterpriseai/definition/LangChain" target="_blank" rel="noopener noreferrer"><strong>What is LangChain and how to use it: A guide</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-11_02-13</em></p>
+<p align="center"><em>📅 Published: 2025-07-14_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
