@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/topics/artificial-intelligence-finance" target="_blank" rel="noopener noreferrer"><strong>What is artificial intelligence (AI) in finance?</strong></a>
+  <a href="https://www.nature.com/articles/s41564-025-02114-4" target="_blank" rel="noopener noreferrer"><strong>A generative artificial intelligence approach for the discovery of antimicrobial peptides against multidrug-resistant bacteria</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-22_02-03</em></p>
+<p align="center"><em>📅 Published: 2026-01-16_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
