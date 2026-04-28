@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.miragenews.com/nyu-tandon-unveils-ai-agent-solving-1506283/" target="_blank" rel="noopener noreferrer"><strong>NYU Tandon Unveils AI Agent Solving Cybersecurity Issues</strong></a>
+  <a href="https://builtin.com/articles/inside-kenshos-llm-ready-api-how-engineers-enable-secure-natural-language-access-sp-global-data" target="_blank" rel="noopener noreferrer"><strong>Inside Kensho’s LLM-ready API: How Engineers Enable Secure Natural Language Access to S&P Global Data</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-31_02-24</em></p>
+<p align="center"><em>📅 Published: 2026-03-12_00-41</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
