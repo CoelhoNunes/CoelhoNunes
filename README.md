@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://builtin.com/articles/inside-kenshos-llm-ready-api-how-engineers-enable-secure-natural-language-access-sp-global-data" target="_blank" rel="noopener noreferrer"><strong>Inside Kensho’s LLM-ready API: How Engineers Enable Secure Natural Language Access to S&P Global Data</strong></a>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482525011400" target="_blank" rel="noopener noreferrer"><strong>Can GPT-4 provide human-level emotion support? Insights from machine learning-based evaluation framework</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-12_00-41</em></p>
+<p align="center"><em>📅 Published: 2025-09-01_02-13</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
