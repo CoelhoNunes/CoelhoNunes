@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.kdnuggets.com/generative-ai-a-self-study-roadmap" target="_blank" rel="noopener noreferrer"><strong>Generative AI: A Self-Study Roadmap</strong></a>
+  <a href="https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/" target="_blank" rel="noopener noreferrer"><strong>How Distillation Makes AI Models Smaller and Cheaper</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-12_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-07-19_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
