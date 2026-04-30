@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://indianexpress.com/article/education/ai-courses-free-for-beginners-no-experience-ibm-google-microsoft-10170812/" target="_blank" rel="noopener noreferrer"><strong>Free AI courses for beginners that does not require any prior experience</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-memory-building-context-aware-agents/" target="_blank" rel="noopener noreferrer"><strong>Amazon Bedrock AgentCore Memory: Building context-aware agents | Amazon Web Services</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-11_02-25</em></p>
+<p align="center"><em>📅 Published: 2026-02-15_00-50</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
