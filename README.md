@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.designboom.com/technology/ai-language-models-chatgpt-gemini-understand-flowers-ohio-state-university-06-04-2025/" target="_blank" rel="noopener noreferrer"><strong>why AI language models like chatGPT and gemini can’t understand flowers like humans do</strong></a>
+  <a href="https://www.kdnuggets.com/generative-ai-a-self-study-roadmap" target="_blank" rel="noopener noreferrer"><strong>Generative AI: A Self-Study Roadmap</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-06_02-18</em></p>
+<p align="center"><em>📅 Published: 2025-07-12_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
