@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/" target="_blank" rel="noopener noreferrer"><strong>‘World Models,’ an Old Idea in AI, Mount a Comeback</strong></a>
+  <a href="https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/" target="_blank" rel="noopener noreferrer"><strong>From LLMs to hallucinations, here’s a simple guide to common AI terms</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-03_01-50</em></p>
+<p align="center"><em>📅 Published: 2026-04-13_00-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
