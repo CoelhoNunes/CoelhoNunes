@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/optimizing-salesforces-model-endpoints-with-amazon-sagemaker-ai-inference-components/" target="_blank" rel="noopener noreferrer"><strong>Optimizing Salesforce’s model endpoints with Amazon SageMaker AI inference components</strong></a>
+  <a href="https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/" target="_blank" rel="noopener noreferrer"><strong>‘World Models,’ an Old Idea in AI, Mount a Comeback</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-16_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-09-03_01-50</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
