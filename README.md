@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/" target="_blank" rel="noopener noreferrer"><strong>From LLMs to hallucinations, here’s a simple guide to common AI terms</strong></a>
+  <a href="https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut" target="_blank" rel="noopener noreferrer"><strong>Meta’s DreamGym framework trains AI agents in a simulated world to cut reinforcement learning costs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-13_00-57</em></p>
+<p align="center"><em>📅 Published: 2025-11-20_02-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
