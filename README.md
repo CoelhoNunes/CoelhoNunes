@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.dice.com/career-advice/top-online-courses-to-upskill-in-emerging-tech" target="_blank" rel="noopener noreferrer"><strong>Top Online Courses to Upskill in Emerging Tech</strong></a>
+  <a href="https://www.universityworldnews.com/post.php?story=20260317194117821" target="_blank" rel="noopener noreferrer"><strong>Google DeepMind seeks to build AI skills in African HE</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-21_08-38</em></p>
+<p align="center"><em>📅 Published: 2026-03-18_00-48</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
