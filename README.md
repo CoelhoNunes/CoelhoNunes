@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://source.washu.edu/2025/02/washu-expert-how-deepseek-changes-the-ai-industry/" target="_blank" rel="noopener noreferrer"><strong>WashU Expert: How DeepSeek changes the AI industry</strong></a>
+  <a href="https://eu.36kr.com/en/p/3538304108075911" target="_blank" rel="noopener noreferrer"><strong>Reinforcement Learning AI Systems: Design, Implementation, and Future Development</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-25_08-35</em></p>
+<p align="center"><em>📅 Published: 2025-11-05_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
