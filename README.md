@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41599-025-04761-8" target="_blank" rel="noopener noreferrer"><strong>Stock market trend prediction using deep neural network via chart analysis: a practical method or a myth?</strong></a>
+  <a href="https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1635682/full" target="_blank" rel="noopener noreferrer"><strong>Large language models in clinical nutrition: an overview of its applications, capabilities, limitations, and potential future prospects</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-05</em></p>
+<p align="center"><em>📅 Published: 2026-01-06_02-20</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
