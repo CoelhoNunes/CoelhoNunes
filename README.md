@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.cnet.com/tech/services-and-software/chatgpt-glossary-60-ai-terms-everyone-should-know/" target="_blank" rel="noopener noreferrer"><strong>ChatGPT Glossary: 60 AI Terms Everyone Should Know</strong></a>
+  <a href="https://www.nature.com/articles/s41593-025-02169-w" target="_blank" rel="noopener noreferrer"><strong>Leveraging insights from neuroscience to build adaptive artificial intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-07_02-02</em></p>
+<p align="center"><em>📅 Published: 2026-01-01_02-30</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
