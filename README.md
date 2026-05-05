@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/semantic-mastery" target="_blank" rel="noopener noreferrer"><strong>Semantic Mastery: Enhancing LLMs with Advanced Natural Language Understanding</strong></a>
+  <a href="https://www.zdnet.com/article/how-chatgpt-actually-works-and-why-its-been-so-game-changing/" target="_blank" rel="noopener noreferrer"><strong>How ChatGPT actually works (and why it's been so game-changing)</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-11_00-52</em></p>
+<p align="center"><em>📅 Published: 2025-07-10_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
