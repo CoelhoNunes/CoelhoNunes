@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut" target="_blank" rel="noopener noreferrer"><strong>Meta’s DreamGym framework trains AI agents in a simulated world to cut reinforcement learning costs</strong></a>
+  <a href="https://www.nature.com/articles/s41746-025-01649-4" target="_blank" rel="noopener noreferrer"><strong>Multimodal generative AI for interpreting 3D medical images and videos</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-20_02-01</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
