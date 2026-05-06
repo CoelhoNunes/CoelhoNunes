@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/d41586-025-03386-w" target="_blank" rel="noopener noreferrer"><strong>AI language models killed the Turing test: do we even need a replacement?</strong></a>
+  <a href="https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut" target="_blank" rel="noopener noreferrer"><strong>Meta’s DreamGym framework trains AI agents in a simulated world to cut reinforcement learning costs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-15_01-59</em></p>
+<p align="center"><em>📅 Published: 2025-11-20_02-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
