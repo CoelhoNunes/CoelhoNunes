@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1635682/full" target="_blank" rel="noopener noreferrer"><strong>Large language models in clinical nutrition: an overview of its applications, capabilities, limitations, and potential future prospects</strong></a>
+  <a href="https://www.manilatimes.net/2025/09/27/tmt-newswire/globenewswire/ml-engineer-program-with-agentic-ai-launched-interview-kickstart-addresses-growing-demand-for-machine-learning-engineers-in-usa/2191272" target="_blank" rel="noopener noreferrer"><strong>ML Engineer Program with Agentic AI Launched - Interview Kickstart Addresses Growing Demand For Machine Learning Engineers in USA</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-06_02-20</em></p>
+<p align="center"><em>📅 Published: 2025-09-27_01-49</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
