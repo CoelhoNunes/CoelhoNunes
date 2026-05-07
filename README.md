@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.digitaljournal.com/tech-science/ai-and-pharmaceutical-medicine-development-a-new-standard-is-in-the-making/article" target="_blank" rel="noopener noreferrer"><strong>AI and pharmaceutical medicine development: A new standard is in the making</strong></a>
+  <a href="https://amp.scmp.com/tech/article/3322250/alibaba-baidu-lead-chinas-ai-cloud-boom-market-surges-55-us27-billion" target="_blank" rel="noopener noreferrer"><strong>Alibaba, Baidu lead China’s fast-growing market for AI cloud services</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-26_00-42</em></p>
+<p align="center"><em>📅 Published: 2025-08-20_02-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
