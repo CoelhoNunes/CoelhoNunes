@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.manilatimes.net/2025/09/27/tmt-newswire/globenewswire/ml-engineer-program-with-agentic-ai-launched-interview-kickstart-addresses-growing-demand-for-machine-learning-engineers-in-usa/2191272" target="_blank" rel="noopener noreferrer"><strong>ML Engineer Program with Agentic AI Launched - Interview Kickstart Addresses Growing Demand For Machine Learning Engineers in USA</strong></a>
+  <a href="https://markets.financialcontent.com/stocks/article/tokenring-2025-10-31-ai-revolutionizes-pharma-r-and-d-a-new-era-of-accelerated-drug-discovery-and-personalized-medicine?Language=spanish" target="_blank" rel="noopener noreferrer"><strong>AI Revolutionizes Pharma R&D: A New Era of Accelerated Drug Discovery and Personalized Medicine</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-27_01-49</em></p>
+<p align="center"><em>📅 Published: 2025-11-03_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
