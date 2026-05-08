@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://winbuzzer.com/2026/03/18/open-source-mamba-3-arrives-to-surpass-transformer-xcxwbn/" target="_blank" rel="noopener noreferrer"><strong>New Mamba-3 AI Model Beats Transformers by 4%, Runs 7x Faster</strong></a>
+  <a href="https://www.nature.com/articles/s41599-025-05187-y" target="_blank" rel="noopener noreferrer"><strong>Navigating cognitive boundaries: the impact of CognifyNet AI-powered educational analytics on student improvement</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-19_00-49</em></p>
+<p align="center"><em>📅 Published: 2025-06-24_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
