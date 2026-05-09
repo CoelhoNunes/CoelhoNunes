@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://quantumzeitgeist.com/nvidia-agents-kaggle-competition-generate/" target="_blank" rel="noopener noreferrer"><strong>NVIDIA Agents Generate 600K Code Lines, Win Kaggle Competition</strong></a>
+  <a href="https://www.kdnuggets.com/2025/06/google/unlocking-your-data-to-ai-platform-generative-ai-for-multimodal-analytics" target="_blank" rel="noopener noreferrer"><strong>Unlocking Your Data to AI Platform: Generative AI for Multimodal Analytics</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-27_01-01</em></p>
+<p align="center"><em>📅 Published: 2025-06-05_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
