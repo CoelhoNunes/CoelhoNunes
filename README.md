@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.meer.com/en/96758-when-machines-master-skills-in-minutes-not-months" target="_blank" rel="noopener noreferrer"><strong>When machines master skills in minutes, not months</strong></a>
+  <a href="https://www.dla.mil/About-DLA/News/News-Article-View/Article/4186367/utilization-of-artificial-intelligence-ai-to-illuminate-supply-chain-risk/" target="_blank" rel="noopener noreferrer"><strong>Utilization of Artificial Intelligence (AI) to Illuminate Supply Chain Risk</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-28_02-29</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
