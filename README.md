@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/09/15/moonshotai-released-checkpoint-engine-a-simple-middleware-to-update-model-weights-in-llm-inference-engines-effective-for-reinforcement-learning/" target="_blank" rel="noopener noreferrer"><strong>MoonshotAI Released Checkpoint-Engine: A Simple Middleware to Update Model Weights in LLM Inference Engines, Effective for Reinforcement Learning</strong></a>
+  <a href="https://www.meer.com/en/96758-when-machines-master-skills-in-minutes-not-months" target="_blank" rel="noopener noreferrer"><strong>When machines master skills in minutes, not months</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-17_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-12-28_02-29</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
