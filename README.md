@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.dla.mil/About-DLA/News/News-Article-View/Article/4186367/utilization-of-artificial-intelligence-ai-to-illuminate-supply-chain-risk/" target="_blank" rel="noopener noreferrer"><strong>Utilization of Artificial Intelligence (AI) to Illuminate Supply Chain Risk</strong></a>
+  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-11-9-ais-double-edged-sword-revolutionizing-mortgage-backed-securities-while-echoing-2007s-warnings" target="_blank" rel="noopener noreferrer"><strong>AI’s Double-Edged Sword: Revolutionizing Mortgage-Backed Securities While Echoing 2007’s Warnings</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-07</em></p>
+<p align="center"><em>📅 Published: 2025-11-10_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
