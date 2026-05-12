@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-11-9-ais-double-edged-sword-revolutionizing-mortgage-backed-securities-while-echoing-2007s-warnings" target="_blank" rel="noopener noreferrer"><strong>AI’s Double-Edged Sword: Revolutionizing Mortgage-Backed Securities While Echoing 2007’s Warnings</strong></a>
+  <a href="https://machinelearning.apple.com/research/super-weight" target="_blank" rel="noopener noreferrer"><strong>The Super Weight in Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-10_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-07-26_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
