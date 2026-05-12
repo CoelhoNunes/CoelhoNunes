@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/super-weight" target="_blank" rel="noopener noreferrer"><strong>The Super Weight in Large Language Models</strong></a>
+  <a href="https://www.nature.com/articles/s44172-025-00453-y" target="_blank" rel="noopener noreferrer"><strong>Explainability in the age of large language models for healthcare</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-26_02-11</em></p>
+<p align="center"><em>📅 Published: 2026-02-16_00-48</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
