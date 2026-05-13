@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://arstechnica.com/ai/2025/07/how-a-big-shift-in-training-llms-led-to-a-capability-explosion/" target="_blank" rel="noopener noreferrer"><strong>How a big shift in training LLMs led to a capability explosion</strong></a>
+  <a href="https://finance.yahoo.com/news/palantir-stock-crash-course-history-073500767.html" target="_blank" rel="noopener noreferrer"><strong>Palantir Stock Is on a Crash Course With History That Will Likely Be Very Costly for Investors</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-10_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-06-15_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
