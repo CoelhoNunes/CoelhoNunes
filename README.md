@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.hindustantimes.com/cities/mumbai-news/iitbombay-leads-push-for-india-centric-ai-101748719053673.html" target="_blank" rel="noopener noreferrer"><strong>IIT-Bombay leads push for India-centric AI</strong></a>
+  <a href="https://machinelearning.apple.com/research/gsm-symbolic" target="_blank" rel="noopener noreferrer"><strong>GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-01_02-37</em></p>
+<p align="center"><em>📅 Published: 2025-05-25_08-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
