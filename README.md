@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-97498-y" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence orchestration for text-based ultrasonic simulation via self-review by multi-large language model agents</strong></a>
+  <a href="https://www.hackster.io/news/a-near-tripling-of-dram-contract-pricing-foreshadows-price-hikes-to-come-for-single-board-computers-88119b01c94e" target="_blank" rel="noopener noreferrer"><strong>A Near-Tripling of DRAM Contract Pricing Foreshadows Price Hikes to Come for Single-Board Computers</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-06_01-56</em></p>
+<p align="center"><em>📅 Published: 2025-11-08_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
