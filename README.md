@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-12-2-quantum-computing-the-missing-key-unlocking-ais-next-frontier" target="_blank" rel="noopener noreferrer"><strong>Quantum Computing: The Missing Key Unlocking AI’s Next Frontier</strong></a>
+  <a href="https://www.nature.com/articles/s41598-025-97498-y" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence orchestration for text-based ultrasonic simulation via self-review by multi-large language model agents</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-05_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-10-06_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
