@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.theregister.com/2025/05/28/telegram_takes_300m_xai_cash/" target="_blank" rel="noopener noreferrer"><strong>Elon Musk's xAI pays $300M to born-in-Russia messaging app Telegram to push Grok</strong></a>
+  <a href="https://www.britannica.com/science/history-of-artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>History of artificial intelligence | Dates, Advances, Alan Turing, ELIZA, & Facts</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-31_16-37</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
