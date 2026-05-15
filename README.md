@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.hackster.io/news/a-near-tripling-of-dram-contract-pricing-foreshadows-price-hikes-to-come-for-single-board-computers-88119b01c94e" target="_blank" rel="noopener noreferrer"><strong>A Near-Tripling of DRAM Contract Pricing Foreshadows Price Hikes to Come for Single-Board Computers</strong></a>
+  <a href="https://www.ibm.com/think/topics/artificial-intelligence-finance" target="_blank" rel="noopener noreferrer"><strong>What is artificial intelligence (AI) in finance?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-08_01-56</em></p>
+<p align="center"><em>📅 Published: 2025-09-22_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
