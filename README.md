@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/topics/artificial-intelligence-finance" target="_blank" rel="noopener noreferrer"><strong>What is artificial intelligence (AI) in finance?</strong></a>
+  <a href="https://www.theregister.com/2025/05/28/telegram_takes_300m_xai_cash/" target="_blank" rel="noopener noreferrer"><strong>Elon Musk's xAI pays $300M to born-in-Russia messaging app Telegram to push Grok</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-22_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-05-31_16-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
