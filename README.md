@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.aboutamazon.com/news/aws/aws-writer-palmyra-x5" target="_blank" rel="noopener noreferrer"><strong>AWS is first and only cloud provider to offer Writer’s new adaptive reasoning model Palmyra X5</strong></a>
+  <a href="https://iol.co.za/technology/2025-10-12-are-we-facing-a-trillion-dollar-ai-bubble/" target="_blank" rel="noopener noreferrer"><strong>Are we facing a trillion dollar AI bubble?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-09_01-56</em></p>
+<p align="center"><em>📅 Published: 2025-10-13_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
