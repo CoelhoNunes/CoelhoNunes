@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/illusion-of-thinking" target="_blank" rel="noopener noreferrer"><strong>The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity</strong></a>
+  <a href="https://www.theregister.com/2025/07/17/new_algorithms_boost_ai_perf/" target="_blank" rel="noopener noreferrer"><strong>Boffins detail new algorithms to losslessly boost AI perf by up to 2.8x</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-13_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-07-19_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
