@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://silvijaseres.com/high-paying-ai-careers-to-pursue-in-2026/" target="_blank" rel="noopener noreferrer"><strong>Top High-Paying AI Careers to Pursue in 2026</strong></a>
+  <a href="https://news.mit.edu/2026/new-ai-model-could-cut-costs-developing-protein-drugs-0216" target="_blank" rel="noopener noreferrer"><strong>New AI model could cut the costs of developing protein drugs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-10_02-10</em></p>
+<p align="center"><em>📅 Published: 2026-02-20_00-45</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
