@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://venturebeat.com/ai/googles-nested-learning-paradigm-could-solve-ais-memory-and-continual" target="_blank" rel="noopener noreferrer"><strong>Google’s ‘Nested Learning’ paradigm could solve AI's memory and continual learning problem</strong></a>
+  <a href="https://sg.finance.yahoo.com/news/advanced-generative-ai-course-developers-172700112.html" target="_blank" rel="noopener noreferrer"><strong>Advanced Generative AI Course for Developers and Engineers - Interview Kickstart's New 2026 Program Focused on Model Development and Applied AI Systems</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-22_01-58</em></p>
+<p align="center"><em>📅 Published: 2026-01-31_00-42</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
