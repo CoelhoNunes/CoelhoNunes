@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://silvijaseres.com/ai-podcasts-every-professional-should-tune-into/" target="_blank" rel="noopener noreferrer"><strong>Top AI Podcasts Every Professional Should Tune Into</strong></a>
+  <a href="https://www.formatbiz.it/dettNews.aspx?id=13256" target="_blank" rel="noopener noreferrer"><strong>Professor Eugenio Nemmi Breaks Down AI for Producers at AVP Summit 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-11_02-31</em></p>
+<p align="center"><em>📅 Published: 2025-07-29_02-33</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
