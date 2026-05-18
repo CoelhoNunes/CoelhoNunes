@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.prnewswire.com/news-releases/aligned-joins-forces-with-amd-and-usc-isi-to-power-next-generation-ai-with-megalodon-language-model-302513280.html" target="_blank" rel="noopener noreferrer"><strong>Aligned Joins Forces with AMD and USC ISI to Power Next-Generation AI with MEGALODON Language Model</strong></a>
+  <a href="https://thedebrief.org/researchers-discover-ai-language-models-are-mirroring-the-human-brains-understanding-of-speech/" target="_blank" rel="noopener noreferrer"><strong>Researchers Discover AI Language Models Are Mirroring the Human Brain’s Understanding of Speech</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-25_02-21</em></p>
+<p align="center"><em>📅 Published: 2026-01-24_00-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
