@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1658316/full" target="_blank" rel="noopener noreferrer"><strong>Prompt engineering for accurate statistical reasoning with large language models in medical research</strong></a>
+  <a href="https://bioengineer.org/discovering-neural-architectures-with-gans-and-embeddings/" target="_blank" rel="noopener noreferrer"><strong>Discovering Neural Architectures with GANs and Embeddings</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-22_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-12-25_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
