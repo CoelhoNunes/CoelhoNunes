@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.cnet.com/tech/services-and-software/llms-and-ai-arent-the-same-everything-you-should-know-about-whats-behind-chatbots/" target="_blank" rel="noopener noreferrer"><strong>LLMs and AI Aren't the Same. Everything You Should Know About What's Behind Chatbots</strong></a>
+  <a href="https://www.nature.com/collections/faheahbdeg" target="_blank" rel="noopener noreferrer"><strong>Computational Drug Repurposing in the Era of Multimodal Data and Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_08-41</em></p>
+<p align="center"><em>📅 Published: 2026-05-01_01-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
