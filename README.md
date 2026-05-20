@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bioengineer.org/discovering-neural-architectures-with-gans-and-embeddings/" target="_blank" rel="noopener noreferrer"><strong>Discovering Neural Architectures with GANs and Embeddings</strong></a>
+  <a href="https://source.washu.edu/2025/02/washu-expert-how-deepseek-changes-the-ai-industry/" target="_blank" rel="noopener noreferrer"><strong>WashU Expert: How DeepSeek changes the AI industry</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-25_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-05-25_08-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
