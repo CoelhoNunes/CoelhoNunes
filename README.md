@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://newsroom.intel.com/artificial-intelligence/intel-weizmann-institute-speed-ai-with-speculative-decoding-advance" target="_blank" rel="noopener noreferrer"><strong>Intel and Weizmann Institute Speed AI with Speculative Decoding Advance</strong></a>
+  <a href="https://www.analyticsinsight.net/career/top-10-machine-learning-jobs-in-india-2026-roles-salary-skills-guide" target="_blank" rel="noopener noreferrer"><strong>Top 10 Machine Learning Jobs in India 2026: Roles, Salary & Skills Guide</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-07_01-53</em></p>
+<p align="center"><em>📅 Published: 2026-05-17_01-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
