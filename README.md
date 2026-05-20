@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1593017/full" target="_blank" rel="noopener noreferrer"><strong>Multi-Agent Systems Powered by Large Language Models: Applications in Swarm Intelligence</strong></a>
+  <a href="https://tech.yahoo.com/ai/articles/qualcomm-introduces-ai200-ai250-racks-084450752.html" target="_blank" rel="noopener noreferrer"><strong>Qualcomm introduces AI200 and AI250 racks for AI inference</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-21_03-31</em></p>
+<p align="center"><em>📅 Published: 2025-10-29_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
