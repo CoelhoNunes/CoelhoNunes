@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.analyticsinsight.net/career/top-10-machine-learning-jobs-in-india-2026-roles-salary-skills-guide" target="_blank" rel="noopener noreferrer"><strong>Top 10 Machine Learning Jobs in India 2026: Roles, Salary & Skills Guide</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1593017/full" target="_blank" rel="noopener noreferrer"><strong>Multi-Agent Systems Powered by Large Language Models: Applications in Swarm Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-17_01-09</em></p>
+<p align="center"><em>📅 Published: 2025-05-21_03-31</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
