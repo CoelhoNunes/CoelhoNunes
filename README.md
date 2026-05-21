@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/europe/artificial-intelligence/large-language-model/" target="_blank" rel="noopener noreferrer"><strong>Everything You Need to Know About Large Language Models</strong></a>
+  <a href="https://www.predictiveanalyticsworld.com/machinelearningtimes/predictive-ai-too-hard-to-use-genai-makes-it-easy/13883/" target="_blank" rel="noopener noreferrer"><strong>Predictive AI Too Hard To Use? GenAI Makes It Easy</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-01_02-13</em></p>
+<p align="center"><em>📅 Published: 2025-07-23_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
