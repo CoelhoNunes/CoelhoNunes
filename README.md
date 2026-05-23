@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://market.us/report/ai-powered-checkout-market/" target="_blank" rel="noopener noreferrer"><strong>AI-Powered Checkout Market Size | CAGR of 35.4%</strong></a>
+  <a href="https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning/" target="_blank" rel="noopener noreferrer"><strong>How to Train an AI Agent for Command-Line Tasks with Synthetic Data and Reinforcement Learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-09_02-21</em></p>
+<p align="center"><em>📅 Published: 2026-01-18_02-30</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
