@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-024-45879-8" target="_blank" rel="noopener noreferrer"><strong>Large language models streamline automated machine learning for clinical studies</strong></a>
+  <a href="https://bioengineer.org/ai-system-revolutionizes-scientific-research-by-automating-code-generation/" target="_blank" rel="noopener noreferrer"><strong>AI System Revolutionizes Scientific Research by Automating Code Generation</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-30_01-03</em></p>
+<p align="center"><em>📅 Published: 2026-05-21_01-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
