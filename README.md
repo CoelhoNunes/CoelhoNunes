@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://ai-scholar.tech/en/articles/llm-paper%2Fpreference-guided-reasoning" target="_blank" rel="noopener noreferrer"><strong>A proposal for mixed-first optimization that revolutionizes the inference performance of multimodal LLMs!</strong></a>
+  <a href="https://towardsdatascience.com/tabular-foundation-models/" target="_blank" rel="noopener noreferrer"><strong>How the Rise of Tabular Foundation Models Is Reshaping Data Science</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-07_02-20</em></p>
+<p align="center"><em>📅 Published: 2026-02-27_00-46</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
