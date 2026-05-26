@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://seekingalpha.com/article/4859256-the-ai-market-bubble-will-pop-when" target="_blank" rel="noopener noreferrer"><strong>The AI Market Bubble Will Pop When…</strong></a>
+  <a href="https://www.newyorker.com/culture/open-questions/what-if-ai-doesnt-get-much-better-than-this" target="_blank" rel="noopener noreferrer"><strong>What if A.I. Doesn’t Get Much Better Than This?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-15_02-14</em></p>
+<p align="center"><em>📅 Published: 2025-08-17_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
