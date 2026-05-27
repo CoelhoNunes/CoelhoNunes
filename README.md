@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/05/20/meta-introduces-kernelllm-an-8b-llm-that-translates-pytorch-modules-into-efficient-triton-gpu-kernels/" target="_blank" rel="noopener noreferrer"><strong>Meta Introduces KernelLLM: An 8B LLM that Translates PyTorch Modules into Efficient Triton GPU Kernels</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/tailor-responsible-ai-with-new-safeguard-tiers-in-amazon-bedrock-guardrails/" target="_blank" rel="noopener noreferrer"><strong>Tailor responsible AI with new safeguard tiers in Amazon Bedrock Guardrails | Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-23_08-38</em></p>
+<p align="center"><em>📅 Published: 2026-04-18_00-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
