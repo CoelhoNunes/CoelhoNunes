@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.techpowerup.com/review/silicon-motion-sm8366-7-68-tb/15.html" target="_blank" rel="noopener noreferrer"><strong>Silicon Motion MonTitan 7.68 TB Review - Machine Learning - AI</strong></a>
+  <a href="https://www.marktechpost.com/2025/05/20/meta-introduces-kernelllm-an-8b-llm-that-translates-pytorch-modules-into-efficient-triton-gpu-kernels/" target="_blank" rel="noopener noreferrer"><strong>Meta Introduces KernelLLM: An 8B LLM that Translates PyTorch Modules into Efficient Triton GPU Kernels</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-05_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-05-23_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
