@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/tailor-responsible-ai-with-new-safeguard-tiers-in-amazon-bedrock-guardrails/" target="_blank" rel="noopener noreferrer"><strong>Tailor responsible AI with new safeguard tiers in Amazon Bedrock Guardrails | Artificial Intelligence</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/overcoming-llm-hallucinations-in-regulated-industries-artificial-geniuss-deterministic-models-on-amazon-nova/" target="_blank" rel="noopener noreferrer"><strong>Overcoming LLM hallucinations in regulated industries: Artificial Genius’s deterministic models on Amazon Nova</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-18_00-51</em></p>
+<p align="center"><em>📅 Published: 2026-03-25_02-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
