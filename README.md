@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://thebodylockmma.com/pr/kooc-media-brings-rapid-press-distribution-and-guaranteed-coverage-to-the-ai-industry/" target="_blank" rel="noopener noreferrer"><strong>Kooc Media Brings Rapid Press Distribution and Guaranteed Coverage to the AI Industry</strong></a>
+  <a href="https://techxplore.com/news/2025-11-ai-language-bias-regional-german.html" target="_blank" rel="noopener noreferrer"><strong>AI language models show bias against regional German dialects</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-19_01-10</em></p>
+<p align="center"><em>📅 Published: 2025-11-14_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
