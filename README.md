@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.theringer.com/2025/06/24/nba-draft/nba-draft-artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>DraftGPT: The Brave New World of AI Hits the NBA</strong></a>
+  <a href="https://www.bocaratontribune.com/bocaratonnews/2025/11/the-neurosymbolic-frontier-scientists-merge-logic-and-neural-networks-to-pursue-human-level-a-i/" target="_blank" rel="noopener noreferrer"><strong>The Neurosymbolic Frontier: Scientists Merge Logic and Neural Networks to Pursue Human-Level A.I.</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-27_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-11-29_02-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
