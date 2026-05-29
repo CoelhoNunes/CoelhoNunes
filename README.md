@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-applications-with-a-platform-engineering-approach/" target="_blank" rel="noopener noreferrer"><strong>Accelerating generative AI applications with a platform engineering approach</strong></a>
+  <a href="https://explodingtopics.com/blog/machine-learning-startups" target="_blank" rel="noopener noreferrer"><strong>25 Trending Machine Learning Companies & Startups (2025)</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-19_02-02</em></p>
+<p align="center"><em>📅 Published: 2025-10-30_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
