@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/updates/reasoning-workshop-2025" target="_blank" rel="noopener noreferrer"><strong>Apple Workshop on Reasoning and Planning 2025</strong></a>
+  <a href="https://www.nature.com/articles/s41467-025-60865-4" target="_blank" rel="noopener noreferrer"><strong>A machine learning model using clinical notes to identify physician fatigue</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-23_00-58</em></p>
+<p align="center"><em>📅 Published: 2026-03-08_00-48</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
