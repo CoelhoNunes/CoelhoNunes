@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://explodingtopics.com/blog/machine-learning-startups" target="_blank" rel="noopener noreferrer"><strong>25 Trending Machine Learning Companies & Startups (2025)</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1576992/full" target="_blank" rel="noopener noreferrer"><strong>DeepSeek vs. ChatGPT: prospects and challenges</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-30_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-08-26_02-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
