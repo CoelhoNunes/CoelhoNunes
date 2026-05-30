@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41592-025-02776-2" target="_blank" rel="noopener noreferrer"><strong>Biophysics-based protein language models for protein engineering</strong></a>
+  <a href="https://machinelearning.apple.com/updates/reasoning-workshop-2025" target="_blank" rel="noopener noreferrer"><strong>Apple Workshop on Reasoning and Planning 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-20_00-46</em></p>
+<p align="center"><em>📅 Published: 2026-04-23_00-58</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
