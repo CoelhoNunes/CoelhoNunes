@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1622292/full" target="_blank" rel="noopener noreferrer"><strong>Survey and analysis of hallucinations in large language models: attribution to prompting strategies or model behavior</strong></a>
+  <a href="https://www.cnet.com/tech/services-and-software/chatgpt-glossary-52-ai-terms-everyone-should-know/" target="_blank" rel="noopener noreferrer"><strong>ChatGPT Glossary: 52 AI Terms Everyone Should Know</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-27_03-19</em></p>
+<p align="center"><em>📅 Published: 2025-06-15_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
