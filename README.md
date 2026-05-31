@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-60865-4" target="_blank" rel="noopener noreferrer"><strong>A machine learning model using clinical notes to identify physician fatigue</strong></a>
+  <a href="https://www.ibm.com/think/topics/lora" target="_blank" rel="noopener noreferrer"><strong>What is LoRA (Low-Rank Adaption)?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-08_00-48</em></p>
+<p align="center"><em>📅 Published: 2025-07-13_02-28</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
