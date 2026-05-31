@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/topics/lora" target="_blank" rel="noopener noreferrer"><strong>What is LoRA (Low-Rank Adaption)?</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1622292/full" target="_blank" rel="noopener noreferrer"><strong>Survey and analysis of hallucinations in large language models: attribution to prompting strategies or model behavior</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-13_02-28</em></p>
+<p align="center"><em>📅 Published: 2026-03-27_03-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
