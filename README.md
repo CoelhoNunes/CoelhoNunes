@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.kdnuggets.com/how-ai-agents-will-transform-data-science-work-in-2026" target="_blank" rel="noopener noreferrer"><strong>How AI Agents Will Transform Data Science Work in 2026</strong></a>
+  <a href="https://eu.36kr.com/en/p/3616208164635650" target="_blank" rel="noopener noreferrer"><strong>Yu Dong, Deputy Director of Tencent AI Lab, Leaves the Company; "New-Old Handover" in Hunyuan Team Underway | Exclusive Report from Intelligence Emergence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-14_01-08</em></p>
+<p align="center"><em>📅 Published: 2025-12-30_02-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
