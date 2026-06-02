@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://eu.36kr.com/en/p/3616208164635650" target="_blank" rel="noopener noreferrer"><strong>Yu Dong, Deputy Director of Tencent AI Lab, Leaves the Company; "New-Old Handover" in Hunyuan Team Underway | Exclusive Report from Intelligence Emergence</strong></a>
+  <a href="https://www.washingtonpost.com/business/2025/10/29/ai-new-jobs/" target="_blank" rel="noopener noreferrer"><strong>As AI reshapes the job market, here are 16 roles it has created</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-30_02-12</em></p>
+<p align="center"><em>📅 Published: 2025-11-02_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
