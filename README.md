@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bioengineer.org/innovative-ai-model-deciphers-dna-sequences-to-trace-ancestral-lineages/" target="_blank" rel="noopener noreferrer"><strong>Innovative AI Model Deciphers DNA Sequences to Trace Ancestral Lineages</strong></a>
+  <a href="https://www.nature.com/articles/s41467-025-59636-y" target="_blank" rel="noopener noreferrer"><strong>Exploration of crystal chemical space using text-guided generative artificial intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-05_00-59</em></p>
+<p align="center"><em>📅 Published: 2025-10-23_01-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
