@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.techtarget.com/whatis/feature/Foundation-models-explained-Everything-you-need-to-know" target="_blank" rel="noopener noreferrer"><strong>Foundation Models Explained: Everything You Need to Know</strong></a>
+  <a href="https://www.colorado.edu/cs/cu-boulder-launching-masters-artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>CU Boulder launching master’s degrees in artificial intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-14_02-23</em></p>
+<p align="center"><em>📅 Published: 2026-02-16_00-48</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
