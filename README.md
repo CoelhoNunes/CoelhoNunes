@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.tradingview.com/news/zacks:a979311dd094b:0-can-sanmina-s-ai-investment-strategy-drive-future-growth/" target="_blank" rel="noopener noreferrer"><strong>Can Sanmina's AI Investment Strategy Drive Future Growth?</strong></a>
+  <a href="https://bioengineer.org/swri-unveils-games-a-novel-chemistry-llm-to-accelerate-drug-discovery/" target="_blank" rel="noopener noreferrer"><strong>SwRI Unveils GAMES: A Novel Chemistry LLM to Accelerate Drug Discovery</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-15_02-14</em></p>
+<p align="center"><em>📅 Published: 2025-08-15_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
