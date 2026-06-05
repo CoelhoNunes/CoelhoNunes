@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bioengineer.org/swri-unveils-games-a-novel-chemistry-llm-to-accelerate-drug-discovery/" target="_blank" rel="noopener noreferrer"><strong>SwRI Unveils GAMES: A Novel Chemistry LLM to Accelerate Drug Discovery</strong></a>
+  <a href="https://www.ainvest.com/news/titans-ai-unveiling-high-growth-companies-shaping-future-business-marketing-2508/" target="_blank" rel="noopener noreferrer"><strong>The New Titans of AI: Unveiling the High-Growth Companies Shaping the Future of Business and Marketing</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-15_02-10</em></p>
+<p align="center"><em>📅 Published: 2025-08-06_02-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
