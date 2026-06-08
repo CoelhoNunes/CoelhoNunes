@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.analyticsinsight.net/photo/top-5-ai-certifications-for-freshers" target="_blank" rel="noopener noreferrer"><strong>Top 5 AI Certifications for Freshers</strong></a>
+  <a href="https://www.nature.com/articles/s41467-025-58588-7" target="_blank" rel="noopener noreferrer"><strong>CodonTransformer: a multispecies codon optimizer using context-aware neural networks</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-21_02-25</em></p>
+<p align="center"><em>📅 Published: 2025-09-22_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
