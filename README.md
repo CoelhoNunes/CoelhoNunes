@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.futuristsspeakers.com/ai-association-keynote-speaker-futurist/" target="_blank" rel="noopener noreferrer"><strong>AI ASSOCIATION KEYNOTE SPEAKER FOR EVENTS: HIRE ARTIFICIAL INTELLIGENCE FUTURIST EXPERT</strong></a>
+  <a href="https://www.nature.com/articles/d41586-025-02495-w" target="_blank" rel="noopener noreferrer"><strong>OpenAI launches reasoning LLM that you can download and tweak</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-15_00-57</em></p>
+<p align="center"><em>📅 Published: 2025-08-28_01-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
