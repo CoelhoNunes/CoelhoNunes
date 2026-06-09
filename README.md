@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/sa/artificial-intelligence/large-language-model/" target="_blank" rel="noopener noreferrer"><strong>Everything You Need to Know About Large Language Models</strong></a>
+  <a href="https://www.nature.com/articles/s41746-025-01840-7" target="_blank" rel="noopener noreferrer"><strong>Accelerating clinical evidence synthesis with large language models - npj Digital Medicine</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-10_00-53</em></p>
+<p align="center"><em>📅 Published: 2026-05-08_01-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
