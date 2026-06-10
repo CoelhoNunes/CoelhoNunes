@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/09/10/meet-mmbert-an-encoder-only-language-model-pretrained-on-3t-tokens-of-multilingual-text-in-over-1800-languages-and-2-4x-faster-than-previous-models/" target="_blank" rel="noopener noreferrer"><strong>Meet mmBERT: An Encoder-only Language Model Pretrained on 3T Tokens of Multilingual Text in over 1800 Languages and 2–4× Faster than Previous Models</strong></a>
+  <a href="https://news.artnet.com/art-world/ai-cracks-archaeology-secrets-2637925" target="_blank" rel="noopener noreferrer"><strong>7 Times A.I. Helped Unlock Ancient Secrets</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-14_02-00</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_16-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
