@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.dailykos.com/stories/2025/6/4/2325777/-Branding-AI-And-The-Death-of-Language" target="_blank" rel="noopener noreferrer"><strong>Branding, AI, And The Death of Language</strong></a>
+  <a href="https://www.nature.com/articles/s42256-024-00976-7" target="_blank" rel="noopener noreferrer"><strong>What large language models know and what people think they know</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-04_16-35</em></p>
+<p align="center"><em>📅 Published: 2025-05-21_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
