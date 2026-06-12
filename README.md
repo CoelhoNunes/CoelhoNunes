@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bioengineer.org/generative-ai-promises-cost-savings-in-machine-learning-but-elevates-cyberattack-and-data-leak-risks-expert-warns/" target="_blank" rel="noopener noreferrer"><strong>Generative AI Promises Cost Savings in Machine Learning but Elevates</strong></a>
+  <a href="http://news.ucsc.edu/2025/02/ai-browser-tracks.html" target="_blank" rel="noopener noreferrer"><strong>Newest Genome Browser features highlight the power of generative AI and machine learning for biology</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-23_00-58</em></p>
+<p align="center"><em>📅 Published: 2025-05-24_16-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
