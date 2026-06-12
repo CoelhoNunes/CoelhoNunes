@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.analyticsinsight.net/courses/driving-innovation-with-generative-ai-mit-xpro" target="_blank" rel="noopener noreferrer"><strong>Driving Innovation with Generative AI, MIT xPRO</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/aws-ai-league-atos-fine-tunes-approach-to-ai-education/" target="_blank" rel="noopener noreferrer"><strong>AWS AI League: Atos fine-tunes approach to AI education</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-12_00-47</em></p>
+<p align="center"><em>📅 Published: 2026-03-21_00-44</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
