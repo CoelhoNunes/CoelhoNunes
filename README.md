@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/aws-ai-league-atos-fine-tunes-approach-to-ai-education/" target="_blank" rel="noopener noreferrer"><strong>AWS AI League: Atos fine-tunes approach to AI education</strong></a>
+  <a href="https://www.nature.com/articles/s41598-025-10670-2" target="_blank" rel="noopener noreferrer"><strong>Transfer learning driven fake news detection and classification using large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-21_00-44</em></p>
+<p align="center"><em>📅 Published: 2025-08-07_02-29</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
