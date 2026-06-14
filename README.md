@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://hub.jhu.edu/2025/10/13/mark-dredze-johns-hopkins-dsai-director/" target="_blank" rel="noopener noreferrer"><strong>Computer scientist Mark Dredze named director of Johns Hopkins Data Science and AI Institute</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/here-technologies-boosts-developer-productivity-with-new-generative-ai-powered-coding-assistant/" target="_blank" rel="noopener noreferrer"><strong>HERE Technologies boosts developer productivity with new generative AI-powered coding assistant</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-14_01-55</em></p>
+<p align="center"><em>📅 Published: 2025-09-20_01-50</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
