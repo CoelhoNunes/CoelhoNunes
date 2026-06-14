@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/here-technologies-boosts-developer-productivity-with-new-generative-ai-powered-coding-assistant/" target="_blank" rel="noopener noreferrer"><strong>HERE Technologies boosts developer productivity with new generative AI-powered coding assistant</strong></a>
+  <a href="https://www.nature.com/articles/s41598-025-26705-7" target="_blank" rel="noopener noreferrer"><strong>Large language models versus classical machine learning performance in COVID-19 mortality prediction using high-dimensional tabular data</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-20_01-50</em></p>
+<p align="center"><em>📅 Published: 2026-03-26_02-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
