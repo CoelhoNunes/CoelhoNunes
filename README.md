@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://market.us/report/ai-search-engine-market/" target="_blank" rel="noopener noreferrer"><strong>AI Search Engine Market Size | CAGR of 15.6%</strong></a>
+  <a href="https://ojs.aaai.org/index.php/AAAI/issue/view/716" target="_blank" rel="noopener noreferrer"><strong>Vol. 40 No. 34: AAAI-26 Technical Tracks 34</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-03_01-50</em></p>
+<p align="center"><em>📅 Published: 2026-05-27_01-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
