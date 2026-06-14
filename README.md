@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-26705-7" target="_blank" rel="noopener noreferrer"><strong>Large language models versus classical machine learning performance in COVID-19 mortality prediction using high-dimensional tabular data</strong></a>
+  <a href="https://hai.stanford.edu/news/todays-ai-talks-like-nobody-new-research-gives-it-real-personality" target="_blank" rel="noopener noreferrer"><strong>Today's AI Talks Like “Nobody.” New Research Gives It Real Personality.</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-26_02-57</em></p>
+<p align="center"><em>📅 Published: 2026-06-09_01-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
