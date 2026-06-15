@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.precedenceresearch.com/ai-chips-for-data-center-and-cloud-market" target="_blank" rel="noopener noreferrer"><strong>AI Chips for Data Center and Cloud Market Size, Report by 2035</strong></a>
+  <a href="https://towardsdatascience.com/detecting-malicious-urls-using-lstm-and-googles-bert-models/" target="_blank" rel="noopener noreferrer"><strong>Detecting Malicious URLs Using LSTM and Google’s BERT Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-01_02-30</em></p>
+<p align="center"><em>📅 Published: 2025-05-29_16-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
