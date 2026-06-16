@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://vocal.media/futurism/ai-in-gaming-market-expands-rapidly-with-smart-gaming-tools" target="_blank" rel="noopener noreferrer"><strong>AI in Gaming Market Expands Rapidly with Smart Gaming Tools</strong></a>
+  <a href="https://machinelearning.apple.com/research/fast-vision-language-models" target="_blank" rel="noopener noreferrer"><strong>FastVLM: Efficient Vision Encoding for Vision Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-06-06_01-10</em></p>
+<p align="center"><em>📅 Published: 2025-08-30_01-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
