@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/fast-vision-language-models" target="_blank" rel="noopener noreferrer"><strong>FastVLM: Efficient Vision Encoding for Vision Language Models</strong></a>
+  <a href="https://www.infoworld.com/article/4088517/metas-spice-framework-pushes-ai-toward-self-learning-without-human-supervision.html" target="_blank" rel="noopener noreferrer"><strong>Meta’s SPICE framework pushes AI toward self-learning without human supervision</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-30_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-12-08_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
