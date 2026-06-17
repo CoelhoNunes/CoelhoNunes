@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-14923-y" target="_blank" rel="noopener noreferrer"><strong>Development and validation of large language model rating scales for automatically transcribed psychological therapy sessions</strong></a>
+  <a href="https://tech.yahoo.com/ai/articles/best-free-online-classes-level-143220968.html" target="_blank" rel="noopener noreferrer"><strong>Become an AI Expert (or at Least Come Close) With Our Favorite Free Classes</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-28_01-02</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_16-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
