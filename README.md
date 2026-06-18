@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/detecting-malicious-urls-using-lstm-and-googles-bert-models/" target="_blank" rel="noopener noreferrer"><strong>Detecting Malicious URLs Using LSTM and Google’s BERT Models</strong></a>
+  <a href="https://winbuzzer.com/2025/12/16/ai2s-new-bolmo-byteified-language-model-was-trained-at-1-of-the-typical-cost-xcxwbn/" target="_blank" rel="noopener noreferrer"><strong>Byteification: AI2’s New Bolmo AI Model Cuts AI Training Costs by 99%</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-29_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-12-17_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
