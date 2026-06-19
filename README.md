@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.dailychhattisgarh.com/news/beyond-the-buzzwords-are-these-5-agentic-ai-myths-stalling-your-business-breakthrough/1233/" target="_blank" rel="noopener noreferrer"><strong>Beyond the Buzzwords: Are These 5 Agentic AI Myths Stalling Your Business Breakthrough?</strong></a>
+  <a href="https://www.medianama.com/2026/06/223-jiohotstar-expands-ai-team-builds-new-ai-division/" target="_blank" rel="noopener noreferrer"><strong>JioHotstar expands AI team, plans new generative entertainment division</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-31_08-35</em></p>
+<p align="center"><em>📅 Published: 2026-06-04_01-24</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
