@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.sciencedirect.com/science/article/pii/S0720048X25000701" target="_blank" rel="noopener noreferrer"><strong>Aligning large language models with radiologists by reinforcement learning from AI feedback for chest CT reports</strong></a>
+  <a href="https://embeddedcomputing.com/technology/ai-machine-learning/powering-ai-addressing-the-energy-needs-of-data-centers" target="_blank" rel="noopener noreferrer"><strong>Powering AI: Addressing the Energy Needs of Data Centers</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-17_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-06-14_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
