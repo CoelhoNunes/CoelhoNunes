@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://builtin.com/artificial-intelligence/generative-ai" target="_blank" rel="noopener noreferrer"><strong>What Is Generative AI?</strong></a>
+  <a href="https://www.oracle.com/bz/artificial-intelligence/large-language-model/" target="_blank" rel="noopener noreferrer"><strong>Everything You Need to Know About Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-13_02-02</em></p>
+<p align="center"><em>📅 Published: 2025-09-28_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
