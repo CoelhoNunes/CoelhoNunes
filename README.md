@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bioengineer.org/swri-and-texas-biomed-collaborate-to-test-antiviral-compounds-against-ebola-virus/" target="_blank" rel="noopener noreferrer"><strong>SwRI and Texas Biomed Collaborate to Test Antiviral Compounds Against Ebola Virus</strong></a>
+  <a href="https://www.netguru.com/blog/transformer-models-in-nlp" target="_blank" rel="noopener noreferrer"><strong>Transformer Models in Natural Language Processing</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-27_01-12</em></p>
+<p align="center"><em>📅 Published: 2025-09-19_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
