@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.netguru.com/blog/llm-use-cases-in-e-commerce" target="_blank" rel="noopener noreferrer"><strong>17 Proven LLM Use Cases in E-commerce That Boost Sales in 2025</strong></a>
+  <a href="https://techxplore.com/news/2025-09-apertus-fully-transparent-multilingual-language.html" target="_blank" rel="noopener noreferrer"><strong>Apertus: A fully open, transparent, multilingual language model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-27_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-09-07_02-00</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
