@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://hai.stanford.edu/research/how-persuasive-is-ai-generated-propaganda" target="_blank" rel="noopener noreferrer"><strong>How Persuasive Is AI-generated Propaganda?</strong></a>
+  <a href="https://bioengineer.org/swri-and-texas-biomed-collaborate-to-test-antiviral-compounds-against-ebola-virus/" target="_blank" rel="noopener noreferrer"><strong>SwRI and Texas Biomed Collaborate to Test Antiviral Compounds Against Ebola Virus</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-08_16-37</em></p>
+<p align="center"><em>📅 Published: 2026-05-27_01-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
