@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://nationalmortgageprofessional.com/news/not-all-ai-developed-equally" target="_blank" rel="noopener noreferrer"><strong>Not All AI Is Developed Equally</strong></a>
+  <a href="https://www.theglobeandmail.com/culture/article-us-ai-startup-uses-canadian-casting-network-to-train-models/" target="_blank" rel="noopener noreferrer"><strong>AI startup uses Canadian casting networks to solicit actors, rattling industry</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-31_02-12</em></p>
+<p align="center"><em>📅 Published: 2026-03-25_02-51</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
