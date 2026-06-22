@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.theglobeandmail.com/culture/article-us-ai-startup-uses-canadian-casting-network-to-train-models/" target="_blank" rel="noopener noreferrer"><strong>AI startup uses Canadian casting networks to solicit actors, rattling industry</strong></a>
+  <a href="https://eu.36kr.com/en/p/3578453650479235" target="_blank" rel="noopener noreferrer"><strong>2026: The Most Powerful Wave of Artificial Intelligence to Hit as Sector Differentiation Intensifies</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-25_02-51</em></p>
+<p align="center"><em>📅 Published: 2025-12-04_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
