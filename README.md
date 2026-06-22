@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.netguru.com/blog/transformer-models-in-nlp" target="_blank" rel="noopener noreferrer"><strong>Transformer Models in Natural Language Processing</strong></a>
+  <a href="https://www.coursera.org/articles/what-math-do-i-need-to-know-for-ai" target="_blank" rel="noopener noreferrer"><strong>What Math Do I Need to Know for AI? 5 Types to Know</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-19_01-56</em></p>
+<p align="center"><em>📅 Published: 2026-06-16_01-24</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
