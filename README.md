@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.infoworld.com/article/4088517/metas-spice-framework-pushes-ai-toward-self-learning-without-human-supervision.html" target="_blank" rel="noopener noreferrer"><strong>Meta’s SPICE framework pushes AI toward self-learning without human supervision</strong></a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S2161831325000341" target="_blank" rel="noopener noreferrer"><strong>A Scoping Review of Artificial Intelligence for Precision Nutrition</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-08_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-08-03_02-34</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
