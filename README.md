@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://sloanreview.mit.edu/audio/building-better-answers-with-ai-agents-saps-walter-sun/" target="_blank" rel="noopener noreferrer"><strong>Building Better Answers With AI Agents: SAP’s Walter Sun</strong></a>
+  <a href="https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1597351/full" target="_blank" rel="noopener noreferrer"><strong>Application of artificial intelligence large language models in drug target discovery</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-20_16-39</em></p>
+<p align="center"><em>📅 Published: 2025-11-28_02-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
