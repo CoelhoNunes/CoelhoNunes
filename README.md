@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1597351/full" target="_blank" rel="noopener noreferrer"><strong>Application of artificial intelligence large language models in drug target discovery</strong></a>
+  <a href="https://www.infoworld.com/article/4088517/metas-spice-framework-pushes-ai-toward-self-learning-without-human-supervision.html" target="_blank" rel="noopener noreferrer"><strong>Meta’s SPICE framework pushes AI toward self-learning without human supervision</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-28_02-01</em></p>
+<p align="center"><em>📅 Published: 2025-12-08_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
