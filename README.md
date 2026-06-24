@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.britannica.com/technology/Midjourney" target="_blank" rel="noopener noreferrer"><strong>Midjourney | AI Technology, Tools, Versions, & History</strong></a>
+  <a href="https://www.spectroscopyonline.com/view/from-latent-variables-to-large-language-models-a-unified-glossary-bridging-chemometrics-machine-learning-and-artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>From Latent Variables to Large Language Models: A Unified Glossary Bridging Chemometrics, Machine Learning, and Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-06_02-18</em></p>
+<p align="center"><em>📅 Published: 2026-02-27_00-46</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
