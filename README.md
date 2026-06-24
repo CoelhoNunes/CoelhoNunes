@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-05940-y" target="_blank" rel="noopener noreferrer"><strong>Unveiling Arabic named entity recognition using natural language processing with artificial intelligence approach on Moroccan dialect</strong></a>
+  <a href="https://www.britannica.com/technology/Midjourney" target="_blank" rel="noopener noreferrer"><strong>Midjourney | AI Technology, Tools, Versions, & History</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-13_00-57</em></p>
+<p align="center"><em>📅 Published: 2025-06-06_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
