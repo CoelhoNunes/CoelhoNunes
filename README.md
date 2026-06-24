@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2025.1622873/full" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence in civil engineering: emerging applications and opportunities</strong></a>
+  <a href="https://www.nortonrosefulbright.com/en/knowledge/publications/87200379/practical-commentary-regarding-copyright-and-generative-ai-training" target="_blank" rel="noopener noreferrer"><strong>Practical commentary regarding copyright and generative AI training</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-27_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-06-08_02-28</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
