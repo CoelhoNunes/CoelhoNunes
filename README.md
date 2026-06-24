@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.spectroscopyonline.com/view/from-latent-variables-to-large-language-models-a-unified-glossary-bridging-chemometrics-machine-learning-and-artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>From Latent Variables to Large Language Models: A Unified Glossary Bridging Chemometrics, Machine Learning, and Artificial Intelligence</strong></a>
+  <a href="https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2025.1622873/full" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence in civil engineering: emerging applications and opportunities</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-27_00-46</em></p>
+<p align="center"><em>📅 Published: 2025-06-27_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
