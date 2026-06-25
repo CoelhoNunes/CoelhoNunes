@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nortonrosefulbright.com/en/knowledge/publications/87200379/practical-commentary-regarding-copyright-and-generative-ai-training" target="_blank" rel="noopener noreferrer"><strong>Practical commentary regarding copyright and generative AI training</strong></a>
+  <a href="https://www.wired.com/story/google-deepminds-ai-agent-dreams-up-algorithms-beyond-human-expertise/" target="_blank" rel="noopener noreferrer"><strong>Google DeepMind’s AI Agent Dreams Up Algorithms Beyond Human Expertise</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-08_02-28</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
