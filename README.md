@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://quantumzeitgeist.com/deep-rl-results-deepdive-advances-search-agents-knowledge-graphs-achieving-competitive/" target="_blank" rel="noopener noreferrer"><strong>Deepdive Advances Deep Search Agents with Knowledge Graphs, Achieving Competitive Results on BrowseComp Using a 32B Model and Multi-turn RL</strong></a>
+  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/nested-learning-ai-tackles-catastrophic-forgetting/" target="_blank" rel="noopener noreferrer"><strong>Nested Learning AI Tackles Catastrophic Forgetting</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-17_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-11-09_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
