@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/nested-learning-ai-tackles-catastrophic-forgetting/" target="_blank" rel="noopener noreferrer"><strong>Nested Learning AI Tackles Catastrophic Forgetting</strong></a>
+  <a href="https://www.openpr.com/news/4144800/ai-powered-drug-discovery-in-dermatology-in-healthcare-market" target="_blank" rel="noopener noreferrer"><strong>AI-Powered Drug Discovery in Dermatology in Healthcare Market</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-09_02-06</em></p>
+<p align="center"><em>📅 Published: 2025-08-16_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
