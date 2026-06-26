@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/latam/artificial-intelligence/ai-vs-gen-ai-vs-ml/" target="_blank" rel="noopener noreferrer"><strong>AI vs. GenAI vs. ML: What You Need to Know</strong></a>
+  <a href="https://huggingface.co/deepseek-ai/DeepSeek-R1" target="_blank" rel="noopener noreferrer"><strong>deepseek-ai/DeepSeek-R1</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-08_00-48</em></p>
+<p align="center"><em>📅 Published: 2025-05-18_17-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
