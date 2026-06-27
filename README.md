@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/how-llms-work-pre-training-to-post-training-neural-networks-hallucinations-and-inference/" target="_blank" rel="noopener noreferrer"><strong>How LLMs Work: Pre-Training to Post-Training, Neural Networks, Hallucinations, and Inference</strong></a>
+  <a href="https://www.marktechpost.com/2025/05/21/rxtx-a-machine-learning-guided-algorithm-for-efficient-structured-matrix-multiplication/?amp" target="_blank" rel="noopener noreferrer"><strong>RXTX: A Machine Learning-Guided Algorithm for Efficient Structured Matrix Multiplication</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-21_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
