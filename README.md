@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.thetransmitter.org/artificial-intelligence/transforming-ai-models-into-useful-model-organisms/" target="_blank" rel="noopener noreferrer"><strong>Transforming AI models into useful model organisms</strong></a>
+  <a href="https://www.kdnuggets.com/how-to-become-an-ai-engineer-in-2026-a-self-study-roadmap" target="_blank" rel="noopener noreferrer"><strong>How to Become an AI Engineer in 2026: A Self-Study Roadmap</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-06-23_01-09</em></p>
+<p align="center"><em>📅 Published: 2026-02-05_00-47</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
