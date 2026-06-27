@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s42256-026-01186-z" target="_blank" rel="noopener noreferrer"><strong>A robot operating system framework for using large language models in embodied AI</strong></a>
+  <a href="https://towardsdatascience.com/how-llms-work-pre-training-to-post-training-neural-networks-hallucinations-and-inference/" target="_blank" rel="noopener noreferrer"><strong>How LLMs Work: Pre-Training to Post-Training, Neural Networks, Hallucinations, and Inference</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-17_00-45</em></p>
+<p align="center"><em>📅 Published: 2025-09-21_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
