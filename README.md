@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/customize-agent-workflows-with-advanced-orchestration-techniques-using-strands-agents/" target="_blank" rel="noopener noreferrer"><strong>Customize agent workflows with advanced orchestration techniques using Strands Agents | Amazon Web Services</strong></a>
+  <a href="https://sakana.ai/rlt/" target="_blank" rel="noopener noreferrer"><strong>Reinforcement Learning Teachers of Test Time Scaling</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-06-13_01-18</em></p>
+<p align="center"><em>📅 Published: 2025-06-30_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
