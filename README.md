@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://sakana.ai/rlt/" target="_blank" rel="noopener noreferrer"><strong>Reinforcement Learning Teachers of Test Time Scaling</strong></a>
+  <a href="https://ai.meta.com/blog/dinov3-self-supervised-vision-model/" target="_blank" rel="noopener noreferrer"><strong>DINOv3: Self-supervised learning for vision at unprecedented scale</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-30_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-12-26_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
