@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.fierce-network.com/modernization/opinion-americas-great-ai-hallucination" target="_blank" rel="noopener noreferrer"><strong>Opinion: America’s great AI hallucination</strong></a>
+  <a href="https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/?amp" target="_blank" rel="noopener noreferrer"><strong>Meet 'kvcached': A Machine Learning Library to Enable Virtualized, Elastic KV Cache for LLM Serving on Shared GPUs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-07_02-13</em></p>
+<p align="center"><em>📅 Published: 2025-10-27_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
