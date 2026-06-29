@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://huggingface.co/CompVis/stable-diffusion-v1-4" target="_blank" rel="noopener noreferrer"><strong>CompVis/stable-diffusion-v1-4</strong></a>
+  <a href="https://www.analyticsinsight.net/professional-courses/professional-certificate-in-ai-machine-learning-purdue-university" target="_blank" rel="noopener noreferrer"><strong>Professional Certificate in AI & Machine Learning, Purdue University</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-18_17-25</em></p>
+<p align="center"><em>📅 Published: 2025-12-09_02-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
