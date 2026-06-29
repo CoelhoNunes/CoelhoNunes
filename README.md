@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/" target="_blank" rel="noopener noreferrer"><strong>Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock</strong></a>
+  <a href="https://huggingface.co/CompVis/stable-diffusion-v1-4" target="_blank" rel="noopener noreferrer"><strong>CompVis/stable-diffusion-v1-4</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-01_00-52</em></p>
+<p align="center"><em>📅 Published: 2025-05-18_17-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
