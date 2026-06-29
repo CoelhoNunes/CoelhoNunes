@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techxplore.com/news/2025-06-lost-middle-llm-architecture-ai.html" target="_blank" rel="noopener noreferrer"><strong>Lost in the middle: How LLM architecture and training data shape AI's position bias</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/" target="_blank" rel="noopener noreferrer"><strong>Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-18_02-06</em></p>
+<p align="center"><em>📅 Published: 2026-03-01_00-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
