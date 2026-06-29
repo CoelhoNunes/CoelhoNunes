@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://ai.meta.com/blog/dinov3-self-supervised-vision-model/" target="_blank" rel="noopener noreferrer"><strong>DINOv3: Self-supervised learning for vision at unprecedented scale</strong></a>
+  <a href="https://organiser.org/2026/01/30/337551/bharat/how-2000-year-old-paninian-grammar-is-shaping-indias-new-ai-model/" target="_blank" rel="noopener noreferrer"><strong>How 2,000-year-old paninian grammar is shaping India’s new AI model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-26_02-10</em></p>
+<p align="center"><em>📅 Published: 2026-01-31_00-42</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
