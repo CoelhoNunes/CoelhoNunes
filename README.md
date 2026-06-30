@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/07/17/nvidia-ai-releases-canary-qwen-2-5b-a-state-of-the-art-asr-llm-hybrid-model-with-sota-performance-on-openasr-leaderboard/" target="_blank" rel="noopener noreferrer"><strong>NVIDIA AI Releases Canary-Qwen-2.5B: A State-of-the-Art ASR-LLM Hybrid Model with SoTA Performance on OpenASR Leaderboard</strong></a>
+  <a href="https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-natural-language-processing-definition-applications-techniques-and-tools/" target="_blank" rel="noopener noreferrer"><strong>What Is Natural Language Processing (NLP)? Meaning, Techniques, and Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-27_02-31</em></p>
+<p align="center"><em>📅 Published: 2025-06-01_16-36</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
