@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.analyticsinsight.net/professional-courses/professional-certificate-in-ai-machine-learning-purdue-university" target="_blank" rel="noopener noreferrer"><strong>Professional Certificate in AI & Machine Learning, Purdue University</strong></a>
+  <a href="https://www.marktechpost.com/2025/07/17/nvidia-ai-releases-canary-qwen-2-5b-a-state-of-the-art-asr-llm-hybrid-model-with-sota-performance-on-openasr-leaderboard/" target="_blank" rel="noopener noreferrer"><strong>NVIDIA AI Releases Canary-Qwen-2.5B: A State-of-the-Art ASR-LLM Hybrid Model with SoTA Performance on OpenASR Leaderboard</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-09_02-12</em></p>
+<p align="center"><em>📅 Published: 2025-07-27_02-31</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
