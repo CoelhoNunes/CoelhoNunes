@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.miragenews.com/new-method-speeds-up-ai-model-development-1497712/" target="_blank" rel="noopener noreferrer"><strong>New Method Speeds Up AI Model Development</strong></a>
+  <a href="https://www.rcrwireless.com/20250606/ai-ml/ai-telecom-front-line-force" target="_blank" rel="noopener noreferrer"><strong>AI in telecom – from quiet power to front-line force</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-17_02-21</em></p>
+<p align="center"><em>📅 Published: 2025-06-08_21-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
