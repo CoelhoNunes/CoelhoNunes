@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-24725-x" target="_blank" rel="noopener noreferrer"><strong>Reconstructing impaired language using generative AI for people with aphasia</strong></a>
+  <a href="https://towardsdatascience.com/evaluating-llms-for-inference-or-lessons-from-teaching-for-machine-learning/" target="_blank" rel="noopener noreferrer"><strong>Evaluating LLMs for Inference, or Lessons from Teaching for Machine Learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-19_00-49</em></p>
+<p align="center"><em>📅 Published: 2025-09-28_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
