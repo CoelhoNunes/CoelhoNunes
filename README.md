@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.shell.com/what-we-do/digitalisation/artificial-intelligence.html" target="_blank" rel="noopener noreferrer"><strong>Artificial Intelligence</strong></a>
+  <a href="https://builtin.com/artificial-intelligence/apple-ai-strategy" target="_blank" rel="noopener noreferrer"><strong>Inside Apple’s Artificial Intelligence Strategy</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-11_02-31</em></p>
+<p align="center"><em>📅 Published: 2026-04-06_00-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
