@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://openai.com/index/why-language-models-hallucinate/" target="_blank" rel="noopener noreferrer"><strong>Why language models hallucinate</strong></a>
+  <a href="https://www.techrepublic.com/article/news-free-low-cost-ai-certifications-2026/" target="_blank" rel="noopener noreferrer"><strong>Want AI Skills Without the Big Price Tag? These 2026 Certifications Deliver Value</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-04_01-48</em></p>
+<p align="center"><em>📅 Published: 2026-05-08_01-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
