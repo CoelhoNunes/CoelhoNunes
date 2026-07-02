@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techcrunch.com/2025/05/22/anthropic-ceo-claims-ai-models-hallucinate-less-than-humans/" target="_blank" rel="noopener noreferrer"><strong>Anthropic CEO claims AI models hallucinate less than humans</strong></a>
+  <a href="https://www.chosun.com/english/industry-en/2025/08/12/UXFPBGK245EC3OT4J6MLZUEMNE/" target="_blank" rel="noopener noreferrer"><strong>NCSoft and Krafton accelerate hiring for national AI model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-26_09-01</em></p>
+<p align="center"><em>📅 Published: 2025-08-12_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
