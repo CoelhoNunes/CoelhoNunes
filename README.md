@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-10-27-ai-accelerates-automotive-remarketing-a-revolution-in-efficiency-pricing-and-personalization" target="_blank" rel="noopener noreferrer"><strong>AI Accelerates Automotive Remarketing: A Revolution in Efficiency, Pricing, and Personalization</strong></a>
+  <a href="https://www.cbc.ca/news/canada/new-brunswick/nb-researcher-optimistic-caution-ai-9.7052838" target="_blank" rel="noopener noreferrer"><strong>N.B. prof named among world's top AI researchers. Here's how he sees its future</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-29_02-05</em></p>
+<p align="center"><em>📅 Published: 2026-01-23_00-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
