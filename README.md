@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.wsj.com/tech/ai/yann-lecun-ai-meta-0058b13c?gaa_at=eafs&gaa_n=AWEtsqcO0G4myo6DxqYycDsABDIgsNSvPaFu2a_z57vX07EHcrDe_28pU3zC&gaa_ts=691bd77e&gaa_sig=Do2ilKoDlAeJZcGOisB-XfMFD-boW9c4XxQ7_gYyWdsIBwZk4yQ8vZZLGeb-tOqvpJyMcbDA56fjeR7mL4QBSg%3D%3D" target="_blank" rel="noopener noreferrer"><strong>He’s Been Right About AI for 40 Years. Now He Thinks Everyone Is Wrong.</strong></a>
+  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-10-27-ai-accelerates-automotive-remarketing-a-revolution-in-efficiency-pricing-and-personalization" target="_blank" rel="noopener noreferrer"><strong>AI Accelerates Automotive Remarketing: A Revolution in Efficiency, Pricing, and Personalization</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-18_02-03</em></p>
+<p align="center"><em>📅 Published: 2025-10-29_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
