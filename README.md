@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.hindustantimes.com/education/admissions/shape-the-future-of-innovation-with-iitm-pravartak-s-generative-ai-and-machine-learning-programme-101747304050389.html" target="_blank" rel="noopener noreferrer"><strong>Shape the future of innovation with IITM Pravartak’s Generative AI and Machine Learning Programme</strong></a>
+  <a href="https://towardsdatascience.com/how-to-become-an-ai-engineer-fast-skills-projects-salary/" target="_blank" rel="noopener noreferrer"><strong>How to Become an AI Engineer Fast (Skills, Projects, Salary)</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_16-18</em></p>
+<p align="center"><em>📅 Published: 2026-03-31_03-17</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
