@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.theglobeandmail.com/culture/article-us-ai-startup-uses-canadian-casting-network-to-train-models/" target="_blank" rel="noopener noreferrer"><strong>AI startup uses Canadian casting networks to solicit actors, rattling industry</strong></a>
+  <a href="https://semiengineering.com/optimizing-ai-workloads-for-edge-computing/" target="_blank" rel="noopener noreferrer"><strong>Optimizing AI Workloads For Edge Computing</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-25_02-51</em></p>
+<p align="center"><em>📅 Published: 2025-12-04_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
