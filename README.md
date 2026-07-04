@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://semiengineering.com/optimizing-ai-workloads-for-edge-computing/" target="_blank" rel="noopener noreferrer"><strong>Optimizing AI Workloads For Edge Computing</strong></a>
+  <a href="https://inrix.com/blog/understanding-ai-machine-learning-and-generative-ai/" target="_blank" rel="noopener noreferrer"><strong>Understanding Artificial Intelligence, Machine Learning, & Generative AI: How Transportation Agencies Can Harness Intelligence from Probe Data</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-04_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-08-16_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
