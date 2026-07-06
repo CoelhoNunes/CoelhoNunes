@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.freethink.com/artificial-intelligence/raising-ai-excerpt" target="_blank" rel="noopener noreferrer"><strong>Why AI today is more toddler than Terminator</strong></a>
+  <a href="https://www.marktechpost.com/2026/01/15/google-ai-releases-translategemma-a-new-family-of-open-translation-models-built-on-gemma-3-with-support-for-55-languages/" target="_blank" rel="noopener noreferrer"><strong>Google AI Releases TranslateGemma: A New Family of Open Translation Models Built on Gemma 3 with Support for 55 Languages</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-10_02-08</em></p>
+<p align="center"><em>📅 Published: 2026-01-17_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
