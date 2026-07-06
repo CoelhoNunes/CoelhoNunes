@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://quantumzeitgeist.com/systems-models-compression-advances-intelligence-large-language/" target="_blank" rel="noopener noreferrer"><strong>Compression Advances Intelligence In Large Language Models And Multimedia Systems</strong></a>
+  <a href="https://www.marktechpost.com/2026/04/12/minimax-releases-mmx-cli-a-command-line-interface-that-gives-ai-agents-native-access-to-image-video-speech-music-vision-and-search/" target="_blank" rel="noopener noreferrer"><strong>MiniMax Releases MMX-CLI: A Command-Line Interface That Gives AI Agents Native Access to Image, Video, Speech, Music, Vision, and Search</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-31_00-42</em></p>
+<p align="center"><em>📅 Published: 2026-04-14_00-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
