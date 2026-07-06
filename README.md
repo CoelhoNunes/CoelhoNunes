@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2026/04/12/minimax-releases-mmx-cli-a-command-line-interface-that-gives-ai-agents-native-access-to-image-video-speech-music-vision-and-search/" target="_blank" rel="noopener noreferrer"><strong>MiniMax Releases MMX-CLI: A Command-Line Interface That Gives AI Agents Native Access to Image, Video, Speech, Music, Vision, and Search</strong></a>
+  <a href="https://www.freethink.com/artificial-intelligence/raising-ai-excerpt" target="_blank" rel="noopener noreferrer"><strong>Why AI today is more toddler than Terminator</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-14_00-56</em></p>
+<p align="center"><em>📅 Published: 2025-06-10_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
