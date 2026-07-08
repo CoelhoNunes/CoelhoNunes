@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-10-5-the-silicon-backbone-how-semiconductors-fuel-the-ai-revolution-and-drive-it-sector-growth" target="_blank" rel="noopener noreferrer"><strong>The Silicon Backbone: How Semiconductors Fuel the AI Revolution and Drive IT Sector Growth</strong></a>
+  <a href="https://www.unite.ai/ais-linguistic-ghosts-can-machines-revive-dead-languages-or-bury-them-forever/" target="_blank" rel="noopener noreferrer"><strong>AI’s Linguistic Ghosts: Can Machines Revive Dead Languages or Bury Them Forever?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-06_01-56</em></p>
+<p align="center"><em>📅 Published: 2025-08-29_01-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
