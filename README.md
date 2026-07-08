@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.hackster.io/news/axelera-ai-unveils-the-metis-m-2-max-a-higher-performance-accelerator-tuned-for-llms-and-vlms-146038cada83" target="_blank" rel="noopener noreferrer"><strong>Axelera AI Unveils the Metis M.2 Max, a Higher-Performance Accelerator Tuned for LLMs and VLMs</strong></a>
+  <a href="https://www.digitalinformationworld.com/2025/08/ai-language-models-show-brain-like.html" target="_blank" rel="noopener noreferrer"><strong>AI Language Models Show Brain-Like Understanding of Visual Scenes</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-10_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-08-09_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
