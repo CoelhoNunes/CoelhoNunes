@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ama-assn.org/practice-management/digital-health/doctors-use-ai-dramatically-here-s-cme-they-need" target="_blank" rel="noopener noreferrer"><strong>Doctors’ use of AI up dramatically. Here’s the CME they need.</strong></a>
+  <a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/stories/llms-across-industries" target="_blank" rel="noopener noreferrer"><strong>LLMs Across Industries: Recent Research on Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-21_02-00</em></p>
+<p align="center"><em>📅 Published: 2025-07-08_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
