@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.devdiscourse.com/article/technology/3927395-gpts-chatbots-and-machine-learning-drive-new-wave-of-ai-clinical-trial-records" target="_blank" rel="noopener noreferrer"><strong>GPTs, chatbots and machine learning drive new wave of AI clinical trial records</strong></a>
+  <a href="https://www.crn.com/news/software/2025/the-10-hottest-data-science-and-machine-learning-tools-of-2025-so-far" target="_blank" rel="noopener noreferrer"><strong>The 10 Hottest Data Science And Machine Learning Tools Of 2025 (So Far)</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-06-02_01-19</em></p>
+<p align="center"><em>📅 Published: 2025-06-21_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
