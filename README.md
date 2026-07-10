@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/how-formula-1-uses-generative-ai-to-accelerate-race-day-issue-resolution/" target="_blank" rel="noopener noreferrer"><strong>How Formula 1® uses generative AI to accelerate race-day issue resolution</strong></a>
+  <a href="https://www.nature.com/articles/s41467-025-60014-x" target="_blank" rel="noopener noreferrer"><strong>Generating dermatopathology reports from gigapixel whole slide images with HistoGPT</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-29_02-18</em></p>
+<p align="center"><em>📅 Published: 2026-02-23_00-48</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
