@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/updates/nlis-workshop-2025" target="_blank" rel="noopener noreferrer"><strong>Apple Workshop on Natural Language and Interactive Systems 2025</strong></a>
+  <a href="https://builtin.com/artificial-intelligence/generative-ai" target="_blank" rel="noopener noreferrer"><strong>What Is Generative AI?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-24_01-54</em></p>
+<p align="center"><em>📅 Published: 2025-10-13_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
