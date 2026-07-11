@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.precedenceresearch.com/ai-chips-for-data-center-and-cloud-market" target="_blank" rel="noopener noreferrer"><strong>AI Chips for Data Center and Cloud Market Size, Report by 2035</strong></a>
+  <a href="https://www.ibm.com/think/news/cracking-empire-of-ai" target="_blank" rel="noopener noreferrer"><strong>Cracking the ‘Empire of AI’: Author Karen Hao on power, data and the race to build superintelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-01_02-30</em></p>
+<p align="center"><em>📅 Published: 2025-06-01_02-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
