@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://blogs.nvidia.com/blog/neurips-open-source-digital-physical-ai/" target="_blank" rel="noopener noreferrer"><strong>At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI</strong></a>
+  <a href="https://www.theregister.com/2025/05/29/qa_adversarial_ai_financial_services_2025/" target="_blank" rel="noopener noreferrer"><strong>Adversarial AI: The new frontier in financial cybersecurity</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-13_00-50</em></p>
+<p align="center"><em>📅 Published: 2025-06-01_02-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
