@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/news/cracking-empire-of-ai" target="_blank" rel="noopener noreferrer"><strong>Cracking the ‘Empire of AI’: Author Karen Hao on power, data and the race to build superintelligence</strong></a>
+  <a href="https://blogs.nvidia.com/blog/neurips-open-source-digital-physical-ai/" target="_blank" rel="noopener noreferrer"><strong>At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-01_02-37</em></p>
+<p align="center"><em>📅 Published: 2026-02-13_00-50</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
