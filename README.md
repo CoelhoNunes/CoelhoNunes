@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/" target="_blank" rel="noopener noreferrer"><strong>Deciphering language processing in the human brain through LLM representations</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/advanced-fine-tuning-techniques-for-multi-agent-orchestration-patterns-from-amazon-at-scale/" target="_blank" rel="noopener noreferrer"><strong>Advanced fine-tuning techniques for multi-agent orchestration: Patterns from Amazon at scale | Amazon Web Services</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-28_08-39</em></p>
+<p align="center"><em>📅 Published: 2026-04-12_00-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
