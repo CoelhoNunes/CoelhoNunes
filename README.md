@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.tradingview.com/news/zacks:45f1e2db2094b:0-pltr-vs-cohr-which-ai-driven-tech-stock-has-more-upside-now/" target="_blank" rel="noopener noreferrer"><strong>PLTR vs. COHR: Which AI-Driven Tech Stock Has More Upside Now?</strong></a>
+  <a href="https://www.scmp.com/tech/big-tech/article/3314613/baidu-ramps-ai-hiring-china-faces-talent-crunch-joining-other-tech-giants" target="_blank" rel="noopener noreferrer"><strong>Baidu ramps up AI hiring as China faces talent crunch, joining other tech giants</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-28_16-38</em></p>
+<p align="center"><em>📅 Published: 2025-06-16_23-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
