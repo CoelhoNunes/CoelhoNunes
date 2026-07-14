@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1615761/full" target="_blank" rel="noopener noreferrer"><strong>Ethical implications of ChatGPT and other large language models in academia</strong></a>
+  <a href="https://www.predictiveanalyticsworld.com/machinelearningtimes/how-predictive-ai-will-solve-genais-deadly-reliability-problem/13859/" target="_blank" rel="noopener noreferrer"><strong>How Predictive AI Will Solve GenAI’s Deadly Reliability Problem</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-19_00-49</em></p>
+<p align="center"><em>📅 Published: 2025-06-16_23-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
