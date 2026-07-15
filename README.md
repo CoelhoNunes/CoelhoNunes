@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/09/17/ibm-ai-releases-granite-docling-258m-an-open-source-enterprise-ready-document-ai-model/" target="_blank" rel="noopener noreferrer"><strong>IBM AI Releases Granite-Docling-258M: An Open-Source, Enterprise-Ready Document AI Model</strong></a>
+  <a href="https://www.hackster.io/news/apple-opens-access-to-its-on-device-large-language-model-integrates-chatgpt-into-xcode-2abe4c6c5b18" target="_blank" rel="noopener noreferrer"><strong>Apple Opens Access to Its On-Device Large Language Model, Integrates ChatGPT Into Xcode</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-18_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-06-11_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
