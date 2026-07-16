@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S091450872500053X" target="_blank" rel="noopener noreferrer"><strong>AI-echocardiography: Current status and future direction</strong></a>
+  <a href="https://www.oracle.com/asean/artificial-intelligence/ai-translation/" target="_blank" rel="noopener noreferrer"><strong>Breaking language barriers: The power of AI translation</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-23_01-53</em></p>
+<p align="center"><em>📅 Published: 2026-03-04_00-45</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
