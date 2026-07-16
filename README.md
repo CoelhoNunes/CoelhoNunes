@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/enhance-document-analytics-with-strands-ai-agents-for-the-genai-idp-accelerator/" target="_blank" rel="noopener noreferrer"><strong>Enhance document analytics with Strands AI Agents for the GenAI IDP Accelerator</strong></a>
+  <a href="https://www.nature.com/articles/s41467-024-55158-1" target="_blank" rel="noopener noreferrer"><strong>Deep neural networks and humans both benefit from compositional language structure</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-23_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-05-24_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
