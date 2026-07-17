@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1494474/full" target="_blank" rel="noopener noreferrer"><strong>Recent advances in deep learning and language models for studying the microbiome</strong></a>
+  <a href="https://www.nature.com/articles/s41467-025-60014-x" target="_blank" rel="noopener noreferrer"><strong>Generating dermatopathology reports from gigapixel whole slide images with HistoGPT</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-01_08-36</em></p>
+<p align="center"><em>📅 Published: 2026-02-23_00-48</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
