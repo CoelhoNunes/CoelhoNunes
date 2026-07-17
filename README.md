@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2026/02/22/forget-keyword-imitation-bytedance-ai-maps-molecular-bonds-in-ai-reasoning-to-stabilize-long-chain-of-thought-performance-and-reinforcement-learning-rl-training/" target="_blank" rel="noopener noreferrer"><strong>Forget Keyword Imitation: ByteDance AI Maps Molecular Bonds in AI Reasoning to Stabilize Long Chain-of-Thought Performance and Reinforcement Learning (RL) Training</strong></a>
+  <a href="https://nerdbot.com/2026/01/15/top-generative-ai-course-in-chennai-with-live-projects-placement-support/" target="_blank" rel="noopener noreferrer"><strong>Top Generative AI Course in Chennai with Live Projects & Placement Support</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-25_00-49</em></p>
+<p align="center"><em>📅 Published: 2026-01-16_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
