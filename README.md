@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1494474/full" target="_blank" rel="noopener noreferrer"><strong>Recent advances in deep learning and language models for studying the microbiome</strong></a>
+  <a href="https://www.thefastmode.com/technology-solutions/43571-sk-telecom-krafton-unveil-7b-language-models-for-math-and-game-ai" target="_blank" rel="noopener noreferrer"><strong>SK Telecom, Krafton Unveil 7B Language Models for Math and Game AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-01_08-36</em></p>
+<p align="center"><em>📅 Published: 2025-07-29_02-33</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
