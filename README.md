@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://telecom.economictimes.indiatimes.com/news/enterprise-services/esds-unveils-advanced-nvidia-and-amd-powered-gpu-services-for-ai-development/125633292" target="_blank" rel="noopener noreferrer"><strong>ESDS launches Nvidia, AMD-powered sovereign GPU service for AI workloads</strong></a>
+  <a href="https://www.quantamagazine.org/to-understand-ai-watch-how-it-evolves-20250924/" target="_blank" rel="noopener noreferrer"><strong>To Understand AI, Watch How It Evolves</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-29_02-01</em></p>
+<p align="center"><em>📅 Published: 2025-09-25_01-55</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
