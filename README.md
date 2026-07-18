@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/wral/article/marketminute-2025-8-6-what-is-generative-ai-genai" target="_blank" rel="noopener noreferrer"><strong>What is Generative AI (GenAI)?</strong></a>
+  <a href="https://www.cato.org/policy-analysis/opportunity-costs-state-local-ai-regulation" target="_blank" rel="noopener noreferrer"><strong>Opportunity Costs of State and Local AI Regulation</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-07_02-29</em></p>
+<p align="center"><em>📅 Published: 2025-06-11_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
