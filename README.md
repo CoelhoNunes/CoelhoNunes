@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.sciencedirect.com/science/article/pii/S2001037025000078" target="_blank" rel="noopener noreferrer"><strong>The role of artificial intelligence and machine learning in predicting and combating antimicrobial resistance</strong></a>
+  <a href="https://quantumzeitgeist.com/ai-learns-physics-language-bypassing-huge/" target="_blank" rel="noopener noreferrer"><strong>AI Learns Physics From Language, Bypassing Huge Simulation Data Sets</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-30_02-19</em></p>
+<p align="center"><em>📅 Published: 2026-02-12_00-47</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
