@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/d41586-025-03891-y" target="_blank" rel="noopener noreferrer"><strong>Large language models are biased — local initiatives are fighting for change</strong></a>
+  <a href="https://www.aol.com/ai-system-found-kind-physics-130000953.html" target="_blank" rel="noopener noreferrer"><strong>An AI System Found a New Kind of Physics that Scientists Had Never Seen Before</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-24_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-08-09_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
