@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.universityworldnews.com/post.php?story=20260317194117821" target="_blank" rel="noopener noreferrer"><strong>Google DeepMind seeks to build AI skills in African HE</strong></a>
+  <a href="https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/" target="_blank" rel="noopener noreferrer"><strong>Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-18_00-48</em></p>
+<p align="center"><em>📅 Published: 2026-03-12_00-41</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
