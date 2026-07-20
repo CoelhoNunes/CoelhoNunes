@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/topics/mamba-model" target="_blank" rel="noopener noreferrer"><strong>What Is A Mamba Model?</strong></a>
+  <a href="https://www.nature.com/articles/s41598-025-05921-1" target="_blank" rel="noopener noreferrer"><strong>Cross-language dissemination of Chinese classical literature using multimodal deep learning and artificial intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-24_01-53</em></p>
+<p align="center"><em>📅 Published: 2025-09-30_01-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
