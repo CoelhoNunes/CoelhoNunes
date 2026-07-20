@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://vocal.media/futurism/top-agentic-ai-development-companies-in-the-uk-building-the-next-generation-of-autonomous-apps" target="_blank" rel="noopener noreferrer"><strong>Top Agentic AI Development Companies in the UK Building the Next Generation of Autonomous Apps</strong></a>
+  <a href="https://www.universityworldnews.com/post.php?story=20260317194117821" target="_blank" rel="noopener noreferrer"><strong>Google DeepMind seeks to build AI skills in African HE</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-12_01-02</em></p>
+<p align="center"><em>📅 Published: 2026-03-18_00-48</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
