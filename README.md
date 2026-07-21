@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s42256-025-01084-w" target="_blank" rel="noopener noreferrer"><strong>Mechanistic understanding and validation of large AI models with SemanticLens</strong></a>
+  <a href="https://www.theregister.com/2025/07/17/new_algorithms_boost_ai_perf/" target="_blank" rel="noopener noreferrer"><strong>Boffins detail new algorithms to losslessly boost AI perf by up to 2.8x</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-24_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-07-19_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
