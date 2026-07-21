@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://spectrum.ieee.org/deepmind-alphaevolve" target="_blank" rel="noopener noreferrer"><strong>New AI Model Advances the “Kissing Problem” and More</strong></a>
+  <a href="https://www.nature.com/articles/s42256-025-01084-w" target="_blank" rel="noopener noreferrer"><strong>Mechanistic understanding and validation of large AI models with SemanticLens</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-03</em></p>
+<p align="center"><em>📅 Published: 2025-12-24_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
