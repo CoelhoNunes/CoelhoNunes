@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-05921-1" target="_blank" rel="noopener noreferrer"><strong>Cross-language dissemination of Chinese classical literature using multimodal deep learning and artificial intelligence</strong></a>
+  <a href="https://www.marktechpost.com/2025/07/24/unsupervised-system-2-thinking-the-next-leap-in-machine-learning-with-energy-based-transformers/" target="_blank" rel="noopener noreferrer"><strong>Unsupervised System 2 Thinking: The Next Leap in Machine Learning with Energy-Based Transformers</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-30_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-07-27_02-31</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
