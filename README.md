@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/07/24/unsupervised-system-2-thinking-the-next-leap-in-machine-learning-with-energy-based-transformers/" target="_blank" rel="noopener noreferrer"><strong>Unsupervised System 2 Thinking: The Next Leap in Machine Learning with Energy-Based Transformers</strong></a>
+  <a href="https://spectrum.ieee.org/deepmind-alphaevolve" target="_blank" rel="noopener noreferrer"><strong>New AI Model Advances the “Kissing Problem” and More</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-27_02-31</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
