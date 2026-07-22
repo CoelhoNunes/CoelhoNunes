@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.openpr.com/news/4295176/deep-learning-market-is-projected-to-reach-usd-276-8-billion" target="_blank" rel="noopener noreferrer"><strong>Deep Learning Market is projected to reach USD 276.8 billion by 2034</strong></a>
+  <a href="https://www.medrxiv.org/content/10.64898/2026.03.05.26347766v1.full-text" target="_blank" rel="noopener noreferrer"><strong>Thyroid Cancer Risk Prediction from Multimodal Datasets Using Large Language Model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-02_02-06</em></p>
+<p align="center"><em>📅 Published: 2026-06-28_01-15</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
