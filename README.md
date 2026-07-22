@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://blogs.nvidia.com/blog/neurips-open-source-digital-physical-ai/" target="_blank" rel="noopener noreferrer"><strong>At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI</strong></a>
+  <a href="https://www.koreatimes.co.kr/business/tech-science/20251119/lg-lseg-launch-ai-powered-equity-forecast-service" target="_blank" rel="noopener noreferrer"><strong>LG, LSEG launch AI-powered equity forecast service</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-13_00-50</em></p>
+<p align="center"><em>📅 Published: 2025-11-23_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
