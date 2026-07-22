@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.medrxiv.org/content/10.64898/2026.03.05.26347766v1.full-text" target="_blank" rel="noopener noreferrer"><strong>Thyroid Cancer Risk Prediction from Multimodal Datasets Using Large Language Model</strong></a>
+  <a href="https://www.scmp.com/tech/big-tech/article/3314613/baidu-ramps-ai-hiring-china-faces-talent-crunch-joining-other-tech-giants" target="_blank" rel="noopener noreferrer"><strong>Baidu ramps up AI hiring as China faces talent crunch, joining other tech giants</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-06-28_01-15</em></p>
+<p align="center"><em>📅 Published: 2025-06-16_23-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
