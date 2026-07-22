@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.wsj.com/tech/ai/yann-lecun-ai-meta-0058b13c?gaa_at=eafs&gaa_n=AWEtsqcVI9SMaIJwSsMLrliqF1ur-r0nW65O_t1dNlpzxPvCQ-vi_h8WAVhd&gaa_ts=697ff7b9&gaa_sig=0_IGxn6nVLVKnfW3Ff7FHp-qhcjdfKR7xb-kzCQ9jHpXtFF2El4E8xvzT_6tsxyEWTS1FAyu4r-lrmZvgxxIqw%3D%3D" target="_blank" rel="noopener noreferrer"><strong>He’s Been Right About AI for 40 Years. Now He Thinks Everyone Is Wrong.</strong></a>
+  <a href="https://www.openpr.com/news/4295176/deep-learning-market-is-projected-to-reach-usd-276-8-billion" target="_blank" rel="noopener noreferrer"><strong>Deep Learning Market is projected to reach USD 276.8 billion by 2034</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-02_00-47</em></p>
+<p align="center"><em>📅 Published: 2025-12-02_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
