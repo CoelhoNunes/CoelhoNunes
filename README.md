@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.startuphub.ai/ai-news/ai-video/2025/vllm-solves-the-ai-model-serving-conundrum-at-scale/" target="_blank" rel="noopener noreferrer"><strong>vLLM Solves the AI Model Serving Conundrum at Scale</strong></a>
+  <a href="https://www.nature.com/articles/s44387-026-00081-7" target="_blank" rel="noopener noreferrer"><strong>Classroom AI: large language models as grade-specific teachers - npj Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-13_02-05</em></p>
+<p align="center"><em>📅 Published: 2026-04-10_00-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
