@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/05/24/optimizing-assembly-code-with-llms-reinforcement-learning-outperforms-traditional-compilers/" target="_blank" rel="noopener noreferrer"><strong>Optimizing Assembly Code with LLMs: Reinforcement Learning Outperforms Traditional Compilers</strong></a>
+  <a href="https://venturebeat.com/ai/googles-nested-learning-paradigm-could-solve-ais-memory-and-continual" target="_blank" rel="noopener noreferrer"><strong>Google’s ‘Nested Learning’ paradigm could solve AI's memory and continual learning problem</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-25_02-25</em></p>
+<p align="center"><em>📅 Published: 2025-11-22_01-58</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
