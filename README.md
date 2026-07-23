@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s44387-026-00081-7" target="_blank" rel="noopener noreferrer"><strong>Classroom AI: large language models as grade-specific teachers - npj Artificial Intelligence</strong></a>
+  <a href="https://blog.google/technology/ai/dolphingemma/" target="_blank" rel="noopener noreferrer"><strong>DolphinGemma: How Google AI is helping decode dolphin communication</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-10_00-52</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_22-14</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
