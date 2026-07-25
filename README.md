@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/cvpr-2025" target="_blank" rel="noopener noreferrer"><strong>Apple Machine Learning Research at CVPR 2025</strong></a>
+  <a href="https://www.dailyexcelsior.com/smvdu-hosts-workshop-on-foundational-ai-large-language-models-generative-ai/" target="_blank" rel="noopener noreferrer"><strong>SMVDU hosts workshop on ‘Foundational AI: Large Language Models & Generative AI’</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-24_00-44</em></p>
+<p align="center"><em>📅 Published: 2026-03-02_00-47</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
