@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.artnet.com/art-world/ai-cracks-archaeology-secrets-2637925" target="_blank" rel="noopener noreferrer"><strong>7 Times A.I. Helped Unlock Ancient Secrets</strong></a>
+  <a href="https://aijourn.com/harsh-verma-publishes-nuanced-framework-on-rise-of-agentic-ai-and-enterprise-system-era-arguing-ai-system-architecture-has-replaced-model-building-as-the-core-discipline/" target="_blank" rel="noopener noreferrer"><strong>Harsh Verma Publishes Nuanced Framework on Rise of Agentic AI and Enterprise System Era, Arguing AI System Architecture Has Replaced Model Building as the Core Discipline</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_16-23</em></p>
+<p align="center"><em>📅 Published: 2026-05-23_01-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
