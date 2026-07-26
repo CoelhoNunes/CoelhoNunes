@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.earth.com/news/children-are-much-better-at-learning-language-than-ai/" target="_blank" rel="noopener noreferrer"><strong>Children are much better at learning language than AI</strong></a>
+  <a href="https://www.prnewswire.com/news-releases/aligned-joins-forces-with-amd-and-usc-isi-to-power-next-generation-ai-with-megalodon-language-model-302513280.html" target="_blank" rel="noopener noreferrer"><strong>Aligned Joins Forces with AMD and USC ISI to Power Next-Generation AI with MEGALODON Language Model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-27_02-08</em></p>
+<p align="center"><em>📅 Published: 2025-07-25_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
