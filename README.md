@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41746-025-01952-0" target="_blank" rel="noopener noreferrer"><strong>AI assisted prediction of unplanned intensive care admissions using natural language processing in elective neurosurgery</strong></a>
+  <a href="https://www.cnbc.com/2025/09/06/ai-talent-war-tech-giants-pay-talent-millions-of-dollars.html" target="_blank" rel="noopener noreferrer"><strong>Behind the AI talent war: Why tech giants are paying millions to top hires</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-04_02-02</em></p>
+<p align="center"><em>📅 Published: 2026-03-09_00-47</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
