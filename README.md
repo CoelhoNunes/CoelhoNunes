@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/contrastive-localized" target="_blank" rel="noopener noreferrer"><strong>Contrastive Localized Language-Image Pre-Training</strong></a>
+  <a href="https://roboticsandautomationnews.com/2026/03/10/mit-study-suggests-computing-power-not-secret-sauce-drives-most-ai-model-breakthroughs/99457/" target="_blank" rel="noopener noreferrer"><strong>MIT study suggests computing power – not ‘secret sauce’ – drives most AI model breakthroughs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-28_02-03</em></p>
+<p align="center"><em>📅 Published: 2026-03-11_00-43</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
