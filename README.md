@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.analyticsinsight.net/courses/driving-innovation-with-generative-ai-mit-xpro" target="_blank" rel="noopener noreferrer"><strong>Driving Innovation with Generative AI, MIT xPRO</strong></a>
+  <a href="https://www.wipo.int/web-publications/learning-machines-an-introduction-to-ai-and-ip-for-small-and-medium-sized-enterprises/en/what-is-ai.html" target="_blank" rel="noopener noreferrer"><strong>Learning Machines: An introduction to AI and IP for small and medium-sized enterprises - What is AI?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-12_00-47</em></p>
+<p align="center"><em>📅 Published: 2026-07-10_00-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
