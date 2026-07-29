@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1646974/full" target="_blank" rel="noopener noreferrer"><strong>Evaluation of large language models on mental health: from knowledge test to illness diagnosis</strong></a>
+  <a href="https://www.army.mil/article/282934/center_strategizing_artificial_intelligence_and_machine_learning" target="_blank" rel="noopener noreferrer"><strong>Center strategizing artificial intelligence and machine learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-22_02-54</em></p>
+<p align="center"><em>📅 Published: 2025-05-24_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
