@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s44387-026-00071-9" target="_blank" rel="noopener noreferrer"><strong>PsychAdapter: adapting LLMs to reflect traits, personality, and mental health</strong></a>
+  <a href="https://www.eu-startups.com/2025/05/the-ai-uprising-20-european-startups-rewriting-the-rules-in-2025/" target="_blank" rel="noopener noreferrer"><strong>The AI uprising: 20 European startups rewriting the rules in 2025</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-05_00-54</em></p>
+<p align="center"><em>📅 Published: 2025-05-27_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
