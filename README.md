@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.wipo.int/web-publications/learning-machines-an-introduction-to-ai-and-ip-for-small-and-medium-sized-enterprises/en/what-is-ai.html" target="_blank" rel="noopener noreferrer"><strong>Learning Machines: An introduction to AI and IP for small and medium-sized enterprises - What is AI?</strong></a>
+  <a href="https://www.businessday.co.za/opinion/2026-06-19-rufaro-mafinyani-neural-networks-and-deep-learning/" target="_blank" rel="noopener noreferrer"><strong>RUFARO MAFINYANI | Neural networks and deep learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-07-10_00-54</em></p>
+<p align="center"><em>📅 Published: 2026-06-22_01-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
