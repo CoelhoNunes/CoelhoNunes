@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/topics/lstm" target="_blank" rel="noopener noreferrer"><strong>What is Long Short-term Memory (LSTM)?</strong></a>
+  <a href="https://pubs.rsna.org/doi/10.1148/ryai.240631" target="_blank" rel="noopener noreferrer"><strong>The Evolution of Radiology Image Annotation in the Era of Large Language Models | Radiology: Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-01_01-07</em></p>
+<p align="center"><em>📅 Published: 2025-08-23_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
