@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms" target="_blank" rel="noopener noreferrer"><strong>10 free Google AI courses enable beginners to build skills in modern machine learning tools – check detai</strong></a>
+  <a href="https://www.ibm.com/think/topics/lstm" target="_blank" rel="noopener noreferrer"><strong>What is Long Short-term Memory (LSTM)?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-05_00-59</em></p>
+<p align="center"><em>📅 Published: 2026-05-01_01-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
