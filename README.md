@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://pubs.rsna.org/doi/10.1148/ryai.240631" target="_blank" rel="noopener noreferrer"><strong>The Evolution of Radiology Image Annotation in the Era of Large Language Models | Radiology: Artificial Intelligence</strong></a>
+  <a href="https://rollingout.com/2026/02/09/virtual-patients-improve-real-world-drug/" target="_blank" rel="noopener noreferrer"><strong>Virtual patients improve real-world drug effectiveness</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-23_01-56</em></p>
+<p align="center"><em>📅 Published: 2026-02-10_00-53</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
