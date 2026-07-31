@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.stanford.edu/stories/2026/05/language-lessons-how-llms-are-transforming-research" target="_blank" rel="noopener noreferrer"><strong>Faculty use AI to analyze text at unprecedented scale</strong></a>
+  <a href="https://news.mit.edu/2023/explained-generative-ai-1109" target="_blank" rel="noopener noreferrer"><strong>Explained: Generative AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-07-02_01-11</em></p>
+<p align="center"><em>📅 Published: 2026-05-04_01-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
