@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.mit.edu/2023/explained-generative-ai-1109" target="_blank" rel="noopener noreferrer"><strong>Explained: Generative AI</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/optimizing-ai-responsiveness-a-practical-guide-to-amazon-bedrock-latency-optimized-inference/" target="_blank" rel="noopener noreferrer"><strong>Optimizing AI responsiveness: A practical guide to Amazon Bedrock latency-optimized inference</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-04_01-04</em></p>
+<p align="center"><em>📅 Published: 2025-07-16_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
