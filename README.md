@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.newswise.com/articles/new-matterchat-model-helps-ai-to-see-the-language-of-science" target="_blank" rel="noopener noreferrer"><strong>New MatterChat Model Helps AI to ‘See’ the Language of Science | Newswise</strong></a>
+  <a href="https://t2online.in/tech/tech-news/amazon-india-marks-five-years-of-machine-learning-summer-school/2006815" target="_blank" rel="noopener noreferrer"><strong>Amazon India marks five years of Machine Learning Summer School</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-19_01-10</em></p>
+<p align="center"><em>📅 Published: 2026-07-30_02-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
