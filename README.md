@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techxplore.com/news/2026-03-tweetybert-parses-canary-songs-brains.html" target="_blank" rel="noopener noreferrer"><strong>TweetyBERT parses canary songs to better understand how brains learn language</strong></a>
+  <a href="https://www.newswise.com/articles/new-matterchat-model-helps-ai-to-see-the-language-of-science" target="_blank" rel="noopener noreferrer"><strong>New MatterChat Model Helps AI to ‘See’ the Language of Science | Newswise</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-05_00-47</em></p>
+<p align="center"><em>📅 Published: 2026-05-19_01-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
