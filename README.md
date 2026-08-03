@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.cuanschutz.edu/dbmi/health-ai-tools-support-clinicians" target="_blank" rel="noopener noreferrer"><strong>Health AI in 2026: CU Researchers are Implementing Trustworthy Tools to Support Clinicians</strong></a>
+  <a href="https://www.theaustralian.com.au/business/the-wall-street-journal/hes-been-right-about-ai-for-40-years-now-he-thinks-everyone-else-is-wrong/news-story/c6002dc9e794150756885bf478ee10ba" target="_blank" rel="noopener noreferrer"><strong>AI pioneer spruiks next year’s model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-30_03-27</em></p>
+<p align="center"><em>📅 Published: 2025-12-02_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
