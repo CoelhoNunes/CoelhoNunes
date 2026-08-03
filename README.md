@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.sanofi.com/en/our-science/digital-artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>Digital Transformation and Artificial Intelligence</strong></a>
+  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/google-meet-ai-translation-breaking-language-barriers/" target="_blank" rel="noopener noreferrer"><strong>Google Meet AI Translation: Breaking Language Barriers</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-15_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-09-14_02-00</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
