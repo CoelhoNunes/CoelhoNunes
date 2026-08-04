@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://source.colostate.edu/guest-column-when-publishers-fear-of-ai-prohibits-basic-uses/" target="_blank" rel="noopener noreferrer"><strong>Guest column: When publishers’ fear of AI prohibits basic uses</strong></a>
+  <a href="https://news.microsoft.com/source/features/ai/15-milestones-that-shaped-microsofts-vision-for-ai/" target="_blank" rel="noopener noreferrer"><strong>15 milestones that shaped Microsoft's vision for AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-26_02-05</em></p>
+<p align="center"><em>📅 Published: 2025-06-07_16-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
