@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://medcitynews.com/2026/06/why-generative-ai-isnt-enough-the-case-for-causal-reasoning-in-medicine/" target="_blank" rel="noopener noreferrer"><strong>Why Generative AI Isn’t Enough: The Case for Causal Reasoning in Medicine</strong></a>
+  <a href="https://www.fiercebiotech.com/medtech/fine-tuned-ai-models-openai-babylon-aim-predict-clinical-trial-successes" target="_blank" rel="noopener noreferrer"><strong>With fine-tuned AI models, OpenAI, Babylon aim to predict clinical trial successes</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-06-27_01-09</em></p>
+<p align="center"><em>📅 Published: 2025-05-27_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
