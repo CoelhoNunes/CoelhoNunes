@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://vocal.media/trader/andrej-karpathy-vs-anthropic-the-ai-battle-getting-intense" target="_blank" rel="noopener noreferrer"><strong>Andrej Karpathy vs Anthropic: The AI Battle Getting Intense</strong></a>
+  <a href="https://www.nature.com/collections/jcejfhfjic" target="_blank" rel="noopener noreferrer"><strong>AI in Education</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-21_01-12</em></p>
+<p align="center"><em>📅 Published: 2026-02-13_00-50</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
