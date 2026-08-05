@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.manilatimes.net/2025/12/09/tmt-newswire/globenewswire/machine-learning-course-for-software-engineers-interview-kickstart-launches-structured-8-month-ml-program-for-career-transition/2239261" target="_blank" rel="noopener noreferrer"><strong>Machine Learning Course for Software Engineers: Interview Kickstart Launches Structured 8-Month ML Program for Career Transition</strong></a>
+  <a href="https://sloanreview.mit.edu/article/how-llms-work/" target="_blank" rel="noopener noreferrer"><strong>How LLMs Work: Top 10 Executive-Level Questions | Rama Ramakrishnan</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-09_02-12</em></p>
+<p align="center"><em>📅 Published: 2026-02-15_00-50</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
