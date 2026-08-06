@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://sloanreview.mit.edu/article/how-llms-work/" target="_blank" rel="noopener noreferrer"><strong>How LLMs Work: Top 10 Executive-Level Questions | Rama Ramakrishnan</strong></a>
+  <a href="https://www.newswise.com/articles/ai-without-hallucinations-binghamton-university-researchers-develop-new-way-to-reduce-troublesome-fake-info" target="_blank" rel="noopener noreferrer"><strong>AI Without Hallucinations: Binghamton University Researchers Develop New Way to Reduce Troublesome Fake Info | Newswise</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-15_00-50</em></p>
+<p align="center"><em>📅 Published: 2026-06-04_01-24</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
