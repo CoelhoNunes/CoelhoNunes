@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.manilatimes.net/2026/02/13/tmt-newswire/plentisoft/devco-expands-internal-capabilities-for-custom-python-development-servicing-custom-llm-ai-deployments/2278143" target="_blank" rel="noopener noreferrer"><strong>DEV.co Expands Internal Capabilities for Custom Python Development, Servicing Custom LLM & AI Deployments</strong></a>
+  <a href="https://www.globenewswire.com/news-release/2026/01/16/3220466/0/en/2026-Advanced-GenAI-Course-Focused-on-Large-Language-Models-and-Diffusion-Systems-Launched-by-Interview-Kickstart.html" target="_blank" rel="noopener noreferrer"><strong>2026 Advanced GenAI Course Focused on Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-14_00-45</em></p>
+<p align="center"><em>📅 Published: 2026-01-21_02-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
