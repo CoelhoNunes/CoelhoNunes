@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1686454/full" target="_blank" rel="noopener noreferrer"><strong>Both ends of artificial intelligence impacting privacy: a review of violation and protection</strong></a>
+  <a href="https://machinelearning.apple.com/research/policy-maps" target="_blank" rel="noopener noreferrer"><strong>Policy Maps: Tools for Guiding the Unbounded Space of LLM Behaviors</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-06_00-58</em></p>
+<p align="center"><em>📅 Published: 2026-04-23_00-58</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
