@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/policy-maps" target="_blank" rel="noopener noreferrer"><strong>Policy Maps: Tools for Guiding the Unbounded Space of LLM Behaviors</strong></a>
+  <a href="https://www.itbrew.com/stories/2025/11/26/does-a-help-desk-pro-need-to-know-ai" target="_blank" rel="noopener noreferrer"><strong>Does a help desk pro need to know AI?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-23_00-58</em></p>
+<p align="center"><em>📅 Published: 2025-11-27_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
