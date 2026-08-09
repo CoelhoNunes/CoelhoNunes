@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.moneytalksnews.com/slideshows/free-ai-training-courses-that-could-boost-your-career/" target="_blank" rel="noopener noreferrer"><strong>20 Free AI Training Courses That Could Boost Your Career</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/racing-beyond-deepracer-debut-of-the-aws-llm-league/" target="_blank" rel="noopener noreferrer"><strong>Racing beyond DeepRacer: Debut of the AWS LLM League | Amazon Web Services</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-30_08-38</em></p>
+<p align="center"><em>📅 Published: 2025-05-28_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
