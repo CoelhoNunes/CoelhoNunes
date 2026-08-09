@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.flexera.com/blog/finops/snowflake-cortex/" target="_blank" rel="noopener noreferrer"><strong>Snowflake Cortex LLM functions: A complete overview (2026)</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/fine-tune-openai-gpt-oss-models-on-amazon-sagemaker-ai-using-hugging-face-libraries/" target="_blank" rel="noopener noreferrer"><strong>Fine-tune OpenAI GPT-OSS models on Amazon SageMaker AI using Hugging Face libraries</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-22_00-48</em></p>
+<p align="center"><em>📅 Published: 2025-08-13_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
