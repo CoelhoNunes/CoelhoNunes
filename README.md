@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/topics/domain-specific-llm" target="_blank" rel="noopener noreferrer"><strong>What Is a Domain-specific LLM?</strong></a>
+  <a href="https://www.bis.org/about/bisih/topics/suptech_regtech/spectrum.htm" target="_blank" rel="noopener noreferrer"><strong>Project Spectrum: using generative AI to enhance inflation nowcasting</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-24_01-12</em></p>
+<p align="center"><em>📅 Published: 2026-03-06_00-49</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
