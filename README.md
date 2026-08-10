@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.unite.ai/rebecca-qian-co-founder-and-cto-of-patronus-ai-interview-series/" target="_blank" rel="noopener noreferrer"><strong>Rebecca Qian, Co-Founder and CTO of Patronus AI – Interview Series</strong></a>
+  <a href="https://www.ibm.com/think/topics/domain-specific-llm" target="_blank" rel="noopener noreferrer"><strong>What Is a Domain-specific LLM?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-26_00-42</em></p>
+<p align="center"><em>📅 Published: 2026-05-24_01-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
