@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.bis.org/about/bisih/topics/suptech_regtech/spectrum.htm" target="_blank" rel="noopener noreferrer"><strong>Project Spectrum: using generative AI to enhance inflation nowcasting</strong></a>
+  <a href="https://www.jagranjosh.com/us/tech-ai/list-of-indian-origin-ai-experts-1860000668" target="_blank" rel="noopener noreferrer"><strong>List of 8 Indian-Origin AI Experts and their Contributions</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-06_00-49</em></p>
+<p align="center"><em>📅 Published: 2025-08-02_02-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
