@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41599-026-06738-7" target="_blank" rel="noopener noreferrer"><strong>Large language model tools as catalysts for collective cognition in collaborative new-product development: a quasi-experimental study | Humanities and Social Sciences Communications</strong></a>
+  <a href="https://www.wjgnet.com/1949-8470/full/v17/i11/114754.htm" target="_blank" rel="noopener noreferrer"><strong>Large language models and large concept models in radiology: Present challenges, future directions, and critical perspectives</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-06-08_01-19</em></p>
+<p align="center"><em>📅 Published: 2025-11-30_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
