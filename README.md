@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.genengnews.com/topics/bioprocessing/katalyze-ai-launches-digityze-ai-for-biomanufacturing-on-snowflake-ai-data-cloud/" target="_blank" rel="noopener noreferrer"><strong>Katalyze AI Launches Digityze AI for Biomanufacturing on Snowflake AI Data Cloud</strong></a>
+  <a href="https://fortune.com/2026/01/22/insilico-medicine-ai-mma-science-gym/" target="_blank" rel="noopener noreferrer"><strong>AI drug startup Insilico Medicine launches an AI ‘gym’ to help models like GPT and Qwen be good at science</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-11_02-13</em></p>
+<p align="center"><em>📅 Published: 2026-01-23_00-39</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
