@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.unite.ai/kumo-launches-kumorfm-2-a-foundation-model-built-to-replace-traditional-enterprise-machine-learning/" target="_blank" rel="noopener noreferrer"><strong>Kumo Launches KumoRFM-2, A Foundation Model Built to Replace Traditional Enterprise Machine Learning</strong></a>
+  <a href="https://devm.io/machine-learning/llm-function-calling-ai-agents" target="_blank" rel="noopener noreferrer"><strong>Function Calling and AI Agents: Bridging the Gap Between LLMs and Real-World Data</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-16_00-58</em></p>
+<p align="center"><em>📅 Published: 2025-08-14_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
