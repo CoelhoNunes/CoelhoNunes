@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://fortune.com/2026/01/22/insilico-medicine-ai-mma-science-gym/" target="_blank" rel="noopener noreferrer"><strong>AI drug startup Insilico Medicine launches an AI ‘gym’ to help models like GPT and Qwen be good at science</strong></a>
+  <a href="https://vocal.media/futurism/top-agentic-ai-development-companies-in-the-uk-building-the-next-generation-of-autonomous-apps" target="_blank" rel="noopener noreferrer"><strong>Top Agentic AI Development Companies in the UK Building the Next Generation of Autonomous Apps</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-23_00-39</em></p>
+<p align="center"><em>📅 Published: 2026-05-12_01-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
