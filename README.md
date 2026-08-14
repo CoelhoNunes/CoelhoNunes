@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-56989-2" target="_blank" rel="noopener noreferrer"><strong>Benchmarking large language models for biomedical natural language processing applications and recommendations</strong></a>
+  <a href="https://blogs.cisco.com/networking/meet-the-cisco-deep-network-model-trained-by-the-experts-purpose-built-for-the-network" target="_blank" rel="noopener noreferrer"><strong>Meet the Cisco Deep Network Model: Trained by the Experts, Purpose-Built for the Network</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-16_02-19</em></p>
+<p align="center"><em>📅 Published: 2025-07-20_02-30</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
