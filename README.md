@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://vocal.media/futurism/top-agentic-ai-development-companies-in-the-uk-building-the-next-generation-of-autonomous-apps" target="_blank" rel="noopener noreferrer"><strong>Top Agentic AI Development Companies in the UK Building the Next Generation of Autonomous Apps</strong></a>
+  <a href="https://research.google/blog/lsm-2-learning-from-incomplete-wearable-sensor-data/" target="_blank" rel="noopener noreferrer"><strong>LSM-2: Learning from incomplete wearable sensor data</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-12_01-02</em></p>
+<p align="center"><em>📅 Published: 2025-08-03_02-34</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
