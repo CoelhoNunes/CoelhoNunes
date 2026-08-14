@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://research.google/blog/lsm-2-learning-from-incomplete-wearable-sensor-data/" target="_blank" rel="noopener noreferrer"><strong>LSM-2: Learning from incomplete wearable sensor data</strong></a>
+  <a href="https://www.nature.com/articles/s41467-025-56989-2" target="_blank" rel="noopener noreferrer"><strong>Benchmarking large language models for biomedical natural language processing applications and recommendations</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-03_02-34</em></p>
+<p align="center"><em>📅 Published: 2025-07-16_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
