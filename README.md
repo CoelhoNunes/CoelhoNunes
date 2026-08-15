@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://sakana.ai/rlt/" target="_blank" rel="noopener noreferrer"><strong>Reinforcement Learning Teachers of Test Time Scaling</strong></a>
+  <a href="https://news.vt.edu/articles/2026/04/small-language-models-data-center-research.html" target="_blank" rel="noopener noreferrer"><strong>Thinking small: How small language models could lessen the AI energy burden</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-30_02-19</em></p>
+<p align="center"><em>📅 Published: 2026-06-28_01-15</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
