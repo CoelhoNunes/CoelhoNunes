@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.dailyexcelsior.com/smvdu-hosts-workshop-on-foundational-ai-large-language-models-generative-ai/" target="_blank" rel="noopener noreferrer"><strong>SMVDU hosts workshop on ‘Foundational AI: Large Language Models & Generative AI’</strong></a>
+  <a href="https://www.fintechbiznews.com/fintech-technology/ai-capabilities-fit-to-local-languages-use-cases" target="_blank" rel="noopener noreferrer"><strong>AI Capabilities Fit To Local Languages, Use-Cases</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-02_00-47</em></p>
+<p align="center"><em>📅 Published: 2026-03-16_00-53</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
