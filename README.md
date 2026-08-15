@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.bwpeople.in/article/the-necessity-for-upskilling-and-reskilling-in-an-agentic-ai-era-557843" target="_blank" rel="noopener noreferrer"><strong>The Necessity For Upskilling And Reskilling In An Agentic AI Era</strong></a>
+  <a href="https://sakana.ai/rlt/" target="_blank" rel="noopener noreferrer"><strong>Reinforcement Learning Teachers of Test Time Scaling</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-26_16-37</em></p>
+<p align="center"><em>📅 Published: 2025-06-30_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
