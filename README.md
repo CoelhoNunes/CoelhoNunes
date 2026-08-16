@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1758660/full?utm_campaign=imp_impartaut-_05-24_fcomp_en_n--ww&utm_content&utm_medium=social&utm_source=twitter" target="_blank" rel="noopener noreferrer"><strong>Correction: Synchronizing LLM-based semantic knowledge bases via secure federated fine-tuning in semantic communication</strong></a>
+  <a href="https://machinelearning.apple.com/research/do-llms-know-internally" target="_blank" rel="noopener noreferrer"><strong>Do LLMs Know Internally When They Follow Instructions?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-09_00-44</em></p>
+<p align="center"><em>📅 Published: 2025-05-28_02-18</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
