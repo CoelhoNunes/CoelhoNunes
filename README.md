@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.fintechbiznews.com/fintech-technology/ai-capabilities-fit-to-local-languages-use-cases" target="_blank" rel="noopener noreferrer"><strong>AI Capabilities Fit To Local Languages, Use-Cases</strong></a>
+  <a href="https://www.mondaq.com/brazil/new-technology/1743832/generative-ai-technological-innovation-legal-risks-and-regulatory-challenges" target="_blank" rel="noopener noreferrer"><strong>Generative AI: Technological Innovation, Legal Risks, And Regulatory Challenges</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-16_00-53</em></p>
+<p align="center"><em>📅 Published: 2026-02-13_00-50</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
