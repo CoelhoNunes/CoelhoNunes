@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aijourn.com/do-you-really-understand-agentic-ai-the-missing-ladder-of-progress-in-video-analytics/" target="_blank" rel="noopener noreferrer"><strong>Do You Really Understand Agentic AI? The Missing Ladder of Progress in Video Analytics</strong></a>
+  <a href="https://www.ibm.com/think/topics/lstm" target="_blank" rel="noopener noreferrer"><strong>What is Long Short-term Memory (LSTM)?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-03_02-58</em></p>
+<p align="center"><em>📅 Published: 2026-05-01_01-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
