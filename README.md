@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/" target="_blank" rel="noopener noreferrer"><strong>Meet 'kvcached': A Machine Learning Library to Enable Virtualized, Elastic KV Cache for LLM Serving on Shared GPUs</strong></a>
+  <a href="https://aijourn.com/do-you-really-understand-agentic-ai-the-missing-ladder-of-progress-in-video-analytics/" target="_blank" rel="noopener noreferrer"><strong>Do You Really Understand Agentic AI? The Missing Ladder of Progress in Video Analytics</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-28_01-58</em></p>
+<p align="center"><em>📅 Published: 2026-04-03_02-58</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
