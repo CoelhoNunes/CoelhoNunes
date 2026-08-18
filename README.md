@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nortonrosefulbright.com/en/knowledge/publications/87200379/practical-commentary-regarding-copyright-and-generative-ai-training" target="_blank" rel="noopener noreferrer"><strong>Practical commentary regarding copyright and generative AI training</strong></a>
+  <a href="https://www.eurekalert.org/news-releases/1138769" target="_blank" rel="noopener noreferrer"><strong>Training-free framework accelerates large language models without retraining</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-08_02-28</em></p>
+<p align="center"><em>📅 Published: 2026-08-08_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
