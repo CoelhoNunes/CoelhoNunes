@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.chemistryworld.com/news/ai-research-tools-benefit-individual-scientists-but-may-slow-scientific-progress/4022803.article" target="_blank" rel="noopener noreferrer"><strong>AI research tools benefit individual scientists but may slow scientific progress</strong></a>
+  <a href="https://www.bbc.co.uk/teach/articles/z92246f" target="_blank" rel="noopener noreferrer"><strong>The BBC Bitesize Guide to AI - How to use it in the classroom - A teacher's guide</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-24_00-38</em></p>
+<p align="center"><em>📅 Published: 2025-11-11_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
