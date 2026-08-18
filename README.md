@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-at-scale-with-generative-ai-and-amazon-bedrock-data-automation/" target="_blank" rel="noopener noreferrer"><strong>Intelligent document processing at scale with generative AI and Amazon Bedrock Data Automation | Artificial Intelligence</strong></a>
+  <a href="https://www.nortonrosefulbright.com/en/knowledge/publications/87200379/practical-commentary-regarding-copyright-and-generative-ai-training" target="_blank" rel="noopener noreferrer"><strong>Practical commentary regarding copyright and generative AI training</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-03_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-06-08_02-28</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
