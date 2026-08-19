@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://time.com/collections/the-ai-dictionary-from-allbusiness-com/7273967/definition-of-large-language-model-llm/" target="_blank" rel="noopener noreferrer"><strong>The Definition of Large language model (LLM)</strong></a>
+  <a href="https://www.nature.com/articles/s41599-025-05924-3" target="_blank" rel="noopener noreferrer"><strong>Large Language Models in Legal Systems: A Survey</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-09_01-56</em></p>
+<p align="center"><em>📅 Published: 2026-01-25_00-45</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
