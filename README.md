@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/nested-learning-ai-tackles-catastrophic-forgetting/" target="_blank" rel="noopener noreferrer"><strong>Nested Learning AI Tackles Catastrophic Forgetting</strong></a>
+  <a href="https://time.com/collections/the-ai-dictionary-from-allbusiness-com/7273967/definition-of-large-language-model-llm/" target="_blank" rel="noopener noreferrer"><strong>The Definition of Large language model (LLM)</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-09_02-06</em></p>
+<p align="center"><em>📅 Published: 2025-09-09_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
