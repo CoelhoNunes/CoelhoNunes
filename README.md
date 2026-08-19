@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41599-025-05924-3" target="_blank" rel="noopener noreferrer"><strong>Large Language Models in Legal Systems: A Survey</strong></a>
+  <a href="https://aithority.com/machine-learning/nota-ai-signs-exaone-commercialization-partnership-with-lg-ai-research-to-accelerate-llm-adoption-through-ai-model-compression-technology/" target="_blank" rel="noopener noreferrer"><strong>Nota AI Signs EXAONE Commercialization Partnership with LG AI Research to Accelerate LLM Adoption Through AI Model Compression Technology</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-25_00-45</em></p>
+<p align="center"><em>📅 Published: 2025-12-12_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
