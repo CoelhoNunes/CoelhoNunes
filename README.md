@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/" target="_blank" rel="noopener noreferrer"><strong>Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope</strong></a>
+  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/nested-learning-ai-tackles-catastrophic-forgetting/" target="_blank" rel="noopener noreferrer"><strong>Nested Learning AI Tackles Catastrophic Forgetting</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-11_01-08</em></p>
+<p align="center"><em>📅 Published: 2025-11-09_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
