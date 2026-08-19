@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.bbc.co.uk/teach/articles/z92246f" target="_blank" rel="noopener noreferrer"><strong>The BBC Bitesize Guide to AI - How to use it in the classroom - A teacher's guide</strong></a>
+  <a href="https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/" target="_blank" rel="noopener noreferrer"><strong>Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-11_02-04</em></p>
+<p align="center"><em>📅 Published: 2026-05-11_01-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
