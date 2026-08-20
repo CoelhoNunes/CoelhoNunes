@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2026/04/27/meet-talkie-1930-a-13b-open-weight-llm-trained-on-pre-1931-english-text-for-historical-reasoning-and-generalization-research/" target="_blank" rel="noopener noreferrer"><strong>Meet Talkie-1930: A 13B Open-Weight LLM Trained on Pre-1931 English Text for Historical Reasoning and Generalization Research</strong></a>
+  <a href="https://phys.org/news/2025-11-qa-mathematics-reveal-depth-deep.html" target="_blank" rel="noopener noreferrer"><strong>Q&A: How mathematics can reveal the depth of deep learning AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-29_01-03</em></p>
+<p align="center"><em>📅 Published: 2025-11-06_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
