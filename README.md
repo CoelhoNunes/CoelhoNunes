@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="http://news.ucsc.edu/2025/02/ai-browser-tracks.html" target="_blank" rel="noopener noreferrer"><strong>Newest Genome Browser features highlight the power of generative AI and machine learning for biology</strong></a>
+  <a href="https://www.infoworld.com/article/4040513/how-to-avoid-the-risks-of-rapidly-deploying-ai-agents.html" target="_blank" rel="noopener noreferrer"><strong>How to avoid the risks of rapidly deploying AI agents</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-24_16-35</em></p>
+<p align="center"><em>📅 Published: 2025-08-27_01-58</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
