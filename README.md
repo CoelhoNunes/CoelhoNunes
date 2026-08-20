@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aithority.com/machine-learning/nota-ai-signs-exaone-commercialization-partnership-with-lg-ai-research-to-accelerate-llm-adoption-through-ai-model-compression-technology/" target="_blank" rel="noopener noreferrer"><strong>Nota AI Signs EXAONE Commercialization Partnership with LG AI Research to Accelerate LLM Adoption Through AI Model Compression Technology</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1472411/full" target="_blank" rel="noopener noreferrer"><strong>The sociolinguistic foundations of language modeling</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-12_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-09-21_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
