@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.kdnuggets.com/gemma-3n-smarter-faster-and-offline-ready" target="_blank" rel="noopener noreferrer"><strong>Gemma 3n: Smarter, Faster, and Offline-Ready</strong></a>
+  <a href="https://www.globenewswire.com/news-release/2025/09/23/3154485/0/en/Artificial-Intelligence-in-Marketing-Market-Global-Forecast-Report-2025-2030-Personalized-Omnichannel-Customer-Journey-Orchestration-Using-AI-Driven-Predictive-Analytics-and-Trigge.html" target="_blank" rel="noopener noreferrer"><strong>Artificial Intelligence in Marketing Market Global Forecast</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-22_16-38</em></p>
+<p align="center"><em>📅 Published: 2025-09-24_01-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
