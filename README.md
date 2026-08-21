@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://phys.org/news/2025-11-qa-mathematics-reveal-depth-deep.html" target="_blank" rel="noopener noreferrer"><strong>Q&A: How mathematics can reveal the depth of deep learning AI</strong></a>
+  <a href="https://www.kdnuggets.com/gemma-3n-smarter-faster-and-offline-ready" target="_blank" rel="noopener noreferrer"><strong>Gemma 3n: Smarter, Faster, and Offline-Ready</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-06_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_16-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
