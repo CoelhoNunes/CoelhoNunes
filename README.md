@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://vocal.media/futurism/top-10-enterprise-ai-development-companies-fueling-the-ai-revolution-in-2026-1j1nqp0hve" target="_blank" rel="noopener noreferrer"><strong>Top 10 Enterprise AI Development Companies Fueling the AI Revolution in 2026</strong></a>
+  <a href="https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/" target="_blank" rel="noopener noreferrer"><strong>Khosla-backed robotics startup Genesis AI has gone full stack, demo shows</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-19_00-58</em></p>
+<p align="center"><em>📅 Published: 2026-05-11_01-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
