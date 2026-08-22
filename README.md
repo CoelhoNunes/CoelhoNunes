@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.prweb.com/releases/quantum-leap-in-financial-ai-zoonovas-llm-ml-fusion-outperforms-the-market-302462712.html" target="_blank" rel="noopener noreferrer"><strong>Quantum Leap in Financial AI: Zoonova's LLM-ML Fusion Outperforms the Market</strong></a>
+  <a href="https://www.infoworld.com/article/2335213/large-language-models-the-foundations-of-generative-ai.html" target="_blank" rel="noopener noreferrer"><strong>Large language models: The foundations of generative AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-22_16-38</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
