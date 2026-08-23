@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.chosun.com/english/world-en/2025/09/17/DXLK4IWL7ZBKTLQ3UNVTIJBT2I/" target="_blank" rel="noopener noreferrer"><strong>Chinese firms commercialize thousands of AI Agents, outpacing U.S. and South Korea</strong></a>
+  <a href="https://www.nature.com/articles/s41598-025-05012-1" target="_blank" rel="noopener noreferrer"><strong>Exploring the potential of lightweight large language models for AI-based mental health counselling task: a novel comparative study</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-17_01-52</em></p>
+<p align="center"><em>📅 Published: 2025-08-09_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
