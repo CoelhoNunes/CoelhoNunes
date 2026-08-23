@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-05012-1" target="_blank" rel="noopener noreferrer"><strong>Exploring the potential of lightweight large language models for AI-based mental health counselling task: a novel comparative study</strong></a>
+  <a href="https://www.nature.com/articles/d41586-026-00240-5" target="_blank" rel="noopener noreferrer"><strong>This AI has chemical expertise — and helps synthesize 35 new compounds</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-09_02-08</em></p>
+<p align="center"><em>📅 Published: 2026-05-24_01-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
