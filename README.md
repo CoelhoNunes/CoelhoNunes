@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/enterprise-grade-natural-language-to-sql-generation-using-llms-balancing-accuracy-latency-and-scale/" target="_blank" rel="noopener noreferrer"><strong>Enterprise-grade natural language to SQL generation using LLMs: Balancing accuracy, latency, and scale</strong></a>
+  <a href="https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/" target="_blank" rel="noopener noreferrer"><strong>Distinct AI Models Seem To Converge On How They Encode Reality</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_13-09</em></p>
+<p align="center"><em>📅 Published: 2026-05-02_01-00</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
