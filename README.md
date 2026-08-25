@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.trendmicro.com/en_us/what-is/ai.html" target="_blank" rel="noopener noreferrer"><strong>What Is Artificial Intelligence (AI)?</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1521886/full" target="_blank" rel="noopener noreferrer"><strong>Deep learning architectures for influenza dynamics and treatment optimization: a comprehensive review</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-06-01_01-20</em></p>
+<p align="center"><em>📅 Published: 2025-05-30_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
