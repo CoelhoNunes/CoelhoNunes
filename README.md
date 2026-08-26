@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.flexera.com/blog/finops/snowflake-cortex/" target="_blank" rel="noopener noreferrer"><strong>Snowflake Cortex LLM functions: A complete overview (2026)</strong></a>
+  <a href="https://www.kdnuggets.com/5-docker-containers-for-language-model-development" target="_blank" rel="noopener noreferrer"><strong>5 Docker Containers for Language Model Development</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-22_00-48</em></p>
+<p align="center"><em>📅 Published: 2026-01-07_02-13</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
