@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://mitsloan.mit.edu/ideas-made-to-matter/3-ways-businesses-can-use-large-language-models" target="_blank" rel="noopener noreferrer"><strong>3 ways businesses can use large language models</strong></a>
+  <a href="https://www.nature.com/articles/s41550-025-02670-z" target="_blank" rel="noopener noreferrer"><strong>Textual interpretation of transient image classifications from large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-03_16-42</em></p>
+<p align="center"><em>📅 Published: 2026-01-19_02-27</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
