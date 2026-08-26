@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.kdnuggets.com/5-docker-containers-for-language-model-development" target="_blank" rel="noopener noreferrer"><strong>5 Docker Containers for Language Model Development</strong></a>
+  <a href="https://www.psypost.org/learning-from-ai-summaries-leads-to-shallower-knowledge-than-web-search/" target="_blank" rel="noopener noreferrer"><strong>Learning from AI summaries leads to shallower knowledge than web search</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-07_02-13</em></p>
+<p align="center"><em>📅 Published: 2026-01-18_02-30</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
