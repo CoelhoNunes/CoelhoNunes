@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/07/06/new-ai-method-from-meta-and-nyu-boosts-llm-alignment-using-semi-online-reinforcement-learning/" target="_blank" rel="noopener noreferrer"><strong>New AI Method From Meta and NYU Boosts LLM Alignment Using Semi-Online Reinforcement Learning</strong></a>
+  <a href="https://markets.financialcontent.com/stocks/article/tokenring-2025-10-31-ai-revolutionizes-pharma-r-and-d-a-new-era-of-accelerated-drug-discovery-and-personalized-medicine?Language=spanish" target="_blank" rel="noopener noreferrer"><strong>AI Revolutionizes Pharma R&D: A New Era of Accelerated Drug Discovery and Personalized Medicine</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-08_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-11-03_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
