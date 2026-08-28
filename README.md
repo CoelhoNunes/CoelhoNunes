@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.psychologytoday.com/us/blog/the-future-brain/202506/what-game-theory-reveals-about-ai" target="_blank" rel="noopener noreferrer"><strong>A new study finds that LLMs struggle to cooperate—and therefore to be social.</strong></a>
+  <a href="https://www.marktechpost.com/2025/07/06/new-ai-method-from-meta-and-nyu-boosts-llm-alignment-using-semi-online-reinforcement-learning/" target="_blank" rel="noopener noreferrer"><strong>New AI Method From Meta and NYU Boosts LLM Alignment Using Semi-Online Reinforcement Learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-08_16-37</em></p>
+<p align="center"><em>📅 Published: 2025-07-08_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
