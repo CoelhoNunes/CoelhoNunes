@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://hai.stanford.edu/research/the-promise-and-perils-of-artificial-intelligence-in-advancing-participatory-science-and-health-equity-in-public-health" target="_blank" rel="noopener noreferrer"><strong>The Promise and Perils of Artificial Intelligence in Advancing Participatory Science and Health Equity in Public Health</strong></a>
+  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-10-15-the-silicon-backbone-surging-demand-for-ai-hardware-reshapes-the-tech-landscape" target="_blank" rel="noopener noreferrer"><strong>The Silicon Backbone: Surging Demand for AI Hardware Reshapes the Tech Landscape</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-15_02-23</em></p>
+<p align="center"><em>📅 Published: 2025-10-16_01-57</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
