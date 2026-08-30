@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://markets.financialcontent.com/stocks/article/tokenring-2025-11-5-capital-one-and-uva-engineering-forge-45-million-ai-research-alliance-to-reshape-fintech-future" target="_blank" rel="noopener noreferrer"><strong>Capital One and UVA Engineering Forge $4.5 Million AI Research Alliance to Reshape FinTech Future</strong></a>
+  <a href="https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/33261705/billionaires-sell-nvidia-stock-and-buy-an-ai-stock-up-2000-since-early-2023/" target="_blank" rel="noopener noreferrer"><strong>Billionaires Sell Nvidia Stock and Buy an AI Stock Up 2,000% Since Early 2023</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-06_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-07-09_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
