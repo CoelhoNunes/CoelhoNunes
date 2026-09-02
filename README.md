@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.emory.edu/stories/2026/04/accuracy-test-protein-language-models-shines-light-ai-black-box" target="_blank" rel="noopener noreferrer"><strong>Accuracy test for protein language models shines light into AI ‘black box’</strong></a>
+  <a href="https://www.openpr.com/news/4428003/ai-inference-platform-as-a-service-paas-market-strategic" target="_blank" rel="noopener noreferrer"><strong>AI Inference Platform-as-a-Service (PaaS) Market Strategic Industry Overview and Forecast 2026 to 2035</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-06-17_01-21</em></p>
+<p align="center"><em>📅 Published: 2026-03-18_00-48</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
