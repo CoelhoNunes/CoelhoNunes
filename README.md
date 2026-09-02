@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techgig.com/news/software-devops/base44-launches-proprietary-ai-model-for-app-creation/132084158" target="_blank" rel="noopener noreferrer"><strong>Base44 launches proprietary AI model for app creation</strong></a>
+  <a href="https://www.nature.com/articles/s44387-025-00015-9" target="_blank" rel="noopener noreferrer"><strong>Vision-language foundation model for 3D medical imaging</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-07-01_01-16</em></p>
+<p align="center"><em>📅 Published: 2025-12-07_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
