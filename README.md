@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s44387-025-00015-9" target="_blank" rel="noopener noreferrer"><strong>Vision-language foundation model for 3D medical imaging</strong></a>
+  <a href="https://www.efinancialcareers.com/news/how-ai-is-affecting-careers-in-electronic-trading-and-hft" target="_blank" rel="noopener noreferrer"><strong>How AI is changing careers in electronic trading and HFT</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-07_02-22</em></p>
+<p align="center"><em>📅 Published: 2026-07-24_03-27</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
