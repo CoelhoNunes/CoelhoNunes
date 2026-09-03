@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://mugglehead.com/openai-gets-about-us2-91-every-time-chatgpt-is-downloaded/?utm_source=rss&utm_medium=rss&utm_campaign=openai-gets-about-us2-91-every-time-chatgpt-is-downloaded" target="_blank" rel="noopener noreferrer"><strong>OpenAI gets about US$2.91 every time ChatGPT is downloaded</strong></a>
+  <a href="https://machinelearning.apple.com/research/checklists-are-better" target="_blank" rel="noopener noreferrer"><strong>Checklists Are Better Than Reward Models For Aligning Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-19_02-03</em></p>
+<p align="center"><em>📅 Published: 2026-01-01_02-30</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
