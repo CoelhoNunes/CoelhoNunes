@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://vocal.media/education/best-laptop-for-machine-learning-vw6ae089b" target="_blank" rel="noopener noreferrer"><strong>Best Laptop for Machine Learning</strong></a>
+  <a href="https://www.unite.ai/weird-science-ais-impact-on-animal-research/" target="_blank" rel="noopener noreferrer"><strong>Weird Science: AI’s Impact on Animal Research</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-08_02-26</em></p>
+<p align="center"><em>📅 Published: 2025-05-23_02-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
