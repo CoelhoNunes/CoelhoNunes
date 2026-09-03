@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.efinancialcareers.com/news/how-ai-is-affecting-careers-in-electronic-trading-and-hft" target="_blank" rel="noopener noreferrer"><strong>How AI is changing careers in electronic trading and HFT</strong></a>
+  <a href="https://mugglehead.com/openai-gets-about-us2-91-every-time-chatgpt-is-downloaded/?utm_source=rss&utm_medium=rss&utm_campaign=openai-gets-about-us2-91-every-time-chatgpt-is-downloaded" target="_blank" rel="noopener noreferrer"><strong>OpenAI gets about US$2.91 every time ChatGPT is downloaded</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-07-24_03-27</em></p>
+<p align="center"><em>📅 Published: 2025-08-19_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
