@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://news.emory.edu/stories/2026/04/accuracy-test-protein-language-models-shines-light-ai-black-box" target="_blank" rel="noopener noreferrer"><strong>Accuracy test for protein language models shines light into AI ‘black box’</strong></a>
+  <a href="https://adage.com/opinion/aa-how-mrc-is-developing-ai-standards-for-media-measurement/" target="_blank" rel="noopener noreferrer"><strong>How the MRC is preparing AI standards for media measurement</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-06-17_01-21</em></p>
+<p align="center"><em>📅 Published: 2025-11-01_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
