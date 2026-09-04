@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.unite.ai/weird-science-ais-impact-on-animal-research/" target="_blank" rel="noopener noreferrer"><strong>Weird Science: AI’s Impact on Animal Research</strong></a>
+  <a href="https://techxplore.com/news/2026-08-hardware-aware-framework-large-language.html" target="_blank" rel="noopener noreferrer"><strong>Hardware-aware framework accelerates large language models without additional training</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-23_02-16</em></p>
+<p align="center"><em>📅 Published: 2026-08-08_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
