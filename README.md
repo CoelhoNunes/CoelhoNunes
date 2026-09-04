@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techxplore.com/news/2026-08-hardware-aware-framework-large-language.html" target="_blank" rel="noopener noreferrer"><strong>Hardware-aware framework accelerates large language models without additional training</strong></a>
+  <a href="https://news.emory.edu/stories/2026/04/accuracy-test-protein-language-models-shines-light-ai-black-box" target="_blank" rel="noopener noreferrer"><strong>Accuracy test for protein language models shines light into AI ‘black box’</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-08-08_02-05</em></p>
+<p align="center"><em>📅 Published: 2026-06-17_01-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
