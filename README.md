@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.microsoft.com/en-us/software-development-companies/resources/articles/fine-tuning-in-ai" target="_blank" rel="noopener noreferrer"><strong>What is fine-tuning in AI?</strong></a>
+  <a href="https://techcabal.com/2026/07/09/refiant-ai-launches-10-million-token-ai-model/" target="_blank" rel="noopener noreferrer"><strong>South Africa-founded startup launches AI model with 10 million-token memory</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-07-01_01-16</em></p>
+<p align="center"><em>📅 Published: 2026-07-10_00-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
