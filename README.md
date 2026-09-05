@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.persuasion.community/p/david-bau" target="_blank" rel="noopener noreferrer"><strong>David Bau on How Artificial Intelligence Works</strong></a>
+  <a href="https://www.microsoft.com/en-us/software-development-companies/resources/articles/fine-tuning-in-ai" target="_blank" rel="noopener noreferrer"><strong>What is fine-tuning in AI?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-01_02-05</em></p>
+<p align="center"><em>📅 Published: 2026-07-01_01-16</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
