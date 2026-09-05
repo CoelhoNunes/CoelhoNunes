@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/building-intelligent-ai-voice-agents-with-pipecat-and-amazon-bedrock-part-2/" target="_blank" rel="noopener noreferrer"><strong>Building intelligent AI voice agents with Pipecat and Amazon Bedrock – Part 2</strong></a>
+  <a href="https://www.persuasion.community/p/david-bau" target="_blank" rel="noopener noreferrer"><strong>David Bau on How Artificial Intelligence Works</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-21_02-27</em></p>
+<p align="center"><em>📅 Published: 2025-10-01_02-05</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
