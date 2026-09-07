@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.fiercehealthcare.com/ai-and-machine-learning/openai-launches-chatgpt-clinicians-free-ai-tool-physicians-nps-and" target="_blank" rel="noopener noreferrer"><strong>OpenAI launches ChatGPT for Clinicians, a free AI tool for physicians, NPs and pharmacists</strong></a>
+  <a href="https://www.bbc.com/future/article/20251218-how-ai-can-teach-us-to-really-listen" target="_blank" rel="noopener noreferrer"><strong>They hear, but do they care? What AI can teach us about listening better</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-13_01-06</em></p>
+<p align="center"><em>📅 Published: 2026-01-22_00-40</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
