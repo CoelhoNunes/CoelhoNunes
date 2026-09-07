@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.bbc.com/future/article/20251218-how-ai-can-teach-us-to-really-listen" target="_blank" rel="noopener noreferrer"><strong>They hear, but do they care? What AI can teach us about listening better</strong></a>
+  <a href="https://legal.thomsonreuters.com/blog/reasoning-tool-calling-and-agentic-systems-in-legal-llms/" target="_blank" rel="noopener noreferrer"><strong>Reasoning, tool calling, and agentic systems in legal LLMs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-22_00-40</em></p>
+<p align="center"><em>📅 Published: 2025-06-11_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
