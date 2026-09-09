@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://hackernoon.com/479-blog-posts-to-learn-about-large-language-models" target="_blank" rel="noopener noreferrer"><strong>479 Blog Posts To Learn About Large Language Models</strong></a>
+  <a href="https://www.energy.gov/cet/doe-advancing-ai-innovation-ecosystem" target="_blank" rel="noopener noreferrer"><strong>DOE is Advancing the AI Innovation Ecosystem</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-10_01-08</em></p>
+<p align="center"><em>📅 Published: 2026-04-27_01-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
