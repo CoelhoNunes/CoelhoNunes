@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.openpr.com/news/4198315/generative-ai-emerges-as-the-next-gen-creative-engine-with" target="_blank" rel="noopener noreferrer"><strong>Generative AI emerges as the Next-Gen Creative Engine, with</strong></a>
+  <a href="https://www.bellingcat.com/resources/2026/06/25/how-to-use-ai-to-help-find-civilian-harm-conflict-report-monitor-war-machine-learning-telegram/" target="_blank" rel="noopener noreferrer"><strong>How to Use AI to Help Find Civilian Harm</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-26_01-54</em></p>
+<p align="center"><em>📅 Published: 2026-06-28_01-15</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
