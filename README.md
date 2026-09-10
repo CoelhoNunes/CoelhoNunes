@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/in/artificial-intelligence/natural-language-processing/" target="_blank" rel="noopener noreferrer"><strong>Natural Language Processing: How Machines Read and Write</strong></a>
+  <a href="https://www.nature.com/articles/s44172-025-00517-z" target="_blank" rel="noopener noreferrer"><strong>MechRAG: a multimodal large language model for mechanical engineering</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-30_02-22</em></p>
+<p align="center"><em>📅 Published: 2026-01-25_00-45</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
