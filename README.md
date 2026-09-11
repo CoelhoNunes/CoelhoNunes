@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://embeddedcomputing.com/technology/ai-machine-learning/powering-ai-addressing-the-energy-needs-of-data-centers" target="_blank" rel="noopener noreferrer"><strong>Powering AI: Addressing the Energy Needs of Data Centers</strong></a>
+  <a href="https://www.startuphub.ai/ai-news/ai-video/2026/deconstructing-ai-hype-from-fundamentals-to-generative-models/" target="_blank" rel="noopener noreferrer"><strong>Deconstructing AI Hype From Fundamentals to Generative Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-14_02-02</em></p>
+<p align="center"><em>📅 Published: 2026-01-20_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
