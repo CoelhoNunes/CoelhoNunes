@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.yu.edu/katz/ai/resources/ai-career-paths" target="_blank" rel="noopener noreferrer"><strong>AI Careers: Popular Roles, What They Pay and How to Choose the Right Path</strong></a>
+  <a href="https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319" target="_blank" rel="noopener noreferrer"><strong>A better method for identifying overconfident large language models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-08-08_02-05</em></p>
+<p align="center"><em>📅 Published: 2026-05-18_01-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
