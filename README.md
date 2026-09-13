@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nortonrosefulbright.com/en/knowledge/publications/87200379/practical-commentary-regarding-copyright-and-generative-ai-training" target="_blank" rel="noopener noreferrer"><strong>Practical commentary regarding copyright and generative AI training</strong></a>
+  <a href="https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/" target="_blank" rel="noopener noreferrer"><strong>A fundamental flaw leaves LLMs strikingly vulnerable to attack</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-08_02-28</em></p>
+<p align="center"><em>📅 Published: 2026-08-01_03-36</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
