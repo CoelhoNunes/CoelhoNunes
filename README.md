@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bioengineer.org/new-study-finds-ai-language-models-have-a-basic-understanding-of-the-real-world/" target="_blank" rel="noopener noreferrer"><strong>New Study Finds AI Language Models Have a Basic Understanding of the Real World</strong></a>
+  <a href="https://www.taxnotes.com/tax-notes-live/tax-notes-talk/are-americans-antitax-gap-between-politics-and-self-interest/7tyjl" target="_blank" rel="noopener noreferrer"><strong>Are Americans Antitax? The Gap Between Politics and Self-Interest</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-23_00-58</em></p>
+<p align="center"><em>📅 Published: 2026-02-07_00-44</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
