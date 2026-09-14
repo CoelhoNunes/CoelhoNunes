@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.techbuzz.ai/articles/physical-intelligence-s-0-7-robot-brain-masters-untaught-tasks" target="_blank" rel="noopener noreferrer"><strong>Physical Intelligence's π0.7 Robot Brain Masters Untaught Tasks</strong></a>
+  <a href="https://ojs.aaai.org/index.php/AAAI/issue/view/722" target="_blank" rel="noopener noreferrer"><strong>Vol. 40 No. 40: AAAI-26 Technical Tracks 40</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-18_00-51</em></p>
+<p align="center"><em>📅 Published: 2026-07-23_03-32</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
