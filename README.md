@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41586-025-09962-4" target="_blank" rel="noopener noreferrer"><strong>A benchmark of expert-level academic questions to assess AI capabilities</strong></a>
+  <a href="https://timesofindia.indiatimes.com/education/news/mit-offers-free-ai-learning-courses-check-list-of-beginner-advanced-and-research-focused-programmes/articleshow/128958487.cms" target="_blank" rel="noopener noreferrer"><strong>MIT offers free AI learning courses: Check list of beginner, advanced and research-focused programmes</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-30_17-01</em></p>
+<p align="center"><em>📅 Published: 2026-03-04_00-45</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
