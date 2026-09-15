@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.taxnotes.com/tax-notes-live/tax-notes-talk/are-americans-antitax-gap-between-politics-and-self-interest/7tyjl" target="_blank" rel="noopener noreferrer"><strong>Are Americans Antitax? The Gap Between Politics and Self-Interest</strong></a>
+  <a href="https://www.prnewswire.com/news-releases/broadridge-announces-new-patent-on-large-language-model-orchestration-of-machine-learning-agents-302454711.html" target="_blank" rel="noopener noreferrer"><strong>Broadridge Announces New Patent on Large Language Model Orchestration of Machine Learning Agents</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-07_00-44</em></p>
+<p align="center"><em>📅 Published: 2025-05-24_16-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
