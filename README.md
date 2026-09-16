@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/separating-intelligence" target="_blank" rel="noopener noreferrer"><strong>On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment</strong></a>
+  <a href="https://embeddedcomputing.com/technology/ai-machine-learning/advantech-to-demonstrate-robotics-healthcare-and-retail-edge-ai-at-nvidia-gtc-2026" target="_blank" rel="noopener noreferrer"><strong>Advantech to Demonstrate Robotics, Healthcare, and Retail Edge AI at NVIDIA GTC 2026</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-05_00-47</em></p>
+<p align="center"><em>📅 Published: 2026-03-19_00-49</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
