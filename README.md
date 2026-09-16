@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://embeddedcomputing.com/technology/ai-machine-learning/advantech-to-demonstrate-robotics-healthcare-and-retail-edge-ai-at-nvidia-gtc-2026" target="_blank" rel="noopener noreferrer"><strong>Advantech to Demonstrate Robotics, Healthcare, and Retail Edge AI at NVIDIA GTC 2026</strong></a>
+  <a href="https://www.bbc.co.uk/teach/articles/z92246f" target="_blank" rel="noopener noreferrer"><strong>The BBC Bitesize Guide to AI - How to use it in the classroom - A teacher's guide</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-19_00-49</em></p>
+<p align="center"><em>📅 Published: 2025-11-11_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
