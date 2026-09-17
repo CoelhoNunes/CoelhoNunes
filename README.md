@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.bbc.co.uk/teach/articles/z92246f" target="_blank" rel="noopener noreferrer"><strong>The BBC Bitesize Guide to AI - How to use it in the classroom - A teacher's guide</strong></a>
+  <a href="https://finance.biggo.com/news/c3012a80-ca53-4282-bfe5-6f4a0ffaa738" target="_blank" rel="noopener noreferrer"><strong>SK Telecom, SK Biopharmaceuticals Use AI to Discover Cancer Drug Candidates, Slashing Research Time by 60%</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-11_02-04</em></p>
+<p align="center"><em>📅 Published: 2026-07-16_00-47</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
