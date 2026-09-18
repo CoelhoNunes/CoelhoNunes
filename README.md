@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ainvest.com/news/ai-driven-revolution-smart-learning-systems-177-8b-opportunity-early-investors-2508/" target="_blank" rel="noopener noreferrer"><strong>The AI-Driven Revolution in Smart Learning Systems: A $177.8B Opportunity for Early Investors</strong></a>
+  <a href="https://www.efinancialcareers.com/news/how-ai-is-affecting-careers-in-electronic-trading-and-hft" target="_blank" rel="noopener noreferrer"><strong>How AI is changing careers in electronic trading and HFT</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-22_02-00</em></p>
+<p align="center"><em>📅 Published: 2026-07-24_03-27</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
