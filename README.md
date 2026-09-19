@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking" target="_blank" rel="noopener noreferrer"><strong>The Case That A.I. Is Thinking</strong></a>
+  <a href="https://towardsdatascience.com/how-to-build-a-neural-machine-translation-system-for-a-low-resource-language/" target="_blank" rel="noopener noreferrer"><strong>How to Build a Neural Machine Translation System for a Low-Resource Language</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-07_02-02</em></p>
+<p align="center"><em>📅 Published: 2026-01-26_00-42</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
