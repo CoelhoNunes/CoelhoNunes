@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.unite.ai/an-introduction-to-vertex-ai/" target="_blank" rel="noopener noreferrer"><strong>An Introduction To Vertex AI</strong></a>
+  <a href="https://www.kdnuggets.com/the-5-free-must-read-books-for-every-llm-engineer" target="_blank" rel="noopener noreferrer"><strong>The 5 FREE Must-Read Books for Every LLM Engineer</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-20_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-12-01_02-31</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
