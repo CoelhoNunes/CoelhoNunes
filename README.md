@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2026/04/15/a-technical-deep-dive-into-the-essential-stages-of-modern-large-language-model-training-alignment-and-deployment/" target="_blank" rel="noopener noreferrer"><strong>A Technical Deep Dive into the Essential Stages of Modern Large Language Model Training, Alignment, and Deployment</strong></a>
+  <a href="https://www.unite.ai/an-introduction-to-vertex-ai/" target="_blank" rel="noopener noreferrer"><strong>An Introduction To Vertex AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-16_00-58</em></p>
+<p align="center"><em>📅 Published: 2026-01-20_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
