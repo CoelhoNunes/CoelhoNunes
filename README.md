@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/insights/artificial-intelligence-trends" target="_blank" rel="noopener noreferrer"><strong>The Top Artificial Intelligence Trends</strong></a>
+  <a href="https://pubs.acs.org/doi/10.1021/acs.chemmater.5c00940?ai=54q&mi=0&af=R" target="_blank" rel="noopener noreferrer"><strong>Multimodal Machine Learning with Large Language Embedding Model for Polymer Property Prediction</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-08_08-35</em></p>
+<p align="center"><em>📅 Published: 2025-09-24_01-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
