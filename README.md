@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://chanzuckerberg.com/blog/rbio-reasoning-ai-model/" target="_blank" rel="noopener noreferrer"><strong>CZI Launches rBio: Reasoning Model Trained on Virtual Cell Simulations</strong></a>
+  <a href="https://www.nature.com/articles/s41562-026-02492-7" target="_blank" rel="noopener noreferrer"><strong>A reporting checklist for large language models in behavioural science</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-27_01-58</em></p>
+<p align="center"><em>📅 Published: 2026-08-18_01-40</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
