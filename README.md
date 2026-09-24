@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.asiaresearchnews.com/content/reliable-material-databases-bridge-ai-and-experimental-led-material-discovery" target="_blank" rel="noopener noreferrer"><strong>Reliable Material Databases Bridge AI- and Experimental-Led Material Discovery</strong></a>
+  <a href="https://9to5mac.com/2025/10/20/whatsapp-bans-ai-chatbots-from-using-its-business-api/" target="_blank" rel="noopener noreferrer"><strong>WhatsApp bans AI chatbots from using its business API</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-10_00-52</em></p>
+<p align="center"><em>📅 Published: 2025-10-21_01-59</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
