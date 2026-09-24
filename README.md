@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://9to5mac.com/2025/10/20/whatsapp-bans-ai-chatbots-from-using-its-business-api/" target="_blank" rel="noopener noreferrer"><strong>WhatsApp bans AI chatbots from using its business API</strong></a>
+  <a href="https://www.ibm.com/think/topics/self-attention" target="_blank" rel="noopener noreferrer"><strong>What is self-attention?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-21_01-59</em></p>
+<p align="center"><em>📅 Published: 2025-06-30_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
