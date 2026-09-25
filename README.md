@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.intuit.com/blog/innovative-thinking/ai-impact-engineering-jobs/" target="_blank" rel="noopener noreferrer"><strong>The Impact of AI on Engineering Jobs</strong></a>
+  <a href="https://spectrum.ieee.org/biochip-organoid-intelligence-ai-processor" target="_blank" rel="noopener noreferrer"><strong>Chips With Neural Tissue Aim to Make AI More Energy Efficient</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-29_01-03</em></p>
+<p align="center"><em>📅 Published: 2025-08-10_02-29</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
