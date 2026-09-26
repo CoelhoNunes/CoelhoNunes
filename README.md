@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.analyticsinsight.net/photo/best-youtube-channels-and-google-courses-for-learning-ai-for-free" target="_blank" rel="noopener noreferrer"><strong>Best YouTube Channels And Google Courses For Learning AI For Free</strong></a>
+  <a href="https://techxplore.com/news/2025-06-lost-middle-llm-architecture-ai.html" target="_blank" rel="noopener noreferrer"><strong>Lost in the middle: How LLM architecture and training data shape AI's position bias</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-31_03-17</em></p>
+<p align="center"><em>📅 Published: 2025-06-18_02-06</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
