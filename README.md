@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://theaiinsider.tech/2025/10/06/how-will-ai-reshape-financial-modeling-researchers-explore-what-happens-when-theory-meets-machine-learning/" target="_blank" rel="noopener noreferrer"><strong>How Will AI Reshape Financial Modeling? Researchers Explore What Happens When Theory Meets Machine Learning</strong></a>
+  <a href="https://www.analyticsinsight.net/photo/best-youtube-channels-and-google-courses-for-learning-ai-for-free" target="_blank" rel="noopener noreferrer"><strong>Best YouTube Channels And Google Courses For Learning AI For Free</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-07_01-53</em></p>
+<p align="center"><em>📅 Published: 2026-03-31_03-17</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
