@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://eu.36kr.com/en/p/3608026572030976" target="_blank" rel="noopener noreferrer"><strong>2025: 6 Key Insights into the Year of Large Models</strong></a>
+  <a href="https://www.chosun.com/english/world-en/2025/09/17/DXLK4IWL7ZBKTLQ3UNVTIJBT2I/" target="_blank" rel="noopener noreferrer"><strong>Chinese firms commercialize thousands of AI Agents, outpacing U.S. and South Korea</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-24_02-09</em></p>
+<p align="center"><em>📅 Published: 2025-09-17_01-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
