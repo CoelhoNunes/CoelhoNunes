@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://techxplore.com/news/2025-06-lost-middle-llm-architecture-ai.html" target="_blank" rel="noopener noreferrer"><strong>Lost in the middle: How LLM architecture and training data shape AI's position bias</strong></a>
+  <a href="https://eu.36kr.com/en/p/3608026572030976" target="_blank" rel="noopener noreferrer"><strong>2025: 6 Key Insights into the Year of Large Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-18_02-06</em></p>
+<p align="center"><em>📅 Published: 2025-12-24_02-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
