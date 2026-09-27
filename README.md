@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.analyticsinsight.net/biography/avinash-k-mallik" target="_blank" rel="noopener noreferrer"><strong>Avinash K Mallik</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1472411/full" target="_blank" rel="noopener noreferrer"><strong>The sociolinguistic foundations of language modeling</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-25_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-09-21_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
