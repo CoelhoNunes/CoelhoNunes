@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.thisdaylive.com/2026/07/17/assessing-impact-of-ai-on-estate-surveying-and-valuation-practice-in-nigeria/" target="_blank" rel="noopener noreferrer"><strong>Assessing Impact of AI on Estate Surveying and Valuation Practice in Nigeria</strong></a>
+  <a href="https://analyticsindiamag.com/ai-trends/10-best-ai-courses-in-2025/" target="_blank" rel="noopener noreferrer"><strong>10 Best AI Courses in 2025: Programs That Bridge Theory and Real-World Application | AIM</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-07-18_00-45</em></p>
+<p align="center"><em>📅 Published: 2025-10-24_01-53</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
