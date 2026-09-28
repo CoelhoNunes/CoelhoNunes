@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1472411/full" target="_blank" rel="noopener noreferrer"><strong>The sociolinguistic foundations of language modeling</strong></a>
+  <a href="https://www.thisdaylive.com/2026/07/17/assessing-impact-of-ai-on-estate-surveying-and-valuation-practice-in-nigeria/" target="_blank" rel="noopener noreferrer"><strong>Assessing Impact of AI on Estate Surveying and Valuation Practice in Nigeria</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-21_02-03</em></p>
+<p align="center"><em>📅 Published: 2026-07-18_00-45</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
