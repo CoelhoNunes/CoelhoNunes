@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://analyticsindiamag.com/ai-trends/10-best-ai-courses-in-2025/" target="_blank" rel="noopener noreferrer"><strong>10 Best AI Courses in 2025: Programs That Bridge Theory and Real-World Application | AIM</strong></a>
+  <a href="https://www.hackster.io/news/axelera-ai-unveils-the-metis-m-2-max-a-higher-performance-accelerator-tuned-for-llms-and-vlms-146038cada83" target="_blank" rel="noopener noreferrer"><strong>Axelera AI Unveils the Metis M.2 Max, a Higher-Performance Accelerator Tuned for LLMs and VLMs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-24_01-53</em></p>
+<p align="center"><em>📅 Published: 2025-09-10_01-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
