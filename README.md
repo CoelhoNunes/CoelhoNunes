@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.unite.ai/best-large-language-models-llms/" target="_blank" rel="noopener noreferrer"><strong>5 Best Large Language Models (LLMs) in May 2025</strong></a>
+  <a href="https://www.nature.com/articles/s41524-026-01966-6" target="_blank" rel="noopener noreferrer"><strong>aLLoyM: a large language model for alloy phase diagram prediction</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-30_16-38</em></p>
+<p align="center"><em>📅 Published: 2026-06-01_01-20</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
