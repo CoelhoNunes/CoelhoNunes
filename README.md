@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41524-026-01966-6" target="_blank" rel="noopener noreferrer"><strong>aLLoyM: a large language model for alloy phase diagram prediction</strong></a>
+  <a href="https://markets.financialcontent.com/wral/article/tokenring-2025-12-2-quantum-computing-the-missing-key-unlocking-ais-next-frontier" target="_blank" rel="noopener noreferrer"><strong>Quantum Computing: The Missing Key Unlocking AI’s Next Frontier</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-06-01_01-20</em></p>
+<p align="center"><em>📅 Published: 2025-12-05_02-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
