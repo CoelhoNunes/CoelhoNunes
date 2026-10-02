@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1691074/full" target="_blank" rel="noopener noreferrer"><strong>Private speech: similarities between a large language model and children</strong></a>
+  <a href="https://www.taxnotes.com/lr/resolve/tax-notes-live/from-lisbon-the-search-for-consensus-on-international-tax/7tb3q" target="_blank" rel="noopener noreferrer"><strong>From Lisbon: The Search for Consensus on International Tax</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-07-11_00-48</em></p>
+<p align="center"><em>📅 Published: 2025-11-27_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
