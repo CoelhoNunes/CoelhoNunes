@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://timesofindia.indiatimes.com/education/news/iit-bombay-introduces-new-e-pg-diploma-in-computer-science-and-ai-with-generative-ai-and-llm-modules/articleshow/133346257.cms" target="_blank" rel="noopener noreferrer"><strong>IIT Bombay introduces new e-PG Diploma in Computer Science and AI with Generative AI and LLM modules</strong></a>
+  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1691074/full" target="_blank" rel="noopener noreferrer"><strong>Private speech: similarities between a large language model and children</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-08-20_01-41</em></p>
+<p align="center"><em>📅 Published: 2026-07-11_00-48</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
