@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/topics/llm-training" target="_blank" rel="noopener noreferrer"><strong>What Is LLM Training?</strong></a>
+  <a href="https://timesofindia.indiatimes.com/education/news/iit-bombay-introduces-new-e-pg-diploma-in-computer-science-and-ai-with-generative-ai-and-llm-modules/articleshow/133346257.cms" target="_blank" rel="noopener noreferrer"><strong>IIT Bombay introduces new e-PG Diploma in Computer Science and AI with Generative AI and LLM modules</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-18_01-10</em></p>
+<p align="center"><em>📅 Published: 2026-08-20_01-41</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
