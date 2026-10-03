@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/publicsector/gamification-accelerating-generative-ai-and-cloud-skills-development/" target="_blank" rel="noopener noreferrer"><strong>Gamification: Accelerating generative AI and cloud skills development</strong></a>
+  <a href="https://www.marktechpost.com/2024/12/19/google-deepmind-introduces-salt-a-machine-learning-approach-to-efficiently-train-high-performing-large-language-models-using-slms/" target="_blank" rel="noopener noreferrer"><strong>Google DeepMind Introduces ‘SALT’: A Machine Learning Approach to Efficiently Train High-Performing Large Language Models using SLMs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-18_00-47</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_02-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
