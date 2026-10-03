@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.taxnotes.com/lr/resolve/tax-notes-live/from-lisbon-the-search-for-consensus-on-international-tax/7tb3q" target="_blank" rel="noopener noreferrer"><strong>From Lisbon: The Search for Consensus on International Tax</strong></a>
+  <a href="https://aws.amazon.com/blogs/publicsector/gamification-accelerating-generative-ai-and-cloud-skills-development/" target="_blank" rel="noopener noreferrer"><strong>Gamification: Accelerating generative AI and cloud skills development</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-27_02-02</em></p>
+<p align="center"><em>📅 Published: 2026-02-18_00-47</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
