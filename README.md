@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://community.nasscom.in/communities/ai/ai-development-building-intelligent-solutions-modern-businesses" target="_blank" rel="noopener noreferrer"><strong>AI Development: Building Intelligent Solutions for Modern Businesses</strong></a>
+  <a href="https://law.yale.edu/yls-today/news/charting-new-courses-artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>Charting New Courses in Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-08-18_01-40</em></p>
+<p align="center"><em>📅 Published: 2025-10-13_02-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
