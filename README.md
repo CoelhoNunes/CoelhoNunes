@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://law.yale.edu/yls-today/news/charting-new-courses-artificial-intelligence" target="_blank" rel="noopener noreferrer"><strong>Charting New Courses in Artificial Intelligence</strong></a>
+  <a href="https://www.nature.com/articles/s41598-025-02601-y" target="_blank" rel="noopener noreferrer"><strong>Large language model evaluation in autoimmune disease clinical questions comparing ChatGPT 4o, Claude 3.5 Sonnet and Gemini 1.5 pro</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-13_02-02</em></p>
+<p align="center"><em>📅 Published: 2025-11-26_02-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
