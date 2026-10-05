@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-02601-y" target="_blank" rel="noopener noreferrer"><strong>Large language model evaluation in autoimmune disease clinical questions comparing ChatGPT 4o, Claude 3.5 Sonnet and Gemini 1.5 pro</strong></a>
+  <a href="https://towardsdatascience.com/how-to-finetune-small-language-models-to-think-with-reinforcement-learning/" target="_blank" rel="noopener noreferrer"><strong>How to Fine-Tune Small Language Models to Think with Reinforcement Learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-26_02-04</em></p>
+<p align="center"><em>📅 Published: 2025-10-06_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
