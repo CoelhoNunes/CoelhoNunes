@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/artificial-intelligence/natural-language-processing/" target="_blank" rel="noopener noreferrer"><strong>Natural Language Processing: How Machines Read and Write</strong></a>
+  <a href="https://www.ibm.com/think/topics/catastrophic-forgetting" target="_blank" rel="noopener noreferrer"><strong>What is Catastrophic Forgetting?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-24_01-54</em></p>
+<p align="center"><em>📅 Published: 2025-10-06_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
