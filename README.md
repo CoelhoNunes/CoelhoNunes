@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/topics/catastrophic-forgetting" target="_blank" rel="noopener noreferrer"><strong>What is Catastrophic Forgetting?</strong></a>
+  <a href="https://www.techcircle.in/2026/08/03/how-meesho-is-rewiring-digital-commerce-with-ai-at-its-core" target="_blank" rel="noopener noreferrer"><strong>How Meesho is rewiring digital commerce with AI at its core</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-06_01-56</em></p>
+<p align="center"><em>📅 Published: 2026-08-04_03-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
