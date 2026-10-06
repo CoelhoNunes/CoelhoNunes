@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.techcircle.in/2026/08/03/how-meesho-is-rewiring-digital-commerce-with-ai-at-its-core" target="_blank" rel="noopener noreferrer"><strong>How Meesho is rewiring digital commerce with AI at its core</strong></a>
+  <a href="https://www.marktechpost.com/2026/04/12/minimax-releases-mmx-cli-a-command-line-interface-that-gives-ai-agents-native-access-to-image-video-speech-music-vision-and-search/" target="_blank" rel="noopener noreferrer"><strong>MiniMax Releases MMX-CLI: A Command-Line Interface That Gives AI Agents Native Access to Image, Video, Speech, Music, Vision, and Search</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-08-04_03-22</em></p>
+<p align="center"><em>📅 Published: 2026-04-14_00-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
