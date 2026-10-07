@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/a-brief-history-of-gpt-through-papers/" target="_blank" rel="noopener noreferrer"><strong>A Brief History of GPT Through Papers</strong></a>
+  <a href="https://www.kdnuggets.com/7-tiny-ai-models-for-raspberry-pi" target="_blank" rel="noopener noreferrer"><strong>7 Tiny AI Models for Raspberry Pi</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-30_01-51</em></p>
+<p align="center"><em>📅 Published: 2026-03-30_03-27</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
