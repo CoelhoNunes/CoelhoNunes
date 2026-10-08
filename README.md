@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/d41586-026-00820-5" target="_blank" rel="noopener noreferrer"><strong>‘World models’ are AI’s latest sensation: what are they and what can they do?</strong></a>
+  <a href="https://www.startuphub.ai/ai-news/ai-video/2025/deepseek-v3-2-open-source-ai-achieves-gold-medal-reasoning-prowess/" target="_blank" rel="noopener noreferrer"><strong>DeepSeek V3.2: Open-Source AI Achieves Gold-Medal Reasoning Prowess</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-06-26_01-13</em></p>
+<p align="center"><em>📅 Published: 2025-12-04_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
