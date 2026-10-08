@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.startuphub.ai/ai-news/ai-video/2025/deepseek-v3-2-open-source-ai-achieves-gold-medal-reasoning-prowess/" target="_blank" rel="noopener noreferrer"><strong>DeepSeek V3.2: Open-Source AI Achieves Gold-Medal Reasoning Prowess</strong></a>
+  <a href="https://hai.stanford.edu/news/brain-machine-unexpected-journey-neural-networks" target="_blank" rel="noopener noreferrer"><strong>From Brain to Machine: The Unexpected Journey of Neural Networks</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-04_02-07</em></p>
+<p align="center"><em>📅 Published: 2025-09-30_01-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
