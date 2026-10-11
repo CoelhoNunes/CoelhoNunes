@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/overcoming-reward-signal-challenges-verifiable-rewards-based-reinforcement-learning-with-grpo-on-sagemaker-ai/" target="_blank" rel="noopener noreferrer"><strong>Overcoming reward signal challenges: Verifiable rewards-based reinforcement learning with GRPO on SageMaker AI</strong></a>
+  <a href="https://www.worldfinance.com/markets/exploring-ais-influence-on-market-dynamics" target="_blank" rel="noopener noreferrer"><strong>Exploring AI’s influence on market dynamics</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-08_01-03</em></p>
+<p align="center"><em>📅 Published: 2025-08-15_02-10</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
