@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.techtarget.com/whatis/feature/Foundation-models-explained-Everything-you-need-to-know" target="_blank" rel="noopener noreferrer"><strong>Foundation Models Explained: Everything You Need to Know</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/overcoming-reward-signal-challenges-verifiable-rewards-based-reinforcement-learning-with-grpo-on-sagemaker-ai/" target="_blank" rel="noopener noreferrer"><strong>Overcoming reward signal challenges: Verifiable rewards-based reinforcement learning with GRPO on SageMaker AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-14_02-23</em></p>
+<p align="center"><em>📅 Published: 2026-05-08_01-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
