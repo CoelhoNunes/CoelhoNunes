@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.worldfinance.com/markets/exploring-ais-influence-on-market-dynamics" target="_blank" rel="noopener noreferrer"><strong>Exploring AI’s influence on market dynamics</strong></a>
+  <a href="https://gizmodo.com/ai-agents-are-poised-to-hit-a-mathematical-wall-study-finds-2000713493" target="_blank" rel="noopener noreferrer"><strong>AI Agents Are Poised to Hit a Mathematical Wall, Study Finds</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-15_02-10</em></p>
+<p align="center"><em>📅 Published: 2026-01-24_00-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
