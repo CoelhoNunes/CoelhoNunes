@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.simplilearn.com/artificial-intelligence-ai-terms-article" target="_blank" rel="noopener noreferrer"><strong>AI Terms Guide: From Neural Networks to Machine Learning</strong></a>
+  <a href="https://ai-scholar.tech/en/articles/others%2Funifiedcrawl" target="_blank" rel="noopener noreferrer"><strong>UnifiedCrawl: A New Approach to Low-Resource Language Data Collection and Efficient LLM Adaptation</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-12_02-11</em></p>
+<p align="center"><em>📅 Published: 2025-07-07_02-20</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
