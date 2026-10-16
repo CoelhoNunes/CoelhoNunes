@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/695144/ai-stocks-worth-adding-to-your-portfolio-for-healthy-returns/" target="_blank" rel="noopener noreferrer"><strong>AI Stocks Worth Adding to Your Portfolio for Healthy Returns</strong></a>
+  <a href="https://www.kdnuggets.com/kaggle-googles-free-5-day-gen-ai-course" target="_blank" rel="noopener noreferrer"><strong>Kaggle + Google’s Free 5-Day Gen AI Course</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-12_00-41</em></p>
+<p align="center"><em>📅 Published: 2026-04-10_00-52</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
