@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.tennessean.com/story/money/business/2026/04/10/work-office-ai-technology-data-pattern-recognition/89521450007/" target="_blank" rel="noopener noreferrer"><strong>AI is reshaping how work gets done by recognizing patterns | Opinion</strong></a>
+  <a href="https://www.telecomreviewafrica.com/articles/reports-and-coverage/13461-artificial-intelligence-in-telecoms-beyond-the-hype/" target="_blank" rel="noopener noreferrer"><strong>Artificial Intelligence in Telecoms Beyond the Hype</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-11_00-50</em></p>
+<p align="center"><em>📅 Published: 2025-12-11_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
