@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.kdnuggets.com/kaggle-googles-free-5-day-gen-ai-course" target="_blank" rel="noopener noreferrer"><strong>Kaggle + Google’s Free 5-Day Gen AI Course</strong></a>
+  <a href="https://www.gonzaga.edu/news-events/stories/the-ai-skills-employers-want" target="_blank" rel="noopener noreferrer"><strong>The AI Skills Employers Want</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-10_00-52</em></p>
+<p align="center"><em>📅 Published: 2026-10-08_05-42</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
