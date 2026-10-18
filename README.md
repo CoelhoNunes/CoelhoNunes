@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41598-025-24725-x" target="_blank" rel="noopener noreferrer"><strong>Reconstructing impaired language using generative AI for people with aphasia</strong></a>
+  <a href="https://vocal.media/futurism/the-mind-of-the-machine-inside-the-world-of-generative-ai-5y11j0ie8" target="_blank" rel="noopener noreferrer"><strong>The Mind of the Machine: Inside the World of Generative AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-19_00-49</em></p>
+<p align="center"><em>📅 Published: 2026-03-07_00-44</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
