@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.kdnuggets.com/wtf-is-language-model-quantization" target="_blank" rel="noopener noreferrer"><strong>WTF is Language Model Quantization?!?</strong></a>
+  <a href="https://www.nature.com/articles/s41598-025-24725-x" target="_blank" rel="noopener noreferrer"><strong>Reconstructing impaired language using generative AI for people with aphasia</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-19_16-18</em></p>
+<p align="center"><em>📅 Published: 2026-03-19_00-49</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
