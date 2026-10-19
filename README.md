@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.newindianexpress.com/states/odisha/2025/Jun/08/silver-age-hosts-ai-masterclass-for-senior-citizens-in-bhubaneswar" target="_blank" rel="noopener noreferrer"><strong>Silver Age hosts AI masterclass for senior citizens in Bhubaneswar</strong></a>
+  <a href="https://www.einpresswire.com/article/945702422/new-book-ai-made-simple-makes-artificial-intelligence-easier-to-understand-for-everyone" target="_blank" rel="noopener noreferrer"><strong>New Book 'AI Made Simple' Makes Artificial Intelligence Easier to Understand for Everyone</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-08_08-35</em></p>
+<p align="center"><em>📅 Published: 2026-09-29_05-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
