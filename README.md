@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-56573-8" target="_blank" rel="noopener noreferrer"><strong>Artificial intelligence for modeling and understanding extreme weather and climate events</strong></a>
+  <a href="https://www.analyticsinsight.net/artificial-intelligence/best-university-level-ai-courses-on-youtube-full-playlists" target="_blank" rel="noopener noreferrer"><strong>Best University-Level AI Courses on YouTube (Full Playlists)</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_08-41</em></p>
+<p align="center"><em>📅 Published: 2025-11-24_02-11</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
