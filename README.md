@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.oracle.com/jo/artificial-intelligence/what-is-natural-language-processing/" target="_blank" rel="noopener noreferrer"><strong>Natural Language Processing: How Machines Read and Write</strong></a>
+  <a href="https://news.mit.edu/2025/smarter-way-large-language-models-think-about-hard-problems-1204" target="_blank" rel="noopener noreferrer"><strong>A smarter way for large language models to think about hard problems</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-05_00-47</em></p>
+<p align="center"><em>📅 Published: 2025-12-06_02-01</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
