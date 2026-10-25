@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://particle.scitech.org.au/tech/101-what-is-ai-really/" target="_blank" rel="noopener noreferrer"><strong>101: What is AI, really?</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-document-processing-with-generative-ai-on-aws/" target="_blank" rel="noopener noreferrer"><strong>Accelerate intelligent document processing with generative AI on AWS</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-04_01-51</em></p>
+<p align="center"><em>📅 Published: 2025-08-23_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
