@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://builtin.com/articles/ai-hallucinations-worsening-solutions" target="_blank" rel="noopener noreferrer"><strong>AI Hallucinations Are Getting Worse. What Can We Do About It?</strong></a>
+  <a href="https://www.cybersecurity-insiders.com/why-a-manipulated-transformer-can-pose-a-cyber-threat-to-an-ai-model/" target="_blank" rel="noopener noreferrer"><strong>Why a manipulated Transformer can pose a Cyber Threat to an AI Model</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-02_16-41</em></p>
+<p align="center"><em>📅 Published: 2026-03-12_00-41</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
