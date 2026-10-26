@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41467-025-58620-w" target="_blank" rel="noopener noreferrer"><strong>Natural language processing models reveal neural dynamics of human conversation</strong></a>
+  <a href="https://www.technology.org/2026/04/29/otonomii-ai-and-gnn-why-financial-markets-need-more-than-language-models/" target="_blank" rel="noopener noreferrer"><strong>⚡Otonomii AI and GNN: Why Financial Markets Need More Than Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-01_02-05</em></p>
+<p align="center"><em>📅 Published: 2026-04-30_01-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
