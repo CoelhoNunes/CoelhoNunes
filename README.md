@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.technology.org/2026/04/29/otonomii-ai-and-gnn-why-financial-markets-need-more-than-language-models/" target="_blank" rel="noopener noreferrer"><strong>⚡Otonomii AI and GNN: Why Financial Markets Need More Than Language Models</strong></a>
+  <a href="https://builtin.com/articles/ai-hallucinations-worsening-solutions" target="_blank" rel="noopener noreferrer"><strong>AI Hallucinations Are Getting Worse. What Can We Do About It?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-30_01-03</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_16-41</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
