@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.cybersecurity-insiders.com/why-a-manipulated-transformer-can-pose-a-cyber-threat-to-an-ai-model/" target="_blank" rel="noopener noreferrer"><strong>Why a manipulated Transformer can pose a Cyber Threat to an AI Model</strong></a>
+  <a href="https://quantumzeitgeist.com/ai-machine-learning-repeating-data-improves-reasoning-skills/" target="_blank" rel="noopener noreferrer"><strong>Repeating Data Improves AI Reasoning Skills, Defying Machine Learning Norms</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-12_00-41</em></p>
+<p align="center"><em>📅 Published: 2026-02-18_00-47</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
