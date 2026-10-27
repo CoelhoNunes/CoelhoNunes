@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://quantumzeitgeist.com/ai-machine-learning-repeating-data-improves-reasoning-skills/" target="_blank" rel="noopener noreferrer"><strong>Repeating Data Improves AI Reasoning Skills, Defying Machine Learning Norms</strong></a>
+  <a href="https://www.manilatimes.net/2025/05/19/tmt-newswire/globenewswire/unikie-aims-to-become-the-leading-ai-lab-in-the-nordics-the-company-increases-investments-in-ai-development/2116225" target="_blank" rel="noopener noreferrer"><strong>Unikie aims to become the leading AI Lab in the Nordics: The company increases investments in AI development</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-18_00-47</em></p>
+<p align="center"><em>📅 Published: 2025-05-19_13-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
