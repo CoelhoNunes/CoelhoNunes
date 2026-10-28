@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/how-ai-is-rewriting-the-day-to-day-of-data-scientists/" target="_blank" rel="noopener noreferrer"><strong>How AI Is Rewriting the Day-to-Day of Data Scientists</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/reducing-hallucinations-in-large-language-models-with-custom-intervention-using-amazon-bedrock-agents/" target="_blank" rel="noopener noreferrer"><strong>Reducing hallucinations in large language models with custom intervention using Amazon Bedrock Agents</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-02_00-47</em></p>
+<p align="center"><em>📅 Published: 2025-07-22_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
