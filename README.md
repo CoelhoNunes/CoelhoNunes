@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41599-025-06033-x" target="_blank" rel="noopener noreferrer"><strong>Exploring the impact of artificial intelligence-enhanced language learning on youths’ intercultural communication competence</strong></a>
+  <a href="https://www.darpa.mil/news/2025/energy-aware-machine-learning" target="_blank" rel="noopener noreferrer"><strong>Energy-aware machine learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-11-19_02-02</em></p>
+<p align="center"><em>📅 Published: 2025-09-25_01-55</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
