@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.coursera.org/articles/generative-ai-applications" target="_blank" rel="noopener noreferrer"><strong>20 Examples of Generative AI Applications Across Industries</strong></a>
+  <a href="https://www.darpa.mil/news/2025/energy-aware-machine-learning" target="_blank" rel="noopener noreferrer"><strong>Energy-aware machine learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-07-12_00-52</em></p>
+<p align="center"><em>📅 Published: 2025-09-25_01-55</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
