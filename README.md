@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.darpa.mil/news/2025/energy-aware-machine-learning" target="_blank" rel="noopener noreferrer"><strong>Energy-aware machine learning</strong></a>
+  <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1886876/full" target="_blank" rel="noopener noreferrer"><strong>Governing generative AI in digital education: how institutional guidance becomes course-level policy</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-25_01-55</em></p>
+<p align="center"><em>📅 Published: 2026-09-05_04-04</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
