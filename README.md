@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1886876/full" target="_blank" rel="noopener noreferrer"><strong>Governing generative AI in digital education: how institutional guidance becomes course-level policy</strong></a>
+  <a href="https://www.wolterskluwer.com/en/expert-insights/banking-on-ai-risk-readiness-and-the-next-frontier" target="_blank" rel="noopener noreferrer"><strong>Banking on AI: Risk, readiness, and the next frontier</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-09-05_04-04</em></p>
+<p align="center"><em>📅 Published: 2026-02-20_00-45</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
