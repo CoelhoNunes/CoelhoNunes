@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.wolterskluwer.com/en/expert-insights/banking-on-ai-risk-readiness-and-the-next-frontier" target="_blank" rel="noopener noreferrer"><strong>Banking on AI: Risk, readiness, and the next frontier</strong></a>
+  <a href="https://www.ibm.com/think/insights/ai-and-the-future-of-work" target="_blank" rel="noopener noreferrer"><strong>AI and the Future of Work</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-20_00-45</em></p>
+<p align="center"><em>📅 Published: 2026-03-29_03-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
