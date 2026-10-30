@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.ibm.com/think/insights/ai-and-the-future-of-work" target="_blank" rel="noopener noreferrer"><strong>AI and the Future of Work</strong></a>
+  <a href="https://www.marktechpost.com/2025/08/10/from-100000-to-under-500-labels-how-google-ai-cuts-llm-training-data-by-orders-of-magnitude/" target="_blank" rel="noopener noreferrer"><strong>From 100,000 to Under 500 Labels: How Google AI Cuts LLM Training Data by Orders of Magnitude</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-03-29_03-23</em></p>
+<p align="center"><em>📅 Published: 2025-09-09_01-56</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
