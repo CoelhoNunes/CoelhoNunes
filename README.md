@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/industries/how-netoai-trained-a-telecom-specific-large-language-model-using-amazon-sagemaker-and-aws-trainium/" target="_blank" rel="noopener noreferrer"><strong>How NetoAI trained a Telecom-specific large language model using Amazon SageMaker and AWS Trainium</strong></a>
+  <a href="https://bioengineer.org/ai-learns-art-history-knowledge-graphs-help-machines-link-paintings-to-the-world/" target="_blank" rel="noopener noreferrer"><strong>AI Learns Art History: Knowledge Graphs Help Machines Link Paintings to the World</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-25_01-56</em></p>
+<p align="center"><em>📅 Published: 2026-10-11_05-23</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
