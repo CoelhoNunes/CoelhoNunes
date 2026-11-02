@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://indianexpress.com/article/education/iit-kharagpur-launchs-4-online-executive-courses-ai-machine-learning-tech-leadership-native-software-engineering-llm-online-iitkgp-ac-in-10633633/" target="_blank" rel="noopener noreferrer"><strong>IIT Kharagpur launches 4 online executive courses in AI, machine learning and tech leadership</strong></a>
+  <a href="https://machinelearning.apple.com/research/mlx-distributed-inference" target="_blank" rel="noopener noreferrer"><strong>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-14_00-56</em></p>
+<p align="center"><em>📅 Published: 2026-10-18_04-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
