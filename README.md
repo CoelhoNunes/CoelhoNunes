@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482525011400" target="_blank" rel="noopener noreferrer"><strong>Can GPT-4 provide human-level emotion support? Insights from machine learning-based evaluation framework</strong></a>
+  <a href="https://www.devdiscourse.com/article/technology/3848841-from-speed-to-intelligence-6g-networks-will-be-powered-by-ai-brains" target="_blank" rel="noopener noreferrer"><strong>From speed to intelligence: 6G networks will be powered by AI brains</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-01_02-13</em></p>
+<p align="center"><em>📅 Published: 2026-03-27_03-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
