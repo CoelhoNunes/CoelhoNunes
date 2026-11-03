@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41541-025-01258-y" target="_blank" rel="noopener noreferrer"><strong>AI-driven epitope prediction: a systematic review, comparative analysis, and practical guide for vaccine development</strong></a>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482525011400" target="_blank" rel="noopener noreferrer"><strong>Can GPT-4 provide human-level emotion support? Insights from machine learning-based evaluation framework</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-10-23_01-57</em></p>
+<p align="center"><em>📅 Published: 2025-09-01_02-13</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
