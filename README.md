@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/stories/2025/llms-across-industries" target="_blank" rel="noopener noreferrer"><strong>LLMs Across Industries: Recent Research on Large Language Models</strong></a>
+  <a href="https://yalereview.org/article/melanie-mitchell-jagged-intelligence" target="_blank" rel="noopener noreferrer"><strong>Melanie Mitchell: The Dangerous Unknowns at the Heart of LLMs</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-07_02-18</em></p>
+<p align="center"><em>📅 Published: 2026-07-17_00-49</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
