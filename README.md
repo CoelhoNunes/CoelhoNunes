@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://yalereview.org/article/melanie-mitchell-jagged-intelligence" target="_blank" rel="noopener noreferrer"><strong>Melanie Mitchell: The Dangerous Unknowns at the Heart of LLMs</strong></a>
+  <a href="https://machinelearning.apple.com/research/llm-translation-quality-annotation" target="_blank" rel="noopener noreferrer"><strong>Large Language Models for Machine Translation Quality Annotation: Humans and Models Are Both Challenged</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-07-17_00-49</em></p>
+<p align="center"><em>📅 Published: 2026-10-14_04-33</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
