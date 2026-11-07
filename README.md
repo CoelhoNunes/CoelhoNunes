@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1758852/full" target="_blank" rel="noopener noreferrer"><strong>Multimodal graph neural network with large language models for node and link prediction</strong></a>
+  <a href="https://timesofindia.indiatimes.com/blogs/data-science-vibes/learning-generative-ai-is-not-the-first-step-of-learning-generative-ai/" target="_blank" rel="noopener noreferrer"><strong>Learning Generative AI is not the first step of learning Generative AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-06-25_01-11</em></p>
+<p align="center"><em>📅 Published: 2026-04-28_01-02</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
