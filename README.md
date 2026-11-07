@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/05/31/this-ai-paper-from-microsoft-introduces-wina-a-training-free-sparse-activation-framework-for-efficient-large-language-model-inference/" target="_blank" rel="noopener noreferrer"><strong>This AI Paper from Microsoft Introduces WINA: A Training-Free Sparse Activation Framework for Efficient Large Language Model Inference</strong></a>
+  <a href="https://www.mtu.edu/computing/ai/" target="_blank" rel="noopener noreferrer"><strong>What is Artificial intelligence (AI)?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-03_08-41</em></p>
+<p align="center"><em>📅 Published: 2025-08-18_02-22</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
