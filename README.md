@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://timesofindia.indiatimes.com/blogs/data-science-vibes/learning-generative-ai-is-not-the-first-step-of-learning-generative-ai/" target="_blank" rel="noopener noreferrer"><strong>Learning Generative AI is not the first step of learning Generative AI</strong></a>
+  <a href="https://phys.org/news/2025-08-geometry-physics-feature-deep-neural.html" target="_blank" rel="noopener noreferrer"><strong>Using geometry and physics to explain feature learning in deep neural networks</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-04-28_01-02</em></p>
+<p align="center"><em>📅 Published: 2025-08-11_02-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
