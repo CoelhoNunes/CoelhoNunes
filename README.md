@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://phys.org/news/2025-08-geometry-physics-feature-deep-neural.html" target="_blank" rel="noopener noreferrer"><strong>Using geometry and physics to explain feature learning in deep neural networks</strong></a>
+  <a href="https://www.nature.com/articles/s41524-026-01966-6" target="_blank" rel="noopener noreferrer"><strong>aLLoyM: a large language model for alloy phase diagram prediction</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-11_02-25</em></p>
+<p align="center"><em>📅 Published: 2026-06-01_01-20</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
