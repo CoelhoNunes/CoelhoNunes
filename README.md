@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41524-026-01966-6" target="_blank" rel="noopener noreferrer"><strong>aLLoyM: a large language model for alloy phase diagram prediction</strong></a>
+  <a href="https://www.oracle.com/artificial-intelligence/natural-language-processing/" target="_blank" rel="noopener noreferrer"><strong>Natural Language Processing: How Machines Read and Write</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-06-01_01-20</em></p>
+<p align="center"><em>📅 Published: 2025-09-24_01-54</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
