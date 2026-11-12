@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://finance.yahoo.com/news/billionaires-buying-2-artificial-intelligence-071500712.html" target="_blank" rel="noopener noreferrer"><strong>Billionaires Are Buying 2 Artificial Intelligence (AI) Stocks That Wall Street Analysts Say Can Soar Up to 240%</strong></a>
+  <a href="https://www.nature.com/articles/s41599-025-04633-1" target="_blank" rel="noopener noreferrer"><strong>Interpreting text corpora from androids-related stories using large language models: “Machines like me” by Ian McEwan in generative AI | Humanities and Social Sciences Communications</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-31_16-37</em></p>
+<p align="center"><em>📅 Published: 2025-06-03_02-19</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
