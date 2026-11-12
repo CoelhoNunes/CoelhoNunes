@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41599-025-04633-1" target="_blank" rel="noopener noreferrer"><strong>Interpreting text corpora from androids-related stories using large language models: “Machines like me” by Ian McEwan in generative AI | Humanities and Social Sciences Communications</strong></a>
+  <a href="https://www.docomo.ne.jp/english/info/media_center/pr/2025/1121_00.html" target="_blank" rel="noopener noreferrer"><strong>Press Releases : (Topics) DOCOMO Wins Gold Medal in Kaggle, the World's Largest AI Data Science Competition</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-06-03_02-19</em></p>
+<p align="center"><em>📅 Published: 2026-02-14_00-45</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
