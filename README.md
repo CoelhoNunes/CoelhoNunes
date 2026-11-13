@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/boosting-your-anomaly-detection-with-llms/" target="_blank" rel="noopener noreferrer"><strong>Boosting Your Anomaly Detection With LLMs</strong></a>
+  <a href="https://www.nature.com/articles/s42003-025-08511-z" target="_blank" rel="noopener noreferrer"><strong>Progress, challenges and future of linguistic neural decoding with deep learning</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-05_01-54</em></p>
+<p align="center"><em>📅 Published: 2025-09-25_01-55</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
