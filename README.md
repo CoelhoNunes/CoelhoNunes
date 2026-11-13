@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s42003-025-08511-z" target="_blank" rel="noopener noreferrer"><strong>Progress, challenges and future of linguistic neural decoding with deep learning</strong></a>
+  <a href="https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/" target="_blank" rel="noopener noreferrer"><strong>Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-09-25_01-55</em></p>
+<p align="center"><em>📅 Published: 2025-10-05_02-03</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
