@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://bioengineer.org/ai-learns-to-summarize-conversations-without-annotated-examples-using-bridge-domains/" target="_blank" rel="noopener noreferrer"><strong>AI Learns to Summarize Conversations Without Annotated Examples Using Bridge Domains</strong></a>
+  <a href="https://quantumzeitgeist.com/heterogeneous-socs-effectively-schedule-real-time-generative-ai-workloads/" target="_blank" rel="noopener noreferrer"><strong>Heterogeneous SoCs Effectively Schedule Real-Time Generative AI Workloads</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-10-13_06-31</em></p>
+<p align="center"><em>📅 Published: 2025-07-24_02-21</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
