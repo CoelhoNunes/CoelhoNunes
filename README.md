@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://quantumzeitgeist.com/heterogeneous-socs-effectively-schedule-real-time-generative-ai-workloads/" target="_blank" rel="noopener noreferrer"><strong>Heterogeneous SoCs Effectively Schedule Real-Time Generative AI Workloads</strong></a>
+  <a href="https://www.nature.com/articles/s41746-025-02113-z" target="_blank" rel="noopener noreferrer"><strong>Reporting guidelines for studies involving generative artificial intelligence applications: what do I use, and when?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-24_02-21</em></p>
+<p align="center"><em>📅 Published: 2026-02-13_00-50</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
