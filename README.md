@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s44387-025-00070-2" target="_blank" rel="noopener noreferrer"><strong>Tool-wielding language model-based agent offers conversational exploration of clinical tabular data</strong></a>
+  <a href="https://research.google/blog/teaching-machines-the-language-of-biology-scaling-large-language-models-for-next-generation-single-cell-analysis/" target="_blank" rel="noopener noreferrer"><strong>Teaching machines the language of biology: Scaling large language models for next-generation single-cell analysis</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-10_00-53</em></p>
+<p align="center"><em>📅 Published: 2025-08-02_02-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
