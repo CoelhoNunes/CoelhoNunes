@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://enews.wvu.edu/articles/2025/07/17/free-wvu-summer-workshops-on-ai-and-digital-health-bio-neuro-inspired-machine-learning-and-related-ai-data-science-literacy-forum" target="_blank" rel="noopener noreferrer"><strong>E-News | Free summer AI workshops available</strong></a>
+  <a href="https://news.mit.edu/2025/large-language-models-reason-about-diverse-data-general-way-0219" target="_blank" rel="noopener noreferrer"><strong>Like human brains, large language models reason about diverse data in a general way</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-07-18_02-22</em></p>
+<p align="center"><em>📅 Published: 2025-05-25_08-35</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
