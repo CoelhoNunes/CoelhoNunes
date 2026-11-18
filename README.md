@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://machinelearning.apple.com/research/mlx-distributed-inference" target="_blank" rel="noopener noreferrer"><strong>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</strong></a>
+  <a href="https://aithority.com/machine-learning/exl-to-acquire-imerit-advancing-its-leadership-in-enterprise-ai-by-adding-foundation-model-expertise-and-technology/" target="_blank" rel="noopener noreferrer"><strong>EXL to acquire iMerit, Advancing Its Leadership in Enterprise AI by Adding Foundation Model Expertise and Technology</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-10-18_04-08</em></p>
+<p align="center"><em>📅 Published: 2026-06-27_01-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
