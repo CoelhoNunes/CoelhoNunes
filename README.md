@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aithority.com/machine-learning/exl-to-acquire-imerit-advancing-its-leadership-in-enterprise-ai-by-adding-foundation-model-expertise-and-technology/" target="_blank" rel="noopener noreferrer"><strong>EXL to acquire iMerit, Advancing Its Leadership in Enterprise AI by Adding Foundation Model Expertise and Technology</strong></a>
+  <a href="https://www.techtarget.com/searchenterpriseai/definition/vision-language-models-VLMs" target="_blank" rel="noopener noreferrer"><strong>What are vision language models (VLMs)?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-06-27_01-09</em></p>
+<p align="center"><em>📅 Published: 2025-05-25_02-25</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
