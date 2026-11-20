@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://cacm.acm.org/news/the-end-of-frozen-llms/" target="_blank" rel="noopener noreferrer"><strong>The End of ‘Frozen’ LLMs?</strong></a>
+  <a href="https://machinelearning.apple.com/research/computational-bottlenecks" target="_blank" rel="noopener noreferrer"><strong>Computational Bottlenecks of Training Small-Scale Large Language Models</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-07-04_00-54</em></p>
+<p align="center"><em>📅 Published: 2025-05-22_08-38</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
