@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.marktechpost.com/2025/05/18/llms-struggle-to-act-on-what-they-know-google-deepmind-researchers-use-reinforcement-learning-fine-tuning-to-bridge-the-knowing-doing-gap/" target="_blank" rel="noopener noreferrer"><strong>LLMs Struggle to Act on What They Know: Google DeepMind Researchers Use Reinforcement Learning Fine-Tuning to Bridge the Knowing-Doing Gap</strong></a>
+  <a href="https://www.nature.com/articles/s41599-025-04850-8" target="_blank" rel="noopener noreferrer"><strong>AI integration in financial services: a systematic review of trends and regulatory challenges</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-23_16-37</em></p>
+<p align="center"><em>📅 Published: 2025-08-02_02-12</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
