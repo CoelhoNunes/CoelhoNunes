@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nature.com/articles/s41599-025-04850-8" target="_blank" rel="noopener noreferrer"><strong>AI integration in financial services: a systematic review of trends and regulatory challenges</strong></a>
+  <a href="https://www.coursera.org/articles/bert-model-video" target="_blank" rel="noopener noreferrer"><strong>Why the BERT Model Is a Game-Changer for Language Models [VIDEO]</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-08-02_02-12</em></p>
+<p align="center"><em>📅 Published: 2026-06-27_01-09</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
