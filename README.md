@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://towardsdatascience.com/how-to-build-a-neural-machine-translation-system-for-a-low-resource-language/" target="_blank" rel="noopener noreferrer"><strong>How to Build a Neural Machine Translation System for a Low-Resource Language</strong></a>
+  <a href="https://www.nature.com/articles/s41598-024-81370-6" target="_blank" rel="noopener noreferrer"><strong>Use of large language models as artificial intelligence tools in academic research and publishing among global clinical researchers</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-26_00-42</em></p>
+<p align="center"><em>📅 Published: 2025-09-29_01-58</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
