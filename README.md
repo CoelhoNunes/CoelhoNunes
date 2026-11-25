@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://quantumzeitgeist.com/the-energy-cost-of-ai-how-machine-learning-is-impacting-the-planet/" target="_blank" rel="noopener noreferrer"><strong>The Energy Cost Of AI, How Machine Learning Is Impacting The Planet</strong></a>
+  <a href="https://www.ibm.com/think/topics/self-supervised-learning" target="_blank" rel="noopener noreferrer"><strong>What Is Self-Supervised Learning?</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-02-04_00-43</em></p>
+<p align="center"><em>📅 Published: 2025-06-02_22-14</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
