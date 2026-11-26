@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://defensescoop.com/2025/12/30/army-artificial-intelligence-officer-career-field-aoc-transfer/" target="_blank" rel="noopener noreferrer"><strong>Army creates AI career field, pathway for officers to join</strong></a>
+  <a href="https://aws.amazon.com/blogs/machine-learning/how-amazon-uses-ai-agents-to-support-compliance-screening-of-billions-of-transactions-per-day/" target="_blank" rel="noopener noreferrer"><strong>How Amazon uses AI agents to support compliance screening of billions of transactions per day | Artificial Intelligence</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-12-31_02-12</em></p>
+<p align="center"><em>📅 Published: 2026-05-26_01-08</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
