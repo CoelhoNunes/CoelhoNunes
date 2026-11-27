@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://aws.amazon.com/blogs/machine-learning/how-amazon-uses-ai-agents-to-support-compliance-screening-of-billions-of-transactions-per-day/" target="_blank" rel="noopener noreferrer"><strong>How Amazon uses AI agents to support compliance screening of billions of transactions per day | Artificial Intelligence</strong></a>
+  <a href="https://www.nucamp.co/blog/top-10-ai-and-machine-learning-bootcamps-in-2026-ranked-by-outcomes" target="_blank" rel="noopener noreferrer"><strong>Top 10 AI and Machine Learning Bootcamps in 2026 (Ranked by Outcomes)</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-05-26_01-08</em></p>
+<p align="center"><em>📅 Published: 2026-01-05_02-30</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
