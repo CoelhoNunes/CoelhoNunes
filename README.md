@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.nucamp.co/blog/top-10-ai-and-machine-learning-bootcamps-in-2026-ranked-by-outcomes" target="_blank" rel="noopener noreferrer"><strong>Top 10 AI and Machine Learning Bootcamps in 2026 (Ranked by Outcomes)</strong></a>
+  <a href="https://www.aboutschwab.com/mss/story/ai-on-the-other-end-of-the-line" target="_blank" rel="noopener noreferrer"><strong>AI on the other end of the line (but you’re not talking to a computer)</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2026-01-05_02-30</em></p>
+<p align="center"><em>📅 Published: 2025-05-31_16-37</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
