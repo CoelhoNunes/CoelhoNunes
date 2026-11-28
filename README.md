@@ -17,10 +17,10 @@
 <!-- START_ML_UPDATE -->
 
 <p align="center">
-  <a href="https://www.aboutschwab.com/mss/story/ai-on-the-other-end-of-the-line" target="_blank" rel="noopener noreferrer"><strong>AI on the other end of the line (but you’re not talking to a computer)</strong></a>
+  <a href="https://analyticsindiamag.com/ai-highlights/indias-100-most-influential-people-in-ai/" target="_blank" rel="noopener noreferrer"><strong>India’s 100 Most Influential People in AI</strong></a>
 </p>
 
-<p align="center"><em>📅 Published: 2025-05-31_16-37</em></p>
+<p align="center"><em>📅 Published: 2025-08-12_02-07</em></p>
 
 <p align="center">
   <sub style="color:#FF4500; font-size:0.8em;">
